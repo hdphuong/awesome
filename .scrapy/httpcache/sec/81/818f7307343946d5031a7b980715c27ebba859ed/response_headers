@@ -1,0 +1,18 @@
+Content-Length: 203
+Content-Type: text/html; charset=UTF-8
+Location: https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition
+X-Ua-Compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=10886400
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Expires: Fri, 01 Apr 2022 07:22:02 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Fri, 01 Apr 2022 07:22:02 GMT
+Set-Cookie: websiteaklang=en-us; expires=Sun, 03-Apr-2022 07:22:02 GMT; path=/; domain=.sophos.com
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=326
+Server-Timing: origin; dur=14
+Edge-Sophos-Cookie-Lang: en-us

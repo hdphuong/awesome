@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: cn_t_sess=%7B%22cid%22%3A%22701164556.1648796300%22%2C%22clickId%22%3Anull%2C%22clickType%22%3Anull%2C%22landingPageUri%22%3A%22https%3A%2F%2Fcybernews.com%2Fsecurity%2Frockyou2021-alltime-largest-password-compilation-leaked%2F%22%2C%22sessionId%22%3A%2247a5109b-65b6-49f8-a3b2-5bdcb842bd27%22%2C%22timeStamp%22%3A1648796300%7D; cn_t_lpref=https%3A%2F%2Fwww.extrahop.com%2F; cn_t_uid=f1af7c36-a6f0-400f-b29c-e810d2a4eeb3; _ga=GA1.2.701164556.1648796300

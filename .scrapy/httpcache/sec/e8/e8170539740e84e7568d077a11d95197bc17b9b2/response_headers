@@ -1,0 +1,17 @@
+Content-Type: text/plain; charset=utf-8
+Date: Fri, 01 Apr 2022 06:58:35 GMT
+Server: nginx
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Cache-Control: max-age=300, must-revalidate
+Last-Modified: Fri, 01 Apr 2022 06:58:35 GMT
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+Host-Header: a9130478a60e5f9135f765b23f26593b
+Link: <https://content.fortune.com/wp-json/>; rel="https://api.w.org/"
+Accept-Ranges: bytes
+X-Rq: dca5 0 2 9980
+Content-Encoding: gzip
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 c7cd0041811f30bfd9c4a00e82b6a3c8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: dATL-RfKRzRgiIkK4R20C7Rilvsmpuw5iop0yuXT1BSiuXH7hesrtw==
+Age: 1107

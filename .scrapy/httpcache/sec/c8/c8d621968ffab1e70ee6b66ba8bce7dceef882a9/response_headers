@@ -1,0 +1,17 @@
+Content-Length: 599
+Content-Type: text/plain; charset=utf-8
+Server: nginx
+Last-Modified: Thu, 26 Nov 2020 11:43:55 GMT
+Etag: W/"5fbf94fb-41f"
+Strict-Transport-Security: max-age=31536000; preload
+Content-Encoding: gzip
+Fastly-Backend-Name: origin
+Accept-Ranges: bytes
+Date: Fri, 01 Apr 2022 07:59:57 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-syd10138-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1648799996.366716,VS0,VE1147
+Vary: Accept-Encoding

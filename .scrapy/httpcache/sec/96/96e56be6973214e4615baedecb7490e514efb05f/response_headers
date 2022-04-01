@@ -1,0 +1,20 @@
+Cache-Control: max-age=604800,private
+Content-Type: text/plain
+Content-Encoding: gzip
+Expires: Fri, 08 Apr 2022 06:48:47 GMT
+Last-Modified: Tue, 29 Mar 2022 21:05:16 GMT
+Etag: W/"6243748c-158a5"
+Set-Cookie: bcookie="v=2&289872d7-c2f3-4350-82ff-a7dc55ef04ec"; domain=.linkedin.com; Path=/; Secure; Expires=Sun, 31-Mar-2024 18:26:19 GMT; SameSite=None
+Set-Cookie: bscookie="v=1&2022040106484700cda7fe-38b6-4f7c-86de-3352cff59deeAQFCVsxxlUpeQaekWGYwAYeLPza-afZv"; domain=.www.linkedin.com; Path=/; Secure; Expires=Sun, 31-Mar-2024 18:26:19 GMT; HttpOnly; SameSite=None
+Expect-Ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src *; connect-src 'self' https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com wss://*.linkedin.com dms.licdn.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ www.google-analytics.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com media.licdn.com media-exp1.licdn.com media-exp2.licdn.com media-exp3.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com https://snap.licdn.com/li.lms-analytics/ platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; report-uri /security/csp?e=p&f=l
+X-Frame-Options: sameorigin
+X-Li-Fabric: prod-ltx1
+X-Li-Pop: afd-prod-ltx1-x
+X-Li-Proto: http/1.1
+X-Li-Uuid: AAXbkiungLdUk7y6CvXRbA==
+X-Cache: CONFIG_NOCACHE
+X-Msedge-Ref: Ref A: 04C0B302BA934603A61EC915BC95D551 Ref B: SYD03EDGE1514 Ref C: 2022-04-01T06:48:47Z
+Date: Fri, 01 Apr 2022 06:48:46 GMT

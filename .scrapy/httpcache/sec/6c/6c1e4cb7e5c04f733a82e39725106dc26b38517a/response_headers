@@ -1,0 +1,14 @@
+Server: nginx
+Date: Fri, 01 Apr 2022 06:58:29 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Cache-Enabled: True
+X-Ua-Compatible: IE=edge
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store
+Link: <https://narrativ.com/wp-json/>; rel="https://api.w.org/"
+X-Httpd-Modphp: 1
+Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+Content-Encoding: gzip

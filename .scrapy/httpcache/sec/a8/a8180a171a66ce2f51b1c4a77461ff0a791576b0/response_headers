@@ -1,0 +1,16 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.nytimes.com/2016/12/29/world/europe/how-russia-recruited-elite-hackers-for-its-cyberwar.html?_r=0&pagewanted=all
+Accept-Ranges: bytes
+Date: Fri, 01 Apr 2022 07:11:55 GMT
+X-Served-By: cache-syd10151-SYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Nyt-App-Webview: 0
+Set-Cookie: nyt-gdpr=0; Expires=Fri, 01 Apr 2022 13:11:55 GMT; Path=/; Domain=.nytimes.com
+X-Gdpr: 0
+X-Frame-Options: DENY
+Onion-Location: https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/2016/12/29/world/europe/how-russia-recruited-elite-hackers-for-its-cyberwar.html?_r=0&pagewanted=all
+X-Api-Version: F-0
+X-Nyt-Edge-Cache: HIT

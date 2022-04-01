@@ -1,0 +1,14 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Cache-Control: public, max-age=300
+Location: https://www.cnn.com/robots.txt
+Accept-Ranges: bytes
+Date: Fri, 01 Apr 2022 08:08:46 GMT
+Via: 1.1 varnish
+Set-Cookie: countryCode=AU; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: stateCode=NSW; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: geoData=kellyville|NSW|2155|AU|OC|1100|broadband|-33.710|150.980; Domain=.cnn.com; Path=/; SameSite=None; Secure
+X-Served-By: cache-syd10157-SYD
+X-Cache: HIT
+X-Cache-Hits: 0

@@ -1,0 +1,17 @@
+Content-Length: 554
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Type: text/plain
+Paypal-Debug-Id: f842111f5f5ff
+Dc: ccg11-origin-www-1.paypal.com
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 01 Apr 2022 07:14:05 GMT
+Via: 1.1 varnish
+Age: 57363
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Served-By: cache-syd10147-SYD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1648797246.752046,VS0,VE2
+Vary: Accept-Encoding
+Server-Timing: content-encoding;desc="gzip",x-cdn;desc="fastly"

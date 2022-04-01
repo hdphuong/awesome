@@ -1,0 +1,13 @@
+Content-Length: 67
+Content-Type: text/plain; charset=utf-8
+X-Vercel-Id: syd1:syd1:syd1:syd1::v6gm4-1648797387212-3048ef1f7a8e
+Content-Disposition: inline; filename="robots.txt"
+Accept-Ranges: bytes
+X-Vercel-Cache: HIT
+Date: Fri, 01 Apr 2022 07:16:27 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Age: 31696
+Etag: W/"90d24bc3bf698ac1e173739502298ccca72adf1f564fab05f484b8c48d1cadd2"
+Access-Control-Allow-Origin: *

@@ -1,0 +1,24 @@
+Content-Length: 158
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Location: https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks
+X-Activity-Id: 07101435-1787-4e4d-8f4f-de771dc8cd51
+Ms-Cv: LHjaUnqbc0CG2mi7.0
+X-Appversion: 1.0.8104.38482
+X-Az: {did:92e7dc58ca2143cfb2c818b047cc5cd1, rid: OneDeployContainer, sn: marketingsites-prod-odeastasia, dt: 2018-05-03T20:14:23.4188992Z, bt: 2022-03-11T06:22:44.0000000Z}
+Ms-Operation-Id: f5e8d73bf4dddc489f68bbe1f34292b4
+P3P: CP="CAO CONi OTR OUR DEM ONL"
+X-Ua-Compatible: IE=Edge;chrome=1
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Methods: HEAD,GET,POST,PATCH,PUT,OPTIONS
+X-Xss-Protection: 1; mode=block
+Expires: Fri, 01 Apr 2022 07:11:55 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 01 Apr 2022 07:11:55 GMT
+Vary: Accept-Encoding
+Set-Cookie: X-FD-FEATURES=ids=14715c%2c15810c%2catperf680t2%2c11304caa%2ctasmigration010%2ccartemberpl%2cdisablenorefunds%2cdaconvertenabled%2cenablescarlettmetadata%2credirecttogarrison%2csha-exp-inlyi9j7ql%2cenablesaturn%2cdisableapprestore&imp=4f212687-ca6f-44c9-8e07-d763dd0847d5; expires=Sat, 01-Apr-2023 07:11:55 GMT; path=/; secure; HttpOnly
+Set-Cookie: X-FD-Time=1; expires=Fri, 01-Apr-2022 07:16:55 GMT; path=/;SameSite=None; secure; HttpOnly
+Tls_Version: tls1.3
+Strict-Transport-Security: max-age=31536000
+X-Rtag: RT

@@ -1,0 +1,16 @@
+Content-Length: 148
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Timing-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: cafe
+X-Xss-Protection: 0
+Date: Thu, 31 Mar 2022 20:37:54 GMT
+Expires: Fri, 01 Apr 2022 20:37:54 GMT
+Cache-Control: public, max-age=86400
+Age: 38022
+Etag: 7747647697524736347
+Content-Type: text/plain; charset=UTF-8
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

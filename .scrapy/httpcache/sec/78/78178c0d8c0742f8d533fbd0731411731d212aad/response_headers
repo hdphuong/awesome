@@ -1,0 +1,23 @@
+Date: Fri, 01 Apr 2022 06:58:55 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://news.microsoft.com/zh-hk/wp-json/>; rel="https://api.w.org/"
+Link: <https://news.microsoft.com/zh-hk/wp-json/wp/v2/pages/26860>; rel="alternate"; type="application/json"
+Link: <https://news.microsoft.com/zh-hk/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+X-Xss-Protection: 1; mode=block
+Feature-Policy: geolocation 'none';midi 'none';notifications 'none';push 'none';sync-xhr 'none';microphone 'none';camera 'none';magnetometer 'none';gyroscope 'none';speaker 'self';vibrate 'none';payment 'none';
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f4f7061693b16b5-SYD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

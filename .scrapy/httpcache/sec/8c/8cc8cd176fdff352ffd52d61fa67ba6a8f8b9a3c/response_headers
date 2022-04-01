@@ -1,0 +1,27 @@
+Content-Length: 60683
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+Set-Cookie: userInfo=%7b%22guid%22%3a%220d045a9686b64a179ddddee9f92be781%22%7d; expires=Sat, 01-Apr-2023 06:58:39 GMT; path=/; secure
+Azure-Version: 20220329-1400-301531
+Azure-Sitename: acom-prod-australiaeast-02
+Azure-Instanceid: eb4544975ffefeae1ac758c85fdade7e19597b8caae63ed74508cb00a061f414
+Azure-Regionname: Australia East
+Azure-Slotname: production
+Request-Context: appId=cid-v1:271db03b-0de6-4bf7-8ebf-f90dccf4de6b
+Access-Control-Expose-Headers: Request-Context
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Arr-Disable-Session-Affinity: true
+Access-Control-Allow-Methods: GET,HEAD
+Strict-Transport-Security: max-age=31536000
+X-Cache: CONFIG_NOCACHE
+X-Msedge-Flight: acom3=acom3cf
+X-Msedge-Features: acom3cf
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.01,"failure_fraction":1.0}
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://mdec.nelreports.net/api/report?cat=acom"}]}
+X-Msedge-Ref: Ref A: 3B59663E3ECB4784B8A39317152F1F4F Ref B: SYD03EDGE1506 Ref C: 2022-04-01T06:58:39Z
+Date: Fri, 01 Apr 2022 06:58:38 GMT

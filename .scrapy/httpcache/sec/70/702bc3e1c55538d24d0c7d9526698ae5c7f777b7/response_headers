@@ -1,0 +1,13 @@
+Date: Fri, 01 Apr 2022 08:04:07 GMT
+Content-Type: text/html; charset=iso-8859-1
+Location: http://interop.com/robots.txt
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=1209600
+Expires: Fri, 15 Apr 2022 08:04:07 GMT
+X-Varnish: 370502
+Via: 1.1 varnish-v4
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f4fcfe4a9b76a6e-SYD

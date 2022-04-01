@@ -1,0 +1,28 @@
+Date: Fri, 01 Apr 2022 07:11:44 GMT
+Content-Type: text/plain; charset=UTF-8
+Cache-Control: public, max-age=2764800
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+Expires: Tue, 03 May 2022 07:11:44 GMT
+Last-Modified: Thu, 24 Mar 2022 12:58:56 GMT
+Etag: W/"1648126736"
+Vary: Cookie, Accept-Encoding
+Content-Security-Policy: report-uri /report-csp-violation
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Referrer-Policy: strict-origin
+Expect-Ct: max-age=86400
+X-Request-Id: v-2a3f5594-ab72-11ec-b552-cb48d441ee74
+X-Ah-Environment: prod
+Age: 350686
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 52
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=t2U_CveT9A3NSzJNN.Ju9nBU0QsKUSVC5jA_kxu_OGE-1648797104-0-AZMxuwCfJ3d27QrKtK+jjrNxRyKHnWKO9nHCBTN0vkm/LAv8qShvhgawNMsmmt2NDf2s7ujJvQjRjakuk6+9TIs=; path=/; expires=Fri, 01-Apr-22 07:41:44 GMT; domain=.mandiant.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 6f4f832fbecf62bf-SYD
+Content-Encoding: gzip

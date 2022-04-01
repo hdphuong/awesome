@@ -1,0 +1,13 @@
+Date: Fri, 01 Apr 2022 06:48:44 GMT
+Content-Type: text/plain;charset=UTF-8
+Cf-Ray: 6f4f61743aca16c1-SYD
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=30
+Content-Encoding: gzip
+Expires: Fri, 01 Apr 2022 10:48:44 GMT
+Last-Modified: Fri, 01 Apr 2022 01:29:38 GMT
+Vary: Accept-Encoding, Origin
+Cf-Cache-Status: EXPIRED
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Proxy-By: https://www.informationweek.com
+Server: cloudflare

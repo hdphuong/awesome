@@ -1,0 +1,6 @@
+Referer: https://raxis.com/boscloner
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: secure_customer_sig=; localization=US; cart_currency=USD; _y=8591cb01-7f0b-440e-8d71-c608c803ea7d; _s=1cf4be67-33f8-45b5-840c-231d394bb4a6; _shopify_y=8591cb01-7f0b-440e-8d71-c608c803ea7d; _shopify_s=1cf4be67-33f8-45b5-840c-231d394bb4a6

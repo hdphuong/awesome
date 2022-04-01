@@ -1,0 +1,39 @@
+Date: Fri, 01 Apr 2022 06:48:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 77
+X-Sorting-Hat-Shopid: 10908172352
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 01 Apr 2023 06:48:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Fri, 15 Apr 2022 06:48:52 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Fri, 15 Apr 2022 06:48:52 GMT; SameSite=Lax
+Set-Cookie: dynamic_checkout_shown_on_cart=1; path=/; expires=Fri, 01 Apr 2022 07:18:52 GMT; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fraxis.com%2Fboscloner; Expires=Fri, 15-Apr-22 06:48:53 GMT; Domain=boscloner.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Fri, 15-Apr-22 06:48:53 GMT; Domain=boscloner.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _y=8591cb01-7f0b-440e-8d71-c608c803ea7d; Expires=Sat, 01-Apr-23 06:48:53 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _s=1cf4be67-33f8-45b5-840c-231d394bb4a6; Expires=Fri, 01-Apr-22 07:18:53 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=8591cb01-7f0b-440e-8d71-c608c803ea7d; Expires=Sat, 01-Apr-23 06:48:53 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1cf4be67-33f8-45b5-840c-231d394bb4a6; Expires=Fri, 01-Apr-22 07:18:53 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; rel=preconnect; crossorigin
+Etag: cacheable:218b154242a29a3019bbc8fc4e14a198
+X-Alternate-Cache-Key: cacheable:8f52c1a80c8780fc88b26652b73e834a
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10908172352
+X-Shardid: 77
+Vary: Accept
+Content-Language: en
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: c4bf400a-a2f0-4980-a125-bc0bac5f19b5
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f4f61b1de2a62d8-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

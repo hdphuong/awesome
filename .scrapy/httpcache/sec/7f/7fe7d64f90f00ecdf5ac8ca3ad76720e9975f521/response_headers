@@ -1,0 +1,18 @@
+Date: Fri, 01 Apr 2022 06:58:17 GMT
+Content-Type: text/plain
+Cf-Ray: 6f4f6f7c8b86fe68-SYD
+Cache-Control: max-age=14400
+Etag: W/"6242ba5e-9e"
+Last-Modified: Tue, 29 Mar 2022 07:50:54 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Cf-Cache-Status: HIT
+Content-Security-Policy: default-src 'self' https: data: blob: wss://*.hotjar.com;style-src data: blob: https: 'unsafe-inline';script-src https: data: blob: 'unsafe-inline' 'unsafe-eval';img-src 'self' https: data: blob:;worker-src 'self';block-all-mixed-content;upgrade-insecure-requests;
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Referrer-Policy: no-referrer
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

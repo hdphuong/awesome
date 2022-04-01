@@ -1,0 +1,29 @@
+Content-Length: 179
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, X-Requested-With
+Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Request-Context
+Arr-Disable-Session-Affinity: true
+Azure-Instanceid: da0b319a2498e35597b705ca53a7736aa791b04e1d55807322cf19821c3dbfe0
+Azure-Regionname: Australia East
+Azure-Sitename: acom-prod-australiaeast-02
+Azure-Slotname: production
+Azure-Version: 20220329-1400-301531
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Fri, 01 Apr 2022 06:58:52 GMT
+Expires: -1
+Http-Referer: https://azure.microsoft.com/cdn/en-us/cdn/en-us/cdn/en-us/cdn/en-us/cdn/robots.txt/
+Location: /en-us/cdn/en-us/cdn/en-us/cdn/en-us/cdn/en-us/cdn/robots.txt/
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.01,"failure_fraction":1.0}
+Pragma: no-cache
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://mdec.nelreports.net/api/report?cat=acom"}]}
+Request-Context: appId=cid-v1:271db03b-0de6-4bf7-8ebf-f90dccf4de6b
+Server: ECAcc (nwa/E7B9)
+Set-Cookie: MC1=GUID=da64f4eb8f5d4862b27b456c5c87a17b&HASH=da64&LV=202204&V=4&LU=1648796332758; domain=microsoft.com; expires=Sat, 01-Apr-2023 06:58:52 GMT; path=/; secure; SameSite=None
+Set-Cookie: userInfo=%7b%22guid%22%3a%22da64f4eb8f5d4862b27b456c5c87a17b%22%7d; expires=Sat, 01-Apr-2023 06:58:52 GMT; path=/; secure
+Strict-Transport-Security: max-age=31536000
+X-Cache: CONFIG_NOCACHE
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Msedge-Ref: Ref A: 1AF3B392348442BDA0D1BC81A25A59DE Ref B: BNE01EDGE0217 Ref C: 2022-04-01T06:58:52Z

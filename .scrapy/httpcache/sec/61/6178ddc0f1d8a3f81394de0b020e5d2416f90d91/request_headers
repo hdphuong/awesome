@@ -1,0 +1,6 @@
+Referer: https://news.ycombinator.com/
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: _chorus_geoip_continent=OC; vmidv1=2e76da47-18fd-46bb-bdf3-907db519402b

@@ -1,0 +1,14 @@
+Content-Length: 58407
+Content-Type: text/html; charset=UTF-8
+X-Tx-Id: 03ef2782-8d3f-4639-a72a-536c2c7ff8a1
+Last-Modified: Fri, 01 Apr 2022 06:58:40 GMT
+Content-Security-Policy: frame-ancestors 'self' *.cnet.com *.ampproject.org *.amp.cloudflare.com *.bing-amp.com www.google.com; default-src https: blob: about: 'unsafe-inline' 'unsafe-eval' *.rvapps.io wss://*.cnet.com ws://*.cnet.com; font-src https: blob: data:; img-src https: data: blob: android-webview-video-poster: about:; form-action https:; block-all-mixed-content; media-src https: blob: data:;
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: https://www.cnet.com
+Content-Encoding: gzip
+Date: Fri, 01 Apr 2022 06:58:40 GMT
+Cache-Control: max-age=3600, private
+Expires: Fri, 01 Apr 2022 07:58:40 GMT
+Vary: Accept-Encoding, User-Agent
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Accept-Ranges: bytes

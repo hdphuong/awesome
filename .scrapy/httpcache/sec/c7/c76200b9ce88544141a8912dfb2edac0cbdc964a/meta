@@ -1,0 +1,1 @@
+{'url': 'https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-020-2872-x', 'method': 'GET', 'status': 302, 'response_url': 'https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-020-2872-x', 'timestamp': 1648797106.270891}

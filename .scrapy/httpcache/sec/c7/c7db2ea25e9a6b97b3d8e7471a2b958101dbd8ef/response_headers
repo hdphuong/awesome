@@ -1,0 +1,10 @@
+Content-Length: 134
+Content-Type: text/html
+Server: awselb/2.0
+Date: Fri, 01 Apr 2022 06:21:14 GMT
+Location: https://fortune.com:443/robots.txt
+X-Cache: Hit from cloudfront
+Via: 1.1 8008f773a176223da2278b5cb39f91fa.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: qZP3NFY_0W_NSfluSA3OtcdZGqDw40MfsCFMr6mn3ILoz5Viv1K1dA==
+Age: 2238

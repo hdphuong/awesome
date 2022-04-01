@@ -1,0 +1,6 @@
+Referer: https://www.zdnet.com/topic/a-winning-strategy-for-cybersecurity/
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: fly_geo={"countryCode": "au"}; fly_device=desktop; fly_preferred_edition=au; fly_default_edition=au; nemo_highlander=edu_placement:1:control

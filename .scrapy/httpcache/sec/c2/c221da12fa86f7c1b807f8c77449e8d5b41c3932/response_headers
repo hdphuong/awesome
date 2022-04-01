@@ -1,0 +1,18 @@
+Server: nginx
+Date: Fri, 01 Apr 2022 07:59:59 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex, follow
+Link: <https://cybertechaccord.org/wp-json/>; rel="https://api.w.org/"
+Last-Modified: Fri, 01 Apr 2022 07:59:59 +0000
+Cache-Control: max-age=300, must-revalidate
+X-Cache-Served: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains; always
+X-Ten-Cache: EXPIRED
+Set-Cookie: nlbi_2268445=slQ+CS3YmVah/oV4v81HlwAAAADqWgh11kWymnzoT4Q9d+mM; path=/; Domain=.cybertechaccord.org
+Set-Cookie: visid_incap_2268445=wUij6ig4QfOlkDLYJQlrWf6wRmIAAAAAQUIPAAAAAAD34BkwzeQDT97MBaKCryww; expires=Fri, 31 Mar 2023 09:03:41 GMT; HttpOnly; path=/; Domain=.cybertechaccord.org
+Set-Cookie: incap_ses_673_2268445=O6OFAOxa/Ud1rsfdpPpWCf6wRmIAAAAADy0EeGLfzad1GwlBETI0Yg==; path=/; Domain=.cybertechaccord.org
+X-Cdn: Imperva
+Content-Encoding: gzip
+X-Iinfo: 3-260843007-260830041 2NYN RT(1648799998013 211) q(0 0 0 1) r(5 5)

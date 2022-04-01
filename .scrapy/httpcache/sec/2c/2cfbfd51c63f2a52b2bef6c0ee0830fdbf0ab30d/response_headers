@@ -1,0 +1,24 @@
+Content-Length: 0
+Cache-Control: private
+Location: https://login.microsoftonline.com//common/oauth2/authorize?client_id=23523755-3a2b-41ca-9315-f81f3f566a95&response_type=id_token%20code&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DR17H02f2RyIOWNmjezNJEShiQ9RqoQhvXReTeNkTf7o0m-Ii85eIlGbO-kTbE7-FDSSo2HojZll-W4_MEoGGdHyI2F8niT4YqD3hh5ghQyIY7kL_mwCHkY7SRVn0eB614iAZoXpNHnrswR0uV_XgpDhDEAA_wuFworwzpK2dPkORYJKpQFAmLgLZVj_Mxa-ZMrFRmnPhg4HziYuPbHnqSvMbdGY&response_mode=form_post&nonce=637843931215703967.MDFlYTVjYTctY2E1MC00OWNmLTkwNzEtMmQ5YjM5YTgyMWY5ZTUwMjcwOGMtYjM3OS00NGJhLWJkNDctNjdmMjYyYTIwMDY5&resource=https%3A%2F%2Fmanagement.azure.com&instance_aware=true&client_info=1&redirect_uri=https%3A%2F%2Fazure.microsoft.com%2F&post_logout_redirect_uri=https%3A%2F%2Fazure.microsoft.com&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0
+Set-Cookie: OpenIdConnect.nonce.EjePFhcuL%2BcLOxuGmK%2F2uoP6lYhWuLw71cKyBQk9hYk%3D=MFpGU3dBQjJxWUJvSDJ2T3g3Y0dLMEppVGt5RWxDdXVVa1I5TEdYelRSQWFNcGFOSXAtTENLa3FIbm55Qm0wcms4ZlJDMTN0WEcxU2FEbUlSd2N1OXJ2WGlxQ2phTFRxZDFRNHkwZHVVVy1CdUp4aDUzTDVMWU9tQU9KbVVucnV3bDhjMTNqeGNjNWh3S3Z4d0ZLd3N0VS0wdVhDeDV0aUlRQ3hFempGRmxOUkctbkJvYWVoNDZQTmZsc0gyaHNxUGlYeDRxbTFHeVJrTjdvMUVwZWwzbjduWE5R; expires=Fri, 01-Apr-2022 07:13:41 GMT; path=/; SameSite=None; secure; HttpOnly; SameSite=None
+Set-Cookie: nonceInfo=2022-04-01T06:58:41.5703967Z; path=/; secure; HttpOnly
+Azure-Version: 20220329-1400-301531
+Azure-Sitename: acom-prod-australiaeast-02
+Azure-Instanceid: e47580d25aea13d8756c4ca45ab27c482db0427d7dd2991f1101498053cdadca
+Azure-Regionname: Australia East
+Azure-Slotname: production
+Request-Context: appId=cid-v1:271db03b-0de6-4bf7-8ebf-f90dccf4de6b
+Access-Control-Expose-Headers: Request-Context
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Arr-Disable-Session-Affinity: true
+Access-Control-Allow-Methods: GET,HEAD
+Strict-Transport-Security: max-age=31536000
+X-Cache: CONFIG_NOCACHE
+X-Msedge-Flight: acom3=acom3cf
+X-Msedge-Features: acom3cf
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.01,"failure_fraction":1.0}
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://mdec.nelreports.net/api/report?cat=acom"}]}
+X-Msedge-Ref: Ref A: 60FA3B9304064A30B209C3211B587CEC Ref B: SYD03EDGE1506 Ref C: 2022-04-01T06:58:41Z
+Date: Fri, 01 Apr 2022 06:58:41 GMT

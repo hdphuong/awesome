@@ -1,0 +1,21 @@
+Date: Fri, 01 Apr 2022 08:04:16 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 6f4fd0162fdffd3a-SYD
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: Fri, 01 Apr 2022 10:04:16 GMT
+Set-Cookie: uid=lo_2d8a8c214d1b; Domain=medium.com; Path=/; Expires=Sat, 01 Apr 2023 08:04:14 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: sid=1%3ASOQmoGWi2IgNS0p7Mmzyh%2FHmp%2FiJSy9rhnYW17EKr0TuyUTqZQlweh2f76APhk9h; Domain=medium.com; Path=/; Expires=Sat, 01 Apr 2023 08:04:14 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=ffd265a37356416058f900192d425969e2c38f29-1648800256; path=/; domain=.medium.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Medium-Fulfilled-By: edgy/8.3.0, valencia/main-20220330-200122-8a4c97c6a1
+Worker-Missing-Cookies: 2
+X-Amz-Id-2: 21IH42MT2u0scN4xlsko90vBoJIW5yRme+4vXPTqXmOOl8ZTu+oJx7z2fMGf2MDeSxOFp6Xl5zU=
+X-Amz-Request-Id: 7DEE5HYPCN9W8RRV
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 2033
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

@@ -1,0 +1,1322 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-N4K222Q');</script>
+    <title>Lapsus$ hackers exploited Okta supplier's security lapses - Security - iTnews</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#161d34">
+    <meta name="Description" content="Allegedly found spreadsheet with login credentials.">
+    <meta name="Keywords" content="fireeye,hacking,lapsus,mandiant,okta,ransomware,security,sitel,sykes">
+    <meta name="news_keywords" content="fireeye, hacking, lapsus, mandiant, okta, ransomware, security, sitel, sykes">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="iTnews RSS Feed" href="/rss/rss.ashx" />
+    <link href="https://fonts.googleapis.com/css?family=Martel:400,300,700,900" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700" rel="stylesheet" type="text/css">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+
+
+    
+    <meta property="og:site_name" content="iTnews">
+    <meta property="og:title" content="Lapsus$ hackers exploited Okta supplier's security lapses">
+    <meta property="og:url" content="https://www.itnews.com.au/news/lapsus-hackers-exploited-okta-suppliers-security-lapses-578005">
+    <meta property="og:image" content="https://i.nextmedia.com.au/News/hacking_hoodie_0.jpg">
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="338" />
+    <meta property="og:description" content="Allegedly found spreadsheet with login credentials.">
+
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@iTnews_au">
+    <meta name="twitter:creator" content="@iTnews_au">
+    <meta name="twitter:title" content="Lapsus$ hackers exploited Okta supplier's security lapses">
+    <meta name="twitter:description" content="Allegedly found spreadsheet with login credentials.">
+    <meta name="twitter:url" content="https://www.itnews.com.au/news/lapsus-hackers-exploited-okta-suppliers-security-lapses-578005">
+    
+        <meta name="twitter:image" content="https://i.nextmedia.com.au/News/hacking_hoodie_0.jpg">
+    
+    
+
+    
+    <link rel="canonical" href="https://www.itnews.com.au/news/okta-compromised-by-suppliers-security-lapses-578005"/>
+    
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#161d34">
+    <meta name="msapplication-TileColor" content="#161d34">
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_7ea1735c1d758ce27b7c2363d13e3b2f.css" />
+
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->
+
+    
+
+    
+    <script type="text/javascript">
+        var _ss = _ss || [];
+        _ss.push(['_setDomain', 'https://koi-3QNNF9XQBW.marketingautomation.services/net']);
+        _ss.push(['_setAccount', 'KOI-4BG98ANIO8']);
+        _ss.push(['_trackPageView']);
+        (function () {
+            var ss = document.createElement('script');
+            ss.type = 'text/javascript'; ss.async = true;
+            ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QNNF9XQBW.marketingautomation.services/client/ss.js?ver=2.4.0';
+            var scr = document.getElementsByTagName('script')[0];
+            scr.parentNode.insertBefore(ss, scr);
+        })();
+    </script>
+</head>
+<body class="">
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4K222Q" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <div class="wrapper news" id="wrapper">
+        <div class="off-canvas-wrap" data-offcanvas>
+            <div class="inner-wrap">
+                
+                    <div id="breaking-news" class="row full-width collapse show-for-large-up fixed">
+                        <a id="breaking-news-header" style="float: left" href="/news">Latest News</a>
+                        <div id="breaking-news-container">
+                            
+                                    <a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192" class="breaking-news-item">
+                                        <h2 class="article-headline">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</h2>
+                                    </a>
+                                
+                                    <a href="/news/emergency-patches-out-for-exploited-apple-zero-days-578182" class="breaking-news-item">
+                                        <h2 class="article-headline">Emergency patches out for exploited Apple zero-days</h2>
+                                    </a>
+                                
+                                    <a href="/news/victoria-police-poaches-long-time-health-cio-578175" class="breaking-news-item">
+                                        <h2 class="article-headline">Victoria Police poaches long-time health CIO</h2>
+                                    </a>
+                                
+                                    <a href="/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578167" class="breaking-news-item">
+                                        <h2 class="article-headline">Second critical infrastructure cyber security bill passes parliament</h2>
+                                    </a>
+                                
+                                    <a href="/news/sans-spots-spring4shell-vulnerability-exploitation-attempts-578164" class="breaking-news-item">
+                                        <h2 class="article-headline">SANS spots Spring4shell vulnerability exploitation attempts</h2>
+                                    </a>
+                                
+                                
+                        </div>
+                    </div>
+                
+
+                
+
+                <header>
+                    <div class="collapse header-full show-for-large-up" id="header-secondary">
+                        <div class="top-menu-container">
+                            <div class="header-columns">
+                                <div class="top-menu">
+                                    <div class="social-media-menu">
+                                        <a class="follow-twitter" href="https://twitter.com/itnews_au" target="_blank"><i class="fa fa-twitter"></i></a>
+                                        <a class="follow-facebook" href="https://www.facebook.com/iTnewsAustralia" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                                        <a class="follow-linkedin" href="https://www.linkedin.com/company/itnews" target="_blank"><i class="fa fa-linkedin"></i></a>                    
+                                        <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                                    </div>
+    
+                                    <div class="global-editions">
+                                        <div class="dropdown">
+                                            <ul>
+                                                <li class="has-dropdown"><a href="/">Australia Edition</a></li>
+                                            </ul>
+                                            <div class="dropdown-content">
+                                                <ul>
+                                                    <li><a href="https://www.itnews.asia/" target="_blank">Asia Edition</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="header-columns">
+                            <div id="header-lb">
+                                <div id="ph-leader"></div>
+                                <div id="div-gpt-ad-leader"></div>
+                            </div>
+                            <a href="/" id="site-logo"></a>
+                        </div>
+                    </div>
+                    <div class="collapse header-full" id="header-primary">
+                        
+
+<div class="header-columns">
+    <div class="sticky" id="sticky-nav">
+        <nav class="top-bar row full-width collapse show-for-large-up" data-topbar role="navigation">
+            <div id="top-bar-secondary">
+                <div id="follow-us">
+                    <a class="follow-twitter" href="https://twitter.com/itnews_au" target="_blank"></a>
+                    <a class="follow-facebook" href="https://www.facebook.com/iTnewsAustralia" target="_blank"></a>
+                    <a class="follow-linkedin" href="https://www.linkedin.com/company/itnews" target="_blank"></a>
+                    <a class="follow-rss" href="/rss"></a>
+                </div>
+                
+                    <a class="login-click">LOG IN</a>
+                    <a class="subscribe" href="/register">SUBSCRIBE</a>
+                
+                
+                <a href="#" class="search">&nbsp;</a>
+            </div>
+            <section class="top-bar-section">
+                <a href="/" id="itnews-logo-sticky">
+                    <img src="/images/itnews-logo-sticky.png" alt="iTnews" /></a>
+                <ul class="top-bar-primary">
+                    
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/news" data-dropdown="drop-501" data-options="is_hover:true">NEWS</a>
+                                </li>
+                            
+
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/tag/governmentit">GOVERNMENT</a></li>
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/technology/security">SECURITY</a></li>
+                            
+
+                        
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/resources" data-dropdown="drop-515" data-options="is_hover:true">RESOURCES</a>
+                                </li>
+                            
+
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/page/the-itnews-podcast">PODCAST</a></li>
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/state-of-it/">STATE OF IT</a></li>
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/digitalnation/">DIGITAL NATION</a></li>
+                            
+
+                        
+                            
+
+                            
+                                <li><a href="/awards/about">BENCHMARK AWARDS</a></li>
+                            
+
+                        
+                </ul>
+            </section>
+            <div id="search-box">
+                <input type="text" placeholder="Search iTnews">
+                <button>Search</button>
+            </div>
+            
+                    <div id="drop-501" data-dropdown-content class="f-dropdown mega">
+                        
+                                    
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/business">BUSINESS</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/cloud">CLOUD</a>
+                                
+                                    
+                                    
+                                    <a href="/tag/data-centre">DATA CENTRE</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/tag/education">EDUCATION</a>
+                                
+                                    
+                                    
+                                    <a href="/tag/financeit">FINANCE</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/hardware">HARDWARE</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/tag/healthit">HEALTHCARE</a>
+                                
+                                    
+                                    
+                                    <a href="/tag/industrialit">INDUSTRIAL</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/networking">NETWORKING</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/projects">PROJECTS</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/software">SOFTWARE</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/storage">STORAGE</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/business/strategy">STRATEGY</a>
+                                
+                                    
+                                    
+                                    <a href="/technology">TECHNOLOGY</a>
+                                
+                                    
+                                    
+                                    <a href="/technology/telco-isp">TELCO/ISP</a>
+                                </div>
+                        
+                    </div>
+                
+                    <div id="drop-515" data-dropdown-content class="f-dropdown mega">
+                        
+                                    
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/events">EVENTS</a>
+                                
+                                    
+                                    
+                                    <a href="/insights">Insights</a>
+                                
+                                    
+                                    
+                                    <a href="https://www.itnews.com.au/media-hub/">MEDIA HUB</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/partner-content">PARTNER CONTENT</a>
+                                
+                                    
+                                    
+                                    <a href="https://www.itnews.com.au/partner-hubs">PARTNER HUBS</a>
+                                
+                                    
+                                    
+                                    <a href="/partner-content/promoted-content">PROMOTED CONTENT</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="https://www.itnews.com.au/reports">REPORTS</a>
+                                </div>
+                        
+                    </div>
+                
+        </nav>
+
+        
+        <div class="hide-for-large-up">
+            <nav class="mobile-nav" role="navigation">
+
+                <section class="title-area full-width">
+                    <div class="menu-primary">
+                        <button class="c-hamburger c-hamburger--htx">
+                            <span></span>
+                        </button>
+                    </div>
+                    <div class="logo">
+                        <a href="/">
+                            <img src="/images/itnews-logo-white.png" alt="iTnews" width="82" height="25" /></a>
+                    </div>
+                    <div class="menu-secondary">
+                        <a class="user-icon">
+                            <div id="icon"></div>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="top-bar-nav">
+                    <div class="mobile-nav-search">
+                        <input type="text" placeholder="Search iTnews">
+                    </div>
+                    <div class="mobile-nav-container">
+                        
+                                <a href="/news" class="mobile-nav-item"><span>NEWS</span></a>
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/business" class="mobile-nav-item"><span>BUSINESS</span></a>
+                                    
+                                        <a href="/technology/cloud" class="mobile-nav-item"><span>CLOUD</span></a>
+                                    
+                                        <a href="/tag/data-centre" class="mobile-nav-item"><span>DATA CENTRE</span></a>
+                                    
+                                        <a href="/tag/education" class="mobile-nav-item"><span>EDUCATION</span></a>
+                                    
+                                        <a href="/tag/financeit" class="mobile-nav-item"><span>FINANCE</span></a>
+                                    
+                                        <a href="/technology/hardware" class="mobile-nav-item"><span>HARDWARE</span></a>
+                                    
+                                        <a href="/tag/healthit" class="mobile-nav-item"><span>HEALTHCARE</span></a>
+                                    
+                                        <a href="/tag/industrialit" class="mobile-nav-item"><span>INDUSTRIAL</span></a>
+                                    
+                                        <a href="/technology/networking" class="mobile-nav-item"><span>NETWORKING</span></a>
+                                    
+                                        <a href="/projects" class="mobile-nav-item"><span>PROJECTS</span></a>
+                                    
+                                        <a href="/technology/software" class="mobile-nav-item"><span>SOFTWARE</span></a>
+                                    
+                                        <a href="/technology/storage" class="mobile-nav-item"><span>STORAGE</span></a>
+                                    
+                                        <a href="/business/strategy" class="mobile-nav-item"><span>STRATEGY</span></a>
+                                    
+                                        <a href="/technology" class="mobile-nav-item"><span>TECHNOLOGY</span></a>
+                                    
+                                        <a href="/technology/telco-isp" class="mobile-nav-item"><span>TELCO/ISP</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/tag/governmentit" class="mobile-nav-item"><span>GOVERNMENT</span></a>
+                                
+                            
+                                <a href="/technology/security" class="mobile-nav-item"><span>SECURITY</span></a>
+                                
+                            
+                                <a href="/resources" class="mobile-nav-item"><span>RESOURCES</span></a>
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/events" class="mobile-nav-item"><span>EVENTS</span></a>
+                                    
+                                        <a href="/insights" class="mobile-nav-item"><span>Insights</span></a>
+                                    
+                                        <a href="https://www.itnews.com.au/media-hub/" class="mobile-nav-item"><span>MEDIA HUB</span></a>
+                                    
+                                        <a href="/partner-content" class="mobile-nav-item"><span>PARTNER CONTENT</span></a>
+                                    
+                                        <a href="https://www.itnews.com.au/partner-hubs" class="mobile-nav-item"><span>PARTNER HUBS</span></a>
+                                    
+                                        <a href="/partner-content/promoted-content" class="mobile-nav-item"><span>PROMOTED CONTENT</span></a>
+                                    
+                                        <a href="https://www.itnews.com.au/reports" class="mobile-nav-item"><span>REPORTS</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/page/the-itnews-podcast" class="mobile-nav-item"><span>PODCAST</span></a>
+                                
+                            
+                                <a href="/state-of-it/" class="mobile-nav-item"><span>STATE OF IT</span></a>
+                                
+                            
+                                <a href="/digitalnation/" class="mobile-nav-item"><span>DIGITAL NATION</span></a>
+                                
+                            
+                                <a href="/awards/about" class="mobile-nav-item"><span>BENCHMARK AWARDS</span></a>
+                                
+                            
+                        <div class="mobile-global">
+                            <div class="global-editions">
+                                <div class="dropdown">
+                                    <label for="global-check"><div>Australia Edition</div><div class="mobile-nav-arrow"></div></label>
+                                    <input type="checkbox" id="global-check">
+                   
+                                    <div class="dropdown-content">
+                                        <a href="https://www.itnews.asia/" class="global-link" target="_blank">Asia Edition</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mobile-nav-follow">
+                            <a class="follow-twitter" href="https://twitter.com/itnews_au" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a class="follow-facebook" href="https://www.facebook.com/iTnewsAustralia" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                            <a class="follow-linkedin" href="https://www.linkedin.com/company/itnews" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="top-bar-user">
+                    
+                        <div id="login-form-mobile">
+                            <h3 class="section-header"><span>Log In</span></h3>
+                            <div class="mobile-small">
+                                <div class="form-label">Email:</div>
+                                <div class="form-input">
+                                    <input id="username-mobile" name="username" type="text" required />
+                                </div>
+                            </div>
+                            <div class="mobile-small">
+                                <div class="form-label">Password:</div>
+                                <div class="form-input">
+                                    <input id="password-mobile" name="password" type="password" required />
+                                </div>
+                            </div>
+                            <div class="row collapse form-checkbox">
+                                <input id="rememberMe-mobile" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label>
+                                <span>| &nbsp;<a href="/forgot" title="Forgot your password?">Forgot password?</a></span>
+                            </div>
+                            <div class="ui-dialog-buttonset mobile-submit">
+                                <input type="button" id="login-button-mobile" value="Log In" class="button" />
+                            </div>
+                            <div id="login-validation-mobile"></div>
+                            <div id="login-response-mobile"></div>
+                            <div id="mobile-register"><a href="/register">Don't have an account? Register now!</a></div>
+                        </div>
+                    
+                    
+                </section>
+            </nav>
+        </div>
+        
+    </div>
+</div>
+
+                    </div>
+                </header>
+                <div id="skin">
+                    <div class="row leaderboard">
+                        <div id="div-gpt-ad-pushdown"></div>
+                    </div>
+                    <div class="row main-section collapse">
+                        <div class="large-12 columns">
+                            
+
+<div class="row">
+    
+<article class="small-12 large-12 columns" itemscope itemtype="http://schema.org/NewsArticle">
+    
+    
+
+    <h1 id="article-headline" class="" itemprop="headline">
+        Lapsus$ hackers exploited Okta supplier's security lapses</h1>
+    <div id="article-details-mobile">
+        By 
+                <a href="/author/juha-saarinen-224495">
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="name">Juha Saarinen</span>
+                    </span>
+                </a>
+            
+        
+        on
+        <span id="ContentPlaceHolder1_ucArticle_lbDateFromMobile" itemprop="datePublished" content="2022-03-29T15:13">Mar 29, 2022 3:13PM</span>
+    </div>
+    <div class="row collapse">
+
+        <div id="article-primary" class="">
+            
+
+            <div id="article-image" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img id="ContentPlaceHolder1_ucArticle_imgImage" width="480" height="496" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fhacking_hoodie_0.jpg&amp;w=480&amp;c=0&amp;s=1" alt="Lapsus$ hackers exploited Okta supplier&#39;s security lapses" />
+                    <meta itemprop="url" content="https://i.nextmedia.com.au/News/hacking_hoodie_0.jpg">
+                    <meta itemprop="width" content="960">
+                    <meta itemprop="height" content="540">
+
+                    
+
+                
+
+                <div id="linked-gallery-placeholder"></div>
+            </div>
+
+            <div id="div-gpt-ad-island" class="mrec-top"></div>
+
+            
+                <h2 id="article-intro" itemprop="description">
+                    Allegedly found spreadsheet with login credentials.</h2>
+            
+
+            
+            <div id="article-body" itemprop="articleBody">
+                <p>A leaked post mortem report has revealed that the high-profile compromise of security and authentication provider <a href="https://www.itnews.com.au/tag/okta" target="_blank">Okta</a> took place because of serious security lapses at one of the company&#39;s third-party service providers.</p>
+
+<p>Chief among these lapses appears to be a Microsoft Excel spreadsheet named &quot;DomAdmins-LastPass.xlsx&quot; which the Lapsus$ attacker found on a computer system at Sitel-owned Sykes Enterprises, which provides outsourced customer support for Okta.</p>
+
+<p>LastPass is a popular password manager, and the file name indicates that credentials stored in the authentication software may have been exported to an Excel spreadsheet.</p>
+
+<p>The file name of the spreadsheet is contained in documents prepared by Mandiant that were posted by offensive security researcher Bill Demirkapi on social media.</p>
+
+<p>The documents also&nbsp;<a href="https://twitter.com/BillDemirkapi/status/1508527487655067660" target="_blank">purport</a> to show that the Lapsus$ hacker used the credentials to create backdoor users in Sitel&#39;s IT environment.</p>
+
+<p>Demirkapi notes that the Mandiant documents show that Lapsus$ started&nbsp;reconaissance on the computer it had compromised on January 19 this year, &quot;with little regard for OPSEC&quot;.</p>
+
+<p>The Lapsus$ hacker used off-the-shelf tools from open source code repository Github for most of their attacks, such as Process Hacker and Process Explorer, which were used to bypass the FireEye endpoint security agent by terminating it.</p>
+
+<p>After the FireEye agent was terminated, the hacker used the Mimikatz tool to dump systems credentials for further systems.</p>
+
+<p>Lapsus$ also set up email forwarding for all messages within Sitel, to accounts controlled by the attacker.</p>
+
+<p>Sitel discovered the hack on January 21, and reset passwords for the entire company in an effort to secure their systems.</p>
+
+<p>It appears however that Lapsus$ had access to Sitel systems for five days starting January 21.</p>
+
+<p>Okta has <a href="https://support.okta.com/help/s/article/Frequently-Asked-Questions-Regarding-January-2022-Compromise?language=en_US" target="_blank">confirmed</a> the breach, and admitted that up to 366 corporate customers were affected by it but did not alert them until March 22 United States time, after receipt of the Mandiant report from Sitel.</p>
+
+<p>The authentication company has acknowledged it made a mistake by not notifying customers in January, saying it didn&#39;t know the extent of the Sitel issue.</p>
+
+<p>&quot;In January, we did not know the extent of the Sitel issue &ndash; only that we detected and prevented an account takeover attempt and that Sitel had retained a third party forensic firm to investigate,&quot; Okta said in an FAQ.</p>
+
+<p>&quot;At that time, we didn&rsquo;t recognise that there was a risk to Okta and our customers. We should have more actively and forcefully compelled information from Sitel.</p>
+
+<p>&quot;In light of the evidence that we have gathered in the last week, it is clear that we would have made a different decision if we had been in possession of all of the facts that we have today.&quot;</p>
+
+<p>City of London Police have <a href="https://www.itnews.com.au/news/suspected-okta-hackers-arrested-by-british-police-577852" target="_blank">arrested</a> seven people aged between 16 and 21, suspected of being members of the Lapsus$ hacking group.</p>
+
+                
+            </div>
+            
+
+            
+
+            <div class="news-tip">
+                Got a news tip for our journalists? <a href="/feedback/?id=578005&type=newstip">Share it with us anonymously here</a>.
+            </div>
+
+            
+                <div class="newsletter-subscribe-container">
+                    <a id="ContentPlaceHolder1_ucArticle_hlNewsletterSubscribe" href="/register?src=ITN_ArticlePromo_1_578005"><img id="ContentPlaceHolder1_ucArticle_imgNewsletterSubscribe" width="500" height="131" src="/images/newsletter-promo-1.png" /></a>
+                </div>
+            
+
+            
+
+            <div id="article-source">
+                <a href="http://www.itnews.com.au" target="_blank">Copyright  &#169; iTnews.com.au</a> . All rights reserved.
+            </div>
+
+            <div id="article-tag-container">
+                
+                        <div id="article-tag-header">Tags:</div>
+                    <a class="article-tag" href="/tag/fireeye">fireeye</a><a class="article-tag" href="/tag/hacking">hacking</a><a class="article-tag" href="/tag/lapsus">lapsus</a><a class="article-tag" href="/tag/mandiant">mandiant</a><a class="article-tag" href="/tag/okta">okta</a><a class="article-tag" href="/tag/ransomware">ransomware</a><a class="article-tag" href="/technology/security">security</a><a class="article-tag" href="/tag/sitel">sitel</a><a class="article-tag" href="/tag/sykes">sykes</a>
+            </div>
+
+            
+                <div id="div-gpt-ad-inread"></div>
+            
+
+            
+
+            
+            
+
+            
+                <div class="row resource-links">
+                    <div class="large-4 columns">
+                        
+        <section class="paid-content-box">
+            <h3 class="section-header"><span><a href="/partner-content">Partner Content</a></span></h3>
+    
+        <a class="row collapse whitepapers-list" href="/feature/3-ways-companies-are-getting-more-from-intelligent-automation-576772">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="3 ways companies are getting more from intelligent automation" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220302114508_woman_it_v1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                3 ways companies are getting more from intelligent automation
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/service-sa-and-service-tas-select-knosys-knowledge-management-solution-576993">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Service SA and Service Tas select Knosys knowledge management solution" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fcall_centre_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Service SA and Service Tas select Knosys knowledge management solution
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/why-its-more-important-than-ever-to-ditch-outdated-cmss-576417">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Why it&#39;s more important than ever to ditch outdated CMSs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fphone_customer_experience_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Why it's more important than ever to ditch outdated CMSs
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/how-developers-are-building-platform-omnipresence-for-companies-575116">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="How developers are building &quot;platform omnipresence&quot; for companies" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fwoman_credit_card_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                How developers are building "platform omnipresence" for companies
+            </div>
+        </a>
+    
+        </section>
+    
+
+                    </div>
+                    <div class="large-4 columns">
+                        
+        <section id="whitepapers-container">
+            <h3 class="section-header"><span><a href="/whitepapers">Sponsored Whitepapers</a></span></h3>
+    
+        <a class="row collapse whitepapers-list " href="/resource/beyond-ftp-securing-and-managing-file-transfers-577408">
+            <div class="small-1 large-2 columns whitepapers-list-img">
+                <img alt="Beyond FTP: Securing and Managing File Transfers" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fReports%2fhelp_systems.JPG&amp;w=100&amp;c=1&amp;s=0" class="width-only-img" width="100" height="135">
+            </div>
+            <div class="small-11 large-10 columns whitepapers-list-title">Beyond FTP: Securing and Managing File Transfers</div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="/resource/nextgen-security-operations-a-roadmap-for-the-future-578009">
+            <div class="small-1 large-2 columns whitepapers-list-img">
+                <img alt="NextGen Security Operations: A Roadmap for the Future" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fReports%2fdataminrpulse.JPG&amp;w=100&amp;c=1&amp;s=0" class="width-only-img" width="100" height="135">
+            </div>
+            <div class="small-11 large-10 columns whitepapers-list-title">NextGen Security Operations: A Roadmap for the Future</div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="/resource/video-watch-juniper-talk-about-its-aston-martin-partnership-578003">
+            <div class="small-1 large-2 columns whitepapers-list-img">
+                <img alt="Video: Watch Juniper talk about its Aston Martin partnership" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fReports%2fAston_Martin_Lagonda_brand_logo.png&amp;w=100&amp;c=1&amp;s=0" class="width-only-img" width="100" height="135">
+            </div>
+            <div class="small-11 large-10 columns whitepapers-list-title">Video: Watch Juniper talk about its Aston Martin partnership</div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="/resource/dont-pay-the-ransom-a-three-step-guide-to-ransomware-protection-577302">
+            <div class="small-1 large-2 columns whitepapers-list-img">
+                <img alt="Don&amp;#8217;t pay the ransom: A three-step guide to ransomware protection" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fReports%2fBarracuda_Ransomware.JPG&amp;w=100&amp;c=1&amp;s=0" class="width-only-img" width="100" height="135">
+            </div>
+            <div class="small-11 large-10 columns whitepapers-list-title">Don&#8217;t pay the ransom: A three-step guide to ransomware protection</div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="/resource/a-guide-to-cyber-security-threat-hunting-576439">
+            <div class="small-1 large-2 columns whitepapers-list-img">
+                <img alt="A Guide to Cyber Security Threat Hunting" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fReports%2f20220302095610_RVBD-Aternity-Lockup.jpg&amp;w=100&amp;c=1&amp;s=0" class="width-only-img" width="100" height="135">
+            </div>
+            <div class="small-11 large-10 columns whitepapers-list-title">A Guide to Cyber Security Threat Hunting</div>
+        </a>
+    
+        </section>
+    
+
+                    </div>
+                    <div class="large-4 columns">
+                        
+        <section id="events-container">
+            <h3 class="section-header"><span><a href="/events">Events</a></span></h3>
+            <ul>
+    
+                <li><a href="/event/ba-finalist-showcase-577812">iTnews Benchmark Awards 2022 - Finalist Showcase</a></li>
+    
+                <li><a href="/event/leanix-connect-apac-577976">LeanIX Connect APAC</a></li>
+    
+                <li><a href="/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576812">IoT Insights conference, Orange NSW: Digital Food & Agribusiness</a></li>
+    
+                <li><a href="/event/iot-impact-conference-576816">IoT Impact Conference</a></li>
+    
+            </ul>
+        </section>
+         
+                    </div>
+                </div>
+            
+
+            
+                
+                <iframe width="400" height="600" scrolling="no" src="//www.dianomi.com/recirculation.epl?id=119" class="dianomi"></iframe>
+
+                
+                <iframe width="400" height="600" scrolling="no" src="//www.dianomi.com/smartads.epl?id=5141" class="dianomi"></iframe>
+            
+        </div>
+        <aside id="article-secondary">
+            <div id="article-details">
+                By 
+                        <a href="/author/juha-saarinen-224495">
+                            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="name">Juha Saarinen</span>
+                            </span>
+                        </a>
+                    
+                <br>
+                <span id="ContentPlaceHolder1_ucArticle_lbDateFrom" itemprop="datePublished" content="2022-03-29T15:13">Mar 29 2022<br />3:13PM</span>
+            </div>
+            <div id="article-scroll">
+                <div class="article-share">
+                    <a class="share-comments" title="Join the Conversation" href="/news/lapsus-hackers-exploited-okta-suppliers-security-lapses-578005#disqus_thread" data-disqus-identifier="578005">0 Comments</a>
+                    <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Lapsus$ hackers exploited Okta supplier's security lapses&amp;related=&amp;url=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source=desktop%26utm_medium=twitter%26utm_campaign=share" target="_blank">
+                        <div id="article-twitter-share-count"></div>
+                    </a>
+                    <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source=desktop%26utm_medium=facebook%26utm_campaign=share" target="_blank">
+                        <div id="article-facebook-share-count"></div>
+                    </a>
+                    <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source=desktop%26utm_medium=linkedin%26utm_campaign=share" target="_blank">
+                        <div id="article-linkedin-share-count"></div>
+                    </a>
+                    <a class="share-feedback" title="Send Feedback" href="/feedback/?id=578005"></a>
+                    <a class="share-email" title="Email A Friend" href="mailto:?subject=iTnews: Lapsus$ hackers exploited Okta supplier's security lapses&amp;body=Check out this great article I read on iTnews:%0D%0A%0D%0ALapsus$ hackers exploited Okta supplier's security lapses%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source=desktop%26utm_medium=email%26utm_campaign=share"></a>
+                    <a class="share-print" title="Print" href="/tools/print.aspx?ciid=578005" target="_blank"></a>
+                </div>
+                
+        <div>
+            <h3 class="section-header"><span>Related Articles</span></h3>
+            <ul id="related-article-list">
+    
+        <li><a href="/news/okta-says-third-party-breach-may-have-impacted-up-to-366-customers-577767">Okta says third-party breach may have impacted up to 366 customers</a></li>
+    
+        <li><a href="/news/suspected-okta-hackers-arrested-by-british-police-577852">Suspected Okta hackers arrested by British police</a></li>
+    
+        <li><a href="/news/okta-investigates-possible-data-breach-577721">Okta investigates possible data breach</a></li>
+    
+        <li><a href="/news/biden-battles-russian-hacking-groups-with-restrictions-on-it-firms-567543">Biden battles Russian hacking groups with restrictions on IT firms</a></li>
+    
+        </ul>
+        </div>
+    
+
+
+
+
+
+
+
+            </div>
+        </aside>
+    </div>
+
+    <div class="article-share-mobile">
+        <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Lapsus$ hackers exploited Okta supplier's security lapses&amp;related=&amp;url=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source%3Dmobile%26utm_medium%3Dtwitter%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-twitter.png" border="0" alt="Share on Twitter" /></a>
+        <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source%3Dmobile%26utm_medium%3Dfacebook%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-facebook.png" border="0" alt="Share on Facebook" /></a>
+        <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source%3Dmobile%26utm_medium%3Dlinkedin%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-linkedin.png" border="0" alt="Share on LinkedIn" /></a>
+        <a class="share-whatsapp" title="Share on WhatsApp" href="whatsapp://send?text=Lapsus$ hackers exploited Okta supplier's security lapses%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source%3Dmobile%26utm_medium%3Dwhatsapp%26utm_campaign%3Dshare">
+            <img src="/Images/mobile-share-whatsapp.png" border="0" alt="Share on Whatsapp" /></a>
+        <a class="share-email" title="Email A Friend" href="mailto:?subject=iTnews: Lapsus$ hackers exploited Okta supplier's security lapses&amp;body=Check out this great article I read on iTnews:%0D%0A%0D%0ALapsus$ hackers exploited Okta supplier's security lapses%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005%3Futm_source%3Dmobile%26utm_medium%3Demail%26utm_campaign%3Dshare">
+            <img src="/Images/mobile-share-email.png" border="0" alt="Email A Friend" /></a>
+    </div>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://www.itnews.com.au/images/itn-logo-clean.png">
+            <meta itemprop="width" content="255">
+            <meta itemprop="height" content="79">
+        </div>
+        <meta itemprop="name" content="iT News">
+    </div>
+</article>
+
+
+
+
+        <div class="row small-12 columns" id="article-mostread-container">
+            <h3 class="section-header"><span>Most Read Articles</span></h3>
+            <div class="row collapse">
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/news/how-nabs-buyout-forced-86-400-to-lift-its-data-game-577888" >
+                        <img alt="How NAB&#39;s buyout forced 86 400 to lift its data game" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f86_400.png&amp;h=271&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>How NAB's buyout forced 86 400 to lift its data game</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/news/telstra-ceo-andy-penn-is-stepping-down-578056" >
+                        <img alt="Telstra CEO Andy Penn is stepping down" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fVicki-Brady_250x250.jpeg&amp;h=271&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>Telstra CEO Andy Penn is stepping down</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/news/tpg-telecom-refutes-optus-complaint-over-telstra-tie-up-577952" >
+                        <img alt="TPG Telecom refutes Optus complaint over Telstra tie-up" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220328121710_TPG_Telecom.png&amp;h=271&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>TPG Telecom refutes Optus complaint over Telstra tie-up</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/news/suspected-okta-hackers-arrested-by-british-police-577852" >
+                        <img alt="Suspected Okta hackers arrested by British police" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fReuters_security3.jpg&amp;h=271&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>Suspected Okta hackers arrested by British police</h2>
+                    </a>
+                </div>
+    
+            </div>
+        </div>
+            
+
+
+    <div class="row">
+        <div class="large-8 columns" id="disqus-container">
+
+            
+                
+
+                <div id="disqus_thread"></div>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            
+
+        </div>
+
+        <div class="large-4 columns">
+            <div id="div-gpt-ad-island2" class="mrec-lower"></div>
+            <div id="div-gpt-ad-button" class="button-ad-lower"></div>
+            
+        <section>
+            <h3 class="section-header"><span><a href="/digitalnation">Digital Nation</a></span></h3>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Metaverse hype will transition into new business models by mid decade: Gartner
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/case-study-playhq-leverages-graph-technologies-for-sports-administration-575814">
+            <div class="small-4 columns whitepapers-list-img  play-btn">
+                <img alt="Case Study: PlayHQ leverages graph technologies for sports administration" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fMark_Macumber_PlayHQ_Head_of_Technology.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Case Study: PlayHQ leverages graph technologies for sports administration
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/as-nfts-gain-traction-businesses-start-taking-early-bets-575798">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="As NFTs gain traction, businesses start taking early bets" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1353849384.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                As NFTs gain traction, businesses start taking early bets
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/the-other-cto-the-emerging-role-of-the-chief-transformation-officer-575828">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="The other &amp;#8216;CTO&amp;#8217;: The emerging role of the chief transformation officer" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1309701000.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                The other &#8216;CTO&#8217;: The emerging role of the chief transformation officer
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/cover-story-from-cost-control-to-customer-fanatics-ai-is-transforming-the-contact-centre-575713">
+            <div class="small-4 columns whitepapers-list-img  play-btn">
+                <img alt="COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fiStock-1185135641.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre
+            </div>
+        </a>
+    
+        </section>
+    
+
+        </div>
+    </div>
+
+
+</div>
+
+
+
+                            <div id="div-gpt-ad-footer" class="row footerboard"></div>
+
+                            
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Blogs&pa=&sc=32&output=script&ros=True&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+                
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+        <ul class="large-block-grid-5 network-bar-grid">
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Cyber crime is a team sport, say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Boardroom Impact: Critical infrastructure
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                     <a href="https://www.crn.com.au/news/google-cloud-names-angela-coronica-new-anz-channel-chief-575039?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <img alt="Google Cloud names Angela Coronica new ANZ channel chief" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f1643011317593.jpeg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Google Cloud names Angela Coronica new ANZ channel chief
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/sap-names-first-regional-head-of-sustainability-575067?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            SAP names first regional head of sustainability
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/long-time-microsoft-anz-exec-phil-goldie-departs-after-12-years-575011?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Long-time Microsoft ANZ exec Phil Goldie departs after 12 years
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/canon-business-services-acquires-wa-microsoft-partner-satalyst-574890?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Canon Business Services acquires WA Microsoft partner Satalyst
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/aussie-technology-spending-to-reach-111-billion-in-2022-gartner-574894?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Aussie technology spending to reach $111 billion in 2022: Gartner
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                   <a href="https://www.bit.com.au/review/venom-blackbook-zero-15-phantom-573253?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="Venom BlackBook Zero 15 Phantom" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBlackBook-Zero-15-Phantom-right.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Venom BlackBook Zero 15 Phantom
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/facebook-linkedin-or-instagram-social-media-success-isnt-one-size-fits-all-574908?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Facebook, LinkedIn or Instagram? Social media success isn&#8217;t one size fits all
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/digital-dystopia-your-reputation-is-on-the-line-574913?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Digital dystopia: your reputation is on the line
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/creating-sustainable-high-performance-computing-to-drive-the-data-industry-forward-574918?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Creating sustainable high-performance computing to drive the data industry forward
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            How long will a UPS keep your computers on if the lights go out?
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                        <a href="https://www.iothub.com.au/event/iot-impact-conference-576820?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="IoT Impact Conference" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fEvents%2f20220303092641_iot-impact-intro-image1.png&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            IoT Impact Conference
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.iothub.com.au/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576814?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            IoT Insights conference, Orange NSW: Digital Food & Agribusiness
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.iothub.com.au/news/iot-impact-moving-to-june-9-575046?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            IoT Impact moving to June 9
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.iothub.com.au/news/2021-iot-awards-winners-announced-572454?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            2021 IoT Awards winners announced
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.iothub.com.au/news/last-call-for-next-months-digital-food-agribusiness-event-577744?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Last call for next month's Digital Food & Agribusiness event
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+        </ul>
+        </div>
+    </div>
+</div>
+                
+<footer>
+    <div id="footer-top-level" class="row">
+        <div class="large-12 columns">
+            <div id="footer-links">
+                <a href="/page/contact">Contact Us</a>
+                <a href="/page/about">About Us</a>
+                
+                <a href="/feedback">Feedback</a>
+                <a href="/page/advertising">Advertise</a>
+                <a href="/newsletter">Newsletter Archive</a>
+                <a href="/sitemap">Site Map</a>
+                <a href="/rss">RSS</a> 
+            </div>
+            <a href="https://www.nextmedia.com.au/" target="_blank" class="nm-logo"><img src="/images/logo_nextmedia.png" alt="nextmedia" width="75" height="14"  /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.    
+        </div>   
+    </div>
+    <div id="footer-bottom-level">
+        <div class="row">
+        <div class="small-12 large-9 columns">
+            <div id="footer-sites">
+            <span>OTHER TECH SITES:</span>
+            <a href="https://www.bit.com.au" target="_blank">BIT</a> &nbsp;|&nbsp;
+            <a href="https://www.crn.com.au" target="_blank">CRN Australia</a> &nbsp;|&nbsp;
+            <a href="https://www.iothub.com.au" target="_blank">IoT Hub</a>
+            </div>
+            <div id="footer-terms">
+            All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />Your use of this website
+            constitutes acceptance of nextmedia's <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">Privacy Policy</a> and 
+            <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">Terms & Conditions</a>.
+            </div>
+        </div>
+
+        <div class="small-12 large-3 columns" id="footer-powered-by">
+            <div class="footer-powered-by-inner">
+                <span>Powered By</span>
+                <a href="https://www.interactive.com.au" target="_blank"><img src="/images/interactive-logo.png" alt="Powered by Interactive" width="150" height="28" /></a>
+            </div>
+        </div> 
+
+        </div>
+        
+        <div id="otp">
+            <div id="countdown" class="close"></div>
+            <div id="div-gpt-ad-interstitial"></div>
+        </div>
+        <div class="mask"> </div>
+        
+        <div id="div-gpt-ad-skin"></div>
+    </div>
+</footer>
+                
+
+<div id="login-form">
+    <form id="frm-login" action="/news/okta-compromised-by-suppliers-security-lapses-578005?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=iTnews+Security+feed" method="post">
+        <h3 class="section-header"><span>Log In</span></h3>
+        <div id="login-form-register"><a href="/register">Don't have an account? Register now!</a></div>
+        <div id="login-validation"></div>
+        <div id="login-response"></div>
+        <div class="form-label email-login">Email:</div>
+        <div class="form-input"><input id="username" name="username" type="text" required /></div>
+        <div class="form-label password-login">Password:</div>
+        <div class="form-input"><input id="password" name="password" type="password" required /></div>
+        <div class="row form-checkbox">
+            <input id="rememberMe" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label><span>&nbsp; | &nbsp;<a href="/forgot" title="Forgot your password?">Forgot your password?</a></span>
+        </div>
+    </form>
+</div>
+
+            </div>
+            <div id="itn-data-store"
+                data-shareurl="%2fnews%2flapsus-hackers-exploited-okta-suppliers-security-lapses-578005"
+                data-articleid="578005"
+                data-adcategories="[&quot;security&quot;,&quot;security&quot;,&quot;technology&quot;]"
+                data-adkeywords="[&quot;fireeye&quot;,&quot;hacking&quot;,&quot;lapsus&quot;,&quot;mandiant&quot;,&quot;okta&quot;,&quot;ransomware&quot;,&quot;security&quot;,&quot;sitel&quot;,&quot;sykes&quot;]"
+                data-adsection="news"
+                data-adshow="True"
+                data-gasitesection="News"
+                data-gasitecategory="Technology"
+                data-gasitesubcategory="Security"
+                data-gakeywords="|fireeye|hacking|lapsus|mandiant|okta|ransomware|security|sitel|sykes|"
+                data-disqus_auth=""
+                data-disqus_key="irryJPCUFvXWcfQC1pUkJNJgrmFUKbPzjmH2mIGajUKmrdpxmhw5yCENHGg0dbrf"
+                data-disqus_shortname="itnewsnext"
+                data-disqus_developer="0"
+                data-disqus_title="Lapsus$ hackers exploited Okta supplier's security lapses"
+                data-disqus_url="http://www.itnews.com.au/news/lapsus-hackers-exploited-okta-suppliers-security-lapses-578005"
+                data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+            </div>
+
+            <img id="imgPixelTrack" src="/t.ashx?u=&amp;c=578005&amp;s=3&amp;r=https%3a%2f%2fsecurity.didici.cc%2fnews&amp;n=%2fnews%2fArticle.aspx&amp;q=id%3d578005%26utm_source%3dfeed%26amp%3butm_medium%3drss%26amp%3butm_campaign%3diTnews%2bSecurity%2bfeed" alt="" style="display:none;" />
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+            <script src="/scripts/gdpr.js"></script>
+            <script src="/scripts/itn_70959f89ed94799f39099b9c8a556bb3.js"></script>
+
+            
+
+            
+
+            <!--[if lt IE 9]>    
+        <link href="/styles/ie8.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+
+        </div>
+    </div>
+</body>
+</html>

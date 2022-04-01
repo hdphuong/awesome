@@ -1,0 +1,38 @@
+Content-Type: text/html; charset=UTF-8
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+Link: <https://www.sophos.com/en-us>; rel="canonical", <https://www.sophos.com/en-us>; rel="shortlink"
+Link: <https://www.sophos.com/en-us>; rel="alternate"; hreflang="en"
+Link: <https://www.sophos.com/zh-cn>; rel="alternate"; hreflang="zh-hans"
+Link: <https://www.sophos.com/fr-fr>; rel="alternate"; hreflang="fr"
+Link: <https://www.sophos.com/de-de>; rel="alternate"; hreflang="de"
+Link: <https://www.sophos.com/it-it>; rel="alternate"; hreflang="it"
+Link: <https://www.sophos.com/ja-jp>; rel="alternate"; hreflang="ja"
+Link: <https://www.sophos.com/pt-br>; rel="alternate"; hreflang="pt-br"
+Link: <https://www.sophos.com/es-es>; rel="alternate"; hreflang="es"
+Link: <https://www.sophos.com/en-us/pagina-inicial>; rel="revision"
+Link: <https://cdn.cookielaw.org>;rel="preconnect",<https://code.jquery.com>;rel="preconnect",<https://scripts.demandbase.com>;rel="preconnect",<https://img03.en25.com>;rel="preconnect",<https://stats.g.doubleclick.net>;rel="preconnect",<https://id.rlcdn.com>;rel="preconnect",<https://www.googletagmanager.com>;rel="preconnect",<https://dev.visualwebsiteoptimizer.com>;rel="preconnect"
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+Last-Modified: Fri, 01 Apr 2022 02:37:11 GMT
+Etag: "1648780631"
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Content-Encoding: gzip
+X-Request-Id: v-a87fc1ee-b164-11ec-bb21-a334539ea75e
+X-Ah-Environment: prod
+X-Geo-Country: AU
+Vary: Cookie,Accept-Encoding,X-Geo-Country
+X-Cache-Hits: 2430
+X-Age: 18587
+Accept-Ranges: bytes
+X-Akamai-Transformed: 9 47117 0 pmb=mRUM,2
+Cache-Control: public, max-age=282, s-maxage=1209600
+Expires: Fri, 01 Apr 2022 07:51:52 GMT
+Date: Fri, 01 Apr 2022 07:47:10 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=337
+Server-Timing: origin; dur=249
+X-Sophos-O: d

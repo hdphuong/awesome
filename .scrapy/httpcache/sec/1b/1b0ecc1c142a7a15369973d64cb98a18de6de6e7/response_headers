@@ -1,0 +1,20 @@
+Content-Length: 69
+Date: Fri, 01 Apr 2022 06:49:15 GMT
+X-Robots-Tag: noindex, follow
+Link: <https://www.techrepublic.com/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Permissions-Policy: autoplay=(), camera=(), fullscreen=(), geolocation=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=()
+Content-Security-Policy: default-src 'self' 'unsafe-inline' https://*.jotform.com/ http://widgets.jotform.io/ https://widgets.jotform.io/ https://ml314.com/ https://www.google.com/recaptcha/ https://api.recurly.com/js/ https://*.clipcentric.com/ https://*.akamaihd.net/ https://*.googlesyndication.com/ https://*.doubleclick.net/ https://www.google-analytics.com https://cdn.ampproject.org https://stats.g.doubleclick.net https://www.googletagmanager.com/ https://www.techrepublic.com/ https://www.googleapis.com/ https://www.youtube.com/embed/ https://playlist.megaphone.fm/ https://test.quantcast.mgr.consensu.org/ https://*.twitter.com/ https://d1rytvr7gmk1sx.cloudfront.net/ https://www.facebook.com/ https://quantcast.mgr.consensu.org/ https://apis.quantcast.mgr.consensu.org/ https://*.twitter.com; 			img-src 'self' https: data: https://* http://* https://im.techrepublic.com/ https://*.akamaihd.net/ https://*.clipcentric.com/ https://*.google.com/ https://*.2mdn.net/ https://*.googlesyndication.com/ https://ps.w.org/ http://*.ytimg.com/ https://i.zdnet.com https://www.google-analytics.com/ https://creatives.techrepublic.com/ *.gravatar.com https://www.techrepublic.com/ https://i.ytimg.com/ https://web.techrepublic.com/ https://lg-static.techrepublic.com https://*.doubleclick.net/ https://staging.tech-republic.media.fortyau.com/ https://prod-tech-republic-media.fortyau.com/ https://d2rytvr7gmk1sx.cloudfront.net/ https://*.doubleclick.net https://ml314.com/ https://t.6sc.co/; 			font-src 'self' data: https://cdn.jotfor.ms/; 			script-src 'self' data: 'unsafe-eval' 'unsafe-inline' https://*.youtube.com/ http://securepubads.g.doubleclick.net/ https://*.ml314.com/ https://*.quantcount.com/ https://*.jotfor.ms/ https://*.jotform.com/ https://js.recurly.com/ https://*.marphezis.com/ https://*.googlesyndication.com/ https://*.akamaihd.net/ https://www.googletagservices.com/ https://adservice.google.com/ https://*.doubleclick.net/ https://www.google-analytics.com/ https://www.googletagmanager.com/ https://cdn.ampproject.org/ https://quantcast.mgr.consensu.org/ https://*.facebook.net https://*.quantserve.com/ https://ml314.com/ https://*.twitter.com/ https://*.twimg.com/ https://prod-tech-republic-media.fortyau.com https://in.ml314.com/ https://rules.quantcount.com/ https://in.ml314.com/ https://*.twitter.com/ https://*.twimg.com/; 			style-src 'self' 'unsafe-inline' https://js.recurly.com/ https://*.jotfor.ms/ https://*.twitter.com/ https://*.twimg.com/ https://*.jotfor.ms/ https://*.twitter.com/ https://*.twimg.com/;
+Content-Type: text/plain; charset=utf-8
+Cookie: 
+X-Varnish: 219383007 232686013
+Age: 548
+Set-Cookie: trid=84.452; Expires=Fri, 01 Apr 2022 07:58:24 GMT; path=/;
+X-Cache: cached
+Accept-Ranges: bytes

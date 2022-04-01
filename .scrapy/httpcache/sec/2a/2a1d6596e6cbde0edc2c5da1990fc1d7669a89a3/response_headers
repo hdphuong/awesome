@@ -1,0 +1,15 @@
+Server: nginx
+Date: Fri, 01 Apr 2022 06:08:50 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Pingback: https://threatpost.com/xmlrpc.php
+Link: <https://threatpost.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://threatpost.com/wp-json/wp/v2/pages/99882>; rel="alternate"; type="application/json"
+Link: <https://threatpost.com/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+X-Debug-Auth: off
+X-Request-Host: threatpost.com
+X-Cache-Hit: HIT
+Content-Encoding: gzip

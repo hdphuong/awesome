@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /search?
+
+Sitemap: https://alpha.aeon.co/sitemaps/aeon/main.xml
+Sitemap: https://alpha.aeon.co/sitemaps/aeon/video.xml

@@ -1,0 +1,24 @@
+Content-Length: 0
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Language: en
+Expires: 0
+Location: https://www.nature.com/articles/s41586-020-2872-x
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-B3-Spanid: 45528fec49eb41420036f48015558821
+X-B3-Traceid: 45528fec49eb41420036f48015558821
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Vcap-Request-Id: 2b2ad736-c7c3-42e8-631e-874356f8e84a
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Fastly-Original-Body-Size: 0
+Date: Fri, 01 Apr 2022 07:11:48 GMT
+X-Served-By: cache-syd10145-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1648797108.040193,VS0,VE275
+Vary: x-forwarded-proto

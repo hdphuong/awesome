@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="js svg">
+<head>
+    
+    <title>Error</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <script>(function (e) {
+        var t = e.documentElement, n = e.implementation;
+        t.className = 'js';
+        if (n && n.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1')) {
+            t.className += ' svg'
+        }
+    })(document)</script>
+    <script>window.dataLayer = [{page: {attributes: {featureFlags: []}}, version: "0.1.0-prealpha"}];</script>
+
+    <!-- OneTrust -->
+    <script>
+      var onetrustHash;
+        if (window.location.host.indexOf("staging") > -1) {
+          onetrustHash = '47d8c237-66cd-450e-972c-f1dea928933b-test';
+        } else {
+          onetrustHash = 'd4445a99-06de-4d76-8027-1356d42e5c9d';
+        }
+
+        (function(w,d,t) {
+            function cc() {
+                var e = d.createElement(t),
+                    s = d.getElementsByTagName(t)[0];
+                e.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+                e.setAttribute('data-domain-script', onetrustHash);
+                s.parentNode.insertBefore(e, s);
+            }
+
+            w.google_tag_manager ? cc() : window.addEventListener('gtm_loaded', cc);
+
+        })(window,document,'script');
+    </script>
+    <script>
+        function OptanonWrapper() {
+            window.dataLayer.push({event:'OneTrustGroupsUpdated'});
+        }
+    </script>
+    <!-- End OneTrust -->
+    <!-- Google Tag Manager -->
+    <!-- custom events polyfill   -->
+    <script>
+        (function () {
+
+            if ( typeof window.CustomEvent === "function" ) return false;
+
+            function CustomEvent ( event, params ) {
+                params = params || { bubbles: false, cancelable: false, detail: null };
+                var evt = document.createEvent( 'CustomEvent' );
+                evt.initCustomEvent( event, params.bubbles, params.cancelable, params.detail );
+                return evt;
+            }
+
+            window.CustomEvent = CustomEvent;
+        })();
+
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+
+        //  this is custom added - see https://www.simoahava.com/analytics/notify-page-google-tag-manager-loaded/ }}
+        j.addEventListener('load', function() {
+            var _ge = new CustomEvent('gtm_loaded', { bubbles: true });
+            d.dispatchEvent(_ge);
+        });
+
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NWDMT9Q');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script src="https://www.nature.com/"></script>
+
+    <link rel="preload" href=/themes/nature/fonts/HardingText-Regular-Web.b167e675dc.woff2 as="font" type="font/woff2" crossorigin>
+
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+    <link rel="apple-touch-icon" sizes="180x180" href=/themes/nature/images/apple-touch-icon.f39cb19454.png>
+    <link rel="icon" type="image/png" sizes="32x32" href=/themes/nature/images/favicon-32x32.3fe59ece92.png>
+    <link rel="icon" type="image/png" sizes="16x16" href=/themes/nature/images/favicon-16x16.951651ab72.png>
+    <link rel="manifest" href=/themes/nature/images/manifest.1a481c42b1.json>
+    <link rel="mask-icon" href=/themes/nature/images/safari-pinned-tab.69bff48fe6.svg color="#000000">
+    <link rel="shortcut icon" href=/themes/nature/images/favicon.62367f778b.ico>
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-config" content=/static/browserconfig.e35b3b052c.xml>
+    <meta name="theme-color" content="#000000">
+    <meta name="application-name" content="Nature">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes">
+    <link rel="stylesheet" type="text/css" href="/nature-basic.css">
+    <link rel="stylesheet" type="text/css" href="/mosaic/css/fonts.css">
+    <link rel="stylesheet" class="js-ctm" type="text/css" href="/nature150hybrid-main-min.css" media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+    <style>/* Brand background colors */
+      .app-header--brand-border {
+        border-bottom: 5px solid #000;
+      }
+    </style>
+    <!--[if IE 9]>
+    <body class=ie9><![endif]--><!--[if gt IE 9]><!-->
+    <style type="text/css" id="qual_style-co0"></style>
+    <style type="text/css" id="qual_style-cgk"></style>
+
+    
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+</head>
+<body>
+<header class="c-header" data-header>
+  <div class="c-header__row c-header__row-border">
+      <div class="c-header__container">
+          <div class="c-header__split">
+              <a href="https://www.nature.com/nature" data-track="click" data-track-action="home" data-track-category="nature-150-split-header" data-track-label="image">
+                  <picture class="c-header__logo">
+                      <source srcset="/themes/nature/images/nature-portfolio-primary.svg" media="(min-width: 769px)">
+                      <img src="/themes/nature/images/nature-portfolio-smaller.svg" alt="logo name">
+                  </picture>
+              </a>
+              <ul class="c-header__menu c-header__site-navigation c-header__site-navigation--border-left">
+                  <li class="c-header__item">
+                    <div class="c-header__nature-research">
+                       <a class="c-header__link" href="https://www.nature.com/siteindex" data-track="click" data-track-category="nature-150-split-header" data-track-action="open nature research index" data-track-label="link">
+                         <span>View all Nature Research journals</span>
+                       </a>
+                     </div>
+                  </li>
+                  <li class="c-header__item c-header__item--pipe">
+                    <a class="c-header__link" href="#search-menu" data-header-expander>
+                      <span>Search</span>
+                      <svg role="img" aria-hidden="true" focusable="false" height="22" width="22" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M16.48 15.455c.283.282.29.749.007 1.032a.738.738 0 01-1.032-.007l-3.045-3.044a7 7 0 111.026-1.026zM8 14A6 6 0 108 2a6 6 0 000 12z"></path></svg>
+                    </a>
+                  </li>
+                  <li class="c-header__item">
+                      
+                      <a href="/login/natureuser"
+                        id="login-button"
+                        class="c-header__link placeholder"
+                        data-test="login-link" data-track="click" data-track-action="login" data-track-category="nature-150-split-header" data-track-label="link">
+                        <span>Login</span><svg role="img" aria-hidden="true" focusable="false" height="22" width="22" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M10.238 16.905a7.96 7.96 0 003.53-1.48c-.874-2.514-2.065-3.936-3.768-4.319V9.83a3.001 3.001 0 10-2 0v1.277c-1.703.383-2.894 1.805-3.767 4.319A7.96 7.96 0 009 17c.419 0 .832-.032 1.238-.095zm4.342-2.172a8 8 0 10-11.16 0c.757-2.017 1.84-3.608 3.49-4.322a4 4 0 114.182 0c1.649.714 2.731 2.305 3.488 4.322zM9 18A9 9 0 119 0a9 9 0 010 18z" fill="#333" fill-rule="evenodd"/></svg>
+                      </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
+</header>
+
+<div class="content position-relative cleared clear mq1200-padded">
+    <h1 id="errorDescription" data-test="title" class="extra-tight-line-height mb20 mt20">404 - Sorry that page doesn't exist!</h1>
+    <div class="card">
+        <div class="pb40 pt30 cleared">
+            <div class="grid grid-10 grid-left-1 mq875-grid-12 mq875-ml0 mq640-pb30">
+                <form action="https://www.nature.com/search/submit" method="post" role="search" autocomplete="off"
+                      class="mq875-pr20 mq875-pl20" data-track="submit" data-track-source="search-submit"
+                      data-track-dest-fields="q" data-test="search-form">
+                    <div class="position-relative">
+                        <div class="background-gray-medium cleared">
+                            <div class="search-input-box background-white cleared">
+                                <div class="search-input-layout pin-left grid-12">
+                                    <div class="search-input-field pr4 serif">
+                                        <label for="keywords-404" class="visually-hidden"
+                                               data-test="search-keywords-label">
+                                            Search nature.com
+                                        </label>
+                                        <input type="search" id="keywords-404" class="serif" name="q" value=""
+                                               placeholder="Search nature.com" data-test="search-keywords">
+                                    </div>
+                                </div>
+                                <span class="search-input-suffix inline-block text13 equalize-line-height text-right">
+                                    <span class="search-input-suffix-inner block">
+                                        <a href="https://www.nature.com/search/advanced"
+                                           data-test="search-suffix-link" class="color-blue" data-track="click"
+                                           data-track-source="" data-track-dest="link:/search/advanced"
+                                           data-track-dl="1">
+                                            advanced
+                                        </a>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="position-absolute search-input-btn">
+                            <button id="search-button" type="submit" class="icon icon-center search-btn" data-test="search-submit">
+                                Search
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <p class="tiny-space-below">
+            Alternatively, try these pages which might help you find what you are looking for:
+        </p>
+        <ul class="clean-list strong" data-test="404-help">
+            <li class="tiny-space-below">
+                <a href="https://www.nature.com/siteindex/index.html"
+                   data-track-click="search_alternate_links" data-track-source="search_404"
+                   data-track-dest="/siteindex" data-track-dl="1">Publications A-Z index</a>
+            </li>
+            <li class="tiny-space-below">
+                <a href="https://www.nature.com/subjects"
+                   data-track-click="search_alternate_links" data-track-source="search_404"
+                   data-track-dest="/subjects" data-track-dl="1">Subject areas</a>
+            </li>
+            <li class="tiny-space-below">
+                <a href="https://www.nature.com/" data-track-click="search_alternate_links"
+                   data-track-source="search_404" data-track-dest="nature.com"
+                   data-track-dl="1">Nature.com homepage</a>
+            </li>
+            <li class="tiny-space-below">
+                <a href="https://support.nature.com/en/support/home">
+                    Contact customer services</a></li>
+        </ul>
+    </div>
+</div>
+
+<div role="contentinfo" data-test="bottom-containers">
+  <div id="search-menu" data-header="true" class="c-header-expander c-header-expander--tray parent-2 u-hide-print" data-track-component="nature-150-split-header">
+       <div class="c-header-expander__container">
+           <h2 class="u-visually-hidden">Search</h2>
+           <div data-test="inline-search">
+               <div class="c-header-expander__keyline u-mb-16">
+                   <form action="https://www.nature.com/search/submit"
+                         method="get"
+                         role="search"
+                         class="c-header-expander__form"
+                         autocomplete="off"
+                         data-dynamic-track-label
+                         data-track="submit" data-track-action="search" data-track-label="form">
+                       <label class="c-header-expander__heading" for="keywords">Article Search</label>
+                       <div class="c-form-field u-display-flex">
+                           <input type="text"
+                                  class="c-form-field__input u-flex-shrink"
+                                  id="keywords"
+                                  name="q"
+                                  value=""
+                                  placeholder="Search by keywords or author"
+                                  data-test="search-keywords">
+                           <button type="submit" class="c-button c-button--contrast u-flex-static u-ml-8" data-test="search-submit">Search</button>
+                       </div>
+                       <p class="u-ma-0">
+                           <a href="/search/advanced"
+                              data-track="click" data-track-action="advanced search" data-track-label="link">
+                               Advanced search
+                           </a>
+                       </p>
+                   </form>
+               </div>
+               <div class="c-header-expander__keyline">
+                   <h3 class="c-header-expander__heading">Quick links</h3>
+                   <ul class="u-list-reset">
+                       <li class="u-display-inline-block u-mr-24"><a href="/subjects" data-track="click" data-track-action="explore articles by subject" data-track-label="link">Explore articles by subject</a></li>
+                       <li class="u-display-inline-block u-mr-24"><a href="/naturecareers" data-track="click" data-track-action="find a job" data-track-label="link">Find a job</a></li>
+                       <li class="u-display-inline-block u-mr-24"><a href="/authors/index.html" data-track="click" data-track-action="guide to authors" data-track-label="link">Guide to authors</a></li>
+                       <li class="u-display-inline-block u-mr-24"><a href="/authors/editorial_policies/" data-track="click" data-track-action="editorial policies" data-track-label="link">Editorial policies</a></li>
+                   </ul>
+               </div>
+           </div>
+       </div>
+   </div>
+
+  <footer role="contentinfo" class="composite-layer">
+     <div class="u-mt-16 u-mb-16">
+       <div class="u-container">
+           <div class="u-display-flex u-flex-wrap u-justify-content-space-between">
+
+               <p class="c-meta u-ma-0">
+                   <span aria-level="2" class="c-meta__item" itemprop="name">
+                       Nature
+                   </span>
+                   <span class="c-meta__item">
+                       <abbr title="International Standard Serial Number">ISSN</abbr> <span itemprop="issn">1476-4687</span> (online)
+                   </span>
+               </p>
+           </div>
+       </div>
+    </div>
+    <div itemscope itemtype="http://schema.org/Periodical">
+      <meta itemprop="publisher" content="Springer Nature">
+         <div class="c-footer">
+             <div class="u-container">
+                 <div class="u-hide-print" data-track-component="footer">
+                   <h2 aria-level="2" class="u-visually-hidden">nature.com sitemap</h2>
+                   <div class="c-footer__header">
+                       <div class="c-footer__logo">
+                           <img alt="Nature Research" src="/themes/nature/images/nature-portfolio-white.svg" loading="lazy" width="200" height="26">
+                       </div>
+                       <ul class="c-menu c-menu--inherit u-mr-32">
+                           <li class="c-menu__item"><a class="c-menu__link" href="https://www.nature.com/npg_/company_info/index.html" data-track="click" data-track-action="about us" data-track-label="link">About us</a></li>
+                           <li class="c-menu__item"><a class="c-menu__link" href="https://www.nature.com/npg_/press_room/press_releases.html" data-track="click" data-track-action="press releases" data-track-label="link">Press releases</a></li>
+                           <li class="c-menu__item"><a class="c-menu__link" href="https://press.nature.com/" data-track="click" data-track-action="press office" data-track-label="link">Press office</a></li>
+                           <li class="c-menu__item"><a class="c-menu__link" href="https://support.nature.com/support/home" data-track="click" data-track-action="contact us" data-track-label="link">Contact us</a></li>
+                       </ul>
+                       <ul class="c-menu c-menu--inherit">
+                           <li class="c-menu__item">
+                               <a class="c-menu__link" href="https://www.facebook.com/nature/" aria-label="Nature on Facebook" data-track="click" data-track-action="facebook" data-track-label="link">
+                                   <svg class="u-icon u-mt-2 u-mb-2" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 20 20"><path d="M2.5 20C1.1 20 0 18.9 0 17.5v-15C0 1.1 1.1 0 2.5 0h15C18.9 0 20 1.1 20 2.5v15c0 1.4-1.1 2.5-2.5 2.5h-3.7v-7.7h2.6l.4-3h-3v-2c0-.9.2-1.5 1.5-1.5h1.6V3.1c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H8.1v3h2.6V20H2.5z"/></svg>
+                               </a>
+                           </li>
+                           <li class="c-menu__item">
+                               <a class="c-menu__link" href="https://twitter.com/nresearchnews?lang=en" aria-label="Nature on Twitter" data-track="click" data-track-action="twitter" data-track-label="link">
+                                   <svg class="u-icon" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path d="M17.6 4.1c.8-.5 1.5-1.4 1.8-2.4-.8.5-1.7.9-2.6 1-.7-.8-1.8-1.4-3-1.4-2.3 0-4.1 1.9-4.1 4.3 0 .3 0 .7.1 1-3.4 0-6.4-1.8-8.4-4.4C1 2.9.8 3.6.8 4.4c0 1.5.7 2.8 1.8 3.6C2 8 1.4 7.8.8 7.5v.1c0 2.1 1.4 3.8 3.3 4.2-.3.1-.7.2-1.1.2-.3 0-.5 0-.8-.1.5 1.7 2 3 3.8 3-1.3 1.1-3.1 1.8-5 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9C13.8 18.6 18 12 18 6.3v-.6c.8-.6 1.5-1.4 2-2.2-.7.3-1.5.5-2.4.6z"/></svg>
+                               </a>
+                           </li>
+                           <li class="c-menu__item">
+                               <a class="c-menu__link" href="https://www.youtube.com/channel/UCvCLdSgYdSTpWcOgEJgi-ng" aria-label="Nature on YouTube" data-track="click" data-track-action="youtube" data-track-label="link">
+                                   <svg class="u-icon" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path d="M7.9 12.6V6.9l5.4 2.8c0 .1-5.4 2.9-5.4 2.9zM19.8 6s-.2-1.4-.8-2c-.8-.8-1.6-.8-2-.9-2.8-.2-7-.2-7-.2s-4.2 0-7 .2c-.4 0-1.2 0-2 .9-.6.6-.8 2-.8 2S0 7.6 0 9.2v1.5c0 1.7.2 3.3.2 3.3s.2 1.4.8 2c.8.8 1.8.8 2.2.9 1.6.1 6.8.2 6.8.2s4.2 0 7-.2c.4 0 1.2-.1 2-.9.6-.6.8-2 .8-2s.2-1.6.2-3.3V9.2c0-1.6-.2-3.2-.2-3.2z"/></svg>
+                               </a>
+                           </li>
+                       </ul>
+                   </div>
+
+                   <div class="c-footer__grid">
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Discover content</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.nature.com/siteindex" data-track="click" data-track-action="journals a-z" data-track-label="link">Journals A-Z</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/subjects/" data-track="click" data-track-action="article by subject" data-track-label="link">Articles by subject</a></li>
+                               <li class="c-footer__item"><a href="https://nano.nature.com/" data-track="click" data-track-action="nano" data-track-label="link">Nano</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/protocolexchange/" data-track="click" data-track-action="protocol exchange" data-track-label="link">Protocol Exchange</a></li>
+                               <li class="c-footer__item"><a href="https://www.natureindex.com/" data-track="click" data-track-action="nature index" data-track-label="link">Nature Index</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Publish with us</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.nature.com/authors/author_resources/index.html" data-track="click" data-track-action="guide to authors" data-track-label="link">Guide to Authors</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/authors/peer_review/" data-track="click" data-track-action="guide to referees" data-track-label="link">Guide to Referees</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/authors/editorial_policies/" data-track="click" data-track-action="editorial policies" data-track-label="link">Editorial policies</a></li>
+                               <li class="c-footer__item"><a href="http://www.nature.com/openresearch/publishing-with-npg/" data-track="click" data-track-action="open access" data-track-label="link">Open access</a></li>
+                               <li ><a href="https://www.nature.com/reprints/" data-track="click" data-track-action="reprints and permissions" data-track-label="link">Reprints &amp; permissions</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Researcher services</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.springernature.com/gp/authors/research-data" data-track="click" data-track-action="data research service" data-track-label="link">Research data</a></li>
+                               <li class="c-footer__item"><a href="https://authorservices.springernature.com/go/nr" data-track="click" data-track-action="language editing" data-track-label="link">Language editing</a></li>
+                               <li class="c-footer__item"><a href="https://authorservices.springernature.com/scientific-editing/" data-track="click" data-track-action="scientific editing" data-track-label="link">Scientific editing</a></li>
+                               <li class="c-footer__item"><a href="https://masterclasses.nature.com/" data-track="click" data-track-action="nature masterclasses" data-track-label="link">Nature Masterclasses</a></li>
+                               <li class="c-footer__item"><a href="https://partnerships.nature.com/product/researcher-training/" data-track="click" data-track-action="nature research academies" data-track-label="link">Nature Research Academies</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Libraries &amp; institutions</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.springernature.com/gp/librarians/tools-services" data-track="click" data-track-action="librarian service and tools" data-track-label="link">Librarian service &amp; tools</a></li>
+                               <li class="c-footer__item"><a href="https://www.springernature.com/gp/librarians/manage-your-account/librarianportal" data-track="click" data-track-action="librarian portal" data-track-label="link">Librarian portal</a></li>
+                               <li class="c-footer__item"><a href="http://www.nature.com/openresearch/about-open-access/information-for-institutions/" data-track="click" data-track-action="open research" data-track-label="link">Open research</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Advertising &amp; partnerships</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://partnerships.nature.com/product/digital-advertising/" data-track="click" data-track-action="advertising" data-track-label="link">Advertising</a></li>
+                               <li class="c-footer__item"><a href="https://partnerships.nature.com/" data-track="click" data-track-action="partnerships and services" data-track-label="link">Partnerships &amp; Services</a></li>
+                               <li class="c-footer__item"><a href="https://partnerships.nature.com/media-kits/" data-track="click" data-track-action="media kits" data-track-label="link">Media kits</a></li>
+                               <li class="c-footer__item"><a href="https://partnerships.nature.com/product/branded-content-native-advertising/" data-track-action="branded content" data-track-label="link">Branded content</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Career development</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.nature.com/naturecareers" data-track="click" data-track-action="nature careers" data-track-label="link">Nature Careers</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/natureconferences/" data-track="click" data-track-action="nature conferences" data-track-label="link">Nature<span class="visually-hidden"> </span> Conferences</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/natureevents/" data-track="click" data-track-action="nature events" data-track-label="link">Nature<span class="visually-hidden"> </span> events</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Regional websites</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="http://www.naturechina.com" data-track="click" data-track-action="nature china" data-track-label="link">Nature China</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/nindia" data-track="click" data-track-action="nature india" data-track-label="link">Nature India</a></li>
+                               <li class="c-footer__item"><a href="https://www.natureasia.com/ja-jp/" data-track="click" data-track-action="nature japan" data-track-label="link">Nature Japan</a></li>
+                               <li class="c-footer__item"><a href="https://www.natureasia.com/ko-kr/" data-track="click" data-track-action="nature korea" data-track-label="link">Nature Korea</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/nmiddleeast/" data-track="click" data-track-action="nature middle east" data-track-label="link">Nature Middle East</a></li>
+                           </ul>
+                       </div>
+
+                       <div class="c-footer__group">
+                           <h3 class="c-footer__heading">Legal &amp; Privacy</h3>
+                           <ul class="c-footer__list">
+                               <li class="c-footer__item"><a href="https://www.nature.com/info/privacy.html" data-track="click" data-track-action="privacy policy" data-track-label="link">Privacy Policy</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/info/cookies.html" data-track="click" data-track-action="use of cookies" data-track-label="link">Use of cookies</a></li>
+                               <li class="c-footer__item"><a class="optanon-toggle-display" href="javascript:;" data-track="click" data-track-action="manage cookies" data-track-label="link">Manage cookies/Do not sell my data</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/info/legal_notice.html" data-track="click" data-track-action="legal notice" data-track-label="link">Legal notice</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/info/accessibility_statement.html" data-track="click" data-track-action="accessibility statement" data-track-label="link">Accessibility statement</a></li>
+                               <li class="c-footer__item"><a href="https://www.nature.com/info/tandc.html" data-track="click" data-track-action="terms and conditions" data-track-label="link">Terms &amp; Conditions</a></li>
+                               <li class="c-footer__item"><a href="https://www.springernature.com/ccpa" data-track="click" data-track-action="california privacy statement" data-track-label="link">California Privacy Statement</a></li>
+                           </ul>
+                       </div>
+                  </div>
+                </div>
+           </div>
+       </div>
+   </div>
+
+   <div class="c-corporate-footer">
+   <div class="u-container">
+       <img src="/themes/nature/images/sn-logo-new.svg" alt="Springer Nature" loading="lazy" width="140" height="14"/>
+       <p class="c-corporate-footer__legal" data-test="copyright">© 2022 Springer Nature Limited</p>
+   </div>
+  </div>
+
+
+   <svg class="u-hide hide">
+       <symbol id="global-icon-chevron-right" viewBox="0 0 16 16">
+           <path d="M7.782 7L5.3 4.518c-.393-.392-.4-1.022-.02-1.403a1.001 1.001 0 011.417 0l4.176 4.177a1.001 1.001 0 010 1.416l-4.176 4.177a.991.991 0 01-1.4.016 1 1 0 01.003-1.42L7.782 9l1.013-.998z" fill-rule="evenodd"/>
+       </symbol>
+       <symbol id="global-icon-download" viewBox="0 0 16 16">
+           <path d="M2 14c0-.556.449-1 1.002-1h9.996a.999.999 0 110 2H3.002A1.006 1.006 0 012 14zM9 2v6.8l2.482-2.482c.392-.392 1.022-.4 1.403-.02a1.001 1.001 0 010 1.417l-4.177 4.177a1.001 1.001 0 01-1.416 0L3.115 7.715a.991.991 0 01-.016-1.4 1 1 0 011.42.003L7 8.8V2c0-.55.444-.996 1-.996.552 0 1 .445 1 .996z" fill-rule="evenodd"/>
+       </symbol>
+       <symbol id="global-icon-email" viewBox="0 0 18 18">
+           <path d="M1.995 2h14.01A2 2 0 0118 4.006v9.988A2 2 0 0116.005 16H1.995A2 2 0 010 13.994V4.006A2 2 0 011.995 2zM1 13.994A1 1 0 001.995 15h14.01A1 1 0 0017 13.994V4.006A1 1 0 0016.005 3H1.995A1 1 0 001 4.006zM9 11L2 7V5.557l7 4 7-4V7z" fill-rule="evenodd"/>
+       </symbol>
+       <symbol id="global-icon-institution" viewBox="0 0 18 18">
+           <path d="M14 8a1 1 0 011 1v6h1.5a.5.5 0 01.5.5v.5h.5a.5.5 0 01.5.5V18H0v-1.5a.5.5 0 01.5-.5H1v-.5a.5.5 0 01.5-.5H3V9a1 1 0 112 0v6h8V9a1 1 0 011-1zM6 8l2 1v4l-2 1zm6 0v6l-2-1V9zM9.573.401l7.036 4.925A.92.92 0 0116.081 7H1.92a.92.92 0 01-.528-1.674L8.427.401a1 1 0 011.146 0zM9 2.441L5.345 5h7.31z" fill-rule="evenodd"/>
+       </symbol>
+       <symbol id="global-icon-search" viewBox="0 0 22 22">
+           <path fill-rule="evenodd" d="M21.697 20.261a1.028 1.028 0 01.01 1.448 1.034 1.034 0 01-1.448-.01l-4.267-4.267A9.812 9.811 0 010 9.812a9.812 9.811 0 1117.43 6.182zM9.812 18.222A8.41 8.41 0 109.81 1.403a8.41 8.41 0 000 16.82z"/>
+       </symbol>
+   </svg>
+  </footer>
+    <script type="text/javascript">if ('localStorage' in window) {
+        window.SN = window.SN || {};
+        window.SN.staticFontLocation = "/mosaic/fonts/fonts.ebf52c94fe5942b2f9b3283d9150ebf3.woff.json";
+    }</script>
+    <script>R=function(e,n,v1){function t(e,o,u,a){if(e.g)return o(e.e,e);var c=e.g=e.l,f=new XMLHttpRequest;f.onload=function(i,l){function s(){l--||o(n,e)}200==f.status||e.t?(i=[],(e.t=e.t||f.response).replace(/(?:^|[^\w\$_.])require\s*\(\s*["']([^"']*)["']\s*\)/g,function(e,n){i.push(n)}),l=i.length,i.map(function(o){t(r(e.l,o),s,"."!=o[0]?c+"/../":n,o)}),s()):u?t(e.n=r(u+="../",a),o,u,a):(e.e=f,o(f,e))},e.t?f.onload():(f.open("GET",c,!0),f.send())}function r(e,n,t){if(e.e)throw e.e;return n?(f.href=e,i.href="."!=n[0]?"./node_modules/"+n:n,t=i.href+".js",f.href="",u[t]=u[t]||{l:t}):e.n?r(e.n):(e[c]||(e.f||a("(function(require,"+c+",module){"+e.t+"\n})//# sourceURL="+e.l))(function(n){return r(r(e.l,n))},e[c]={},e),e[c])}function o(e,n){t(e.call?{l:"",t:""+e,f:e}:r("",e),function(t,o){try{e=r(o)}catch(u){t=u}n&&n(t,e)})}var u={},a=eval,c="createElement",f=e[c]("base"),i=e[c]("a");return e.head.appendChild(f),c=e.querySelector("script[data-main]"),c&&o(c.dataset.main),c="exports",o}(document);</script>
+    <script src="/nature150hybrid-min.js"></script>
+    <script src="https://verify.nature.com/verify/nature.js"></script>
+    <noscript>
+        <img src="https://verify.nature.com/verify/nature.png" alt="" width="0"
+             height="0"/>
+    </noscript>
+</div>
+</body>
+</html>

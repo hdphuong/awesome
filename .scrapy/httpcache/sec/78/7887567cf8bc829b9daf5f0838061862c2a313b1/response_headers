@@ -1,0 +1,22 @@
+Content-Length: 22707
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Cache-Control: max-age=1800, public
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: default-src https: 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk; img-src 'self' data: *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com assets.digital.cabinet-office.gov.uk lux.speedcurve.com; script-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.gstatic.com www.signin.service.gov.uk *.ytimg.com www.youtube.com www.youtube-nocookie.com hmrc-uk.digital.nuance.com 'unsafe-inline'; style-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.gstatic.com 'unsafe-inline'; font-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk data:; connect-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.tax.service.gov.uk hmrc-uk.digital.nuance.com hmpowebchat.klick2contact.com omni.eckoh.uk www.signin.service.gov.uk; object-src 'none'; frame-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.youtube.com www.youtube-nocookie.com; report-uri https://jhpno0hk6b.execute-api.eu-west-2.amazonaws.com/production
+Etag: W/"5a536aa051f22f2a3d743002e2392984"
+Link: </assets/collections/application-db7a1eeba15cc9b2af782452fb91145815f7202d5ec405bfec2ea2679e59e2d6.js>; rel=preload; as=script; nopush,</assets/collections/application-f4187d13ce8ad5f8d714c739360aaebd36ff2153e63b5bc031cd9af6b48443ec.css>; rel=preload; as=style; nopush,</assets/collections/print-ee05cd5b2cbf32200aa857a65a14d6e08ff684b8400be7a9c259b4b2ebb5ad3b.css>; rel=preload; as=style; nopush
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=31536000; preload
+Via: 1.1 router, 1.1 varnish, 1.1 varnish
+X-Frame-Options: ALLOWALL
+X-Request-Id: 8fbc9831-ef0e-4d17-8340-a36da755a8dd
+Fastly-Backend-Name: origin
+Accept-Ranges: bytes
+Date: Fri, 01 Apr 2022 08:00:03 GMT
+Age: 0
+X-Served-By: cache-syd10138-SYD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1648800002.991631,VS0,VE1524
+Vary: Accept-Encoding

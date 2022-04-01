@@ -1,0 +1,13 @@
+Content-Length: 125
+Date: Fri, 01 Apr 2022 07:11:55 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: Pagely-ARES/1.10.7
+X-Gateway-Request-Id: b27e0ccc12fe205b9d3c631593c7e7f3
+Link: <https://welcomesoftware.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+X-Gateway-Cache-Key: 0|standard|https|welcomesoftware.com||/robots.txt
+X-Gateway-Cache-Status: BYPASS
+X-Gateway-Skip-Cache: 1

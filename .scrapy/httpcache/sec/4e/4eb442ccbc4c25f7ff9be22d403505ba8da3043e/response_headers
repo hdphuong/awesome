@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Date: Fri, 01 Apr 2022 06:58:44 GMT
+Server: nginx
+X-Powered-By: Express
+Cache-Control: public, max-age=30, must-revalidate
+Last-Modified: Fri, 01 Apr 2022 06:58:44 GMT
+Etag: W/"21c9e-iWaWDRVAVN9Q+n4xYmHnKqJWPBc"
+X-Rq: dca6 0 2 9980
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Error from cloudfront
+Via: 1.1 c7cd0041811f30bfd9c4a00e82b6a3c8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: Bsn_-ZlzSDluwU2mJUkoa376IWURSqqssQ5k7MnX0NW3T3RzXAjtIw==
+Age: 0

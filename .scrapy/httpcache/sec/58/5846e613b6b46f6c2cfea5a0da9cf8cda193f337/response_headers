@@ -1,0 +1,17 @@
+Date: Fri, 01 Apr 2022 07:16:32 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 6f4f8a3208c7fd36-SYD
+Cache-Control: public, max-age=86400
+Etag: W/"1c6-cT6OcVnIP0ms8/bEj5ZfpVbcxDI"
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Via: 1.1 vegur
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Cluster: substack
+X-Powered-By: Express
+X-Served-By: Substack
+Set-Cookie: __cf_bm=6ny7w.KCeH_qmcg2HOG0JEnlV2GzbUIVbvxo_bb59io-1648797392-0-AYP8EhY9QLLcxmo3YVCkEZKNL9+/q7CUoEiTVddBP4vcvXVhYo67LPWujmcDkCLtx5OHo3rhKdabUEtceg6OsDc=; path=/; expires=Fri, 01-Apr-22 07:46:32 GMT; domain=.substack.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

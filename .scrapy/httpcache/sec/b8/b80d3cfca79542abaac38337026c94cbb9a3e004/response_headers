@@ -1,0 +1,22 @@
+Content-Length: 0
+Cache-Control: private
+Location: https://login.microsoftonline.com//common/oauth2/authorize?client_id=23523755-3a2b-41ca-9315-f81f3f566a95&response_type=id_token%20code&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DChPEQzT9azSfcMlOo_mf9TYIKD7JDd1vDg0cxA1H1QBeEcxtDmbVfe3SyttaKcRldUt1yATPVrPPFD3m0AR0l1KEt4Hoi2jIN8-Cmvl1V7mosNX2e2wtiNU66p37NYKm5kEXGK1AylZwT3-6o7ksqG4Zr35_juTFNKrI5puqji1VObkn&response_mode=form_post&nonce=637843931222148686.MTQ0M2YxYzktOWUwYS00NGY0LWE1NTItYzZlOTRlZjhmOWZmMDAyMmQ0ZmQtZTQ0Zi00NmE2LWEzZmQtNjM3OTIyODc0ZWVm&resource=https%3A%2F%2Fmanagement.azure.com&instance_aware=true&client_info=1&redirect_uri=https%3A%2F%2Fazure.microsoft.com%2F&post_logout_redirect_uri=https%3A%2F%2Fazure.microsoft.com&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0
+Set-Cookie: OpenIdConnect.nonce.VzzOquaOFtk9CqEnotZRYBonHswSJWVc6nnRUIF3u6I%3D=Nnd6YzVFVkc5d3VmUzBqSUM1SGlwc2cxa1JxZUw1Y01rd0tBR3ZzcTdWMlZIMVpJUTNuZm81UkZxTFQzR2VQMlVlU09zc0hfZVZaNGxKYUdJUkZNOHVGdm03Q2xiQTlkdk5hb3MxMmxNdG9XczVvbXRhUmxUX2FzOWlGcmtQVkNmQUxmcnZwaWlrNzVRUWR6a0ozakZ1a3ZLNG95RVdKQlhlM3ZfQXpjZ25PZ1VOSEFETTNaTl9rUHNtMnU0NzhmSE5qTFBOSXpsUE1RY1kzQzEyQWlaaEhfbnpr; expires=Fri, 01-Apr-2022 07:13:42 GMT; path=/; SameSite=None; secure; HttpOnly; SameSite=None
+Set-Cookie: nonceInfo=2022-04-01T06:58:42.2148686Z; path=/; secure; HttpOnly
+Azure-Version: 20220329-1400-301531
+Azure-Sitename: acom-prod-australiaeast-02
+Azure-Instanceid: 3899a4c246ab409ce24157990cab89a709e4705f2b410d297e106a90486cd1f4
+Azure-Regionname: Australia East
+Azure-Slotname: production
+Request-Context: appId=cid-v1:271db03b-0de6-4bf7-8ebf-f90dccf4de6b
+Access-Control-Expose-Headers: Request-Context
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Arr-Disable-Session-Affinity: true
+Access-Control-Allow-Methods: GET,HEAD
+Strict-Transport-Security: max-age=31536000
+X-Cache: CONFIG_NOCACHE
+Nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.01,"failure_fraction":1.0}
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://mdec.nelreports.net/api/report?cat=acom"}]}
+X-Msedge-Ref: Ref A: 21614494029D48C388232F7B4DCD2DBA Ref B: SYD03EDGE1517 Ref C: 2022-04-01T06:58:42Z
+Date: Fri, 01 Apr 2022 06:58:41 GMT
