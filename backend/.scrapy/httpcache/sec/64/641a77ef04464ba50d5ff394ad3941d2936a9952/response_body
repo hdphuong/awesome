@@ -1,0 +1,11 @@
+# Global
+User-agent: *
+Disallow: /Members/
+
+# Teads
+User-agent: grapeshot
+Disallow:
+
+# Sitemaps
+Sitemap: https://www.itnews.com.au/sitemap.xml
+Sitemap: https://www.itnews.com.au/sitemap_news.xml

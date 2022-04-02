@@ -1,0 +1,16 @@
+Content-Length: 402
+Server: Varnish
+Retry-After: 0
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Sat, 02 Apr 2022 04:15:32 GMT
+Via: 1.1 varnish
+Set-Cookie: SelectedEdition=edition; Domain=.cnn.com; Path=/;
+Set-Cookie: countryCode=AU; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: stateCode=NSW; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: geoData=kellyville|NSW|2155|AU|OC|1100|broadband|-33.710|150.980; Domain=.cnn.com; Path=/; SameSite=None; Secure
+State: ERROR
+X-Served-By: cache-syd10179-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1648872932.419402,VS0,VE1

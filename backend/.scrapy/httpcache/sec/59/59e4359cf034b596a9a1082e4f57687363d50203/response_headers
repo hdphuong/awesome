@@ -1,0 +1,13 @@
+Date: Sat, 02 Apr 2022 04:15:30 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Location: news.php
+Vary: negotiate,Accept-Encoding
+Tcn: choice
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o5OndDl2mlSMYN8Kvo%2F2Ab71VVPLIJ1C4MYg9fE9ry9%2BDQ7x0aX5eHHxglggIZwHLQTXJRBxEmwmjiDSBe8MT2%2B6O16%2FzUo3Sct%2B945q%2BAEUHPVfo1EabpjDX4hfrUEsoOnjgHs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f56be577f3c16b9-SYD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
