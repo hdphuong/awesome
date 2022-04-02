@@ -1,0 +1,16 @@
+Date: Sat, 02 Apr 2022 04:59:48 GMT
+Location: https://info.blumira.com/free-siem?mrls=Referred_Leads&mrsp1=KrebsSecurity&mrsp2=Micosoft_365_Desktop_Leaderboard
+Cf-Ray: 6f56ff473faefd3e-SYD
+Cache-Control: no-transform, max-age=120
+Expires: Sat, 02 Apr 2022 05:01:48 GMT
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Cf-Cache-Status: MISS
+Access-Control-Allow-Credentials: false
+Edge-Cache-Tag: CT-69824952173
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Hubspot-Correlation-Id: 20609961-a273-4581-8d29-3628afb75c68
+X-Trace: 2BD115CB7AF7BA526D7EE9CC0FBEAF39C37EEA4369000000000000000000
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9NdAMYysXsCj3QC89zoZDl3B2%2F6cDpoE13zBVDbx0wTxy1feaTNXNZHpMIpEiUaF0A2o%2Buns5YDAcZZnxILJzJb%2F8h5zJaiEsoCTD9xgrGekDpA5Q60FlhdbIFNFZzZtrn4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
