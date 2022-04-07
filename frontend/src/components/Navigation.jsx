@@ -4,7 +4,6 @@ import { NavLink } from "react-router-dom";
 function Navigation() {
   return (
     <div className="navigation">
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
             React Multi-Page Website
@@ -18,24 +17,23 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
-                  About
+                <NavLink className="nav-link" to="/login">
+                 Login 
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/contact">
-                  Contact
+                <NavLink className="nav-link" to="/captcha">
+                  Captcha 
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/blog">
-                  Blog
+                <NavLink className="nav-link" to="/honeypot">
+                 Honeypot 
                 </NavLink>
               </li>
             </ul>
           </div>
         </div>
-      </nav>
     </div>
   );
 }
