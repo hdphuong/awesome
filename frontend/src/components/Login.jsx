@@ -39,7 +39,7 @@ function Login() {
             <h1 class="font-weight-light">Login</h1>
             {loginData ? 
               ( <div>
-                <p> If_this_was_a_flag: congrats_logged_in_successfully </p>
+                <p> If this was a flag: Flag{" {"}congrats_logged_in_successfully{"}"} </p>
                 <GoogleLogout
                 clientId={clientId}
                 buttonText={"Logout"}

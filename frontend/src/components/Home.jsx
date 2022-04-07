@@ -13,13 +13,13 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home page</h1>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            <h1 class="font-weight-light">CTFs for spiders XD </h1>
+            <p> This site implemented 3 most widely used anti-scraping techniques: </p>
+            <ul> 
+              <li> Authentication/Authorisation </li>
+              <li> Captcha </li>
+              <li> Honeypot </li>
+            </ul>
           </div>
         </div>
       </div>

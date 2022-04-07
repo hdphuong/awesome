@@ -1,6 +1,17 @@
 import React from "react";
+import ReCAPTCHA from "react-google-recaptcha";
 
 function Captcha() {
+  const recaptchaRef = React.createRef();
+
+  const [isHuman, setIsHuman] = React.useState(false);
+
+  const onChange = (value) => {
+    setIsHuman(true);
+    console.log("Captcha value:", value);
+  };
+
+
   return (
     <div className="captcha">
       <div class="container">
@@ -14,12 +25,12 @@ function Captcha() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Captcha</h1>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            {isHuman ? <div> if this was a flag: Flag{" {"}congrats_you_bypass_captcha{"}"} </div> :
+              <ReCAPTCHA
+                ref={recaptchaRef}
+                sitekey="6Lcx1VMfAAAAAL6Af_ocFM_4gAjWNgqb2Nd-CJ8N"
+                onChange={onChange}
+              /> }
           </div>
         </div>
       </div>

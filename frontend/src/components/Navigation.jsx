@@ -5,17 +5,12 @@ function Navigation() {
   return (
     <div className="navigation">
         <div className="container">
-          <NavLink className="navbar-brand" to="/">
-            React Multi-Page Website
+          <NavLink className="navbar-brand" style={{marginTop:'50px'}} to="/">
+          Something <s>sus</s> awesome
           </NavLink>
+          <hr/>
           <div>
             <ul className="navbar-nav ml-auto">
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/">
-                  Home
-                  <span className="sr-only">(current)</span>
-                </NavLink>
-              </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/login">
                  Login 

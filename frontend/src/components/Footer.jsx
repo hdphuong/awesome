@@ -6,7 +6,7 @@ function Footer() {
       <footer class="py-5 bg-dark fixed-bottom">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Copyright &copy; Your Website 2020
+            <a class="m-0 text-center text-white" href="https://hdphuong.github.io/"> &copy; Mae Vuong 2022 </a>
           </p>
         </div>
       </footer>
