@@ -1,0 +1,17 @@
+Content-Length: 20
+Server: nginx
+Date: Sat, 02 Apr 2022 05:22:33 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Last-Modified: Fri, 01 Apr 2022 17:27:09 GMT
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+X-Redirect-By: WordPress
+Location: https://nakedsecurity.sophos.com/feed/
+X-Rq: syd2 0 2 9980
+Cache-Control: max-age=300, must-revalidate
+Etag: W/"5d56789b93c5543d1703fee757276fe5"
+Content-Encoding: gzip
+Age: 193
+X-Cache: hit
+Strict-Transport-Security: max-age=31536000

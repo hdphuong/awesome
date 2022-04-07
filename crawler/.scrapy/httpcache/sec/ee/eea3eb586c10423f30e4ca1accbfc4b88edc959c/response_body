@@ -1,0 +1,253 @@
+
+
+<!doctype html>
+<html>
+<head><meta charset="utf-8" /><title>
+	Ransomware evolving from 'spray and pray' to more targeted attacks - iTnews
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="robots" content="noindex, nofollow" />
+    <link href="/styles/Print.css" rel='stylesheet' type='text/css'>
+    <script>window.onload = function() { window.print(); }</script>
+</head>
+<body>
+    <div id="print-logo"><img src="/images/itnews-logo-print.gif" alt="iTnews" /></div>
+    <div id="print-only">
+        
+<article class="small-12 large-12 columns" itemscope itemtype="http://schema.org/NewsArticle">
+    
+    
+        <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank' class='sponsored-link-ar'>Learn more  &nbsp; &#8594;</a>">Promoted Content</span>
+    
+
+    <h1 id="article-headline" class=" paid-content" itemprop="headline">
+        Ransomware evolving from 'spray and pray' to more targeted attacks</h1>
+    <div id="article-details-mobile">
+        By 
+                <a href="/author/radware-1612244">
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="name">Radware</span>
+                    </span>
+                </a>
+            
+        
+        on
+        <span id="ucArticle_lbDateFromMobile" itemprop="datePublished" content="2021-11-26T13:24">Nov 26, 2021 1:24PM</span>
+    </div>
+    <div class="row collapse">
+
+        <div id="article-primary" class=" paid-content">
+            
+
+            <div id="article-image" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img id="ucArticle_imgImage" width="480" height="496" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20211126012728_cyber_security.jpg&amp;w=480&amp;c=0&amp;s=1" alt="Ransomware evolving from &#39;spray and pray&#39; to more targeted attacks" />
+                    <meta itemprop="url" content="https://i.nextmedia.com.au/Features/20211126012728_cyber_security.jpg">
+                    <meta itemprop="width" content="960">
+                    <meta itemprop="height" content="540">
+
+                    
+
+                
+
+                <div id="linked-gallery-placeholder"></div>
+            </div>
+
+            <div id="div-gpt-ad-island" class="mrec-top"></div>
+
+            
+                <h2 id="article-intro" itemprop="description">
+                    Gangs teasing victims with DDoS attacks.</h2>
+            
+
+            
+            <div id="article-body" itemprop="articleBody">
+                <p>Ransomware gangs are evolving from &lsquo;spray and pray&rsquo; campaigns to more targeted attacks that threaten use of distributed denial of service (DDoS) attacks to interrupt specific business services.</p>
+
+<p>DDoS attacks are not only effective in disrupting business operations, but they can be launched in seconds without even having to launch a phishing attack or breach the target&rsquo;s network security perimeter. Their efficacy has made them useful to cybercriminals who want to push victims to fork over ransoms quickly.</p>
+
+<p>August 2021 &ldquo;was a month where DDoS attack records were challenged and broken across three major continents,&rdquo; states Radware&rsquo;s <em><a href="https://discover.radware.com/c/Web-Application-Security-Report_2021_RR?x=NpnydB">Q3 DDoS Attack Report.</a></em> It notes that Radware blocked more malicious incidents between January and August of 2021 than during the entirety of 2020.</p>
+
+<p><strong>Cloud increasing exposure</strong></p>
+
+<p>That surge in DDoS attacks reported by Radware corresponds with an increase in use of cloud applications during the pandemic. Radware estimates that 70 percent of production web applications are <a href="https://discover.radware.com/c/Web-Application-Security-Report_2021_RR?x=NpnydB">running</a> in cloud environments.</p>
+
+<p>&ldquo;The transition to the cloud provides scalability for organisations because they can go very, very fast based on demand,&rdquo; pointed out Radware vice president of APJ Yaniv Hoffman, &ldquo;But as applications become more public-facing and user-centric, those applications also become more vulnerable.&rdquo;</p>
+
+<p>Cybercriminals have adapted their attack methods in line with changing business trends, shifting from network-level attacks to application-level attacks.</p>
+
+<p>This creates new challenges for security staff, because conventional network-level tools don&rsquo;t provide the visibility to applications needed to detect and deal with these attacks.</p>
+
+<p>That has left ransomware gangs free to hector their victims, Hoffman said, noting that in many cases the gangs would tease victims with a short DDoS attack &ldquo;as an example of what they can do.&rdquo;</p>
+
+<p>&ldquo;In 24 hours, if victims don&rsquo;t pay, they will threaten to launch the full force of an attack for every day that they don&rsquo;t pay the ransom,&rdquo; Hoffman said.</p>
+
+<p>&ldquo;Being hit by a ransom DDoS impacts business continuity and availability &ndash;&nbsp;and in turn, the credibility of these organisations. Many organisations pay just to avoid that.&rdquo;</p>
+
+<p>Radware also <a href="https://discover.radware.com/c/c-suite_2020_rr?x=NpnydB">found</a> that adoption of hybrid environments increased in 76 percent of surveyed companies &ndash; further complicating cybersecurity.</p>
+
+<p><strong>Building a frictionless defence</strong></p>
+
+<p>Companies face <a href="https://www.itnews.com.au/resource/5-challenges-to-keeping-application-environments-secure-572314">five critical challenges</a> in securing hybrid environments, Radware noted, including:</p>
+
+<ul>
+	<li>Emerging threat vectors that expose applications and cloud environments to attacks</li>
+	<li>A broader threat surface where both the cloud-based application surface and application infrastructure are exposed</li>
+	<li>The need for an Agile software development and DevOps culture that integrates security</li>
+	<li>The challenges of multi-cloud deployments across on-premise, hybrid, and public clouds &ndash; each with their own capabilities, APIs, management, and reporting</li>
+	<li>Ownership of security budgets and strategies by non-security stakeholders, whose disengagement with security practise impedes their ability to drive meaningful security improvements</li>
+</ul>
+
+<p>A DevSecOps practise, which embeds security into DevOps, can be challenging &ndash; not least because it challenges long-held notions of system and application ownership.</p>
+
+<p>In 92 percent of organisations, Radware <a href="https://discover.radware.com/c/Web-Application-Security-Report_2021_RR?x=NpnydB">reported</a>, security staff have no say regarding the structure of the organisation&rsquo;s continuous integration/continuous deployment (CI/CD) processes. Hoffman said this was not acceptable because of the potential for business interruption.</p>
+
+<p>He said that progressive companies are working through these conflicts to implement &lsquo;frictionless security&rsquo;, which extends across cloud applications and hybrid environments.</p>
+
+<p>&ldquo;Because applications are rolling out very fast, you need to make sure security is not creating a bottleneck for that,&rdquo; he explained. &ldquo;You don&rsquo;t want to disturb processes.&rdquo;</p>
+
+<p>Effective frictionless security requires companies to step back and reconsider the way they secure applications, Hoffman said. Automation is invaluable for continuously monitoring application development and deployment, as well as user activities, for anomalies.</p>
+
+<p>Cybercriminals often disguise and stagger their attacks or use volumetric DDoS attacks to hide low-and-slow application and encryption attacks. So, anomaly detection can be all but impossible with manual cybersecurity processes, Hoffman said.</p>
+
+<p>Hardcoding security policies into applications was an intrinsically limited solution, he argued: &ldquo;Only by automating algorithms can you identify the changes in applications and automatically adapt security policies.&rdquo;</p>
+
+<p>&ldquo;If you base your algorithms for security on machine learning, you learn the behaviour of the users &ndash; and the algorithm by itself can learn what is good and bad. That&rsquo;s how you don&rsquo;t interfere with the rollout of the application, while adding frictionless security.&rdquo;</p>
+
+                
+            </div>
+            
+
+            
+
+            <div class="news-tip">
+                Got a news tip for our journalists? <a href="/feedback/?id=573225&type=newstip">Share it with us anonymously here</a>.
+            </div>
+
+            
+                <div class="newsletter-subscribe-container">
+                    <a id="ucArticle_hlNewsletterSubscribe" href="/register?src=ITN_ArticlePromo_1_573225"><img id="ucArticle_imgNewsletterSubscribe" width="500" height="131" src="/images/newsletter-promo-1.png" /></a>
+                </div>
+            
+
+            
+
+            <div id="article-source">
+                <a href="http://www.itnews.com.au" target="_blank">Copyright  &#169; iTnews.com.au</a> . All rights reserved.
+            </div>
+
+            <div id="article-tag-container">
+                
+                        <div id="article-tag-header">Tags:</div>
+                    <a class="article-tag" href="/tag/cybersecurity">cybersecurity</a><a class="article-tag" href="/tag/ddos">ddos</a><a class="article-tag" href="/tag/devsecops">devsecops</a><a class="article-tag" href="/tag/frictionless">frictionless</a><a class="article-tag" href="/partner-content/promoted-content">promoted content</a><a class="article-tag" href="/tag/radware">radware</a><a class="article-tag" href="/tag/ransomware">ransomware</a>
+            </div>
+
+            
+
+            
+
+            
+            
+
+            
+
+            
+        </div>
+        <aside id="article-secondary">
+            <div id="article-details">
+                By 
+                        <a href="/author/radware-1612244">
+                            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="name">Radware</span>
+                            </span>
+                        </a>
+                    
+                <br>
+                <span id="ucArticle_lbDateFrom" itemprop="datePublished" content="2021-11-26T13:24">Nov 26 2021<br />1:24PM</span>
+            </div>
+            <div id="article-scroll">
+                <div class="article-share">
+                    <a class="share-comments" title="Join the Conversation" href="/feature/ransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225#disqus_thread" data-disqus-identifier="573225">0 Comments</a>
+                    <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Ransomware evolving from 'spray and pray' to more targeted attacks&amp;related=&amp;url=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source=desktop%26utm_medium=twitter%26utm_campaign=share" target="_blank">
+                        <div id="article-twitter-share-count"></div>
+                    </a>
+                    <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source=desktop%26utm_medium=facebook%26utm_campaign=share" target="_blank">
+                        <div id="article-facebook-share-count"></div>
+                    </a>
+                    <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source=desktop%26utm_medium=linkedin%26utm_campaign=share" target="_blank">
+                        <div id="article-linkedin-share-count"></div>
+                    </a>
+                    <a class="share-feedback" title="Send Feedback" href="/feedback/?id=573225"></a>
+                    <a class="share-email" title="Email A Friend" href="mailto:?subject=iTnews: Ransomware evolving from 'spray and pray' to more targeted attacks&amp;body=Check out this great article I read on iTnews:%0D%0A%0D%0ARansomware evolving from 'spray and pray' to more targeted attacks%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source=desktop%26utm_medium=email%26utm_campaign=share"></a>
+                    <a class="share-print" title="Print" href="/tools/print.aspx?ciid=573225" target="_blank"></a>
+                </div>
+                
+        <div>
+            <h3 class="section-header"><span>Related Articles</span></h3>
+            <ul id="related-article-list">
+    
+        <li><a href="/feature/how-barracuda-built-a-robust-barricade-for-school-it-security-575601">How Barracuda built a robust barricade for school IT security</a></li>
+    
+        <li><a href="/feature/why-cios-must-now-think-differently-about-application-security-573517">Why CIOs must now think differently about application security</a></li>
+    
+        <li><a href="/feature/ransomware-attacks-drive-ztna-adoption-learning-from-those-who-learned-the-hard-way-578079">Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way</a></li>
+    
+        <li><a href="/feature/why-there-is-no-upside-to-sending-data-offshore-for-storage-574188">Why there is no upside to sending data offshore for storage</a></li>
+    
+        </ul>
+        </div>
+    
+
+
+
+
+
+
+
+            </div>
+        </aside>
+    </div>
+
+    <div class="article-share-mobile">
+        <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Ransomware evolving from 'spray and pray' to more targeted attacks&amp;related=&amp;url=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source%3Dmobile%26utm_medium%3Dtwitter%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-twitter.png" border="0" alt="Share on Twitter" /></a>
+        <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source%3Dmobile%26utm_medium%3Dfacebook%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-facebook.png" border="0" alt="Share on Facebook" /></a>
+        <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source%3Dmobile%26utm_medium%3Dlinkedin%26utm_campaign%3Dshare" target="_blank">
+            <img src="/Images/mobile-share-linkedin.png" border="0" alt="Share on LinkedIn" /></a>
+        <a class="share-whatsapp" title="Share on WhatsApp" href="whatsapp://send?text=Ransomware evolving from 'spray and pray' to more targeted attacks%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source%3Dmobile%26utm_medium%3Dwhatsapp%26utm_campaign%3Dshare">
+            <img src="/Images/mobile-share-whatsapp.png" border="0" alt="Share on Whatsapp" /></a>
+        <a class="share-email" title="Email A Friend" href="mailto:?subject=iTnews: Ransomware evolving from 'spray and pray' to more targeted attacks&amp;body=Check out this great article I read on iTnews:%0D%0A%0D%0ARansomware evolving from 'spray and pray' to more targeted attacks%0D%0A%0D%0Ahttps%3a%2f%2fwww.itnews.com.au%2ffeature%2fransomware-evolving-from-spray-and-pray-to-more-targeted-attacks-573225%3Futm_source%3Dmobile%26utm_medium%3Demail%26utm_campaign%3Dshare">
+            <img src="/Images/mobile-share-email.png" border="0" alt="Email A Friend" /></a>
+    </div>
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://www.itnews.com.au/images/itn-logo-clean.png">
+            <meta itemprop="width" content="255">
+            <meta itemprop="height" content="79">
+        </div>
+        <meta itemprop="name" content="iT News">
+    </div>
+</article>
+
+
+    
+    </div>
+    <div id="footer-terms">
+        All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />Your use of this website
+        constitutes acceptance of nextmedia's <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">Privacy Policy</a> and 
+        <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">Terms & Conditions</a>.
+    </div>
+    <script>
+        // analytics
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-102830131-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+</body>
+</html>

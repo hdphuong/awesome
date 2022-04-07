@@ -1,0 +1,79 @@
+<html>
+<head><script async src="https://www.googleoptimize.com/optimize.js?id=GTM-N4JSZJ8"></script><script>window.redwood={"consentGroups":{"C0001":true,"C0002":true,"C0003":true,"C0004":true},"country":"AU","colo":"SYD","user":null,"locale":"en-US"}</script>
+    <script type="text/javascript">
+      var OneTrust={"geolocationResponse":{"stateCode":"NSW","countryCode":"AU"}}
+    </script>
+    <script>
+     const acceptedLocales = [
+      'en-au',
+      'en-ca',
+      'en-gb',
+      'en-in',
+      'en-us',
+      'de-de',
+      'es-es',
+      'fr-fr',
+      'it-it',
+      'ja-jp',
+      'ko-kr',
+      'pt-br',
+      'zh-tw',
+      'zh-cn',
+      'zh-Hans-CN',
+    ];
+    const orphanLocales = [
+      'ru-ru',
+      'sv-se',
+      'nl-nl',
+      'vi-vn',
+      'th-th',
+      'id-id',
+      'tr-tr',
+    ];
+    const ignoreList = [
+      'apps',
+      'docs',
+      'rate-limit-test',
+      'rss',
+    ]
+    function getPathFromLocale(locale, code, pathString) {
+      if ( locale === code || !acceptedLocales.includes(code) || acceptedLocales.includes(locale) || orphanLocales.includes(locale) ) {
+        return null;
+      } else {
+        return [code, locale ? locale : '', pathString].filter(part => part !== '').join('/');
+      }
+    };
+    if (localStorage.getItem('langPreference')) {
+      if (localStorage.getItem('langPreference').toLowerCase() != 'en-us') {
+          const langPreference = localStorage.getItem('langPreference').toLowerCase();
+          const splitPath = window.location.pathname.split('/').filter(part => part !== '');
+          const currentLang = splitPath[0];
+          if (!acceptedLocales.includes(currentLang) && !orphanLocales.includes(currentLang) && !ignoreList.includes(splitPath[0])) {
+            splitPath.splice(0, 0, langPreference.toLowerCase());
+            const newUrl = 'https://' + window.location.hostname + '/' + splitPath.join('/') + '/' + window.location.search;
+            window.location.replace(newUrl);
+          }
+        }
+    } else if (!window.navigator.userAgent.toLowerCase().includes('googlebot')) {
+        const requestedLang = window.navigator.language;
+        const splitPath = window.location.pathname.split('/').filter(part => part !== '');
+        const maybeLocale = splitPath.shift();
+        const splitPathString = splitPath.join('/');
+
+        if (requestedLang && requestedLang.toLowerCase() != "en-us") {
+          const requestedLangCode = requestedLang
+            .toLowerCase()
+            .replace('_', '-');
+          const redirectPath = getPathFromLocale(maybeLocale, requestedLangCode, splitPathString);
+          if (redirectPath && !ignoreList.includes(maybeLocale)) {
+            window.location.replace('https://' + window.location.hostname + '/' + redirectPath + '/' + window.location.search);
+          }
+        }
+      }
+    </script><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6f57211ac989556f","token":"6f9a2202213848f5bff934592489e351","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

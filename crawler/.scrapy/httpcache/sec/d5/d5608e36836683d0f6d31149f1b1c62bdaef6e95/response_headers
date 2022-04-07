@@ -1,0 +1,14 @@
+Date: Sat, 02 Apr 2022 05:22:28 GMT
+Content-Type: text/plain;charset=UTF-8
+Cf-Ray: 6f57207eee9c6a0e-SYD
+Access-Control-Allow-Origin: *
+Age: 16
+Cache-Control: public, max-age=30
+Content-Encoding: gzip
+Expires: Sat, 02 Apr 2022 07:22:28 GMT
+Last-Modified: Sat, 02 Apr 2022 05:22:12 GMT
+Vary: Accept-Encoding, Origin
+Cf-Cache-Status: HIT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Proxy-By: https://www.darkreading.com
+Server: cloudflare
