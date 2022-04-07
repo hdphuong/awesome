@@ -1,12 +1,23 @@
-import { GoogleLogin } from "react-google-login";
+import { GoogleLogin, GoogleLogout } from "react-google-login";
 import React from "react";
-
-const clientId = "245615667287-nb0938ataneoq84jj6r1bmm9k6sqpngn.apps.googleusercontent.com";
+import { gapi } from 'gapi-script'
+import { useState } from "react";
 
 
 function Login() {
-  const onSuccess = (response) => {
-    console.log(response);
+  const clientId = "245615667287-nb0938ataneoq84jj6r1bmm9k6sqpngn.apps.googleusercontent.com";
+
+  const [loginData, setLoginData] = useState( 
+    localStorage.getItem("loginData") ? JSON.parse(localStorage.getItem("loginData")) : null);
+
+  const handleLogin = (response) => {
+    setLoginData(response.profileObj);
+
+  }
+
+  const handleLogout = (response) => {
+    localStorage.removeItem("loginData");
+    setLoginData(null);
   }
 
   const onFailure = (response) => {
@@ -26,14 +37,24 @@ function Login() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Login</h1>
-            <GoogleLogin 
+            {loginData ? 
+              ( <div>
+                <p> If_this_was_a_flag: congrats_logged_in_successfully </p>
+                <GoogleLogout
+                clientId={clientId}
+                buttonText={"Logout"}
+                onLogoutSuccess={handleLogout} /> 
+                </div>)
+            :
+            (<GoogleLogin 
               clientId = {clientId}
               buttonText="Login"
-              onSuccess={onSuccess}
+              onSuccess={handleLogin}
               onFailure={onFailure}
               cookiePolicy={'single_host_origin'}
               isSignedIn={true}
-            />
+            />)
+            }
           </div>
         </div>
       </div>
