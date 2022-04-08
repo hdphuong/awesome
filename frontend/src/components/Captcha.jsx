@@ -16,7 +16,7 @@ function Captcha() {
     <div className="captcha">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-6">
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Captcha</h1>

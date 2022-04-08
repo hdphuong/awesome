@@ -5,7 +5,7 @@ function Navigation() {
   return (
     <div className="navigation">
         <div className="container">
-          <NavLink className="navbar-brand" style={{marginTop:'50px'}} to="/">
+          <NavLink className="navbar-brand" style={{marginTop:'5%'}} to="/">
           Something <s>sus</s> awesome
           </NavLink>
           <hr/>
