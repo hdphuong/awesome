@@ -9,8 +9,7 @@ import {
   Login,
   Captcha,
   Honeypot,
-  Posts,
-  Post,
+  Sus,
 } from "./components";
 
 
@@ -21,10 +20,8 @@ ReactDOM.render(
       <Route path="/" element={<Home />} />
       <Route path="/login" element={<Login />} />
       <Route path="/captcha" element={<Captcha />} />
-      <Route path="/honeypot" element={<Honeypot/>}>
-        <Route path="" element={<Posts />} />
-        <Route path=":postSlug" element={<Post />} />
-      </Route>
+      <Route path="/honeypot" element={<Honeypot/>} />
+      <Route path="/sus" element={<Sus />} />
     </Routes>
     <Footer />
   </Router>,

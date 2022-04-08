@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home() {
+function Honeypot() {
   return (
     <div className="home">
       <div class="container">
@@ -13,13 +13,9 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">CTFs for spiders </h1>
-            <p> This site implemented 3 most widely used anti-scraping techniques: </p>
-            <ul> 
-              <li> Authentication/Authorisation </li>
-              <li> Captcha </li>
-              <li> Honeypot </li>
-            </ul>
+            <h1 class="font-weight-light">Honeypot</h1>
+            <span> This site is not empty</span>
+            <a href="./sus">.</a>
           </div>
         </div>
       </div>
@@ -27,4 +23,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Honeypot;

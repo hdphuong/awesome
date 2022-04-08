@@ -6,7 +6,6 @@ function Honeypot() {
     <div className="home">
       <div class="container">
         <h1 className="text-center mt-5">Honeypot</h1>
-        <Outlet />
       </div>
     </div>
   );

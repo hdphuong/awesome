@@ -1,23 +1,20 @@
 import { GoogleLogin, GoogleLogout } from "react-google-login";
 import React from "react";
-import { gapi } from 'gapi-script'
 import { useState } from "react";
 
 
 function Login() {
   const clientId = "245615667287-nb0938ataneoq84jj6r1bmm9k6sqpngn.apps.googleusercontent.com";
 
-  const [loginData, setLoginData] = useState( 
-    localStorage.getItem("loginData") ? JSON.parse(localStorage.getItem("loginData")) : null);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const handleLogin = (response) => {
-    setLoginData(response.profileObj);
+    setIsLoggedIn(true);
 
   }
 
   const handleLogout = (response) => {
-    localStorage.removeItem("loginData");
-    setLoginData(null);
+    setIsLoggedIn(false);
   }
 
   const onFailure = (response) => {
@@ -37,7 +34,7 @@ function Login() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Login</h1>
-            {loginData ? 
+            {isLoggedIn ? 
               ( <div>
                 <p> If this was a flag: Flag{" {"}congrats_logged_in_successfully{"}"} </p>
                 <GoogleLogout
