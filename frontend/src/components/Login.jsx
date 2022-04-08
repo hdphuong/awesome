@@ -6,7 +6,7 @@ import { useState } from "react";
 function Login() {
   const clientId = "245615667287-nb0938ataneoq84jj6r1bmm9k6sqpngn.apps.googleusercontent.com";
 
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [isLoggedIn, setIsLoggedIn] = useState();
 
   const handleLogin = (response) => {
     setIsLoggedIn(true);
@@ -30,7 +30,7 @@ function Login() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Login</h1>
             {isLoggedIn ? 
-              ( <div>
+              (<div>
                 <p> If this was a flag: Flag{" {"}congrats_logged_in_successfully{"}"} </p>
                 <GoogleLogout
                 clientId={clientId}
