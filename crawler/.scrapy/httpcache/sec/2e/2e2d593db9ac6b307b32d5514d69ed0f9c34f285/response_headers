@@ -1,0 +1,16 @@
+Content-Length: 43
+Date: Fri, 08 Apr 2022 11:14:26 GMT
+Content-Type: text/plain; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cf-Cache-Status: EXPIRED
+Last-Modified: Fri, 08 Apr 2022 09:46:56 GMT
+Expires: Fri, 08 Apr 2022 15:14:26 GMT
+Cache-Control: public, max-age=14400
+Accept-Ranges: bytes
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __cf_bm=DZxYqv3FsA8hmiLq5eQj.GQUJWQemQvJkUCz5cJkvQw-1649416466-0-AaUHO8Jrx2Gma3oTKski5iGqxSX4KiJUNc7McsYaxvsw90vXLUPddKlrggDrvW+TIZVikhGk8VSO9zKDpdQH0oQ=; path=/; expires=Fri, 08-Apr-22 11:44:26 GMT; domain=.pages.awscloud.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 6f8a944fa8eaa7f5-SYD

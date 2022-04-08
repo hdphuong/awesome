@@ -65,20 +65,6 @@
 
     
 
-    
-    <script type="text/javascript">
-        var _ss = _ss || [];
-        _ss.push(['_setDomain', 'https://koi-3QNNF9XQBW.marketingautomation.services/net']);
-        _ss.push(['_setAccount', 'KOI-4BG98ANIO8']);
-        _ss.push(['_trackPageView']);
-        (function () {
-            var ss = document.createElement('script');
-            ss.type = 'text/javascript'; ss.async = true;
-            ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QNNF9XQBW.marketingautomation.services/client/ss.js?ver=2.4.0';
-            var scr = document.getElementsByTagName('script')[0];
-            scr.parentNode.insertBefore(ss, scr);
-        })();
-    </script>
 </head>
 <body class="">
     <noscript>
@@ -510,18 +496,60 @@
         
                 
                     <div id="carousel-primary">
-                        <a href="/news/public-sector-data-sharing-laws-pass-parliament-with-labor-changes-578147">
+                        <a href="/news/asd-to-create-cyber-security-hubs-in-three-states-578413">
                             <div class=" ">
-                                <img alt="Public sector data sharing laws pass parliament with Labor changes" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fdata_sharing_files_folders_network.jpg&amp;h=573&amp;w=768&amp;c=1&amp;s=1&amp;q=90">
+                                <img alt="ASD to create cyber security hubs in three states" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcode_cyber_security_secret.jpg&amp;h=573&amp;w=768&amp;c=1&amp;s=1&amp;q=90">
                             </div>
                             <div>
-                                <h2>Public sector data sharing laws pass parliament with Labor changes</h2>
+                                <h2>ASD to create cyber security hubs in three states</h2>
                             </div>
                         </a>
                     </div>
                     <div id="carousel-secondary">
                 
 
+                
+
+            
+                
+
+                
+                    <a href="/news/digital-twins-for-defence-a-16m-win-for-mckinsey-578380">
+                        <div class=" ">
+                            <img alt="Digital twins for Defence a $16m win for McKinsey" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fAmberley.jpeg&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
+                        </div>
+                        <div>
+                            <h2>Digital twins for Defence a $16m win for McKinsey</h2>
+                        </div>
+                    </a>
+                
+
+            
+                
+
+                
+                    <a href="/news/aec-taps-accenture-epicon-for-election-systems-rebuild-578347">
+                        <div class=" ">
+                            <img alt="AEC taps Accenture, Epicon for election systems rebuild" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fpoll_ballot_vote_voting.jpg&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
+                        </div>
+                        <div>
+                            <h2>AEC taps Accenture, Epicon for election systems rebuild</h2>
+                        </div>
+                    </a>
+                
+
+            
+                
+
+                
+                    <a href="/news/victoria-installing-zscaler-on-students-personal-devices-to-monitor-traffic-577947">
+                        <div class=" ">
+                            <img alt="Victoria installing Zscaler on students&#39; personal devices to monitor traffic" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-887303126.jpg&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
+                        </div>
+                        <div>
+                            <h2>Victoria installing Zscaler on students' personal devices to monitor traffic</h2>
+                        </div>
+                    </a>
                 
 
             
@@ -539,62 +567,20 @@
                 
 
             
-                
-
-                
-                    <a href="/news/global-tech-talent-visa-intake-halved-amid-skills-shortage-578088">
-                        <div class=" ">
-                            <img alt="Global tech talent visa intake halved amid skills shortage" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvisa_passport.jpg&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
-                        </div>
-                        <div>
-                            <h2>Global tech talent visa intake halved amid skills shortage</h2>
-                        </div>
-                    </a>
-                
-
-            
-                
-
-                
-                    <a href="/news/all-the-tech-in-the-2022-federal-budget-578039">
-                        <div class=" ">
-                            <img alt="All the tech in the 2022 federal budget" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fparliament.jpg&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
-                        </div>
-                        <div>
-                            <h2>All the tech in the 2022 federal budget</h2>
-                        </div>
-                    </a>
-                
-
-            
-                
-
-                
-                    <a href="/news/how-nabs-buyout-forced-86-400-to-lift-its-data-game-577888">
-                        <div class=" ">
-                            <img alt="How NAB&#39;s buyout forced 86 400 to lift its data game" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f86_400.png&amp;h=190&amp;w=384&amp;c=1&amp;s=1&amp;q=90">
-                        </div>
-                        <div>
-                            <h2>How NAB's buyout forced 86 400 to lift its data game</h2>
-                        </div>
-                    </a>
-                
-
-            
                 </div>
             
     </div>
     <div class="row">
         <div class="large-8 columns container-primary">
             <h3 class="section-header"><span><a href="/news">Latest News</a></span></h3>
-            <div id="breaking-stories" class="row" data-article-list="578147,578129,578088,578039,577888,578192,578175,578167,578161,578164,578133,578142,578106,578123,578125,578113,578110,578124,578069,578084,578103,578108,578107,578056,578075,574258,574233,574006,565402" data-page-no="2">
+            <div id="breaking-stories" class="row" data-article-list="578413,578380,578347,577947,578129,578510,578505,578512,578473,578461,578456,578455,578480,578384,578435,578448,578400,578408,578407,578391,578368,578350,578329,578362,578335,574258,574233,574006,565402" data-page-no="2">
                 
                         <div class="row collapse">
                     
                         <div class="small-12 medium-6 columns row-spacer article-list-top ">
-                            <a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192">
+                            <a href="/news/netapp-acquires-canberras-instaclustr-578510">
                                 <div class="small-3 medium-12 columns article-list-img  ">
-                                    <img alt="Defence cancels SkyGuardian drones to fund REDSPICE cyber plan" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fskyguardian.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
+                                    <img alt="NetApp acquires Canberra&amp;#8217;s Instaclustr" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220406080955_netapp-sign.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
 
                                     
                                     
@@ -603,18 +589,18 @@
                                     
                                     
 
-                                    <h2 class="article-list-title">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</h2>
-                                    <div class="article-list-intro">Billion-dollar project canned.</div>
-                                    <div class="article-list-details">Apr 1 2022 3:48PM</div>
+                                    <h2 class="article-list-title">NetApp acquires Canberra&#8217;s Instaclustr</h2>
+                                    <div class="article-list-intro">Win for ANU Connect Ventures.</div>
+                                    <div class="article-list-details">Apr 8 2022 1:03PM</div>
                                 </div>
                             </a>
                         </div>
                         
                     
                         <div class="small-12 medium-6 columns row-spacer article-list-top ">
-                            <a href="/news/victoria-police-poaches-long-time-health-cio-578175">
+                            <a href="/news/hpc-and-research-infrastructure-need-reworking-says-new-roadmap-578505">
                                 <div class="small-3 medium-12 columns article-list-img  ">
-                                    <img alt="Victoria Police poaches long-time health CIO" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsteve_hodgkinson.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
+                                    <img alt="HPC and research infrastructure need reworking, says new roadmap" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fpawsey_magnus.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
 
                                     
                                     
@@ -623,9 +609,9 @@
                                     
                                     
 
-                                    <h2 class="article-list-title">Victoria Police poaches long-time health CIO</h2>
-                                    <div class="article-list-intro">As new digital chief.</div>
-                                    <div class="article-list-details">Apr 1 2022 12:05PM</div>
+                                    <h2 class="article-list-title">HPC and research infrastructure need reworking, says new roadmap</h2>
+                                    <div class="article-list-intro">Gov lays out priorities for a decade.</div>
+                                    <div class="article-list-details">Apr 8 2022 11:46AM</div>
                                 </div>
                             </a>
                         </div>
@@ -634,9 +620,9 @@
                         
                     
                         <div class="small-12 medium-6 columns row-spacer article-list-top ">
-                            <a href="/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578167">
+                            <a href="/news/tpg-functional-separation-approved-by-accc-578512">
                                 <div class="small-3 medium-12 columns article-list-img  ">
-                                    <img alt="Second critical infrastructure cyber security bill passes parliament" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fpowerpolesshutterstock_32484703.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
+                                    <img alt="TPG functional separation approved by ACCC" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20130327075205_new-fibre-optic-cable.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
 
                                     
                                     
@@ -645,18 +631,18 @@
                                     
                                     
 
-                                    <h2 class="article-list-title">Second critical infrastructure cyber security bill passes parliament</h2>
-                                    <div class="article-list-intro">Protecting &#8216;systems of national significance&#8217;.</div>
-                                    <div class="article-list-details">Apr 1 2022 12:00PM</div>
+                                    <h2 class="article-list-title">TPG functional separation approved by ACCC</h2>
+                                    <div class="article-list-intro">Wholesale-retail split to go ahead.</div>
+                                    <div class="article-list-details">Apr 8 2022 1:59PM</div>
                                 </div>
                             </a>
                         </div>
                         
                     
                         <div class="small-12 medium-6 columns row-spacer article-list-top ">
-                            <a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161">
+                            <a href="/news/senate-inquiry-calls-for-gov-to-wind-up-covidsafe-app-578473">
                                 <div class="small-3 medium-12 columns article-list-img  ">
-                                    <img alt="NBN Co gets 250 orders in first week of FTTN-P upgrades being offered" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20170209010401_4-CRN-690-nbn-worker-1427845405307.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
+                                    <img alt="Senate inquiry calls for gov to wind up COVIDSafe app" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcovidsafe_(3).png&amp;h=292&amp;w=480&amp;c=1&amp;s=1">
 
                                     
                                     
@@ -665,9 +651,9 @@
                                     
                                     
 
-                                    <h2 class="article-list-title">NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</h2>
-                                    <div class="article-list-intro">Confirms it will stick to caretaker conventions during election period.</div>
-                                    <div class="article-list-details">Apr 1 2022 11:19AM</div>
+                                    <h2 class="article-list-title">Senate inquiry calls for gov to wind up COVIDSafe app</h2>
+                                    <div class="article-list-intro">"Cease any further expenditure".</div>
+                                    <div class="article-list-details">Apr 8 2022 6:40AM</div>
                                 </div>
                             </a>
                         </div>
@@ -678,211 +664,211 @@
 
                 
                 
-                        <a href="/news/sans-spots-spring4shell-vulnerability-exploitation-attempts-578164" class="row collapse article-list-container ">
+                        <a href="/news/acma-clamps-down-on-sim-swap-frauds-578461" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="SANS spots Spring4shell vulnerability exploitation attempts" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvulnerabilities+security+key+unlock+finger.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="ACMA clamps down on SIM-swap frauds" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsim-cards.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">SANS spots Spring4shell vulnerability exploitation attempts</h2>
-                                <div class="article-list-intro">Concern that evolving exploits will hit unpatched applications.</div>
-                                <div class="article-list-details">Apr 1 2022 11:25AM</div>
+                                <h2 class="article-list-title">ACMA clamps down on SIM-swap frauds</h2>
+                                <div class="article-list-intro">Stronger ID required.</div>
+                                <div class="article-list-details">Apr 8 2022 12:01AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/accc-to-look-at-regional-mobile-tower-access-578133" class="row collapse article-list-container ">
+                        <a href="/news/qantas-looks-to-tech-platforms-to-reduce-call-centre-wait-times-578456" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="ACCC to look at regional mobile tower access" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fmobiletower.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Qantas looks to tech platforms to reduce call centre wait times" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN-690-qantas-iStock_87115335_MEDIUM.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">ACCC to look at regional mobile tower access</h2>
-                                <div class="article-list-intro">Temporary disaster roaming also in its sights.</div>
-                                <div class="article-list-details">Mar 31 2022 4:49PM</div>
+                                <h2 class="article-list-title">Qantas looks to tech platforms to reduce call centre wait times</h2>
+                                <div class="article-list-intro">Says more than half of calls could be self-served.</div>
+                                <div class="article-list-details">Apr 7 2022 1:21PM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/four-industry-run-ai-centres-to-share-in-44m-578142" class="row collapse article-list-container ">
+                        <a href="/news/vmware-admins-asked-to-patch-eight-vulnerabilities-578455" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Four industry-run AI centres to share in $44m" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220331023640_ai_brain.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="VMware admins asked to patch eight vulnerabilities" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvmware-sign_20210414185459.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Four industry-run AI centres to share in $44m</h2>
-                                <div class="article-list-intro">Will drive research commercialisation.</div>
-                                <div class="article-list-details">Mar 31 2022 3:49PM</div>
+                                <h2 class="article-list-title">VMware admins asked to patch eight vulnerabilities</h2>
+                                <div class="article-list-intro">Authentication bypass, remote code execution, and more.</div>
+                                <div class="article-list-details">Apr 7 2022 4:40PM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/regional-telco-review-lags-on-digital-equity-578106" class="row collapse article-list-container ">
+                        <a href="/news/french-court-upholds-150-million-euro-fine-against-google-578480" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Regional telco review lags on digital equity" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fnbn_fixedwirelesstower_1043.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="French court upholds 150 million euro fine against Google" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fwatch_google_unveil_the_pixel_2_right_here_5pm_uk_time_.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Regional telco review lags on digital equity</h2>
-                                <div class="article-list-intro">Public safety gets a nod.</div>
-                                <div class="article-list-details">Apr 1 2022 6:30AM</div>
+                                <h2 class="article-list-title">French court upholds 150 million euro fine against Google</h2>
+                                <div class="article-list-intro">Opaque ad rules turn out costly.</div>
+                                <div class="article-list-details">Apr 8 2022 6:38AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/afp-gets-budget-backing-to-beef-up-account-takeovers-578123" class="row collapse article-list-container ">
+                        <a href="/news/toyota-australia-cio-departs-578384" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="AFP gets budget backing to beef up account takeovers" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fafp_commissioner.png&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Toyota Australia CIO departs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2ftoyota.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">AFP gets budget backing to beef up account takeovers</h2>
-                                <div class="article-list-intro">Commissioner says powers are the 'envy' of the world.</div>
-                                <div class="article-list-details">Mar 31 2022 12:20PM</div>
+                                <h2 class="article-list-title">Toyota Australia CIO departs</h2>
+                                <div class="article-list-intro">Wayne Gabriel takes over.</div>
+                                <div class="article-list-details">Apr 7 2022 11:50AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/meridian-energy-appoints-a-cio-578125" class="row collapse article-list-container ">
+                        <a href="/news/telstra-now-blocking-scam-texts-in-the-network-578435" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Meridian Energy appoints a CIO" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBharat_Ratanpal.jpeg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Telstra now blocking scam texts in the network" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fphone_message_scam.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Meridian Energy appoints a CIO</h2>
-                                <div class="article-list-intro">Elevates IT to the exec team to recognise importance of digital.</div>
-                                <div class="article-list-details">Mar 31 2022 12:10PM</div>
+                                <h2 class="article-list-title">Telstra now blocking scam texts in the network</h2>
+                                <div class="article-list-intro">Malware like Flubot gets the flick.</div>
+                                <div class="article-list-details">Apr 7 2022 10:42AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/gov-puts-low-income-broadband-issue-back-on-nbn-co-578113" class="row collapse article-list-container ">
+                        <a href="/news/fbi-cyclops-blink-operation-disinfected-thousands-of-watchguard-appliances-578448" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Gov puts low-income broadband issue back on NBN Co" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcash+wallet.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="FBI Cyclops Blink operation disinfected thousands of WatchGuard appliances" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2ffbi586_270478.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Gov puts low-income broadband issue back on NBN Co</h2>
-                                <div class="article-list-intro">In response to regional telco review.</div>
-                                <div class="article-list-details">Mar 31 2022 12:25PM</div>
+                                <h2 class="article-list-title">FBI Cyclops Blink operation disinfected thousands of WatchGuard appliances</h2>
+                                <div class="article-list-intro">Global operation to block GRU-attributed malware.</div>
+                                <div class="article-list-details">Apr 7 2022 11:46AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/telstra-lands-187m-to-upgrade-queensland-school-connectivity-578110" class="row collapse article-list-container ">
+                        <a href="/news/service-nsw-shortlists-face-matching-tech-for-identity-verification-578400" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Telstra lands $187m to upgrade Queensland school connectivity" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fNBN-fibre-closeup-hands.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Service NSW shortlists face matching tech for identity verification" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fface_verification_phone.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Telstra lands $187m to upgrade Queensland school connectivity</h2>
-                                <div class="article-list-intro">5Mbps per student instead of 25Kbps.</div>
-                                <div class="article-list-details">Mar 31 2022 10:39AM</div>
+                                <h2 class="article-list-title">Service NSW shortlists face matching tech for identity verification</h2>
+                                <div class="article-list-intro">Plan to bring software to digital channels progresses.</div>
+                                <div class="article-list-details">Apr 7 2022 6:35AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/third-party-bugs-squashed-in-ibm-database-software-578124" class="row collapse article-list-container ">
+                        <a href="/news/vic-school-it-audit-finds-slow-internet-unnecessary-software-purchases-578408" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Third-party bugs squashed in IBM database software" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fibm_logo.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Vic school IT audit finds slow internet, unnecessary software purchases" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fstock-school-computers.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Third-party bugs squashed in IBM database software</h2>
-                                <div class="article-list-intro">Apache Log4j rears its head.</div>
-                                <div class="article-list-details">Mar 31 2022 12:11PM</div>
+                                <h2 class="article-list-title">Vic school IT audit finds slow internet, unnecessary software purchases</h2>
+                                <div class="article-list-intro">Department accepts recommendations.</div>
+                                <div class="article-list-details">Apr 7 2022 6:40AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/toowoomba-council-jumps-on-iot-bandwagon-578069" class="row collapse article-list-container ">
+                        <a href="/news/telstra-digital-to-be-led-by-telcos-cmo-578407" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Toowoomba council jumps on IoT bandwagon" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fToowoombaCityHall580.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Telstra Digital to be led by telco&#39;s CMO" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fdigital_identity_fingerprint_biometric.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Toowoomba council jumps on IoT bandwagon</h2>
-                                <div class="article-list-intro">Tens of thousands of smart water meters on the way.</div>
-                                <div class="article-list-details">Mar 31 2022 6:20AM</div>
+                                <h2 class="article-list-title">Telstra Digital to be led by telco's CMO</h2>
+                                <div class="article-list-intro">Jeremy Nicholas takes on a new challenge.</div>
+                                <div class="article-list-details">Apr 6 2022 6:04PM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/talent-crisis-raises-questions-over-10bn-redspice-cyber-plan-labor-578084" class="row collapse article-list-container ">
+                        <a href="/news/gov-looks-to-close-data-security-gaps-with-new-action-plan-578391" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Talent crisis raises questions over $10bn REDSPICE cyber plan: Labor" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcyber_security_keyboard_red.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Gov looks to close data security &#39;gaps&#39; with new action plan" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fdata_security.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Talent crisis raises questions over $10bn REDSPICE cyber plan: Labor</h2>
-                                <div class="article-list-intro">Calls for detail on plan to double size of ASD.</div>
-                                <div class="article-list-details">Mar 30 2022 5:01PM</div>
+                                <h2 class="article-list-title">Gov looks to close data security 'gaps' with new action plan</h2>
+                                <div class="article-list-intro">After flurry of recent reforms.</div>
+                                <div class="article-list-details">Apr 6 2022 12:06PM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/misconfigured-vpn-behind-destructive-viasat-attack-578103" class="row collapse article-list-container ">
+                        <a href="/news/labor-pledges-650m-plus-for-regional-communications-578368" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Misconfigured VPN behind destructive Viasat attack" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsatellites-over-earth20130306090013.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Labor pledges $650m-plus for regional communications" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_mobile_rural+coverage.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Misconfigured VPN behind destructive Viasat attack</h2>
-                                <div class="article-list-intro">Tens of thousands of replacement modems ready to ship.</div>
-                                <div class="article-list-details">Mar 31 2022 5:37AM</div>
+                                <h2 class="article-list-title">Labor pledges $650m-plus for regional communications</h2>
+                                <div class="article-list-intro">Will fit Australia Post vehicles with mobile signal measuring devices.</div>
+                                <div class="article-list-details">Apr 6 2022 8:39AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/back-from-vacation---lapsus-hackers-claim-breach-of-globant-578108" class="row collapse article-list-container ">
+                        <a href="/news/victoria-to-replace-wireless-myki-readers-as-3g-shutdown-nears-578350" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="&#39;Back from vacation&#39; - Lapsus$ hackers claim breach of Globant" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2ffbi_my_grey_hacking.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Victoria to replace wireless myki readers as 3G shutdown nears" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20190325113301_myki.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">'Back from vacation' - Lapsus$ hackers claim breach of Globant</h2>
-                                <div class="article-list-intro">Boasts it hauled 70GB of source code.</div>
-                                <div class="article-list-details">Mar 31 2022 6:43AM</div>
+                                <h2 class="article-list-title">Victoria to replace wireless myki readers as 3G shutdown nears</h2>
+                                <div class="article-list-intro">Must get its house in order before 2024.</div>
+                                <div class="article-list-details">Apr 6 2022 6:40AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/sk-hynix-considering-consortium-to-acquire-chip-designer-arm-578107" class="row collapse article-list-container ">
+                        <a href="/news/telstra-announces-regional-review-response-adds-more-non-metro-support-578329" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="SK Hynix considering consortium to acquire chip designer Arm" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsemiconductor.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Telstra announces regional review response, adds more non-metro support" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcrn-690_telco_rural_tower_mobile_regional.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">SK Hynix considering consortium to acquire chip designer Arm</h2>
-                                <div class="article-list-intro">Arm should not be "bought by one company".</div>
-                                <div class="article-list-details">Mar 31 2022 6:41AM</div>
+                                <h2 class="article-list-title">Telstra announces regional review response, adds more non-metro support</h2>
+                                <div class="article-list-intro">Invests an extra $75 million.</div>
+                                <div class="article-list-details">Apr 6 2022 6:40AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/telstra-ceo-andy-penn-is-stepping-down-578056" class="row collapse article-list-container ">
+                        <a href="/news/microsoft-bolsters-windows-11-enterprise-zero-trust-security-578362" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Telstra CEO Andy Penn is stepping down" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fVicki-Brady_250x250.jpeg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Microsoft bolsters Windows 11 enterprise Zero Trust security" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fwindowsurfacePro+copy.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Telstra CEO Andy Penn is stepping down</h2>
-                                <div class="article-list-intro">Vicki Brady named successor.</div>
-                                <div class="article-list-details">Mar 30 2022 8:30AM</div>
+                                <h2 class="article-list-title">Microsoft bolsters Windows 11 enterprise Zero Trust security</h2>
+                                <div class="article-list-intro">Hardware features aim to make hybrid work safer.</div>
+                                <div class="article-list-details">Apr 6 2022 6:50AM</div>
                             </div>
                         </a>
                     
-                        <a href="/news/optus-trains-its-analytics-focus-on-one-click-insights-578075" class="row collapse article-list-container ">
+                        <a href="/news/dell-ships-patch-for-vulnerable-filesystem-578335" class="row collapse article-list-container ">
                             <div class="small-3 columns article-list-img ">
-                                <img alt="Optus trains its analytics focus on &#39;one-click insights&#39;" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fOptus_Tim_Rogers.png&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
+                                <img alt="Dell ships patch for vulnerable filesystem" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fdell_headquaters_400.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=1">
                             </div>
                             <div class="small-9 columns article-list-content">
                                 
                                 
-                                <h2 class="article-list-title">Optus trains its analytics focus on 'one-click insights'</h2>
-                                <div class="article-list-intro">Aims to measure impact of new product and feature releases faster.</div>
-                                <div class="article-list-details">Mar 30 2022 12:32PM</div>
+                                <h2 class="article-list-title">Dell ships patch for vulnerable filesystem</h2>
+                                <div class="article-list-intro">Telemetry loss, account takeover, and more.</div>
+                                <div class="article-list-details">Apr 6 2022 6:25AM</div>
                             </div>
                         </a>
                     
@@ -899,15 +885,15 @@
             <h3 class="section-header"><span>Most Read</span></h3>
             <ul>
     
-                <li><a href="/news/how-nabs-buyout-forced-86-400-to-lift-its-data-game-577888">How NAB's buyout forced 86 400 to lift its data game</a></li>
+                <li><a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161">NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</a></li>
     
-                <li><a href="/news/telstra-ceo-andy-penn-is-stepping-down-578056">Telstra CEO Andy Penn is stepping down</a></li>
+                <li><a href="/news/victoria-installing-zscaler-on-students-personal-devices-to-monitor-traffic-577947">Victoria installing Zscaler on students' personal devices to monitor traffic</a></li>
     
-                <li><a href="/news/tpg-telecom-refutes-optus-complaint-over-telstra-tie-up-577952">TPG Telecom refutes Optus complaint over Telstra tie-up</a></li>
+                <li><a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</a></li>
     
-                <li><a href="/news/all-the-tech-in-the-2022-federal-budget-578039">All the tech in the 2022 federal budget</a></li>
+                <li><a href="/news/victoria-police-hires-long-time-health-cio-578175">Victoria Police hires long-time health CIO</a></li>
     
-                <li><a href="/news/atlassian-data-centre-products-impacted-by-third-party-bug-577943">Atlassian data centre products impacted by third-party bug</a></li>
+                <li><a href="/news/asd-to-create-cyber-security-hubs-in-three-states-578413">ASD to create cyber security hubs in three states</a></li>
     
             </ul>
         </section>
@@ -918,58 +904,6 @@
             
         <section class="paid-content-box">
             <h3 class="section-header"><span><a href="/partner-content">Partner Content</a></span></h3>
-    
-        <a class="row collapse whitepapers-list" href="/feature/ransomware-attacks-drive-ztna-adoption-learning-from-those-who-learned-the-hard-way-578079">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f0_0_480_1_70__Features_2021120.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/why-its-more-important-than-ever-to-ditch-outdated-cmss-576417">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Why it&#39;s more important than ever to ditch outdated CMSs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fphone_customer_experience_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Why it's more important than ever to ditch outdated CMSs
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/service-sa-and-service-tas-select-knosys-knowledge-management-solution-576993">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Service SA and Service Tas select Knosys knowledge management solution" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fcall_centre_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Service SA and Service Tas select Knosys knowledge management solution
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/how-seagate-bolstered-aerometrexs-data-storage-577075">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="How Seagate bolstered Aerometrex&#39;s data storage" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fMission-Critical-Image-3-Hi-Res.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                How Seagate bolstered Aerometrex's data storage
-            </div>
-        </a>
     
         <a class="row collapse whitepapers-list" href="/feature/your-business-must-bring-cybersecurity-out-of-its-dark-corner-575400">
             <div class="small-4 columns whitepapers-list-img  ">
@@ -984,16 +918,68 @@
             </div>
         </a>
     
-        <a class="row collapse whitepapers-list" href="/video/multicloud-it-is-mainstream-but-have-businesses-adapted-575687">
-            <div class="small-4 columns whitepapers-list-img  play-btn">
-                <img alt="Multicloud IT is mainstream but have businesses adapted?" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fmulticloud_1.JPG&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+        <a class="row collapse whitepapers-list" href="/feature/3-ways-companies-are-getting-more-from-intelligent-automation-576772">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="3 ways companies are getting more from intelligent automation" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220302114508_woman_it_v1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 
                 
                     <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
                 
-                Multicloud IT is mainstream but have businesses adapted?
+                3 ways companies are getting more from intelligent automation
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/why-your-businesss-high-performance-computing-future-may-not-be-in-the-cloud-577069">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Why your business&#39;s high-performance computing future may not be in the cloud" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220308012908_Server_room_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Why your business's high-performance computing future may not be in the cloud
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/minterellison-is-using-low-code-to-save-lawyers-thousands-of-hours-of-work-576622">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="MinterEllison is using low-code to save lawyers thousands of hours of work" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2flegal_laptop_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                MinterEllison is using low-code to save lawyers thousands of hours of work
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/ransomware-attacks-drive-ztna-adoption-learning-from-those-who-learned-the-hard-way-578079">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f0_0_480_1_70__Features_2021120.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/responsible-technology-sustainable-future-how-technology-will-help-companies-become-carbon-neutral-by-2030-578266">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Responsible Technology, Sustainable Future: How technology will help companies become carbon neutral by 2030" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2falibaba_2.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Responsible Technology, Sustainable Future: How technology will help companies become carbon neutral by 2030
             </div>
         </a>
     
@@ -1003,24 +989,6 @@
             
         <section>
             <h3 class="section-header"><span><a href="/digitalnation">Digital Nation</a></span></h3>
-    
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/case-study-playhq-leverages-graph-technologies-for-sports-administration-575814">
-            <div class="small-4 columns whitepapers-list-img  play-btn">
-                <img alt="Case Study: PlayHQ leverages graph technologies for sports administration" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fMark_Macumber_PlayHQ_Head_of_Technology.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                Case Study: PlayHQ leverages graph technologies for sports administration
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                Metaverse hype will transition into new business models by mid decade: Gartner
-            </div>
-        </a>
     
         <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/cover-story-from-cost-control-to-customer-fanatics-ai-is-transforming-the-contact-centre-575713">
             <div class="small-4 columns whitepapers-list-img  play-btn">
@@ -1046,6 +1014,24 @@
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 The other &#8216;CTO&#8217;: The emerging role of the chief transformation officer
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Metaverse hype will transition into new business models by mid decade: Gartner
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/case-study-playhq-leverages-graph-technologies-for-sports-administration-575814">
+            <div class="small-4 columns whitepapers-list-img  play-btn">
+                <img alt="Case Study: PlayHQ leverages graph technologies for sports administration" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fMark_Macumber_PlayHQ_Head_of_Technology.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Case Study: PlayHQ leverages graph technologies for sports administration
             </div>
         </a>
     
@@ -1108,10 +1094,6 @@
     
                 <li><a href="/event/ba-finalist-showcase-577812">iTnews Benchmark Awards 2022 - Finalist Showcase</a></li>
     
-                <li><a href="/event/leanix-connect-apac-577976">LeanIX Connect APAC</a></li>
-    
-                <li><a href="/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576812">IoT Insights conference, Orange NSW: Digital Food & Agribusiness</a></li>
-    
                 <li><a href="/event/iot-impact-conference-576816">IoT Impact Conference</a></li>
     
             </ul>
@@ -1167,12 +1149,17 @@
                     <h3 class="section-header"><span><a href="/tag/coronavirus">COVID-19</a></span></h3>
                     
                             
-                                <a href="/news/covidsafe-app-to-endure-as-pandemic-powers-lapse-577973" class="hot-topics-main">
+                                <a href="/news/senate-inquiry-calls-for-gov-to-wind-up-covidsafe-app-578473" class="hot-topics-main">
                                     <div class="article-list-img ">
-                                        <img alt="COVIDSafe app to endure as pandemic powers lapse" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcovidsafe_(3).png&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
-                                    <h2>COVIDSafe app to endure as pandemic powers lapse</h2>
+                                        <img alt="Senate inquiry calls for gov to wind up COVIDSafe app" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcovidsafe_(3).png&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
+                                    <h2>Senate inquiry calls for gov to wind up COVIDSafe app</h2>
                                 </a>
                             
+                            
+                        
+                            
+                            
+                                <a href="/news/covidsafe-app-to-endure-as-pandemic-powers-lapse-577973" class="hot-topics-list">COVIDSafe app to endure as pandemic powers lapse</a>
                             
                         
                             
@@ -1185,11 +1172,6 @@
                                 <a href="/news/australia-post-deploys-wearable-contact-tracing-tech-for-staff-572716" class="hot-topics-list">Australia Post deploys wearable contact tracing tech for staff</a>
                             
                         
-                            
-                            
-                                <a href="/news/nt-reaps-it-rewards-from-pandemic-response-572006" class="hot-topics-list">NT reaps IT rewards from pandemic response</a>
-                            
-                        
                 </div>
                 
             
@@ -1197,27 +1179,27 @@
                     <h3 class="section-header"><span><a href="/tag/nbn">NBN</a></span></h3>
                     
                             
-                                <a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161" class="hot-topics-main">
+                                <a href="/news/labor-pledges-650m-plus-for-regional-communications-578368" class="hot-topics-main">
                                     <div class="article-list-img ">
-                                        <img alt="NBN Co gets 250 orders in first week of FTTN-P upgrades being offered" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20170209010401_4-CRN-690-nbn-worker-1427845405307.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
-                                    <h2>NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</h2>
+                                        <img alt="Labor pledges $650m-plus for regional communications" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCRN_690_mobile_rural+coverage.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
+                                    <h2>Labor pledges $650m-plus for regional communications</h2>
                                 </a>
                             
                             
                         
                             
                             
-                                <a href="/news/regional-telco-review-lags-on-digital-equity-578106" class="hot-topics-list">Regional telco review lags on digital equity</a>
+                                <a href="/news/telstra-announces-regional-review-response-adds-more-non-metro-support-578329" class="hot-topics-list">Telstra announces regional review response, adds more non-metro support</a>
                             
                         
                             
                             
-                                <a href="/news/gov-puts-low-income-broadband-issue-back-on-nbn-co-578113" class="hot-topics-list">Gov puts low-income broadband issue back on NBN Co</a>
+                                <a href="/news/outage-hits-optus-mobile-network-578315" class="hot-topics-list">Outage hits Optus mobile network</a>
                             
                         
                             
                             
-                                <a href="/news/labor-wants-to-tackle-sky-muster-satellite-beam-congestion-577956" class="hot-topics-list">Labor wants to tackle Sky Muster satellite beam congestion</a>
+                                <a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161" class="hot-topics-list">NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</a>
                             
                         
                 </div>
@@ -1259,27 +1241,27 @@
                     <h3 class="section-header"><span><a href="/tag/cio">CIO movements</a></span></h3>
                     
                             
-                                <a href="/news/victoria-police-poaches-long-time-health-cio-578175" class="hot-topics-main">
+                                <a href="/news/toyota-australia-cio-departs-578384" class="hot-topics-main">
                                     <div class="article-list-img ">
-                                        <img alt="Victoria Police poaches long-time health CIO" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsteve_hodgkinson.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
-                                    <h2>Victoria Police poaches long-time health CIO</h2>
+                                        <img alt="Toyota Australia CIO departs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2ftoyota.jpg&amp;h=292&amp;w=480&amp;c=1&amp;s=1"></div>
+                                    <h2>Toyota Australia CIO departs</h2>
                                 </a>
                             
                             
                         
                             
                             
+                                <a href="/news/telstra-digital-to-be-led-by-telcos-cmo-578407" class="hot-topics-list">Telstra Digital to be led by telco's CMO</a>
+                            
+                        
+                            
+                            
+                                <a href="/news/victoria-police-hires-long-time-health-cio-578175" class="hot-topics-list">Victoria Police hires long-time health CIO</a>
+                            
+                        
+                            
+                            
                                 <a href="/news/meridian-energy-appoints-a-cio-578125" class="hot-topics-list">Meridian Energy appoints a CIO</a>
-                            
-                        
-                            
-                            
-                                <a href="/news/macquarie-university-expands-cio-to-cido-577891" class="hot-topics-list">Macquarie University expands CIO to CIDO</a>
-                            
-                        
-                            
-                            
-                                <a href="/news/university-of-canberra-appoints-new-chief-digital-officer-577869" class="hot-topics-list">University of Canberra appoints new chief digital officer</a>
                             
                         
                 </div>
@@ -1514,10 +1496,10 @@
                 </div>
                 
                 <div>
-                        <a href="https://www.iothub.com.au/news/nec-australia-tapped-by-property-developer-celestino-for-smart-city-tech-in-sydney-science-park-575184?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        <a href="https://www.iothub.com.au/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
                         
                         <h2 class="article-headline">
-                            NEC Australia tapped by property developer Celestino for 'smart city' tech in Sydney Science Park
+                            Second critical infrastructure cyber security bill passes parliament
                         </h2>
                     </a>
                 </div>

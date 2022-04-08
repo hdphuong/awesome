@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: localization=US; _y=f43ce657-0c02-45ee-bd80-e11d4384992c; _s=3b45279d-db93-48d5-ad38-e0bbf22f1818; _shopify_y=f43ce657-0c02-45ee-bd80-e11d4384992c; _shopify_s=3b45279d-db93-48d5-ad38-e0bbf22f1818

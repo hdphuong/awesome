@@ -1,0 +1,29 @@
+Content-Length: 57768
+Content-Type: text/html; charset=utf-8
+X-Powered-By: web-next
+Vice-Trace-Id: c27f5e084efdee97:c27f5e084efdee97:0:1
+Pragma: public
+Cache-Control: public, max-age=303, must-revalidate
+Expires: Fri, 08 Apr 2022 11:19:38 GMT
+Etag: "3bf07-j6SO8kBRpOblQmN5AKP9KLWtA/E"
+Content-Encoding: gzip
+X-Cache-Debug: cache-control: public, max-age=303, must-revalidate | surrogate-control: max-age=28800 | fastly ttl 28800.000
+Via: 1.1 varnish, 1.1 varnish
+X-Backend: 104.156.87.87
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:14:37 GMT
+Age: 0
+X-Served-By: cache-iad-kjyo7100087-IAD, cache-syd10142-SYD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1649416476.791018,VS0,VE1959
+Vary: Accept-Encoding
+Set-Cookie: X-Vice-Split-Testing=2020-10-19a:C; expires=Sun, 08 May 2022 11:14:37 GMT; domain=www.vice.com; path=/
+Set-Cookie: Vice-H2-Push-Sig=fc958a63e735dbfff58e4ddef1662397b26b927be16fed46860b19aa; Secure; HttpOnly
+X-Vice-Split-Testing: 2020-10-19a:C
+X-Geoip-Country-Code: AU
+X-Geoip-Region-Code: NSW
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' *.vice.com vicetv.com *.vicetv.com vicetv.nl vicetv.be vicesports.nl vicemoney.nl vicebelgique.com survey18.toluna.com *.viceops.net survey-d.dynata.com

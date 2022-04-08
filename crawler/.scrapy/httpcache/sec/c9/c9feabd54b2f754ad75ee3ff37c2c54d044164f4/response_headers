@@ -1,0 +1,11 @@
+Content-Length: 240
+Location: https://support.google.com/analytics/?hl=ja
+Date: Fri, 08 Apr 2022 11:14:38 GMT
+Expires: Fri, 08 Apr 2022 11:14:38 GMT
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

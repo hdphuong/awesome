@@ -1,0 +1,11 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:16 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+Host-Header: WordPress.com
+X-Frame-Options: SAMEORIGIN
+X-Nc: HIT bur 209
+Content-Encoding: gzip
+X-Ac: 1.syd _bur
+Strict-Transport-Security: max-age=15552000

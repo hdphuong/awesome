@@ -67,20 +67,6 @@
     
 
 
-    
-    <script type="text/javascript">
-        var _ss = _ss || [];
-        _ss.push(['_setDomain', 'https://koi-3QNNF9XQBW.marketingautomation.services/net']);
-        _ss.push(['_setAccount', 'KOI-4BG98ANIO8']);
-        _ss.push(['_trackPageView']);
-        (function () {
-            var ss = document.createElement('script');
-            ss.type = 'text/javascript'; ss.async = true;
-            ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3QNNF9XQBW.marketingautomation.services/client/ss.js?ver=2.4.0';
-            var scr = document.getElementsByTagName('script')[0];
-            scr.parentNode.insertBefore(ss, scr);
-        })();
-    </script>
 </head>
 <body class="">
     <noscript>
@@ -94,24 +80,24 @@
                         <a id="breaking-news-header" style="float: left" href="/news">Latest News</a>
                         <div id="breaking-news-container">
                             
-                                    <a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192" class="breaking-news-item">
-                                        <h2 class="article-headline">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</h2>
+                                    <a href="/news/tpg-functional-separation-approved-by-accc-578512" class="breaking-news-item">
+                                        <h2 class="article-headline">TPG functional separation approved by ACCC</h2>
                                     </a>
                                 
-                                    <a href="/news/emergency-patches-out-for-exploited-apple-zero-days-578182" class="breaking-news-item">
-                                        <h2 class="article-headline">Emergency patches out for exploited Apple zero-days</h2>
+                                    <a href="/news/netapp-acquires-canberras-instaclustr-578510" class="breaking-news-item">
+                                        <h2 class="article-headline">NetApp acquires Canberra&#8217;s Instaclustr</h2>
                                     </a>
                                 
-                                    <a href="/news/victoria-police-poaches-long-time-health-cio-578175" class="breaking-news-item">
-                                        <h2 class="article-headline">Victoria Police poaches long-time health CIO</h2>
+                                    <a href="/news/hpc-and-research-infrastructure-need-reworking-says-new-roadmap-578505" class="breaking-news-item">
+                                        <h2 class="article-headline">HPC and research infrastructure need reworking, says new roadmap</h2>
                                     </a>
                                 
-                                    <a href="/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578167" class="breaking-news-item">
-                                        <h2 class="article-headline">Second critical infrastructure cyber security bill passes parliament</h2>
+                                    <a href="/news/senate-inquiry-calls-for-gov-to-wind-up-covidsafe-app-578473" class="breaking-news-item">
+                                        <h2 class="article-headline">Senate inquiry calls for gov to wind up COVIDSafe app</h2>
                                     </a>
                                 
-                                    <a href="/news/sans-spots-spring4shell-vulnerability-exploitation-attempts-578164" class="breaking-news-item">
-                                        <h2 class="article-headline">SANS spots Spring4shell vulnerability exploitation attempts</h2>
+                                    <a href="/news/french-court-upholds-150-million-euro-fine-against-google-578480" class="breaking-news-item">
+                                        <h2 class="article-headline">French court upholds 150 million euro fine against Google</h2>
                                     </a>
                                 
                                 
@@ -562,15 +548,15 @@
             <h3 class="section-header"><span>Most Read</span></h3>
             <ul>
     
-                <li><a href="/news/how-nabs-buyout-forced-86-400-to-lift-its-data-game-577888">How NAB's buyout forced 86 400 to lift its data game</a></li>
+                <li><a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161">NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</a></li>
     
-                <li><a href="/news/telstra-ceo-andy-penn-is-stepping-down-578056">Telstra CEO Andy Penn is stepping down</a></li>
+                <li><a href="/news/victoria-installing-zscaler-on-students-personal-devices-to-monitor-traffic-577947">Victoria installing Zscaler on students' personal devices to monitor traffic</a></li>
     
-                <li><a href="/news/tpg-telecom-refutes-optus-complaint-over-telstra-tie-up-577952">TPG Telecom refutes Optus complaint over Telstra tie-up</a></li>
+                <li><a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</a></li>
     
-                <li><a href="/news/all-the-tech-in-the-2022-federal-budget-578039">All the tech in the 2022 federal budget</a></li>
+                <li><a href="/news/victoria-police-hires-long-time-health-cio-578175">Victoria Police hires long-time health CIO</a></li>
     
-                <li><a href="/news/atlassian-data-centre-products-impacted-by-third-party-bug-577943">Atlassian data centre products impacted by third-party bug</a></li>
+                <li><a href="/news/asd-to-create-cyber-security-hubs-in-three-states-578413">ASD to create cyber security hubs in three states</a></li>
     
             </ul>
         </section>
@@ -581,55 +567,16 @@
         <section class="paid-content-box">
             <h3 class="section-header"><span><a href="/partner-content">Partner Content</a></span></h3>
     
-        <a class="row collapse whitepapers-list" href="/feature/ransomware-attacks-drive-ztna-adoption-learning-from-those-who-learned-the-hard-way-578079">
+        <a class="row collapse whitepapers-list" href="/feature/how-developers-are-building-platform-omnipresence-for-companies-575116">
             <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f0_0_480_1_70__Features_2021120.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+                <img alt="How developers are building &quot;platform omnipresence&quot; for companies" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fwoman_credit_card_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 
                 
                     <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
                 
-                Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/how-a-leading-australian-hydraulics-provider-streamlined-its-move-to-saas-576697">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="How a leading Australian hydraulics provider streamlined its move to SaaS" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220301114924_cyber_security.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                How a leading Australian hydraulics provider streamlined its move to SaaS
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/why-its-more-important-than-ever-to-ditch-outdated-cmss-576417">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Why it&#39;s more important than ever to ditch outdated CMSs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fphone_customer_experience_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Why it's more important than ever to ditch outdated CMSs
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/coca-cola-steps-closer-to-becoming-the-worlds-most-digitised-bottling-operation-with-cyberark-578020">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Coca-Cola steps closer to becoming the world&#39;s most digitised bottling operation with CyberArk" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fmaximilian-bruck-4SKdRcY13j4-unsplash.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Coca-Cola steps closer to becoming the world's most digitised bottling operation with CyberArk
+                How developers are building "platform omnipresence" for companies
             </div>
         </a>
     
@@ -646,16 +593,55 @@
             </div>
         </a>
     
-        <a class="row collapse whitepapers-list" href="/feature/how-developers-are-building-platform-omnipresence-for-companies-575116">
+        <a class="row collapse whitepapers-list" href="/feature/3-ways-companies-are-getting-more-from-intelligent-automation-576772">
             <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="How developers are building &quot;platform omnipresence&quot; for companies" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fwoman_credit_card_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+                <img alt="3 ways companies are getting more from intelligent automation" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220302114508_woman_it_v1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 
                 
                     <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
                 
-                How developers are building "platform omnipresence" for companies
+                3 ways companies are getting more from intelligent automation
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/why-your-businesss-high-performance-computing-future-may-not-be-in-the-cloud-577069">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Why your business&#39;s high-performance computing future may not be in the cloud" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220308012908_Server_room_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Why your business's high-performance computing future may not be in the cloud
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/coca-cola-steps-closer-to-becoming-the-worlds-most-digitised-bottling-operation-with-cyberark-578020">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Coca-Cola steps closer to becoming the world&#39;s most digitised bottling operation with CyberArk" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fmaximilian-bruck-4SKdRcY13j4-unsplash.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Coca-Cola steps closer to becoming the world's most digitised bottling operation with CyberArk
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/responsible-technology-sustainable-future-how-technology-will-help-companies-become-carbon-neutral-by-2030-578266">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Responsible Technology, Sustainable Future: How technology will help companies become carbon neutral by 2030" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2falibaba_2.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Responsible Technology, Sustainable Future: How technology will help companies become carbon neutral by 2030
             </div>
         </a>
     
@@ -664,6 +650,24 @@
 
         <section>
             <h3 class="section-header"><span><a href="/digitalnation">Digital Nation</a></span></h3>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/the-other-cto-the-emerging-role-of-the-chief-transformation-officer-575828">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="The other &amp;#8216;CTO&amp;#8217;: The emerging role of the chief transformation officer" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1309701000.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                The other &#8216;CTO&#8217;: The emerging role of the chief transformation officer
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Metaverse hype will transition into new business models by mid decade: Gartner
+            </div>
+        </a>
     
         <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/case-study-playhq-leverages-graph-technologies-for-sports-administration-575814">
             <div class="small-4 columns whitepapers-list-img  play-btn">
@@ -689,24 +693,6 @@
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 As NFTs gain traction, businesses start taking early bets
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/the-other-cto-the-emerging-role-of-the-chief-transformation-officer-575828">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="The other &amp;#8216;CTO&amp;#8217;: The emerging role of the chief transformation officer" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1309701000.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                The other &#8216;CTO&#8217;: The emerging role of the chief transformation officer
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                Metaverse hype will transition into new business models by mid decade: Gartner
             </div>
         </a>
     
@@ -764,10 +750,6 @@
             <ul>
     
                 <li><a href="/event/ba-finalist-showcase-577812">iTnews Benchmark Awards 2022 - Finalist Showcase</a></li>
-    
-                <li><a href="/event/leanix-connect-apac-577976">LeanIX Connect APAC</a></li>
-    
-                <li><a href="/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576812">IoT Insights conference, Orange NSW: Digital Food & Agribusiness</a></li>
     
                 <li><a href="/event/iot-impact-conference-576816">IoT Impact Conference</a></li>
     
@@ -1001,10 +983,10 @@
                 </div>
                 
                 <div>
-                        <a href="https://www.iothub.com.au/news/nec-australia-tapped-by-property-developer-celestino-for-smart-city-tech-in-sydney-science-park-575184?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        <a href="https://www.iothub.com.au/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253?utm_source=itnews&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
                         
                         <h2 class="article-headline">
-                            NEC Australia tapped by property developer Celestino for 'smart city' tech in Sydney Science Park
+                            Second critical infrastructure cyber security bill passes parliament
                         </h2>
                     </a>
                 </div>

@@ -1,0 +1,617 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'siteSection': 'Premium Landing Page'
+        });
+    </script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MZWNSCL');</script>
+    <meta charset="utf-8" /><meta http-equiv="x-ua-compatible" content="ie=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>
+	Join Australian MUSCLE CAR Magazine
+</title><meta property="og:site_name" content="Australian MUSCLE CAR Magazine" /><meta property="og:title" content="Join Australian MUSCLE CAR Magazine" /><meta property="og:url" content="https://www.musclecarmag.com.au/premium" /><meta property="og:type" content="website" /><meta property="og:image" content="https://www.musclecarmag.com.au/images/australian-muscle-car-premium-logo-black.png" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="1200" /><meta property="og:description" content="Get your Australian MUSCLE CAR Magazine delivered exactly how you like it, plus enjoy a stack of exclusive benefits - including digital access to every issue of Australian MUSCLE CAR Magazine ever created." /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@AuMuscleCarMag" /><meta name="twitter:creator" content="@AuMuscleCarMag" /><meta name="twitter:title" content="Join Australian MUSCLE CAR Magazine" /><meta name="twitter:description" content="Get your Australian MUSCLE CAR Magazine delivered exactly how you like it, plus enjoy a stack of exclusive benefits - including digital access to every issue of Australian MUSCLE CAR Magazine ever created." /><meta name="twitter:url" content="https://www.musclecarmag.com.au/premium" /><meta name="twitter:image" content="https://www.musclecarmag.com.au/images/australian-muscle-car-premium-logo-black.png" /><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" /><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&amp;display=swap" rel="stylesheet" /><link rel="stylesheet" href="https://use.typekit.net/bas3ief.css" /><link href="/styles/premium-landing.min.css" rel="stylesheet" /><link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png" /><link rel="manifest" href="/images/favicon/site.webmanifest" /><link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#000000" /><meta name="msapplication-TileColor" content="#000000" /><meta name="theme-color" content="#ffffff" /><meta name="description" content="Get your Australian MUSCLE CAR Magazine delivered exactly how you like it, plus enjoy a stack of exclusive benefits - including digital access to every issue of Australian MUSCLE CAR Magazine ever created." /></head>
+
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZWNSCL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="premium">
+<!-- Header -->
+<header class="header masthead">
+    <div class="header__inner">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="content text-center">
+                        <div class="header__logo">
+                            <a href="/">
+                                <img src="/images/australian-muscle-car-premium-logo.svg" alt="Australian MUSCLE CAR Magazine Premium logo" title="Australian MUSCLE CAR Magazine Premium logo" class="header__logo-image" />
+                            </a>
+                        </div>
+                        <h1 class="heading">Become an <strong><em>Australian MUSCLE CAR</em></strong> Premium member today</h1>
+                        <div class="intro-text">
+                            <p>Enjoy a stack of exclusive benefits - including digital access to every issue of <em>Australian MUSCLE CAR</em> Magazine ever created, exclusive and rare photos, podcasts, interviews, stories and much more.</p>
+                        </div>
+                        <img src="../images/premium/australian-muscle-car-masthead.png" alt="" title="" class="img-fluid header__image" />
+                        <div class="header__bottom">
+                            <h2 class="subheading">ACTIVATE YOUR BENEFITS FROM AS LITTLE AS <span>$6.99</span> A MONTH!</h2>
+                            <img src="../images/premium/australian-muscle-car-no-lock.png" alt="No lock in contract. Cancel anytime." title="No lock in contract. Cancel anytime." class="no-lock" />
+                            <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <h3 class="heading">AUSTRALIAN MUSCLE CAR MAGAZINE PREMIUM - <span>ENJOY IT YOUR WAY</span></h3>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <p><em>Australian MUSCLE CAR</em> Magazine Premium is designed to give you access at the touch of a button. Whether you want to hold the latest issue in your hands or flip through our very first release on your favourite device, we’ve got you covered.</p>
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                </div>
+            </div>
+            <div class="col-md-6 column">
+                 <div class="column-inner"></div>
+                <div class="image-wrapper">
+                    <img src="/images/premium/australian-muscle-car-benefit1.gif" alt="" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg1">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                 <h3 class="heading">DIGITAL ACCESS TO EVERY AUSTRALIAN MUSCLE CAR ISSUE EVER RELEASED</h3>
+            </div>
+           
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <div class="image-wrapper">
+                        <img src="/images/premium/australian-muscle-car-benefit2.gif" alt="" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <p>Receive digital access to every single issue of <em>Australian MUSCLE CAR</em> Magazine ever been released! That’s 20 years of Australian muscle history including our very first issue, all in a handy, easy to use digital format for your phone, tablet or computer.</p>
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg2">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <h3 class="heading">RARE AND EXCLUSIVE IMAGES DIRECT FROM OUR VAULT</h3>
+            </div>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                   <p>Discover amazing images of muscle and motoring history in our exclusive member-only library. These historic pictures are showcased in our constantly growing collection of galleries.</p>
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                </div>
+            </div>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <div class="image-wrapper">
+                        <img src="/images/premium/australian-muscle-car-benefit3.gif" alt="" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg3">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <h3 class="heading">EXCLUSIVE DIGITAL ACCESS TO AUSTRALIAN MUSCLE CAR SPECIAL ISSUES</h3>
+            </div>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <div class="image-wrapper">
+                        <img src="/images/premium/australian-muscle-car-benefit4.gif" alt="" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 column">
+                 <div class="column-inner">
+                    <p>Receive exclusive digital access to a growing range of Australian MUSCLE CAR Magazine special issues including Holden & I, Ford & I and for the first time, the <em>ID Handbook</em> in a digital and searchable format for the first time. With many more special issues to come, you definitely won't want to miss out! </p>
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg4">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <h3 class="heading"> MEMBER-ONLY INTERVIEWS, STORIES, GALLERIES AND NEWSLETTERS</h3>
+            </div>
+            <div class="col-md-6 column">
+                 <div class="column-inner">
+                     <p>Enjoy member-only content including stories and interviews from our special guests accompanied by beautiful photography of Australian muscle cars, as well as regular newsletters to keep you up to date.</p>
+                      <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                 </div>
+            </div>
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <div class="image-wrapper">
+                        <img src="/images/premium/australian-muscle-car-benefit5.gif" alt="" class="img-fluid phone" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg5">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <h3 class="heading">ACCESS TO PREMIUM PODCASTS</h3>
+        <div class="row justify-content-center">
+            <div class="col-md-6 column">
+                <div class="column-inner">
+                    <div class="image-wrapper">
+                        <img src="/images/premium/australian-muscle-car-benefit6.png" alt="" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 column">
+                 <div class="column-inner">
+                    <p>Listen to our special member-only podcasts as our team relive some of Australia’s most memorable moments in muscle history.</p>
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__image bg6">
+    <div class="container">
+    </div>
+</section>
+
+<section class="parallax__content benefit">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <h3 class="heading">EXCLUSIVE DISCOUNTS AND EARLY ACCESS TO SPECIAL ISSUES</h3>
+            </div>
+            <div class="col-md-5 column">
+                <div class="column-inner">
+                    <p>As a member you’ll have advanced access to special issues and exclusive discounts to keep you ahead of the pack</p>
+
+                    <a class="btn btn-xl btn-main" href="#membership">JOIN NOW</a>
+                </div>
+            </div>
+            <div class="col-md-7 column">
+                 <div class="column-inner"></div>
+                <div class="image-wrapper">
+                    <img src="/images/premium/australian-muscle-car-benefit7.png" alt="" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="membership" class="membership">
+    <div class="membership__inner">
+        <div class="container">
+            <div class="membership__options">
+                <div class="row">
+                    <div class="col-sm-6 column option1">
+                        <div class="card">
+                            <h4 class="membership__heading"><span>DIGITAL</span> MEMBERSHIP</h4>
+
+                            <div class="membership__image-wrapper">
+                                <img src="/images/premium/australian-muscle-car-benefit4.png" alt="Australian MUSCLE CAR Magazine Premium Digital Membership" class="img-fluid membership__image" />
+                                <img src="../images/premium/australian-muscle-car-no-lock.png" alt="No lock in contract. Cancel anytime." title="No lock in contract. Cancel anytime." class="no-lock" />
+                            </div>
+                         
+                            <div class="membership__hightlight">
+                                 <div class="membership__price-offer monthly">
+                                    <div class="membership__price-note">
+                                        <a href="/register?sub=digitalmonthly&amp;ref=MyMagsHeader" class="membership__price">$6.99<span> / month</span></a>
+                                    </div>
+                                </div>
+                                <div class="membership__price-offer annual">
+                                    <div class="membership__price-note">
+                                        <strong>OR</strong>
+                                        <a href="/register?sub=digitalannual&amp;ref=MyMagsHeader" class="membership__price">$69.90 <span> / year</span></a>
+                                        <span class="plan-disc">Save 17%</span>
+                                    </div>
+
+                                    <div class="button__wrapper">
+                                        <a class="btn btn-xl btn-main" href="/register?sub=digitalannual&amp;ref=MyMagsHeader">JOIN NOW</a>
+                                    </div> 
+                                </div>
+                            </div>
+                        
+                            <ul>
+                                <li>Each new DIGITAL issue of Australian MUSCLE CAR Magazine on your PC or mobile device</li>
+                                <li>Each new PRINT issue of Australian MUSCLE CAR Magazine delivered straight to your door</li>
+                                <li>Access to every past issue of Australian MUSCLE CAR Magazine on your PC or mobile device</li>
+                                <li>Exclusive access to selected photo galleries, including never-seen-before images from the Australian MUSCLE CAR Magazine vault</li>
+                                <li>Exclusive digital access to the Australian MUSCLE CAR Magazine ID Handbook</li>
+                                <li>Access to interviews, stories and member-only newsletters</li>
+                                <li>Access to PREMIUM Podcasts</li>
+                                <li>Pre-order access to special issues with exclusive member-only discounts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 column option2">
+                        <div class="card">
+                            <div class="best-value">BEST VALUE!</div>
+                            <h4 class="membership__heading"><span>DIGITAL + PRINT</span> MEMBERSHIP</h4>
+
+                            <div class="membership__image-wrapper">
+                                <img src="/images/premium/australian-muscle-car-option2.png" alt="Australian MUSCLE CAR Magazine Premium Digital + Print Membership" class="img-fluid membership__image" />
+                                <img src="../images/premium/australian-muscle-car-no-lock.png" alt="No lock in contract. Cancel anytime." title="No lock in contract. Cancel anytime." class="no-lock" />
+                            </div>
+
+                            <div class="membership__hightlight">
+                                <div class="membership__price-offer monthly">
+                                    <div class="membership__price-note">
+                                        <a href="/register?sub=printmonthly&amp;ref=MyMagsHeader" class="membership__price">$8.99<span> / month</span> </a>
+                                    </div>
+                                </div>
+                                <div class="membership__price-offer annual">
+                                    <div class="membership__price-note">
+                                        <strong>OR</strong>
+                                        <a href="/register?sub=printannual&amp;ref=MyMagsHeader" class="membership__price">$89.90 <span> / year</span></a>
+                                        <span class="plan-disc">Save 17%</span>
+                                    </div>
+
+                                    <div class="button__wrapper">
+                                        <a class="btn btn-xl btn-main" href="/register?sub=printannual&amp;ref=MyMagsHeader">JOIN NOW</a>
+                                    </div> 
+                                </div>
+                            </div>                      
+                      
+                            <ul>
+                                <li>Each new DIGITAL issue of Australian MUSCLE CAR Magazine on your PC or mobile device</li>
+                                <li>Each new PRINT issue of Australian MUSCLE CAR Magazine delivered straight to your door</li>
+                                <li>Access to every past issue of Australian MUSCLE CAR Magazine on your PC or mobile device</li>
+                                <li>Exclusive access to selected photo galleries, including never-seen-before images from the Australian MUSCLE CAR Magazine vault</li>
+                                <li>Exclusive digital access to the Australian MUSCLE CAR Magazine ID Handbook</li>
+                                <li>Access to interviews, stories and member-only newsletters</li>
+                                <li>Access to PREMIUM Podcasts</li>
+                                <li>Pre-order access to special issues with exclusive member-only discounts</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10 col-md-10 col-11 print-subs">
+			        <div class="row">
+				        <div class="col-lg-8 col-md-6 print-subs__left">
+                            <a href="https://www.mymagazines.com.au/magazine/australian-muscle-car?utm_source=australian-muscle-car&amp;utm_medium=landingpage&amp;utm_campaign=house%20ads" target="_blank"><img src="/images/premium/australian-muscle-car-print.png" class="print-subs__image" alt="Australian MUSCLE CAR Magazine" /></a>
+				            <h3 class="print-subs__heading">Looking for a basic print only subscription?</h3>
+				        </div>
+				        <div class="col-lg-4 col-md-5">
+				            <a href="https://www.mymagazines.com.au/magazine/australian-muscle-car?utm_source=australian-muscle-car&amp;utm_medium=landingpage&amp;utm_campaign=house%20ads" class="btn btn-xl btn-main" target="_blank">Subscribe Now</a>
+				        </div>
+			        </div>
+		        </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="parallax__content" id="faqs">
+    <h2 class="heading">Frequently Asked Questions</h2>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                
+
+<div class="faqs">
+    <div class="accordion" id="accordionFAQs">
+        
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading0">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse0" aria-expanded="false" aria-controls="collapse0">
+                        What is <em>Australian MUSCLE CAR</em> Premium?
+                    </button>
+                </h2>
+                <div id="collapse0" class="accordion-collapse collapse" aria-labelledby="0" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p><em>Australian MUSCLE CAR</em> Premium offers unlimited and exclusive access to content from the <em>Australian MUSCLE CAR Magazine</em> team.</p><p>You can read every issue of <em>Australian MUSCLE CAR Magazine</em> released to date on your favourite device, enjoy exclusive galleries, stories, podcasts and much much more &ndash; PLUS you can also continue to receive a print version of the magazine for your collection. Choose from one of our 3 easy membership plans to start your Premium experience today.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading1">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                        How much does <em>Australian MUSCLE CAR</em> Premium cost?
+                    </button>
+                </h2>
+                <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="1" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>Print + Digital membership plans start from as little as AUD$7.99 per month depending on your delivery location. Digital Only Membership plans are AUD$6.99 per month. You can also save even more by purchasing our Annual Digital + Print membership plans which start from AUD$88.</p><p>There are no lock-in contracts, and no extra fees.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading2">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                        I have an existing <em>Australian MUSCLE CAR Magazine</em> subscription, how do I transfer this to a Premium membership?
+                    </button>
+                </h2>
+                <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="2" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>If you have an existing subscription to <em>Australian MUSCLE CAR Magazine</em> you are eligible to transfer your existing subscription to an Annual Digital + Print Membership and receive a discount based on the number of issues you have remaining. <br> <br>To receive this discount, you must select the Annual Digital + Print option. Once selected, enter your details and your Subscriber ID in the box provided, then click the &ldquo;FIND ID&rdquo; button. If entered correctly, you will see your discount applied.</p><p>You can find your Subscriber ID in a number of places: the cover sheet of your most recent issue, your latest renewal letter, or on the <em>Australian MUSCLE CAR</em> Premium email you would have received in early November.</p><p>If you are still unable to locate your Subscriber ID, please contact subscriber services at&nbsp;<a href="mailto:amcpremium@mymagazines.com.au">amcpremium@mymagazines.com.au</a> with your name and address, or alternatively you can call us on 1300 361 146 (+612 9901 6111 if calling from overseas) during our office hours, 9am - 5pm Monday to Friday, AEST.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading3">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                        How do I change my membership plan?
+                    </button>
+                </h2>
+                <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="3" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>To change your membership plan, visit the Manage Account page and select &ldquo;Change Plan&rdquo;. Your new plan will commence from the next billing period.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading4">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                        How do I change my payment method?
+                    </button>
+                </h2>
+                <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="4" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>To change your membership plan, visit the Manage Account page and select &ldquo;Change Payment Method&rdquo;. Your new payment method will be charged from the next billing period.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading5">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                        Which payment methods can I use?
+                    </button>
+                </h2>
+                <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="5" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>We accept Visa, Mastercard and PayPal. <br> <br>Please note transactions will appear as Nextmedia Investments on your statement.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading6">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                        How do I change my delivery address for the print magazine?
+                    </button>
+                </h2>
+                <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="6" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>To change your delivery address, visit the &ldquo;Manage Account&rdquo; page and find the &ldquo;Delivery Address&rdquo; section. Enter in your new details and hit &ldquo;Update Address&rdquo;. This will automatically update your details and take effect from the next issue of <em>Australian MUSCLE CAR Magazine</em> to mail.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading7">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                        I have forgotten my password. Can you send it to me?
+                    </button>
+                </h2>
+                <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="7" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>You can request to reset your password online, but if you have forgotten your login name then please contact subscriber services at <a href="mailto:amcpremium@mymagazines.com.au">amcpremium@mymagazines.com.au</a>&nbsp;and provide us with your name, address, phone number and the email address that you used during the initial sign-up procedure.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading8">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                        When does my membership plan expire?
+                    </button>
+                </h2>
+                <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="8" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>Your membership plan will renew automatically at the end of each billing period until cancelled.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading9">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                        I cannot view or read back issues on my iPad, how do I fix this?
+                    </button>
+                </h2>
+                <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="9" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>The magazine archive and current issue are compatible on iPads with iOS 13 and above. Please check to make sure your iPad is running a version of iOS above 13 and perform an update (if required) in order to view this offering.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading10">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                        Why can&rsquo;t I access a locked story, gallery or interview?
+                    </button>
+                </h2>
+                <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="10" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>If you are unable to access a locked story, gallery, interview or piece of content, please make sure you are logged in to your Premium account. Once you are logged in you will be able to access all the locked Premium content on our website. If your problem persists, please contact Subscriber Services.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading11">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                        What if I receive a damaged magazine in the post?
+                    </button>
+                </h2>
+                <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="11" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>Let us know and we'll replace it! Just send your delivery and order details - plus a photo or scan of the damaged item &ndash; to <a href="mailto:amcpremium@mymagazines.com.au">amcpremium@mymagazines.com.au</a></p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading12">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                        My order is being delivered overseas. Does the advertised price include local tax?
+                    </button>
+                </h2>
+                <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="12" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>No, all prices shown for delivery overseas are in AUD and exclusive of any local tax.</p><p>Guidelines vary by destination, but on 1 July 2021, the EU removed the low-value VAT threshold for eCommerce items. This means all EU-bound eCommerce items will be subject to VAT from 1 July 2021. Whether you are in the EU or another location, when your order arrives in your territory you may be liable to pay VAT and/or a customs fee before receiving your purchase. For more information, contact your local postal service.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading13">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                        How do I cancel?
+                    </button>
+                </h2>
+                <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="13" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>You can cancel anytime by selecting &ldquo;CANCEL SUBSCRIPTION&rdquo; from the Manage Account section. Once completed you will continue to have access until your next scheduled billing date unless you choose to re-activate your plan.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading14">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                        What is your refund policy?
+                    </button>
+                </h2>
+                <div id="collapse14" class="accordion-collapse collapse" aria-labelledby="14" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>Pro-rata refunds for partial billing periods are not available. You can cancel your membership at any time which will end prior to your next billing period. You will not be charged for any further periods after this point unless you decide to re-start your plan.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading15">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                        I need further help, how do I contact you?
+                    </button>
+                </h2>
+                <div id="collapse15" class="accordion-collapse collapse" aria-labelledby="15" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p><a id="ContactUs"></a>You can contact subscriber services by <a href="mailto:amcpremium@mymagazines.com.au">amcpremium@mymagazines.com.au</a> with your account details and question, or alternatively you can call us on 1300 361 146 (+612 9901 6111 if calling from overseas) during our office hours, 9am - 5pm Monday to Friday, AEST.</p>
+                    </div>
+                </div>
+                </div>
+            
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading16">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+                        How can I advertise on your website or in a magazine?
+                    </button>
+                </h2>
+                <div id="collapse16" class="accordion-collapse collapse" aria-labelledby="16" data-bs-parent="#accordionFAQs">
+                    <div class="accordion-body">
+                        <p>To enquire about advertising an offer on musclecarmag.com.au, please contact <a href="mailto:producer@mymagazines.com.au">producer@mymagazines.com.au</a></p><p>To find out more regarding advertising in an Australian MUSCLE CAR magazine, please go to <a href="https://www.nextmedia.com.au">www.nextmedia.com.au</a></p>
+                    </div>
+                </div>
+                </div>
+            
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="footer">
+        
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-xs-12">
+            <div class="terms">
+                <a id="footer-faqs" href="/faqs" class="terms__link">FAQs</a>
+                <a id="footer-contact" href="/contact" class="terms__link">Contact</a>
+                <a id="footer-advertise" href="https://www.nextmedia.com.au/brand/australian-muscle-car/#contact" class="terms__link" target="_blank">Advertise</a>
+                <a id="footer-terms" href="https://www.nextmedia.com.au/terms-conditions/" class="terms__link" target="_blank">Terms & Conditions</a>
+                <a id="footer-privacy" href="https://www.nextmedia.com.au/privacy-policy/" class="terms__link" target="_blank">Privacy Policy</a>
+                <a id="footer-membership" href="/membership-terms" class="terms__link">Membership Terms</a>
+            </div>
+        </div> 
+        <div class="col-xs-12 col-lg-7 copyright">
+            <a id="footer-nextmedia" href="https://www.nextmedia.com.au/" target="_blank" class="nm-logo"><img src="https://www.nextmedia.com.au/wp-content/themes/nextmedia/images/logo_nextmedia.png" alt="nextmedia" class="nm-logo__image"></a>
+            <div class="copyright__text"><span>Copyright © 2022 nextmedia Pty Ltd.</span> All rights reserved - </div>
+        </div> 
+        <div class="col-lg-4 powered-by">
+            <div class="powered-by__inner">
+                <span class="powered-by__text">&nbsp;Powered By</span>
+                <a href="https://www.interactive.com.au" target="_blank" class="powered-by__link"><img src="/images/interactive-logo.png" alt="Powered by Interactive" width="300" class="powered-by__image"></a>
+            </div>
+        </div>
+    </div> 
+</div>
+    </div>
+</footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+Content-Length: 170
+Content-Type: text/html; charset=UTF-8
+Location: https://nvd.nist.gov/vuln/detail/CVE-2021-21114
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Date: Fri, 08 Apr 2022 11:35:48 GMT
+Strict-Transport-Security: max-age=31536000

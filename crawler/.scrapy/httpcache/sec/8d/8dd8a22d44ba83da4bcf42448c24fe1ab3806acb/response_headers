@@ -1,0 +1,11 @@
+Content-Length: 227
+Location: https://www.google.com/finance
+Cross-Origin-Resource-Policy: cross-origin
+X-Content-Type-Options: nosniff
+Server: sffe
+X-Xss-Protection: 0
+Date: Fri, 08 Apr 2022 11:21:54 GMT
+Expires: Fri, 08 Apr 2022 11:51:54 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 865

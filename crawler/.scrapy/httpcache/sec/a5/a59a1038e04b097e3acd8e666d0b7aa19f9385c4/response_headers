@@ -1,0 +1,13 @@
+Content-Length: 240
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:12 GMT
+Content-Type: text/html; charset=iso-8859-1
+Location: https://thenextweb.com/security/
+X-Cacheable: YES
+Age: 20
+X-Cache: HIT
+Strict-Transport-Security: max-age=31536000;
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: unsafe-url

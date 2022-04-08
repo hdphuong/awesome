@@ -1,0 +1,9 @@
+Content-Length: 7959
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: ; script-src  'unsafe-inline' 'strict-dynamic' https://48196-07dfd9d-dot-monorail-prod.appspot.com/static/dist/ 'self' 'nonce-PCbBi8BzP5QFq0Ys5rPofU19TnqvAvRK'; child-src 'none'; frame-src accounts.google.com content-issuetracker.corp.googleapis.com login.corp.google.com up.corp.googleapis.com feedback.googleusercontent.com www.google.com; img-src https: data: blob: ; style-src https: 'unsafe-inline'; object-src 'none'; base-uri 'self'; report-uri /csp.do
+Content-Type: text/html; charset=UTF-8
+X-Cloud-Trace-Context: 07b84fcad4d36538f39b5ed4061068bb
+Date: Fri, 08 Apr 2022 11:36:00 GMT
+Server: Google Frontend

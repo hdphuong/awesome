@@ -1,0 +1,19 @@
+Content-Length: 0
+Age: 12266
+Cache-Control: public, max-age=2592000
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 Apr 2022 11:09:37 GMT
+Display: staticcontent_sol
+Location: https://youronlinechoices.com.au/
+Pagespeed: off
+Response: 301
+Server: nginx
+Vary: Accept-Encoding
+Vary: User-Agent,Origin,Accept-Encoding
+X-Cache: HIT
+X-Ezoic-Cdn: Hit ds;mm;5a0dd366f482c5fa315bc004be08231c;2-307473-4;db4de330-f88a-4acf-42cc-bd5c9a6148c1
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 301
+X-Origin-Cache-Control: 
+X-Redirect-By: WordPress
+X-Sol: pub_site

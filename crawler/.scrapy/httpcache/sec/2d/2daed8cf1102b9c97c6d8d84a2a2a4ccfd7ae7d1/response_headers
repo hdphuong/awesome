@@ -1,0 +1,16 @@
+Content-Length: 19474
+Date: Fri, 08 Apr 2022 11:35:17 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script;,</design_picker/ae608bb73fd396f34344017e1c52b3baaf7491d6/javascript/_.js>; rel=preload; as=script;,</css_picker/default/accc3215e2c05d9ca8c5be09497452e0623cbeda/scaffolding.css>; rel=preload; as=style;,</css_picker/default/accc3215e2c05d9ca8c5be09497452e0623cbeda/design.css>; rel=preload; as=style;,</design_picker/5e49edbd1875f214e0decae1e24b200066780fa8/style/fonts/arimo/arimo-700.latin.woff2>; rel=preload; as=font; crossorigin;,</design_picker/5e49edbd1875f214e0decae1e24b200066780fa8/style/fonts/arimo/arimo-400.latin.woff2>; rel=preload; as=font; crossorigin;
+Cache-Control: max-age=0
+Expires: Fri, 08 Apr 2022 11:35:17 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Reg-Bofh: pfy01us
+X-Clacks-Overhead: GNU Terry Pratchett, Lester Haines
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8ab2db19da5539-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

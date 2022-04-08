@@ -1,0 +1,14 @@
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: script-src 'nonce-DbPluZRd47WUKwynZSCk9w' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/gerritcodereview/1
+Content-Type: text/html; charset=utf-8
+Date: Fri, 08 Apr 2022 11:36:00 GMT
+Etag: d6a92edaef44da1a6f965ca4016d292b
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

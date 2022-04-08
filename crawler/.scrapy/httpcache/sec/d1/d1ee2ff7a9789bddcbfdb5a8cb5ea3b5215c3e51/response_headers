@@ -1,0 +1,18 @@
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: DENY
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+X-Auto-Login: realm=com.google&args=continue%3Dhttp%253A%252F%252Fsupport.google.com%252Fassistant%252Fanswer%252F11273410%253Fhl%253Den%2526ref_topic%253D9071676%2526co%253DGENIE.Platform%25253DAndroid
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 08 Apr 2022 11:36:15 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Report-To: {"group":"coop_gse_qebhlk","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gse_qebhlk"}]}
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="coop_gse_qebhlk"
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /cspreport
+Content-Security-Policy: script-src 'report-sample' 'nonce-dUJU9lY/HUYwpUOdxdqouw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: __Host-GAPS=1:tiyOGMB-Uee-D4rkVbGsvQOa76rAfg:35gUK3I1MrfO9Ow_;Path=/;Expires=Sun, 07-Apr-2024 11:36:15 GMT;Secure;HttpOnly;Priority=HIGH
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

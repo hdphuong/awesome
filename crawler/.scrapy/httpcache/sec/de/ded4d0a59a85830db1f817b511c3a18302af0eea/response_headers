@@ -1,0 +1,28 @@
+Age: 0
+Cache-Control: max-age=2592000, private, s-maxage=0, proxy-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 Apr 2022 11:09:47 GMT
+Display: pub_site_to_orig_sol
+Link: <https://youronlinechoices.com.au/wp-json/>; rel="https://api.w.org/", <https://youronlinechoices.com.au/wp-json/wp/v2/posts/71>; rel="alternate"; type="application/json", <https://youronlinechoices.com.au/?p=71>; rel=shortlink
+Pagespeed: off
+Response: 200
+Server: nginx
+Set-Cookie: ezoab_307473=mod50; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 13:09:47 UTC
+Set-Cookie: ezoadgid_307473=-1; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 11:39:47 UTC
+Set-Cookie: ezoref_307473=; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 13:09:47 UTC
+Set-Cookie: ezosuibasgeneris-1=35eb5857-c6ed-4a1e-72cc-17c28f92261b; Path=/; Domain=youronlinechoices.com.au; Expires=Sat, 08 Apr 2023 11:09:47 UTC; Secure; SameSite=None
+Set-Cookie: active_template::307473=pub_site.1649416187; Path=/; Domain=youronlinechoices.com.au; Expires=Sun, 10 Apr 2022 11:09:47 UTC
+Set-Cookie: lp_307473=https://youronlinechoices.com.au/; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 11:39:47 UTC
+Set-Cookie: ezovuuidtime_307473=1649416187; Path=/; Domain=youronlinechoices.com.au; Expires=Sun, 10 Apr 2022 11:09:47 UTC
+Set-Cookie: ezovuuid_307473=5f6364e7-a21d-4da4-51df-c19477ac281c; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 11:39:47 UTC
+Set-Cookie: ezopvc_307473=4; Path=/; Domain=youronlinechoices.com.au; Expires=Fri, 08 Apr 2022 11:39:47 UTC
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent
+X-Cache: MISS
+X-Ezoic-Cdn: Hit ds;ds;814f9083f7a64bfc536da895b47ffdea;2-307473-4;783d7691-1610-4fc7-4d63-825cc1ac201a
+X-Middleton-Display: pub_site_to_orig_sol
+X-Middleton-Response: 200
+X-Origin-Cache-Control: 
+X-Pingback: https://youronlinechoices.com.au/xmlrpc.php
+X-Sol: pub_site

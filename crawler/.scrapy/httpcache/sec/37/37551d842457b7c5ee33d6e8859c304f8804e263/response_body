@@ -1,0 +1,1860 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>Exploring the counterintuitive mysteries of black holes with Paul Sutter | Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars-mobile\/assets","HOME_URL":"https:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"light","VIEW":"mobile","MOBILE":true,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["ars-technica-videos","black-holes","edge-of-knowledge","feature-2","paul-sutter","science-2","video-2","comments"],"channel":"science","slug":"exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter","template_type":"article","queue":[],"server":"production"},"TOTAL":103786,"UNREAD":0,"RECENT":[1846491,1846733,1846635,1846651,1846629,1846613,1846633,1846622,1846550,1846105,1846508,1846523,1846517,1846526,1846539,1846505,1846496,1846340,1846440,1846437,1846367,1846358,1846347,1845514,1845789],"LOGINS":true,"CROSS":false,"GEOALERTS":false,"PARSELY":"arstechnica.com","COMMENTS":true,"HOMEPAGE":false,"COUNTRY":"us","SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"science","MEMO_PID":"62012a7a19351c07620394e0"};
+  </script>
+
+
+  <!--[if lte IE 8]><script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/modernizr/modernizr.js"></script><![endif]-->
+
+      <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/css/ars.min.a7ae7810147219057e83a38ffb92d16f.css" />
+        <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/ars-ios-icon.png" />
+  <link rel="icon" sizes="192x192" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/material-ars.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- cache hit 312:single/meta:6934d9740fb30f360a7ac9270c9e07cc -->
+<meta name='parsely-page' content='{"title":"Exploring the counterintuitive mysteries of black holes with Paul Sutter","link":"https:\/\/arstechnica.com\/science\/2022\/03\/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter\/","type":"post","author":"Lee Hutchinson","post_id":1844383,"pub_date":"2022-03-30T22:50:43Z","section":"Science","tags":["ars-technica-videos","black-holes","edge-of-knowledge","feature-2","paul-sutter","science-2","video-2","type: feature"],"image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/bh_accretiondisk_sim_stationary_websize-150x150.gif"}'>
+<meta name='parsely-metadata' content='{"type":"feature","title":"Exploring the counterintuitive mysteries of black holes with Paul Sutter","post_id":1844383,"lower_deck":"In this episode of \u0022Edge of Knowledge,\u0022 we look at those most singular singularities.","image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/bh_accretiondisk_sim_stationary_websize-150x150.gif","listing_image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/bh_accretiondisk_sim_stationary_websize-360x200.gif"}'>
+
+<link rel="canonical" href="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/" />
+
+<link rel="shorturl" href="https://arstechnica.com/?p=1844383" />
+
+<meta name="description" content="In this episode of &#34;Edge of Knowledge,&#34; we look at those most singular singularities." />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/">
+<meta name="twitter:title" content="Exploring the counterintuitive mysteries of black holes with Paul Sutter">
+<meta name="twitter:description" content="In this episode of &#34;Edge of Knowledge,&#34; we look at those most singular singularities.">
+
+<meta name="twitter:site" content="@arstechnica">
+<meta name="twitter:domain" content="arstechnica.com">
+
+<meta property="og:site_name" content="Ars Technica" />
+
+<meta name="twitter:image:src" content="https://cdn.arstechnica.net/wp-content/uploads/2022/03/bh_accretiondisk_sim_stationary_websize-640x369.gif">
+<meta name="twitter:image:width" content="640">
+<meta name="twitter:image:height" content="369">
+
+
+<meta property="og:url" content="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/" />
+<meta property="og:title" content="Exploring the counterintuitive mysteries of black holes with Paul Sutter" />
+<meta property="og:image" content="https://cdn.arstechnica.net/wp-content/uploads/2022/03/bh_accretiondisk_sim_stationary_websize-640x369.gif" />
+<meta property="og:description" content="In this episode of &#34;Edge of Knowledge,&#34; we look at those most singular singularities." />
+<meta property="og:type" content="article" />
+  <!-- cache hit 312:single/header:6934d9740fb30f360a7ac9270c9e07cc -->
+        
+  
+  
+
+  <!-- Google Tag Manager DataLayer -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"event":"data-layer-loaded","user":{"ars_userId":undefined,"amg_userId":undefined,"uID":undefined,"sID":undefined,"loginStatus":false,"subscriberStatus":"none","infinityId":undefined,"registrationSource":undefined,"mdw_cnd_id":undefined,"monthlyVisits":undefined,"accessPaywall":undefined,"view":"mobile","theme":"light","show_comments":true},"content":{"pageTemplate":"single","pageType":"article|feature","contentCategory":"science","section":"science","subsection":undefined,"contributor":"Lee Hutchinson","contentID":1844383,"contentLength":586,"display":"Exploring the counterintuitive mysteries of black holes with Paul Sutter","contentSource":"web","pageAssets":undefined,"uniqueContentCount":undefined,"monthlyContentCount":undefined,"publishDate":"2022-03-30T22:50:43+00:00","modifiedDate":"2022-03-31T21:28:10+00:00","keywords":"ars technica videos|black holes|edge of knowledge|feature|paul sutter|science|video","dataSource":undefined},"marketing":{"campaignName":undefined,"circCampaignId":undefined,"internalCampaignId":undefined,"brand":"Ars Technica","certified_mrc_data":undefined,"condeNastId":undefined},"page":{"pID":undefined,"syndicatorUrl":undefined,"pageURL":"https:\/\/arstechnica.com\/?p=1844383","canonical":"https:\/\/arstechnica.com\/science\/2022\/03\/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter\/","canonicalPathName":"\/science\/2022\/03\/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter\/?view=mobile&comments=1&post=40789916"},"search":{"facets":undefined,"searchTerms":undefined},"site":{"appVersion":"1.0.0"}});
+</script>
+<!-- End Google Tag Manager DataLayer -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLXNPCQ');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+class ABTest {
+  constructor(post_id, init_method) {
+    this.post_id = post_id;
+    this.ajaxurl = '/services/ars-ajax-handler.php';
+    this.expireDays = 1/48; // 30 min
+    this.group = this.getGroup();
+    this.uid = this.getUid();
+    this.init_method = init_method;
+    this.setTitle();
+
+    if (this.init_method === 'click') {
+      this.click();
+    }
+    else {
+      this.impression();
+    }
+  }
+
+  setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Retrieves a unique id for determining whether the event should be recorded
+  getUid() {
+    var uid = this.getCookie('ars_ab_' + this.post_id + '_uid');
+    if (!uid) {
+      uid = (Math.random() + 1).toString(36).substring(2,7);
+      this.setCookie('ars_ab_' + this.post_id + '_uid', uid, this.expireDays);
+    }
+    return uid;
+  };
+
+  // Places the user in either A or B for this post id
+  getGroup() {
+    var group = this.getCookie('ars_ab_' + this.post_id + '_group');
+    if (!group) {
+      group = String.fromCharCode(Math.floor(Math.random() * 2) + 65).toLowerCase();
+      this.setCookie('ars_ab_' + this.post_id + '_group', group, this.expireDays);
+    }
+    return group;
+  };
+
+  // Records a headline impression (from homepage or other listing)
+  impression() {
+    // Send fake ajax
+    var params = {
+      nonce:        '052ceae214',
+      action:       'ars_ab_impression',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // Records a headline click from the actual post page
+  click() {
+    // Send fake ajax
+    var params = {
+      nonce:        '10deb1a137',
+      action:       'ars_ab_click',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // If user is in B group, dynamically set title
+  setTitle() {
+    if (this.group == 'b') {
+      var span = document.getElementById('ars_ab_' + this.post_id);
+      var title = span.parentNode;
+      title.innerHTML = span.getAttribute('data-title-b');
+    }
+  };
+
+  encodeParams(data) {
+    var ret = [];
+    for (var d in data)
+      ret.push(encodeURIComponent(d) + "=" + encodeURIComponent(data[d]));
+    return ret.join("&");
+  };
+
+};
+</script><!-- OneTrust Cookies Consent Notice start -->
+<script 
+    src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  
+    type="text/javascript" charset="UTF-8" 
+    data-domain-script="b10882a1-8446-4e7d-bfb2-ce2c770ad910">
+</script>
+<script type="text/javascript">function OptanonWrapper(){};</script>
+<script 
+    src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" 
+    type="text/javascript" 
+    charset="UTF-8" 
+    ccpa-opt-out-ids="C0002,C0003,C0004,C0005" 
+    ccpa-opt-out-geo="ca" 
+    ccpa-opt-out-lspa="true">
+</script> 
+<!-- OneTrust Cookies Consent Notice end -->
+<script src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-script" async ></script>
+<script>window.googletag=window.googletag||{};window.googletag.cmd=window.googletag.cmd||[];window.cns=window.cns||{};window.cns.queue=[];window.cns.async=function(s,c){cns.queue.push({service:s,callback:c})};window.sparrowQueue=window.sparrowQueue||[];</script>
+<link rel="dns-prefetch" href="//aax.amazon-adsystem.com">
+<link rel="preconnect" href="//aax.amazon-adsystem.com" crossorigin>
+<link rel="preconnect" href="https://mb.moatads.com" crossorigin>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649417696"></script>
+<script src="https://js-sec.indexww.com/ht/p/183973-93942139695505.js" async></script>
+<script src="https://z.moatads.com/condenastprebidheader987326845656/moatheader.js" async></script>
+<script>
+  window.cns.pageContext = {"contentType":"article","templateType":"article","channel":"science","subChannel":"","slug":"exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter","server":"production","keywords":{"tags":["ars-technica-videos","black-holes","edge-of-knowledge","feature-2","paul-sutter","science-2","video-2","comments"],"cm":[],"platform":["wordpress"],"copilotid":""}};
+</script>
+<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649417696"></script>
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-84a4ab0802.ads.us.js"></script>
+ 
+</head>
+<body class="post-template-default single single-post postid-1844383 single-format-standard mobile-view light blog-us">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLXNPCQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div id="container">
+    <aside class="ad ad_crown">
+    </aside>
+ 
+       
+<script type="text/javascript">
+  document.domain = location.hostname.split('.').slice(-2).join('.');
+</script>
+
+<header id="mobile-masthead" class="">
+  <div class="masthead-center-wrap">
+        <h1><a href="https://arstechnica.com"><img src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/logo.png" alt="Ars Technica"></a></h1>
+    <div class="post-link-older">
+      <a href="https://arstechnica.com/gadgets/2022/03/googles-next-us-antitrust-issue-google-maps/" rel="prev"><span class="arrow">&larr;</span></a>    </div>
+    <div class="post-link-newer">
+      <a href="https://arstechnica.com/gadgets/2022/03/dell-latitude-precision-pcs-claim-30-lower-latency-with-dual-network-connection/" rel="next"><span class="arrow">&rarr;</span></a>    </div>
+  </div>
+
+  <div class="sliding-trigger" id="burger-time" data-menu="main-menu" aria-label="Menu" aria-expanded="false"><div id="burger"><div></div><div></div><div></div></div></div>
+  <div class="sliding-trigger" id="little-head" data-menu="profile-menu" aria-label="Profile" aria-expanded="false">
+    <div>0</div>
+  </div>
+</header>
+
+<!-- Begin sliding main menu -->
+<div class="sliding-container" id="main-menu">
+  <div class="sliding-contents">
+    <div class="sliding-contents-scroll">
+      <form action="/search" method="GET">
+        <input type="text" name="q" id="search-top" placeholder="Search…">
+      </form>
+      <nav id="mobile-primary">
+        <ul>
+          <li><a class="" href="/information-technology/">Biz &amp; IT</a></li>
+          <li><a class="" href="/gadgets/">Tech</a></li>
+          <li><a class="" href="/science/">Science</a></li>
+          <li><a class="" href="/tech-policy/">Policy</a></li>
+          <li><a class="" href="/cars/">Cars</a></li>
+          <li><a class="" href="/gaming/">Gaming &amp; Culture</a></li>
+          <li><a href="/civis/">Forums</a></li>
+          <li><a href="/newsletters/">Newsletter</a></li>
+          <li><a href="/store/product/subscriptions/">Subscribe</a></li>
+          <li><a href="/store/">Store</a></li>
+        </ul>
+      </nav>
+      <div class="mobile-options">
+        <h2 class="subheading" id="full-site"><a rel="nofollow" href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?view=mobile&amp;comments=1&amp;post=40789916">View Full Site</a></h2>
+      </div>
+      
+<ul id="theme-switch">
+    <li class="light active">
+      <a rel="nofollow" href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?mobile_theme=light&amp;view=mobile&amp;comments=1&amp;post=40789916"><span class="subheading">Dark on light</span></a>
+    </li>
+  <li class="dark ">
+      <a rel="nofollow" href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?mobile_theme=dark&amp;view=mobile&amp;comments=1&amp;post=40789916"><span class="subheading">Light on dark</span></a>
+    </li>
+</ul>
+    </div>
+  </div>
+</div>
+<!-- End sliding main menu -->
+
+<!-- Begin sliding profile -->
+<div class="sliding-container" id="profile-menu">
+  <div class="sliding-contents">
+    <div class="sliding-contents-scroll">
+              <div class="mobile-options">
+      <h2 class="subheading" id="full-site"><a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fscience%2F2022%2F03%2Fexploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter%2F%3Fview%3Dmobile%26comments%3D1%26post%3D40789916" rel="nofollow">Log in</a></h2>
+    <h2 class="subheading float-toggle"><a href="/civis/ucp.php?mode=register" rel="nofollow">Register</a></h2>
+  
+  <div style="border-top:1px solid #414141;margin-top: 20px; padding-top: 20px;">
+    <a href="/civis/ucp.php?mode=sendpassword" style="color: #FF2400;">Forgot your password?</a><br><br><a href="/civis/ucp.php?mode=resend_act" style="color: #FF2400;">Resend activation e-mail</a>
+  </div>
+
+</div>          </div>
+  </div>
+</div>
+<!-- End sliding profile -->
+    <section id="content">
+<!-- cache hit 312:home/toppost:b70f30fa9e89cdd472eec07b2d4abefe -->
+
+<h1 id="archive-head" class="subheading thick-divide-bottom">
+	<a href="https://arstechnica.com/science/">	<span class="archive-name">Science</span>
+		<span class="divider"> / </span>
+	<span class="archive-desc">Science &amp; Exploration</span>
+		</a></h1>
+
+<script type="text/javascript">
+  ars.ARTICLE = {"url":"https:\/\/arstechnica.com\/science\/2022\/03\/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter\/","short_url":"https:\/\/arstechnica.com\/?p=1844383","title":"Exploring the counterintuitive mysteries of black holes with Paul Sutter","author":10243,"authorName":"Lee Hutchinson","pubDate":"2022-03-30T22:50:43Z","id":1844383,"topic":1483356,"pages":1,"current_page":1,"superscroll":true,"promoted":[],"single_page":false,"comments":76,"fullwidth":false,"slug":"exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter","arsStaff":{"104481":{"name":"Aaron Zimmerman","title":"Copy Chief","staff":true},"332715":{"name":"Andrew Cunningham","title":"Senior Technology Reporter","staff":true},"1002":{"name":"Aurich Lawson","title":"Creative Director","staff":true},"509873":{"name":"Beth Mole","title":"Senior Health Reporter","staff":true},"453791":{"name":"Cathleen O'Grady","title":"Contributing science reporter","staff":true},"102179":{"name":"Chris Lee","title":"Associate writer","staff":true},"821742":{"name":"Corey Gaskin","title":"Senior Commerce Writer","staff":true},"329388":{"name":"Dan Goodin","title":"Security Editor","staff":true},"254631":{"name":"Diana Gitig","title":"Associate Writer","staff":false},"25862":{"name":"Eric Bangeman","title":"Managing Editor","staff":true},"512413":{"name":"Eric Berger","title":"Senior Space Editor","staff":true},"46707":{"name":"Iljitsch van Beijnum","title":"Associate Writer","staff":false},"316010":{"name":"Jason Marlin","title":"Technical Director","staff":true},"746799":{"name":"Jennifer Ouellette","title":"Senior Writer","staff":true},"15365":{"name":"Jeremy Reimer","title":"Senior Niche Technology Historian","staff":false},"52979":{"name":"John Timmer","title":"Senior Science Editor","staff":true},"312082":{"name":"Jon Brodkin","title":"Senior IT Reporter","staff":true},"14317":{"name":"Jonathan M. Gitlin","title":"Automotive Editor","staff":true},"998":{"name":"Ken Fisher","title":"Editor in Chief","staff":true},"440179":{"name":"Kerry Staurseth","title":"Associate Copyeditor","staff":true},"328283":{"name":"Kyle Orland","title":"Senior Gaming Editor","staff":true},"10243":{"name":"Lee Hutchinson","title":"Senior Technology Editor","staff":true},"173191":{"name":"Matthew Lasar","title":"Associate writer","staff":true},"182268":{"name":"Nate Anderson","title":"Deputy Editor","staff":true},"1991":{"name":"Ohrmazd","title":"","staff":false},"391727":{"name":"Ron Amadeo","title":"Reviews Editor","staff":true},"348927":{"name":"Sam Machkovech","title":"Tech Culture Editor","staff":true},"588289":{"name":"Samuel Axon","title":"Senior Reviews Editor","staff":true},"294205":{"name":"Scott K. Johnson","title":"Associate Writer","staff":true},"843451":{"name":"Steve Haske","title":"","staff":false},"163185":{"name":"Tim De Chant","title":"Senior Technology Reporter","staff":true},"173910":{"name":"Timothy B. Lee","title":"Senior tech policy reporter","staff":false}},"tags":["ars-technica-videos","black-holes","edge-of-knowledge","feature-2","paul-sutter","science-2","video-2"],"vote_sentiments":[{"sentiment_id":"1","sentiment":"agree","direction":"positive","icon":null,"label":"Agree"},{"sentiment_id":"3","sentiment":"interesting","direction":"positive","icon":null,"label":"Interesting"},{"sentiment_id":"5","sentiment":"funny","direction":"positive","icon":null,"label":"Funny"},{"sentiment_id":"6","sentiment":"addsto","direction":"positive","icon":null,"label":"Adds to Story"},{"sentiment_id":"7","sentiment":"disagree","direction":"negative","icon":null,"label":"Disagree"},{"sentiment_id":"8","sentiment":"inaccurate","direction":"negative","icon":null,"label":"Inaccurate"},{"sentiment_id":"11","sentiment":"pointless","direction":"negative","icon":null,"label":"Doesn't Contribute"},{"sentiment_id":"12","sentiment":"abusive","direction":"negative","icon":null,"label":"Abusive"}]};
+</script>
+
+<article itemscope itemtype="http://schema.org/NewsArticle" class="standalone comments-open">
+	<header>
+		<h1 class="heading" itemprop="headline">Exploring the counterintuitive mysteries of black holes with Paul Sutter</h1>
+		<h2 class="standalone-deck" itemprop="description">In this episode of "Edge of Knowledge," we look at those most singular singularities.</h2>
+    		<div class="post-meta">
+      
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/lee-hutchinson/" rel="author"><span itemprop="name">Lee Hutchinson</span></a>
+        -    <span class="date" data-time="1648680643">Mar 30, 2022 10:50 pm UTC</span>
+  </p>
+
+			<div class="mobile-meta-controls">
+                  <a class="bookmark bookmark-login" href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fscience%2F2022%2F03%2Fexploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter%2F%3Fview%3Dmobile%26comments%3D1%26post%3D40789916">Login to bookmark</a>
+          <a title="45 posters participating, including story author." class="comment-count" href="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1"><span>76</span></a>
+
+			</div>
+		</div>
+
+    	</header>
+	<section id="article-guts">
+		<div itemprop="articleBody" class="article-content clearfix">
+    
+
+
+
+
+<figure class="video center"><div class="ars-video-container" data-video-id="62420ac91d75db1cb54cd85c" style="padding-bottom:56%"><script src="//player.cnevids.com/script/video/62420ac91d75db1cb54cd85c.js?iu=%2F3379%2Fars.dart&autoplay=0" class="x-skip"></script></div><figcaption class="caption"><div class="caption-text">Produced and directed by Corey Eisenstein. <a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/5c1b11fc-a412-454f-a201-114b8accd855mezzanine.txt">Click here for transcript</a>.</div></figcaption></figure>
+<p>Of all the amazing and varied phenomena in the cosmological zoo, black holes are among the most mysterious. They are zombies—the all-devouring corpses of dead stars, made of trillions of tons of stellar ash compressed into an infinitely dense point called a "<a href="https://simple.wikipedia.org/wiki/Gravitational_singularity">singularity</a>." The gravity exerted by the singularity is so intense that it warps space-time, preventing even light from escaping.</p>
+<p>In many ways, to look at a black hole is to look at the future of our Universe because there will come a time—many trillions of trillions of years from now, but inevitable nonetheless—where all the sky's stars will have gone out, and black holes will be the Universe's main attraction, still gobbling down any remaining free clumps of matter and acting as the only sources of light left. And perhaps most creepily of all, if proton decay turns out to be a thing, this future black hole era will be how our cosmos spends the majority of its life—dark, silent, and forbiddingly empty.</p>
+<p>But before we all descend into a pit of existential dread, we've invited our astrophysicist pal Dr. Paul Sutter to shed some light on these visions of darkness. Because in addition to being harbingers of the state of the Universe to come, black holes are <em>fascinating</em>, and as we understand more about them, we understand more about the fundamental laws that make the Universe work.</p>
+<h2>The Information Paradox</h2>
+<p>Black holes are scary enough if you just consider them to be shambling star-zombies that eat anything that gets close to them. But they're also freaky in an entirely more fundamental way, because at first glance, black holes appear to be capable of actually <a href="https://simple.wikipedia.org/wiki/Black_hole_information_paradox">destroying information itself</a>—something that our current understanding of quantum mechanics says <a href="https://en.wikipedia.org/wiki/No-hiding_theorem">should be impossible</a>. Any object that falls into a black hole's singularity appears to be fundamentally erased and ends up becoming part of the black hole in ways that don't appear to retain any hint of the object's previous state of existence.</p>
+<p>This area of research is where theoretical physicist Dr. Stephen Hawking made some of his most important contributions by first defining and then attacking the information paradox problem (and also predicting the way by which even seemingly immortal black holes eventually <a href="https://simple.wikipedia.org/wiki/Hawking_radiation">bleed to death</a>). As it turns out, things aren't necessarily that simple, and it's possible that black holes <em>do</em> retain information about the things they consume—just not in the manner that normal three-dimensional beings like you or I might expect.</p>
+<p>And here's about where I reach the limit of my (mostly pop-sci and fiction-based) black hole knowledge and turn the reins over to Paul for a journey into weirdness. Black holes are awesome, and I hope you enjoy this video on what they might be and how they might work.</p>
+<p>But if black holes aren't your thing, fear not—we have a lot more episodes of "Edge of Knowledge" still on tap!</p>
+
+		</div>
+    <div class="article-expander">
+      <p><a href="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/">Expand full story</a></p>
+    </div>
+      	</section>
+
+  <div id="article-footer-wrap">
+
+    <section id="comments-area">
+      
+      <a name="comments-bar"></a>
+      <div class="comments-bar">
+        <a class="subheading comments-read-link" href="https://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1"><span class="text">Reader comments</span> <span class="comment-count"><span proptype>76</span></span></a>
+      </div>
+            <div id="comments-container">
+<!-- Exploring the counterintuitive mysteries of black holes with Paul Sutter -->
+<h2 class="comments-header subheading thick-divide-top thin-divide-bottom">
+  76 Reader Comments
+</h2>
+
+<div class="sort-pagination">
+  
+<span class="comments-header subheading sort-header">
+  <select id="comment-sort-select" aria-label="Sort comments by">
+    <option value="">Sort comments by...</option>
+    <option value="default">Chronological</option>
+    <option value="insightful">Insightful</option>
+    <option value="high">Highest Voted</option>
+    
+    <option value="funny">Funniest</option>
+  </select>
+</span>
+<aside class="comment-pagination">
+  <ul class="subheading">
+    <li>Page</li>
+    <li class="selected">1</li><li><a rel='nofollow' href='?comments=1&amp;start=40'>2</a></li></ul><div class="subheading next-page">&nbsp;<a rel='nofollow' href='?comments=1&amp;start=40'>Next</a></div>
+</aside>
+
+</div>
+  
+<ol id="comments" data-topic-id="1483356" data-forum-id="2" data-total-posts="76" data-page-start="0">
+
+<li class="thin-divide-bottom comment star read"
+  data-post-negative="0"
+  data-post-positive="31"
+  data-user-vote="neutral"
+  data-post-id="40789110"
+  data-poster-id="598843"
+  id="comment-40789110"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;10&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="lolware"><a href="/civis/memberlist.php?mode=viewprofile&u=598843" rel="nofollow">lolware</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789110&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789110#comment-40789110" title="2022-03-30T13:46:47+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 8:46 am</a>
+        
+          <span class="highlight reader-fav">Reader Fav</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      I just hope I'll live to see the day when we finally understand those beasts and what they hide.<br /><br />Thanks to all the physicists working on cracking this nut.
+      
+    </div>
+    <footer>
+      <span class="userinfo">63 posts | reg. <time class="reg-date">Feb 19, 2017</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-9"
+  data-post-positive="10"
+  data-user-vote="neutral"
+  data-post-id="40789178"
+  data-poster-id="664445"
+  id="comment-40789178"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;3&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;2&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;2&quot;,&quot;inaccurate&quot;:&quot;3&quot;,&quot;pointless&quot;:&quot;2&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Admaku"><a href="/civis/memberlist.php?mode=viewprofile&u=664445" rel="nofollow">Admaku</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789178&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789178#comment-40789178" title="2022-03-30T14:09:19+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:09 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br />We are only human if we dont know something we pretend that we do or use words like singularity.
+      
+    </div>
+    <footer>
+      <span class="userinfo">16 posts | reg. <time class="reg-date">May 6, 2017</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment star read"
+  data-post-negative="-3"
+  data-post-positive="90"
+  data-user-vote="neutral"
+  data-post-id="40789188"
+  data-poster-id="355830"
+  id="comment-40789188"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;26&quot;,&quot;interesting&quot;:&quot;2&quot;,&quot;funny&quot;:&quot;2&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;1&quot;,&quot;inaccurate&quot;:&quot;1&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Fatesrider"><a href="/civis/memberlist.php?mode=viewprofile&u=355830" rel="nofollow">Fatesrider</a></span><span class="rank">Ars Tribunus Angusticlavius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789188&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789188#comment-40789188" title="2022-03-30T14:12:34+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:12 am</a>
+        
+          <span class="highlight reader-fav">Reader Fav</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />Define a what a singularity is.<br /><br />Because I don't think you understand what that means.<br /><br />It's simple a <a href="https://en.wikipedia.org/wiki/Gravitational_singularity" class="postlink" rel="nofollow">point in space time where none of the rules of known physics apply anymore</a>.<br /><br />It's not that we know what's going on inside at all.  A singularity defies known physics.<br /><br />Trying to understand what goes on inside a black hole is the whole purpose of studying them.  And like light, they don't give up their secrets easily.  We can determine mass, spin, rotation, whether it's eating, or not, and a host of other things that we see impacting the universe.  But what's going on inside is still very much a cypher with regard to actual knowledge.  Theories are about all we have, and few of them have proven to be even remotely definitive.<br /><br />Calling it a singularity is the physics way of saying the same things cartographers used to mean by marking the edges of maps with &quot;here be dragons&quot;, because they simply didn't know what lay beyond the borders.  The same applies in physics to what lies beyond the event horizon of a black hole.<br /><br />Calling them singularities is better than calling them Domains of Space Dragons.
+      
+    </div>
+    <footer>
+      <span class="userinfo">16168 posts | reg. <time class="reg-date">Nov 17, 2012</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment star read"
+  data-post-negative="0"
+  data-post-positive="77"
+  data-user-vote="neutral"
+  data-post-id="40789208"
+  data-poster-id="10243"
+  id="comment-40789208"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;17&quot;,&quot;interesting&quot;:&quot;3&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;5&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="pokrface"><a href="/civis/memberlist.php?mode=viewprofile&u=10243" rel="nofollow">pokrface</a></span><span class="rank">Senior Technology Editor</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789208&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789208#comment-40789208" title="2022-03-30T14:16:37+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:16 am</a>
+        
+          <span class="highlight reader-fav">Reader Fav</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />It's a succinct way of describing a black hole's innards without having to write an entire primer on quantum field theory (which I am utterly unqualified to do). And Hawking radiation isn't really virtual particles popping in and out of existence either, but that's the commonly presented analogy for that, too.<br /><br />If this were an academic paper instead of a fun and informative video for laypersons, I guess I'd be a lot picker about terminology. But it ain't, so I'm not. ¯\_(ツ)_/¯
+      
+    </div>
+    <footer>
+      <span class="userinfo">20729 posts | reg. <time class="reg-date">Aug 26, 2000</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-3"
+  data-post-positive="24"
+  data-user-vote="neutral"
+  data-post-id="40789215"
+  data-poster-id="523261"
+  id="comment-40789215"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;5&quot;,&quot;interesting&quot;:&quot;6&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="_myk"><a href="/civis/memberlist.php?mode=viewprofile&u=523261" rel="nofollow">_myk</a></span><span class="rank">Wise, Aged Ars Veteran</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789215&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789215#comment-40789215" title="2022-03-30T14:19:44+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:19 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      My head canon for black holes is that there's an opposite anti-mass universe where time travels backwards (from our point of view) and black holes are spewing mass &amp; light into that universe until eventually everything collapses into a big crunch (which sets off our big bang, or the next universe).<br /><br />Feel it's got to be something neat and tidy (in terms of balancing out conservation of energy)
+      
+    </div>
+    <footer>
+      <span class="userinfo">105 posts | reg. <time class="reg-date">Jan 7, 2016</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-22"
+  data-post-positive="6"
+  data-user-vote="neutral"
+  data-post-id="40789224"
+  data-poster-id="822701"
+  id="comment-40789224"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;2&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;1&quot;,&quot;inaccurate&quot;:&quot;1&quot;,&quot;pointless&quot;:&quot;6&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="The Lurker Beneath"><a href="/civis/memberlist.php?mode=viewprofile&u=822701" rel="nofollow">The Lurker Beneath</a></span><span class="rank">Ars Centurion</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789224&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789224#comment-40789224" title="2022-03-30T14:23:08+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:23 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789188#p40789188" class="postlink" rel="nofollow">Fatesrider</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />Define a what a singularity is.<br /><br />Because I don't think you understand what that means.<br /><br />It's simple a <a href="https://en.wikipedia.org/wiki/Gravitational_singularity" class="postlink" rel="nofollow">point in space time where none of the rules of known physics apply anymore</a>.<br /><br />It's not that we know what's going on inside at all.  A singularity defies known physics.<br /><br />Trying to understand what goes on inside a black hole is the whole purpose of studying them.  And like light, they don't give up their secrets easily.  We can determine mass, spin, rotation, whether it's eating, or not, and a host of other things that we see impacting the universe.  But what's going on inside is still very much a cypher with regard to actual knowledge.  Theories are about all we have, and few of them have proven to be even remotely definitive.<br /><br />Calling it a singularity is the physics way of saying the same things cartographers used to mean by marking the edges of maps with &quot;here be dragons&quot;, because they simply didn't know what lay beyond the borders.  The same applies in physics to what lies beyond the event horizon of a black hole.<br /><br />Calling them singularities is better than calling them Domains of Space Dragons.</div><br /><br /><br />It's a theoretical point in space described by a mathematical/physical model that isn't working any more, unless infinities are real.  So saying &quot;the singularity exists&quot; isn't correct; you should say &quot;the model we are using is definitely wrong at this predicted point.&quot;  [Of course in the case of the black hole central singularity it may be wrong long before that point.]
+      
+    </div>
+    <footer>
+      <span class="userinfo">1684 posts | reg. <time class="reg-date">Jun 20, 2020</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="9"
+  data-user-vote="neutral"
+  data-post-id="40789237"
+  data-poster-id="527239"
+  id="comment-40789237"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;1&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="EspressoMachine"><a href="/civis/memberlist.php?mode=viewprofile&u=527239" rel="nofollow">EspressoMachine</a></span><span class="rank">Ars Scholae Palatinae</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789237&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789237#comment-40789237" title="2022-03-30T14:28:12+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:28 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789208#p40789208" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />It's a succinct way of describing a black hole's innards without having to write an entire primer on quantum field theory (which I am utterly unqualified to do). And Hawking radiation isn't really virtual particles popping in and out of existence either, but that's the commonly presented analogy for that, too.<br /><br />If this were an academic paper instead of a fun and informative video for laypersons, I guess I'd be a lot picker about terminology. But it ain't, so I'm not. ¯\_(ツ)_/¯</div><br />Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.
+      
+    </div>
+    <footer>
+      <span class="userinfo">964 posts | reg. <time class="reg-date">Jan 31, 2016</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment star read"
+  data-post-negative="0"
+  data-post-positive="26"
+  data-user-vote="neutral"
+  data-post-id="40789252"
+  data-poster-id="10243"
+  id="comment-40789252"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;5&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;2&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="pokrface"><a href="/civis/memberlist.php?mode=viewprofile&u=10243" rel="nofollow">pokrface</a></span><span class="rank">Senior Technology Editor</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789252&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789252#comment-40789252" title="2022-03-30T14:32:57+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:32 am</a>
+        
+          <span class="highlight reader-fav">Reader Fav</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789237#p40789237" class="postlink" rel="nofollow">EspressoMachine</a> wrote:</div><div class="quotecontent">Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.</div><br />AIUI, there's no energetic annihilation because the pair of particles borrows energy in order to pop into existence, and the energy is repaid when they meet. Or something. The analogy has never made any sense to me either.<br /><br />Unfortunately, the non-analogy version is so <a href="https://physics.stackexchange.com/questions/251385/an-explanation-of-hawking-radiation" class="postlink" rel="nofollow">gobsmackingly confusing</a> that it's more or less useless to even try understanding it without a firm grounding in quantum field theory. So virtual particles it is!
+      
+    </div>
+    <footer>
+      <span class="userinfo">20729 posts | reg. <time class="reg-date">Aug 26, 2000</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-15"
+  data-post-positive="7"
+  data-user-vote="neutral"
+  data-post-id="40789278"
+  data-poster-id="213441"
+  id="comment-40789278"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;3&quot;,&quot;inaccurate&quot;:&quot;2&quot;,&quot;pointless&quot;:&quot;1&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Sekhmet"><a href="/civis/memberlist.php?mode=viewprofile&u=213441" rel="nofollow">Sekhmet</a></span><span class="rank">Wise, Aged Ars Veteran</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789278&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789278#comment-40789278" title="2022-03-30T14:43:39+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:43 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789188#p40789188" class="postlink" rel="nofollow">Fatesrider</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br />Calling them singularities is better than calling them Domains of Space Dragons.</div><br /><br />And simply saying, &quot;black holes are so interesting because they suggest general relativity is either incomplete or fundamentally wrong&quot; is better than calling them singularities, which makes the lay person think that's what's actually going on inside black holes.
+      
+    </div>
+    <footer>
+      <span class="userinfo">179 posts | reg. <time class="reg-date">Jun 11, 2009</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="24"
+  data-user-vote="neutral"
+  data-post-id="40789301"
+  data-poster-id="109465"
+  id="comment-40789301"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;4&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;8&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="SpinyNorman"><a href="/civis/memberlist.php?mode=viewprofile&u=109465" rel="nofollow">SpinyNorman</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789301&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789301#comment-40789301" title="2022-03-30T14:53:21+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:53 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789188#p40789188" class="postlink" rel="nofollow">Fatesrider</a> wrote:</div><div class="quotecontent">Calling them singularities is better than calling them Domains of Space Dragons.</div><br /><br />Randal Monroe better read that and have an XKCD ready, stat!
+      
+    </div>
+    <footer>
+      <span class="userinfo">85 posts | reg. <time class="reg-date">Jan 13, 2007</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="3"
+  data-user-vote="neutral"
+  data-post-id="40789305"
+  data-poster-id="109465"
+  id="comment-40789305"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="SpinyNorman"><a href="/civis/memberlist.php?mode=viewprofile&u=109465" rel="nofollow">SpinyNorman</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789305&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789305#comment-40789305" title="2022-03-30T14:55:12+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 9:55 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      Video is geo-blocked &quot;We're sorry, something went wrong.&quot; (ok on US VPN)
+      
+    </div>
+    <footer>
+      <span class="userinfo">85 posts | reg. <time class="reg-date">Jan 13, 2007</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="11"
+  data-user-vote="neutral"
+  data-post-id="40789324"
+  data-poster-id="10243"
+  id="comment-40789324"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;2&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="pokrface"><a href="/civis/memberlist.php?mode=viewprofile&u=10243" rel="nofollow">pokrface</a></span><span class="rank">Senior Technology Editor</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789324&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789324#comment-40789324" title="2022-03-30T15:01:04+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:01 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789305#p40789305" class="postlink" rel="nofollow">SpinyNorman</a> wrote:</div><div class="quotecontent">Video is geo-blocked &quot;We're sorry, something went wrong.&quot; (ok on US VPN)</div><br />It shouldn't be, but I'll get ahold of the video people and let them know. Are you comfortable telling me what region you were trying from?
+      
+    </div>
+    <footer>
+      <span class="userinfo">20729 posts | reg. <time class="reg-date">Aug 26, 2000</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="21"
+  data-user-vote="neutral"
+  data-post-id="40789325"
+  data-poster-id="414501"
+  id="comment-40789325"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;4&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;2&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="thohac"><a href="/civis/memberlist.php?mode=viewprofile&u=414501" rel="nofollow">thohac</a></span><span class="rank">Ars Scholae Palatinae</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789325&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789325#comment-40789325" title="2022-03-30T15:01:05+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:01 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789188#p40789188" class="postlink" rel="nofollow">Fatesrider</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />Define a what a singularity is.<br /><br />Because I don't think you understand what that means.<br /><br />It's simple a <a href="https://en.wikipedia.org/wiki/Gravitational_singularity" class="postlink" rel="nofollow">point in space time where none of the rules of known physics apply anymore</a>.<br /><br />It's not that we know what's going on inside at all.  A singularity defies known physics.<br /><br />Trying to understand what goes on inside a black hole is the whole purpose of studying them.  And like light, they don't give up their secrets easily.  We can determine mass, spin, rotation, whether it's eating, or not, and a host of other things that we see impacting the universe.  But what's going on inside is still very much a cypher with regard to actual knowledge.  Theories are about all we have, and few of them have proven to be even remotely definitive.<br /><br />Calling it a singularity is the physics way of saying the same things cartographers used to mean by marking the edges of maps with &quot;here be dragons&quot;, because they simply didn't know what lay beyond the borders.  The same applies in physics to what lies beyond the event horizon of a black hole.<br /><br />Calling them singularities is better than calling them Domains of Space Dragons.</div><br /><br />Solving GR's equations for the Schwarzschild radius gives you a singularity, however physicists generally don't believe that's physical reality but points to the theory breaking down and the equations giving nonsensical answers at that level of space-time warping.
+      
+    </div>
+    <footer>
+      <span class="userinfo">1407 posts | reg. <time class="reg-date">Jan 10, 2014</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="5"
+  data-user-vote="neutral"
+  data-post-id="40789350"
+  data-poster-id="822701"
+  id="comment-40789350"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="The Lurker Beneath"><a href="/civis/memberlist.php?mode=viewprofile&u=822701" rel="nofollow">The Lurker Beneath</a></span><span class="rank">Ars Centurion</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789350&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789350#comment-40789350" title="2022-03-30T15:09:18+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:09 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789237#p40789237" class="postlink" rel="nofollow">EspressoMachine</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789208#p40789208" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />It's a succinct way of describing a black hole's innards without having to write an entire primer on quantum field theory (which I am utterly unqualified to do). And Hawking radiation isn't really virtual particles popping in and out of existence either, but that's the commonly presented analogy for that, too.<br /><br />If this were an academic paper instead of a fun and informative video for laypersons, I guess I'd be a lot picker about terminology. But it ain't, so I'm not. ¯\_(ツ)_/¯</div><br />Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.</div><br /><br /><br />Hawking called it a &quot;heuristic&quot;, but it's more about getting the numbers to add up rather than an intuitive model.
+      
+    </div>
+    <footer>
+      <span class="userinfo">1684 posts | reg. <time class="reg-date">Jun 20, 2020</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment star read"
+  data-post-negative="0"
+  data-post-positive="31"
+  data-user-vote="neutral"
+  data-post-id="40789352"
+  data-poster-id="212631"
+  id="comment-40789352"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;5&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;11&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Hypopraxia"><a href="/civis/memberlist.php?mode=viewprofile&u=212631" rel="nofollow">Hypopraxia</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789352&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789352#comment-40789352" title="2022-03-30T15:09:58+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:09 am</a>
+        
+          <span class="highlight reader-fav">Reader Fav</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789188#p40789188" class="postlink" rel="nofollow">Fatesrider</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />...Calling them singularities is better than calling them Domains of Space Dragons.</div><br />I disagree entirely. In fact I think we *SHOULD* label our star-charts with &quot;Here be Dragons&quot; for black holes. Taken a step further, we could then start naming the black hole's dragons. The Milky Way's super-massive black hole galactic center is obviously Bahamut. The one at the center of the Andromeda galaxy is obviously Tiamat.
+      
+    </div>
+    <footer>
+      <span class="userinfo">89 posts | reg. <time class="reg-date">Jun 3, 2009</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-4"
+  data-post-positive="4"
+  data-user-vote="neutral"
+  data-post-id="40789362"
+  data-poster-id="221201"
+  id="comment-40789362"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;1&quot;,&quot;pointless&quot;:&quot;2&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="madmax559"><a href="/civis/memberlist.php?mode=viewprofile&u=221201" rel="nofollow">madmax559</a></span><span class="rank">Ars Legatus Legionis</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789362&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789362#comment-40789362" title="2022-03-30T15:11:25+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:11 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789208#p40789208" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br />It's a succinct way of describing a black hole's innards without having to write an entire primer on quantum field theory (which I am utterly unqualified to do). And Hawking radiation isn't really virtual particles popping in and out of existence either, but that's the commonly presented analogy for that, too.<br /><br />If this were an academic paper instead of a fun and informative video for laypersons, I guess I'd be a lot picker about terminology. But it ain't, so I'm not. ¯\_(ツ)_/¯</div><br /><br />A Black Hole can be thought as your inner tube in your road bike getting pinched.<br /><br />ie A small section of Space-Time is getting compressed........a lot...<br /><br /><img class="ars-emoticon" src="https://cdn.arstechnica.net/civis/styles/images/smilies/big_grin.png" alt=":D" title="Big Green" />
+      
+    </div>
+    <footer>
+      <span class="userinfo">11385 posts | reg. <time class="reg-date">Aug 25, 2009</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="5"
+  data-user-vote="neutral"
+  data-post-id="40789414"
+  data-poster-id="221201"
+  id="comment-40789414"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;1&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;1&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="madmax559"><a href="/civis/memberlist.php?mode=viewprofile&u=221201" rel="nofollow">madmax559</a></span><span class="rank">Ars Legatus Legionis</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789414&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789414#comment-40789414" title="2022-03-30T15:25:18+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:25 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789252#p40789252" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789237#p40789237" class="postlink" rel="nofollow">EspressoMachine</a> wrote:</div><div class="quotecontent">Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.</div><br />AIUI, there's no energetic annihilation because the pair of particles borrows energy in order to pop into existence, and the energy is repaid when they meet. Or something. The analogy has never made any sense to me either.<br /><br />Unfortunately, the non-analogy version is so <a href="https://physics.stackexchange.com/questions/251385/an-explanation-of-hawking-radiation" class="postlink" rel="nofollow">gobsmackingly confusing</a> that it's more or less useless to even try understanding it without a firm grounding in quantum field theory. So virtual particles it is!</div><br /><br />The easiest way to visualize this is to think of this in terms of energy fields or bedsheets, except that the field is all permeating &amp; around us &amp; the bedsheet is hanging from a clothesline<br /><br />Stick a finger in the bedsheet &amp; it deforms on the other side.  Reverse this &amp; you have a new structure on your side<br /><br />This was the first thing that came to mind in my undergrad physics class studying the above ....<br /><br />Therefore &quot;We are all walking deformations on the bedsheet of reality&quot;<br /><br /><img class="ars-emoticon" src="https://cdn.arstechnica.net/civis/styles/images/smilies/big_grin.png" alt=":D" title="Big Green" />
+      
+    </div>
+    <footer>
+      <span class="userinfo">11385 posts | reg. <time class="reg-date">Aug 25, 2009</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="3"
+  data-user-vote="neutral"
+  data-post-id="40789421"
+  data-poster-id="414501"
+  id="comment-40789421"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="thohac"><a href="/civis/memberlist.php?mode=viewprofile&u=414501" rel="nofollow">thohac</a></span><span class="rank">Ars Scholae Palatinae</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789421&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789421#comment-40789421" title="2022-03-30T15:26:28+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:26 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      Paul Sutter has a podcast series &quot;Ask a Spacemen&quot; which I highly recommend, although light in technical detail, he has some good insight and is very entertaining.
+      
+    </div>
+    <footer>
+      <span class="userinfo">1407 posts | reg. <time class="reg-date">Jan 10, 2014</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-7"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789435"
+  data-poster-id="829931"
+  id="comment-40789435"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;3&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="thenicepolice"><a href="/civis/memberlist.php?mode=viewprofile&u=829931" rel="nofollow">thenicepolice</a></span><span class="rank">Smack-Fu Master, in training</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789435&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789435#comment-40789435" title="2022-03-30T15:29:57+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:29 am</a>
+        
+          <span class="highlight newbie-highlight">New Poster</span>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br /><br />a pedant i see! much apologies! how about, ringularities?
+      
+    </div>
+    <footer>
+      <span class="userinfo">8 posts | reg. <time class="reg-date">Dec 3, 2020</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="7"
+  data-user-vote="neutral"
+  data-post-id="40789491"
+  data-poster-id="315441"
+  id="comment-40789491"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="erick2red"><a href="/civis/memberlist.php?mode=viewprofile&u=315441" rel="nofollow">erick2red</a></span><span class="rank">Seniorius Lurkius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789491&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789491#comment-40789491" title="2022-03-30T15:45:30+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:45 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      FYI, I'm a paying subscriber of Ars and I can't see the video. It shows: We're sorry, something went wrong.<br /><br />The issue is caused by something blocked by my pi-hole.
+      
+    </div>
+    <footer>
+      <span class="userinfo">36 posts | reg. <time class="reg-date">Sep 22, 2011</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="16"
+  data-user-vote="neutral"
+  data-post-id="40789500"
+  data-poster-id="369527"
+  id="comment-40789500"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;7&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="nzod"><a href="/civis/memberlist.php?mode=viewprofile&u=369527" rel="nofollow">nzod</a></span><span class="rank">Ars Tribunus Militum</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789500&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789500#comment-40789500" title="2022-03-30T15:46:56+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:46 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789435#p40789435" class="postlink" rel="nofollow">thenicepolice</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br /><br />a pedant i see! much apologies! how about, ringularities?</div><br />To reflect how we don't yet know what it is, how about &quot;thingularity&quot;? <img class="ars-emoticon" src="https://cdn.arstechnica.net/civis/styles/images/smilies/razz.png" alt=":p" title="Razz" />
+      
+    </div>
+    <footer>
+      <span class="userinfo">2120 posts | reg. <time class="reg-date">Mar 22, 2013</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="2"
+  data-user-vote="neutral"
+  data-post-id="40789529"
+  data-poster-id="349980"
+  id="comment-40789529"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Veritas super omens"><a href="/civis/memberlist.php?mode=viewprofile&u=349980" rel="nofollow">Veritas super omens</a></span><span class="rank">Ars Tribunus Angusticlavius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789529&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789529#comment-40789529" title="2022-03-30T15:53:20+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:53 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789435#p40789435" class="postlink" rel="nofollow">thenicepolice</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br /><br />a pedant i see! much apologies! how about, ringularities?</div><br />dingularities?
+      
+    </div>
+    <footer>
+      <span class="userinfo">17889 posts | reg. <time class="reg-date">Sep 11, 2012</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="2"
+  data-user-vote="neutral"
+  data-post-id="40789532"
+  data-poster-id="349980"
+  id="comment-40789532"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;1&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Veritas super omens"><a href="/civis/memberlist.php?mode=viewprofile&u=349980" rel="nofollow">Veritas super omens</a></span><span class="rank">Ars Tribunus Angusticlavius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789532&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789532#comment-40789532" title="2022-03-30T15:53:56+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:53 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      pingularities?
+      
+    </div>
+    <footer>
+      <span class="userinfo">17889 posts | reg. <time class="reg-date">Sep 11, 2012</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-1"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789544"
+  data-poster-id="369527"
+  id="comment-40789544"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="nzod"><a href="/civis/memberlist.php?mode=viewprofile&u=369527" rel="nofollow">nzod</a></span><span class="rank">Ars Tribunus Militum</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789544&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789544#comment-40789544" title="2022-03-30T15:57:20+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 10:57 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <span style="font-style: italic">-- never mind --</span>
+      
+        <p class="edited">Last edited by <a href="https://arstechnica.com/civis/memberlist.php?mode=viewprofile&amp;u=369527">nzod</a> on Wed Mar 30, 2022 11:04 am</p>
+      
+    </div>
+    <footer>
+      <span class="userinfo">2120 posts | reg. <time class="reg-date">Mar 22, 2013</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789554"
+  data-poster-id="486801"
+  id="comment-40789554"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="BatCrapCrazy"><a href="/civis/memberlist.php?mode=viewprofile&u=486801" rel="nofollow">BatCrapCrazy</a></span><span class="rank">Ars Praefectus</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789554&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789554#comment-40789554" title="2022-03-30T16:00:05+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:00 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      So lady physicist ( forgot her name) says that black holes have accretion discs, so that means that a black must have a well defined equator and with that a north and south. somehow sounds strange to me.
+      
+    </div>
+    <footer>
+      <span class="userinfo">4816 posts | reg. <time class="reg-date">May 5, 2015</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="9"
+  data-user-vote="neutral"
+  data-post-id="40789566"
+  data-poster-id="349980"
+  id="comment-40789566"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;6&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Veritas super omens"><a href="/civis/memberlist.php?mode=viewprofile&u=349980" rel="nofollow">Veritas super omens</a></span><span class="rank">Ars Tribunus Angusticlavius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789566&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789566#comment-40789566" title="2022-03-30T16:04:09+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:04 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789500#p40789500" class="postlink" rel="nofollow">nzod</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789435#p40789435" class="postlink" rel="nofollow">thenicepolice</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789156#p40789156" class="postlink" rel="nofollow">Sekhmet</a> wrote:</div><div class="quotecontent">Can we please stop affirming that black holes have &quot;singularities&quot; in them, as if we knew that is what's actually going on inside inside of them?</div><br /><br /><br />a pedant i see! much apologies! how about, ringularities?</div><br />To reflect how we don't yet know what it is, how about &quot;thingularity&quot;? <img class="ars-emoticon" src="https://cdn.arstechnica.net/civis/styles/images/smilies/razz.png" alt=":p" title="Razz" /></div>Its bad form to mock those with speech impediments....
+      
+    </div>
+    <footer>
+      <span class="userinfo">17889 posts | reg. <time class="reg-date">Sep 11, 2012</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment  read"
+  data-post-negative="0"
+  data-post-positive="0"
+  data-user-vote="neutral"
+  data-post-id="40789568"
+  data-poster-id="349980"
+  id="comment-40789568"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Veritas super omens"><a href="/civis/memberlist.php?mode=viewprofile&u=349980" rel="nofollow">Veritas super omens</a></span><span class="rank">Ars Tribunus Angusticlavius</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789568&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789568#comment-40789568" title="2022-03-30T16:04:41+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:04 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      flingularities?
+      
+    </div>
+    <footer>
+      <span class="userinfo">17889 posts | reg. <time class="reg-date">Sep 11, 2012</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="2"
+  data-user-vote="neutral"
+  data-post-id="40789581"
+  data-poster-id="369527"
+  id="comment-40789581"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;2&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="nzod"><a href="/civis/memberlist.php?mode=viewprofile&u=369527" rel="nofollow">nzod</a></span><span class="rank">Ars Tribunus Militum</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789581&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789581#comment-40789581" title="2022-03-30T16:07:36+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:07 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      counterintuitingularities?
+      
+    </div>
+    <footer>
+      <span class="userinfo">2120 posts | reg. <time class="reg-date">Mar 22, 2013</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="18"
+  data-user-vote="neutral"
+  data-post-id="40789594"
+  data-poster-id="683873"
+  id="comment-40789594"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;3&quot;,&quot;interesting&quot;:&quot;2&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="dwrd"><a href="/civis/memberlist.php?mode=viewprofile&u=683873" rel="nofollow">dwrd</a></span><span class="rank">Ars Scholae Palatinae</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789594&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789594#comment-40789594" title="2022-03-30T16:09:59+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:09 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789554#p40789554" class="postlink" rel="nofollow">BatCrapCrazy</a> wrote:</div><div class="quotecontent">So lady physicist ( forgot her name) says that black holes have accretion discs, so that means that a black must have a well defined equator and with that a north and south. somehow sounds strange to me.</div><br /><br />Those features are defined relative to the rotation of the object. Since angular momentum is conserved, we believe most black holes rotate, and therefore there will be an axis of rotation, and you can define the equator relative to that. From there, North and South are defined by convention (the &quot;right hand rule&quot;).
+      
+    </div>
+    <footer>
+      <span class="userinfo">1291 posts | reg. <time class="reg-date">Sep 9, 2017</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="13"
+  data-user-vote="neutral"
+  data-post-id="40789603"
+  data-poster-id="10243"
+  id="comment-40789603"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;2&quot;,&quot;interesting&quot;:&quot;2&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="pokrface"><a href="/civis/memberlist.php?mode=viewprofile&u=10243" rel="nofollow">pokrface</a></span><span class="rank">Senior Technology Editor</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789603&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789603#comment-40789603" title="2022-03-30T16:12:24+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:12 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789594#p40789594" class="postlink" rel="nofollow">dwrd</a> wrote:</div><div class="quotecontent">Those features are defined relative to the rotation of the object. Since angular momentum is conserved, we believe most black holes rotate, and therefore there will be an axis of rotation, and you can define the equator relative to that. From there, North and South are defined by convention (the &quot;right hand rule&quot;).</div><br />This is exactly correct, yes. Additionally, <strike>many</strike> some black holes emit <a href="https://en.wikipedia.org/wiki/Astrophysical_jet" class="postlink" rel="nofollow">jets of ionized matter</a> along their axes of rotation.
+      
+    </div>
+    <footer>
+      <span class="userinfo">20729 posts | reg. <time class="reg-date">Aug 26, 2000</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="4"
+  data-user-vote="neutral"
+  data-post-id="40789633"
+  data-poster-id="822701"
+  id="comment-40789633"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="The Lurker Beneath"><a href="/civis/memberlist.php?mode=viewprofile&u=822701" rel="nofollow">The Lurker Beneath</a></span><span class="rank">Ars Centurion</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789633&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789633#comment-40789633" title="2022-03-30T16:21:05+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:21 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      I would assume that even a static black hole that was sitting in a gas or dust field would eventually develop an accretion disk based on the dynamics of the original field, and would subsequently start rotating itself in the same direction.
+      
+    </div>
+    <footer>
+      <span class="userinfo">1684 posts | reg. <time class="reg-date">Jun 20, 2020</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="5"
+  data-user-vote="neutral"
+  data-post-id="40789642"
+  data-poster-id="6291"
+  id="comment-40789642"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;1&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;1&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Xepherys"><a href="/civis/memberlist.php?mode=viewprofile&u=6291" rel="nofollow">Xepherys</a></span><span class="rank">Ars Praetorian</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789642&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789642#comment-40789642" title="2022-03-30T16:23:03+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:23 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      I don't really understand why we assume it runs afoul of our understanding of quantum physics, or physics generally.  I get that we have no way, currently, of retrieving information from a black hole (though it isn't as if we've tried in any practical fashion, either, so... there's that), but fundamentally changing information as it becomes &quot;part of&quot; the black hole seems in line with our general theories.<br /><br />For instance, we know that mass can be converted into energy, but if you capture the resulting energy there isn't always a means to understand what it was before.  In some cases we can make educated guesses, based on the type of energy, but fundamentally that's just an aspect of entropy.  We can't take the heat and radiation from a nuclear explosion and turn it back into a bomb.<br /><br />It seems to me that a black hole's consumption of information is just a part of an entropic system.
+      
+    </div>
+    <footer>
+      <span class="userinfo">527 posts | reg. <time class="reg-date">May 18, 2000</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment  read"
+  data-post-negative="0"
+  data-post-positive="0"
+  data-user-vote="neutral"
+  data-post-id="40789744"
+  data-poster-id="773101"
+  id="comment-40789744"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Zeppos"><a href="/civis/memberlist.php?mode=viewprofile&u=773101" rel="nofollow">Zeppos</a></span><span class="rank">Ars Praetorian</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789744&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789744#comment-40789744" title="2022-03-30T16:51:55+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 11:51 am</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789215#p40789215" class="postlink" rel="nofollow">_myk</a> wrote:</div><div class="quotecontent">My head canon for black holes is that there's an opposite anti-mass universe where time travels backwards (from our point of view) and black holes are spewing mass &amp; light into that universe until eventually everything collapses into a big crunch (which sets off our big bang, or the next universe).<br /><br />Feel it's got to be something neat and tidy (in terms of balancing out conservation of energy)</div><br /><br />Apparently the same math that describes black holes also describe white holes. Matter spewing objects. There is a Netflix documentary about this. From that documentary though none of these have been observed.
+      
+    </div>
+    <footer>
+      <span class="userinfo">418 posts | reg. <time class="reg-date">Feb 27, 2019</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789871"
+  data-poster-id="486801"
+  id="comment-40789871"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="BatCrapCrazy"><a href="/civis/memberlist.php?mode=viewprofile&u=486801" rel="nofollow">BatCrapCrazy</a></span><span class="rank">Ars Praefectus</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789871&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789871#comment-40789871" title="2022-03-30T17:22:04+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 12:22 pm</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789594#p40789594" class="postlink" rel="nofollow">dwrd</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789554#p40789554" class="postlink" rel="nofollow">BatCrapCrazy</a> wrote:</div><div class="quotecontent">So lady physicist ( forgot her name) says that black holes have accretion discs, so that means that a black must have a well defined equator and with that a north and south. somehow sounds strange to me.</div><br /><br />Those features are defined relative to the rotation of the object. Since angular momentum is conserved, we believe most black holes rotate, and therefore there will be an axis of rotation, and you can define the equator relative to that. From there, North and South are defined by convention (the &quot;right hand rule&quot;).</div><br /><br />Thanks for the explanation! Seems everywhere they portray all black holes as rotating, but i wonder how a non rotating black hole would be illustrated.
+      
+    </div>
+    <footer>
+      <span class="userinfo">4816 posts | reg. <time class="reg-date">May 5, 2015</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789884"
+  data-poster-id="304799"
+  id="comment-40789884"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="xaxxon"><a href="/civis/memberlist.php?mode=viewprofile&u=304799" rel="nofollow">xaxxon</a></span><span class="rank">Ars Scholae Palatinae</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789884&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789884#comment-40789884" title="2022-03-30T17:26:28+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 12:26 pm</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      Great episode, but the production quality of the interview segments really is jarring vs the rest of the episodes.
+      
+    </div>
+    <footer>
+      <span class="userinfo">900 posts | reg. <time class="reg-date">Jul 19, 2011</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="0"
+  data-post-positive="4"
+  data-user-vote="neutral"
+  data-post-id="40789886"
+  data-poster-id="838658"
+  id="comment-40789886"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;1&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="adingo"><a href="/civis/memberlist.php?mode=viewprofile&u=838658" rel="nofollow">adingo</a></span><span class="rank">Smack-Fu Master, in training</span>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789886&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789886#comment-40789886" title="2022-03-30T17:26:57+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 12:26 pm</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      One of things that trouble me about black holes is that I would have thought that matter at the level of a proton or neutron would be incompressible. Do physicists have any kind of theory on the compressibility of matter?<br /><br />Take a neutron star, for instance. Let's say you start lobbing additional matter at it. Eventually it will collapse into a black hole, but does that happen all of a sudden (poof!) or does it crumple up slowly? Can matter be partially compressed, or is it all or nothing? Do physicists even bother with these issues?
+      
+    </div>
+    <footer>
+      <span class="userinfo">22 posts | reg. <time class="reg-date">May 25, 2021</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-1"
+  data-post-positive="2"
+  data-user-vote="neutral"
+  data-post-id="40789906"
+  data-poster-id="587247"
+  id="comment-40789906"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;1&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;1&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Truscott"><a href="/civis/memberlist.php?mode=viewprofile&u=587247" rel="nofollow">Truscott</a></span><span class="rank">Ars Scholae Palatinae</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789906&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789906#comment-40789906" title="2022-03-30T17:29:08+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 12:29 pm</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789252#p40789252" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789237#p40789237" class="postlink" rel="nofollow">EspressoMachine</a> wrote:</div><div class="quotecontent">Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.</div><br />AIUI, there's no energetic annihilation because the pair of particles borrows energy in order to pop into existence, and the energy is repaid when they meet. Or something. The analogy has never made any sense to me either.<br /><br />Unfortunately, the non-analogy version is so <a href="https://physics.stackexchange.com/questions/251385/an-explanation-of-hawking-radiation" class="postlink" rel="nofollow">gobsmackingly confusing</a> that it's more or less useless to even try understanding it without a firm grounding in quantum field theory. So virtual particles it is!</div><br /><br />I think Paul McCartney got it right when he wrote a song (the worst song he ever wrote) which included the words, &quot;Joan was quizzical, studied Pataphysical Science&quot;.  <br /><br />One definition of 'pataphysics is that it's &quot;a branch of philosophy or science that examines imaginary phenomena that exist in a world beyond metaphysics; it is the science of imaginary solutions.&quot; <br /><br />Bang, bang
+      
+    </div>
+    <footer>
+      <span class="userinfo">861 posts | reg. <time class="reg-date">Nov 25, 2016</time></span>
+    </footer>
+  </li>
+
+<li class="thin-divide-bottom comment neutral read"
+  data-post-negative="-2"
+  data-post-positive="1"
+  data-user-vote="neutral"
+  data-post-id="40789916"
+  data-poster-id="587247"
+  id="comment-40789916"
+  
+  data-user-sentiment="neutral"
+  
+  data-post-sentiment-totals="{&quot;agree&quot;:&quot;0&quot;,&quot;interesting&quot;:&quot;0&quot;,&quot;funny&quot;:&quot;0&quot;,&quot;addsto&quot;:&quot;0&quot;,&quot;disagree&quot;:&quot;0&quot;,&quot;inaccurate&quot;:&quot;0&quot;,&quot;pointless&quot;:&quot;0&quot;,&quot;abusive&quot;:&quot;0&quot;}">
+  
+  <header class="byline">
+    
+    <span class="author" data-post-author="Truscott"><a href="/civis/memberlist.php?mode=viewprofile&u=587247" rel="nofollow">Truscott</a></span><span class="rank">Ars Scholae Palatinae</span><a class="subscriber" href="/store/product/subscriptions/">et Subscriptor</a>
+      <aside class="icons">
+        
+          <a href="?comments=1&amp;post=40789916&amp;mode=quote#reply" class='quotelink icon' rel='nofollow' title="Reply">reply</a>
+        
+        <a href="http://arstechnica.com/science/2022/03/exploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter/?comments=1&post=40789916#comment-40789916" title="2022-03-30T17:30:52+00:00" class="timeago datetime" rel="nofollow">Wed Mar 30, 2022 12:30 pm</a>
+        
+        <span class="hidden-icon-start"></span>
+        
+      </aside>
+    </header>
+    <div class="body">
+      <div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789252#p40789252" class="postlink" rel="nofollow">pokrface</a> wrote:</div><div class="quotecontent"><div class="quotetitle"><a href="https://arstechnica.com/civis/viewtopic.php?p=40789237#p40789237" class="postlink" rel="nofollow">EspressoMachine</a> wrote:</div><div class="quotecontent">Honestly the whole Hawking radiation analogy made no sense to me. If matter and anti-matter meet it will destroy itself and release energy. But in the analogy seems like it has a destructive force that makes the whole thing vanish out of existence. It's confusing.</div><br />AIUI, there's no energetic annihilation because the pair of particles borrows energy in order to pop into existence, and the energy is repaid when they meet. Or something. The analogy has never made any sense to me either.<br /><br />Unfortunately, the non-analogy version is so <a href="https://physics.stackexchange.com/questions/251385/an-explanation-of-hawking-radiation" class="postlink" rel="nofollow">gobsmackingly confusing</a> that it's more or less useless to even try understanding it without a firm grounding in quantum field theory. So virtual particles it is!</div><br /><br />I think Paul McCartney got it right when he wrote a song (the worst song he ever wrote) which included the words, &quot;Joan was quizzical, studied Pataphysical Science in the home&quot;.  <br /><br />One definition of 'pataphysics is that it's &quot;a branch of philosophy or science that examines imaginary phenomena that exist in a world beyond metaphysics; it is the science of imaginary solutions.&quot; <br /><br />Bang, bang
+      
+    </div>
+    <footer>
+      <span class="userinfo">861 posts | reg. <time class="reg-date">Nov 25, 2016</time></span>
+    </footer>
+  </li>
+
+</ol>
+
+<div class="sort-pagination">
+  
+<aside class="comment-pagination">
+  <ul class="subheading">
+    <li>Page</li>
+    <li class="selected">1</li><li><a rel='nofollow' href='?comments=1&amp;start=40'>2</a></li></ul><div class="subheading next-page">&nbsp;<a rel='nofollow' href='?comments=1&amp;start=40'>Next</a></div>
+</aside>
+
+</div>
+
+</div><div id="comments-posting-container" class="thick-divide-bottom"><p id="reply">You must <a href="/civis/ucp.php?mode=login" class="vote_login">login or create an account</a> to comment.</p></div>          </section>
+    
+    <aside class="thin-divide-bottom">
+    <ul class="share-buttons">
+
+  <li class="share-facebook">
+    <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F03%2Fexploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter%2F" target="_blank" data-dialog="400:368" data-track-type="socialShare" data-track-source="Facebook" data-track-location="bottom">
+      <span class="share-text">Share</span>
+            <div class="share-count-container">
+        <div class="share-count">-</div>
+      </div>
+          </a>
+  </li>
+  <li class="share-twitter">
+    <a href="https://twitter.com/share?text=Exploring%20the%20counterintuitive%20mysteries%20of%20black%20holes%20with%20Paul%20Sutter&url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F03%2Fexploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter%2F" target="_blank" data-dialog="364:250" data-track-type="socialShare" data-track-source="Twitter" data-track-location="bottom">
+      <span class="share-text">Tweet</span>
+    </a>
+  </li>
+  <li class="share-reddit">
+    <a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F03%2Fexploring-the-counterintuitive-mysteries-of-black-holes-with-paul-sutter%2F&title=Exploring%20the%20counterintuitive%20mysteries%20of%20black%20holes%20with%20Paul%20Sutter" target="_blank" data-track-type="socialShare" data-track-source="Reddit" data-track-location="bottom">
+      <span class="share-text">Reddit</span>
+            <div class="share-count-container">
+        <div class="share-count">-</div>
+      </div>
+          </a>
+  </li>
+</ul>
+    </aside>
+
+        <!-- cache hit 312:single/author:cd613a7d05dddf74aa9602a190925ad9 -->  	<section class="article-author clearfix-redux">
+    				<a href="/author/lee-hutchinson"><img width="47" height="47" src="https://cdn.arstechnica.net/wp-content/uploads/2015/08/lee2015headshotsm2.jpg"></a>
+    		    
+		<p><a href="/author/lee-hutchinson" class="author-name">Lee Hutchinson</a>  / Lee is the Senior Technology Editor at Ars and oversees gadget, automotive, IT, and gaming/culture content. He also knows stuff about enterprise storage, security, and human space flight. Lee is based in Houston, TX.</p>
+	</section>
+      
+        <div id="article_end_ad_footer" class="instream-wrap">
+      <div class="instream-container" style="min-width:initial; max-width:initial;">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad ad_footer"></div>
+      </div>
+    </div>
+    
+            <table class="post-links thick-divide-top thin-divide-bottom clearfix-redux" cellspacing="0" cellpadding="0" border="0" width="100%">
+      <tr>
+        <td width="50%" class="subheading older">
+          &nbsp;<a href="https://arstechnica.com/gadgets/2022/03/googles-next-us-antitrust-issue-google-maps/" rel="prev"><span class="arrow">&larr;</span> Older Story</a>        </td>
+        <td class="subheading newer">
+          <a href="https://arstechnica.com/gadgets/2022/03/dell-latitude-precision-pcs-claim-30-lower-latency-with-dual-network-connection/" rel="next">Newer Story <span class="arrow">&rarr;</span></a>&nbsp;
+        </td>
+      </tr>
+    </table>    
+<footer id="article-footer">
+      <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_14"></div>
+    <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+      </footer>
+    
+  </div>
+</article>
+
+
+		</section>
+        <footer id="page-footer">
+							<aside class="ad ad_footer">
+						
+				</aside>
+      			<nav id="footer-nav"></nav>
+	    <p class="cn-logo"><a href="http://www.condenast.com"><img src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/condenast-logo.png" width="131" height="19"></a></p>
+
+<div id="copyright-terms" class="footer-copyright-terms">
+  CNMN Collection<br>
+  WIRED Media Group<br>
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our <a href="https://www.condenast.com/user-agreement/">User Agreement</a> (updated 1/1/20) and <a href="https://www.condenast.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 1/1/20) and <a href="/amendment-to-conde-nast-user-agreement-privacy-policy/">Ars Technica Addendum</a> (effective 8/21/2018). Ars may earn compensation on sales from links on this site. <a href="/affiliate-link-policy/">Read our affiliate link policy</a>.<br>
+  <a href="https://www.condenast.com/privacy-policy/#california">Your California Privacy Rights</a> | <a id="ot-sdk-btn" class="ot-sdk-show-settings"> Do Not Sell My Personal Information</a><br>
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br>
+  <a href="https://www.condenast.com/online-behavioral-advertising-oba-and-how-to-opt-out-of-oba/#clickheretoreadmoreaboutonlinebehavioraladvertising(oba)">Ad Choices</a>
+</div>
+		</footer>
+	</div>
+
+    		<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/ars.min.762db9c7614f608898187cd9bd3230ec.js"></script>
+	
+        
+  
+  <!-- cache hit 312:single/javascript-footer:6934d9740fb30f360a7ac9270c9e07cc -->
+        
+
+
+    <!-- Parse.ly start -->
+<script type="text/plain" class="optanon-category-C0002" id="parsely-cfg" src="//fpa-cdn.arstechnica.com/keys/arstechnica.com/p.js"></script>
+<!-- Parse.ly end -->
+
+<!-- Memo start -->
+<script type="text/javascript">
+__memo_config = {
+	pid: ars.MEMO_PID,
+	url: ars.ARTICLE.url,
+	author: [ars.ARTICLE.authorName],
+	title: ars.ARTICLE.title,
+	date: ars.ARTICLE.pubDate,
+};
+(function(){
+	var s = document.createElement('script'); 
+	s.async = true; 
+	s.type = 'text/javascript'; 
+	s.src = document.location.protocol + '//cdn.memo.co/js/memo.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body') [0]).appendChild(s); 
+})();
+</script>
+<!-- Memo end -->
+  
+  
+    <script src="https://player.cnevids.com/interlude/arstechnica.js" async></script>
+<script id="conde-polar" src="https://cdn.mediavoice.com/nativeads/script/condenastcorporate/conde-asa-polar-master.js" async></script>
+<script>
+  (function () {
+      function DQ() {
+        var queue = window.sparrowQueue;
+        this.push = fn => fn();
+        window.sparrowQueue = this;
+        while (queue.length) {
+          queue.shift()();
+        }
+      }
+      function e(t, e) {
+        var n, a, o;
+        a = !1, n = document.createElement("script"), n.type = "text/javascript", n.src = t, n.onload = n.onreadystatechange = function () {
+          a || this.readyState && "complete" != this.readyState || (a = !0, e ? e() : !0)
+        }, o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(n, o)
+      }
+      if (location.search.indexOf('no_sparrow') < 0) {
+        e("https://pixel.condenastdigital.com/config/v2/production/ars-technica.config.js", function () {
+          e("https://pixel.condenastdigital.com/sparrow.min.js", function () {
+            if (window.SparrowConfigV2) {
+              window.sparrow = new window.Sparrow(window.SparrowConfigV2);
+              new DQ();
+            }
+          })
+        })
+      }
+    })();
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
+</body>
+</html>

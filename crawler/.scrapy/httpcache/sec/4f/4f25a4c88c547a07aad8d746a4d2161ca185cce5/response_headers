@@ -1,0 +1,8 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:41 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Content-Language: en
+Set-Cookie: PD_REQ_AUTH=15846d739c1c7fe5bcf3a760f4f97fe1; path=/; domain=.poll.fm; secure; SameSite=None; expires=Fri, 08 Apr 2022 11:40:41 GMT;HttpOnly
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip

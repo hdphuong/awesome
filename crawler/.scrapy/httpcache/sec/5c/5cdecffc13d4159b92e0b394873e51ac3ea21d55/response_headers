@@ -1,0 +1,23 @@
+Date: Fri, 08 Apr 2022 11:09:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 42
+X-Sorting-Hat-Shopid: 25375866954
+X-Storefront-Renderer-Rendered: 1
+Location: https://presidiocreative.com/
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25375866954
+X-Shardid: 42
+Vary: Accept
+Server-Timing-Public: processing;dur=9, db;dur=4
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 834ab3f6-e2b8-4ffc-b48d-a5d0c275c949
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 6f8a8d79f9856a48-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

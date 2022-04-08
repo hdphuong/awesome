@@ -1,0 +1,12 @@
+Date: Fri, 08 Apr 2022 11:33:33 GMT
+Content-Type: text/html
+Location: https://creativecommons.org/robots.txt
+Strict-Transport-Security: max-age=15768000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=432000
+Cf-Cache-Status: EXPIRED
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f8ab0529f0d54f1-SYD

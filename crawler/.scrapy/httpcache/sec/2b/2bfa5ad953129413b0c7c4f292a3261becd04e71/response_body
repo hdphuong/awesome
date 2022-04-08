@@ -1,0 +1,1535 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N33X222');</script>
+    <title>CRN Australia - Connecting the Australian Channel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">    
+    <meta name="theme-color" content="#181818">
+    <meta name="Description" content="CRN Australia provides technology news, channel news and tools for VARs, technology integrators, computer consulants and resellers.">
+    <meta name="Keywords" content="">
+    <meta name="news_keywords" content="">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="CRN RSS Feed" href="/rss/rss.ashx" />    
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:300,700,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,700italic,300,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
+    
+    
+    <meta property="og:site_name" content="CRN Australia"> 
+    <meta property="og:title" content="CRN Australia - Connecting the Australian Channel">
+    <meta property="og:url" content="https://www.crn.com.au">
+    <meta property="og:image" content="https://www.crn.com.au/images/crn-logo-clean.png">
+    <meta property="og:image:width" content="226" />
+    <meta property="og:image:height" content="100" />
+    <meta property="og:description" content="CRN Australia provides technology news, channel news and tools for VARs, technology integrators, computer consulants and resellers.">            
+    
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@crn_au">
+    <meta name="twitter:creator" content="@crn_au">
+    <meta name="twitter:title" content="CRN Australia - Connecting the Australian Channel">
+    <meta name="twitter:description" content="CRN Australia provides technology news, channel news and tools for VARs, technology integrators, computer consulants and resellers.">
+    <meta name="twitter:url" content="https://www.crn.com.au">
+    
+        <meta name="twitter:image" content="https://www.crn.com.au/images/crn-logo-clean.png">
+    
+    
+    
+            
+    
+    
+    
+    
+      
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#100c08">
+    <meta name="msapplication-TileColor" content="#181818">
+
+    <link rel="stylesheet" type="text/css" href="/styles/css_77cc23b36581aa3bff915fdb8a765e7e.css" />  
+        
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->
+    
+    
+
+</head>
+<body>    
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N33X222" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper" id="wrapper">
+    <div class="off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
+        
+
+        <header>
+            <div class="top-menu-container">
+                <div class="header-columns">
+                    <div class="top-menu">
+                        <div class="social-media-menu">
+                            <a class="follow-twitter" href="https://twitter.com/crn_au" target="_blank"><i class="fab fa-twitter"></i></a>
+                            <a class="follow-facebook" href="https://www.facebook.com/CRNAus" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a class="follow-linkedin" href="https://www.linkedin.com/company/crn-australia" target="_blank"><i class="fab fa-linkedin-in"></i></a>                    
+                            <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                        </div>
+                        <div class="global-editions">
+                            <div class="dropdown">
+                                <ul>
+                                    <li class="has-dropdown"><a href="/">Australia Edition</a></li>
+                                </ul>
+                                <div class="dropdown-content">
+                                    <ul>
+                                        <li><a href="https://www.crn.nz" target="_blank">New Zealand Edition</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="collapse header-full show-for-large-up" id="header-secondary">
+                <div class="header-columns">
+                    
+                    <div id="header-lb">
+                        <div id="ph-leader"></div>
+                        <div id="div-gpt-ad-leader"></div>
+                    </div> 
+                    <a href="/" id="site-logo"></a> 
+                </div>
+            </div>
+            <div class="collapse header-full" id="header-primary">
+   
+                
+
+<div class="row collapse header-full show-for-large-up" id="header-tertiary">
+    <div class="header-columns">CONNECTING THE AUSTRALIAN CHANNEL</div>
+</div>
+<div class="header-columns">
+    <div class="sticky" id="sticky-nav">
+        <nav class="top-bar row full-width collapse show-for-large-up" data-topbar role="navigation">
+            <div id="top-bar-secondary">
+                
+                    <a class="login-click">Log In</a>
+                    <a href="/register">Subscribe</a>
+                
+                
+                <a href="#" class="search">&nbsp;</a>
+
+            </div>
+            <section class="top-bar-section">
+                <a href="/" id="crn-logo-sticky">
+                    <img src="/images/crn-logo-sticky.png" alt="CRN" /></a>
+                <ul class="top-bar-primary">
+                    
+                            
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/news" data-dropdown="drop-10" data-options="is_hover:true">News</a>
+                                </li>
+                            
+
+                            
+                            
+                        
+                            
+                            
+
+                            
+                                <li><a href="https://www.crn.com.au/media-hub/">Photos</a></li>
+                            
+                            
+                        
+                            
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/events" data-dropdown="drop-14" data-options="is_hover:true">Events</a>
+                                </li>
+                            
+
+                            
+                            
+                        
+                            
+                            
+
+                            
+                                <li><a href="https://www.crn.com.au/channel-partner-program-guide/">Partner Program Guide</a></li>
+                            
+                            
+                        
+                            
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/resources" data-dropdown="drop-15" data-options="is_hover:true">Resources</a>
+                                </li>
+                            
+
+                            
+                            
+                        
+                            
+                            
+
+                            
+                                <li><a href="/fast50/presentation-2021">Fast50</a></li>
+                            
+                            
+                        
+                            
+                            
+                                <li class="has-dropdown">
+                                    <a data-follow-click href="/pipeline-channel-conference-2022" data-dropdown="drop-13" data-options="is_hover:true">Pipeline</a>
+                                </li>
+                            
+
+                            
+                            
+                        
+                            
+                            
+
+                            
+                                <li><a href="/boardroom-impact/">Boardroom Impact</a></li>
+                            
+                            
+                        
+                </ul>
+            </section>
+            <div id="search-box">
+                <input type="text" placeholder="Search CRN">
+                <button>Search</button>
+            </div>
+            
+                    <div id="drop-10" data-dropdown-content class="f-dropdown mega">
+                        
+                                    
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/business">Business</a>
+                                
+                                    
+                                    
+                                    <a href="/cloud">Cloud</a>
+                                
+                                    
+                                    
+                                    <a href="/collaboration">Collaboration</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/data-centre">Data Centre</a>
+                                
+                                    
+                                    
+                                    <a href="/digital">Digital</a>
+                                
+                                    
+                                    
+                                    <a href="/distribution">Distribution</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/hardware">Hardware</a>
+                                
+                                    
+                                    
+                                    <a href="/mobility">Mobility</a>
+                                
+                                    
+                                    
+                                    <a href="/networking">Networking</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/printing">Printing</a>
+                                
+                                    
+                                    
+                                    <a href="/security">Security</a>
+                                
+                                    
+                                    
+                                    <a href="/servers-storage">Servers & Storage</a>
+                                
+                                    </div>
+                                    
+                                        <div class="news-cats">
+                                    
+                                    <a href="/services">Services</a>
+                                
+                                    
+                                    
+                                    <a href="/software">Storage</a>
+                                
+                                    
+                                    
+                                    <a href="/telco">Telco</a>
+                                </div>
+                        
+                    </div>
+                
+                    <div id="drop-14" data-dropdown-content class="f-dropdown ">
+                        
+                        
+                            <div class="news-cats">
+                                
+                                        <a href="https://www.crn.com.au/channel-meets">Channel Meets</a>
+                                    
+                                        <a href="https://www.crn.com.au/impactawards">Impact Awards</a>
+                                    
+                                        <a href="/kickstarter/">Kickstarter 2022</a>
+                                    
+                                        <a href="/pipeline-channel-conference-2022">Pipeline 2022</a>
+                                    
+                            </div>
+                        
+                    </div>
+                
+                    <div id="drop-15" data-dropdown-content class="f-dropdown ">
+                        
+                        
+                            <div class="news-cats">
+                                
+                                        <a href="/partner-content">Partner Content</a>
+                                    
+                                        <a href="https://www.crn.com.au/partner-hubs">Partner Hubs</a>
+                                    
+                                        <a href="https://www.crn.com.au/media-hub/">Media Hub</a>
+                                    
+                                        <a href="/channelchiefs/all-chiefs">Channel Chiefs</a>
+                                    
+                                        <a href="https://www.crn.com.au/channelacademy/">Channel Academy</a>
+                                    
+                                        <a href="/isv-hub">ISV Hub</a>
+                                    
+                            </div>
+                        
+                    </div>
+                
+                    <div id="drop-13" data-dropdown-content class="f-dropdown small">
+                        
+                        
+                            <div class="news-cats">
+                                
+                                        <a href="/pipeline-channel-conference-2022">Pipeline 2022</a>
+                                    
+                                        <a href="https://www.crn.com.au/pipeline-channel-conference-2021">Pipeline 2021</a>
+                                    
+                                        <a href="https://www.crn.com.au/pipeline-reconnected-channel-conference">Pipeline Reconnected 2020</a>
+                                    
+                            </div>
+                        
+                    </div>
+                
+        </nav>
+
+        
+        <div class="hide-for-large-up">
+            <nav class="mobile-nav" role="navigation">
+
+                <section class="title-area full-width">
+                    <div class="menu-primary">
+                        <button class="c-hamburger c-hamburger--htx">
+                            <span></span>
+                        </button>
+                    </div>
+                    <div class="logo">
+                        <a href="/">
+                            <img src="/images/crn-logo.png" alt="CRN" /></a>
+                    </div>
+                    <div class="menu-secondary">
+                        <a class="user-icon">
+                            <div id="icon"></div>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="top-bar-nav">
+                    <div class="mobile-nav-search">
+                        <input type="text" placeholder="Search CRN">
+                    </div>
+                    <div class="mobile-nav-container">
+                        
+                                <a href="/news" class="mobile-nav-item"><span>News</span></a>
+
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/business" class="mobile-nav-item"><span>Business</span></a>
+                                    
+                                        <a href="/cloud" class="mobile-nav-item"><span>Cloud</span></a>
+                                    
+                                        <a href="/collaboration" class="mobile-nav-item"><span>Collaboration</span></a>
+                                    
+                                        <a href="/data-centre" class="mobile-nav-item"><span>Data Centre</span></a>
+                                    
+                                        <a href="/digital" class="mobile-nav-item"><span>Digital</span></a>
+                                    
+                                        <a href="/distribution" class="mobile-nav-item"><span>Distribution</span></a>
+                                    
+                                        <a href="/hardware" class="mobile-nav-item"><span>Hardware</span></a>
+                                    
+                                        <a href="/mobility" class="mobile-nav-item"><span>Mobility</span></a>
+                                    
+                                        <a href="/networking" class="mobile-nav-item"><span>Networking</span></a>
+                                    
+                                        <a href="/printing" class="mobile-nav-item"><span>Printing</span></a>
+                                    
+                                        <a href="/security" class="mobile-nav-item"><span>Security</span></a>
+                                    
+                                        <a href="/servers-storage" class="mobile-nav-item"><span>Servers & Storage</span></a>
+                                    
+                                        <a href="/services" class="mobile-nav-item"><span>Services</span></a>
+                                    
+                                        <a href="/software" class="mobile-nav-item"><span>Storage</span></a>
+                                    
+                                        <a href="/telco" class="mobile-nav-item"><span>Telco</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="https://www.crn.com.au/media-hub/" class="mobile-nav-item"><span>Photos</span></a>
+
+                                
+                            
+                                <a href="/events" class="mobile-nav-item"><span>Events</span></a>
+
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="https://www.crn.com.au/channel-meets" class="mobile-nav-item"><span>Channel Meets</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/impactawards" class="mobile-nav-item"><span>Impact Awards</span></a>
+                                    
+                                        <a href="/kickstarter/" class="mobile-nav-item"><span>Kickstarter 2022</span></a>
+                                    
+                                        <a href="/pipeline-channel-conference-2022" class="mobile-nav-item"><span>Pipeline 2022</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="https://www.crn.com.au/channel-partner-program-guide/" class="mobile-nav-item"><span>Partner Program Guide</span></a>
+
+                                
+                            
+                                <a href="/resources" class="mobile-nav-item"><span>Resources</span></a>
+
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/partner-content" class="mobile-nav-item"><span>Partner Content</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/partner-hubs" class="mobile-nav-item"><span>Partner Hubs</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/media-hub/" class="mobile-nav-item"><span>Media Hub</span></a>
+                                    
+                                        <a href="/channelchiefs/all-chiefs" class="mobile-nav-item"><span>Channel Chiefs</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/channelacademy/" class="mobile-nav-item"><span>Channel Academy</span></a>
+                                    
+                                        <a href="/isv-hub" class="mobile-nav-item"><span>ISV Hub</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/fast50/presentation-2021" class="mobile-nav-item"><span>Fast50</span></a>
+
+                                
+                            
+                                <a href="/pipeline-channel-conference-2022" class="mobile-nav-item"><span>Pipeline</span></a>
+
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/pipeline-channel-conference-2022" class="mobile-nav-item"><span>Pipeline 2022</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/pipeline-channel-conference-2021" class="mobile-nav-item"><span>Pipeline 2021</span></a>
+                                    
+                                        <a href="https://www.crn.com.au/pipeline-reconnected-channel-conference" class="mobile-nav-item"><span>Pipeline Reconnected 2020</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/boardroom-impact/" class="mobile-nav-item"><span>Boardroom Impact</span></a>
+
+                                
+                            
+                        <div class="mobile-global">
+                            <div class="global-editions">
+                                <div class="dropdown">
+                                    <label for="global-check"><div>Australia Edition</div><div class="mobile-nav-arrow"></div></label>
+                                    <input type="checkbox" id="global-check">
+                   
+                                    <div class="dropdown-content">
+                                        <a href="https://www.crn.nz/" class="global-link" target="_blank">New Zealand Edition</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mobile-nav-follow">
+                            <a class="follow-twitter" href="https://twitter.com/crn_au" target="_blank"><i class="fab fa-twitter"></i></a>
+                            <a class="follow-facebook" href="https://www.facebook.com/CRNAus" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a class="follow-linkedin" href="https://www.linkedin.com/company/crn-australia" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="top-bar-user">
+                    
+                        <div id="login-form-mobile">
+                            <h3 class="section-header"><span>Log In</span></h3>
+                            <div class="mobile-small">
+                                <div class="form-label">Email:</div>
+                                <div class="form-input">
+                                    <input id="username-mobile" name="username" type="text" required />
+                                </div>
+                            </div>
+                            <div class="mobile-small">
+                                <div class="form-label">Password:</div>
+                                <div class="form-input">
+                                    <input id="password-mobile" name="password" type="password" required />
+                                </div>
+                            </div>
+                            <div class="row collapse form-checkbox">
+                                <input id="rememberMe-mobile" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label>
+                                <span>| &nbsp;<a href="/forgot" title="Forgot your password?">Forgot password?</a></span>
+                            </div>
+                            <div class="ui-dialog-buttonset mobile-submit">
+                                <input type="button" id="login-button-mobile" value="Log In" class="button" />
+                            </div>
+                            <div id="login-validation-mobile"></div>
+                            <div id="login-response-mobile"></div>
+                            <div id="mobile-register"><a href="/register">Don't have an account? Register now!</a></div>
+                        </div>
+                    
+                    
+                </section>
+            </nav>
+        </div>
+        
+    </div>
+</div>
+
+
+            </div>
+        </header>
+        <div id="skin">
+            <div class="row leaderboard">
+                <div id="div-gpt-ad-pushdown"></div>
+            </div>
+            <div class="row main-section collapse">
+                <div class="large-12 columns">
+                    
+    <div class="row" id="carousel">
+        <div id="container-carousel">
+            
+
+                    
+                        <div id="carousel-primary" class="">
+                            <a href="/news/calibre-one-acquired-by-brisbane-based-azentro-group-578403">
+                                
+                                <div class="carousel-primary-img ">
+                                    <img alt="Calibre One acquired by Brisbane-based Azentro Group" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcrn-14_paul_bouris_azentro_darren_gore_calibre_one_IMG_1225.jpg&amp;h=476&amp;w=768&amp;c=1&amp;s=1&amp;q=90">
+                                </div>
+                                <div class="carousel-primary-content">
+                                    <h2>Calibre One acquired by Brisbane-based Azentro Group</h2>
+                                    <div class="carousel-primary-intro">Forming $35m biz across QLD, NT and SA.</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div id="carousel-secondary">
+                    
+
+                    
+
+
+                
+
+                    
+
+                    
+                        <a href="/news/what-employees-look-for-in-a-tech-job-578146">
+                            <div class="carousel-secondary-inner">
+                                
+                                <div class="carousel-secondary-img  ">
+                                    <img alt="What employees look for in a tech job" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1313807718.jpg&amp;h=310&amp;w=500&amp;c=1&amp;s=1&amp;q=90">
+                                </div>
+                                <div class="carousel-secondary-content ">
+                                    <h2>What employees look for in a tech job</h2>
+                                </div>
+                            </div>
+                        </a>
+                    
+
+
+                
+
+                    
+
+                    
+                        <a href="/news/telstra-boss-andy-penn-to-step-down-578058">
+                            <div class="carousel-secondary-inner">
+                                
+                                <div class="carousel-secondary-img  ">
+                                    <img alt="Telstra boss Andy Penn to step down" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f0_0_480_1_70__News_Vicki-Brady_250x250.jpeg&amp;h=310&amp;w=500&amp;c=1&amp;s=1&amp;q=90">
+                                </div>
+                                <div class="carousel-secondary-content ">
+                                    <h2>Telstra boss Andy Penn to step down</h2>
+                                </div>
+                            </div>
+                        </a>
+                    
+
+
+                
+
+                    
+
+                    
+                        <a href="/news/uniti-group-bidder-morrison-co-matches-rival-34-billion-acquisition-bid-578004">
+                            <div class="carousel-secondary-inner">
+                                
+                                <div class="carousel-secondary-img  ">
+                                    <img alt="Morrison &amp; Co matches rival $3.4b bid for Uniti Group" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220329104032_0_0_0_0_70__News_bidding.jpg&amp;h=310&amp;w=500&amp;c=1&amp;s=1&amp;q=90">
+                                </div>
+                                <div class="carousel-secondary-content ">
+                                    <h2>Morrison & Co matches rival $3.4b bid for Uniti Group</h2>
+                                </div>
+                            </div>
+                        </a>
+                    
+
+
+                
+                    </div>
+                
+        </div>
+        
+
+<div id="spotlight">
+    <h3 id="spotlight-header">In The Spotlight</h3>
+    <div id="spotlight-content">
+                            
+                <a class="spotlight-main-article" href="/news/fujitsu-queensland-government-launch-first-nations-led-skills-program-578317?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=home">
+                    
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220405103454_0_0_0_0_70__News_20191024031840_CRN_690_Fujitsu.jpg&amp;h=128&amp;w=207&amp;c=1&amp;s=1" alt="" />
+                    
+                    <h2>Fujitsu, QLD Govt launch First Nations-led skills program</h2>
+                </a>
+                                
+                <a href="/news/acer-anz-boss-darren-simmons-departs-gaba-cheng-named-replacement-578251?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=home">
+                    
+                    <h2>Acer ANZ boss Darren Simmons departs</h2>
+                </a>
+                                
+                <a href="/news/channel-partners-weigh-in-on-the-federal-budget-578074?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=home">
+                    
+                    <h2>Channel partners weigh in on the federal budget</h2>
+                </a>
+                                
+                <a href="/news/nbn-co-looks-to-rsps-channel-to-promote-digital-strategies-to-smbs-578086?utm_source=crn&utm_medium=web&utm_campaign=inthespotlight&utm_content=home">
+                    
+                    <h2>NBN Co looks to channel to promote SMB digital strategies</h2>
+                </a>
+            
+    </div>
+</div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 header__banner-wrapper">
+            <div class="header__banner">
+                <div id="div-gpt-ad-leader-house"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="large-8 columns container-primary">
+            <div id="breaking-stories" class="row" data-article-list="578403,578146,578058,578004,578492,578506,578500,578487,578483,578471,578490,578481,578466,578465,578444,578454,578446,578436,578437,578052,578012,577832,577763" data-page-no="2">
+                
+                
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/netapp-to-acquire-aussie-born-startup-instaclustr-578492">
+                                <img alt="NetApp to acquire Aussie-born startup Instaclustr" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220408121319_0_0_0_0_70__News_20191105110918_08_NetApp_Headquarters_Sunnyvale.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/netapp-to-acquire-aussie-born-startup-instaclustr-578492">
+                                    <h2 class="article-list-title">NetApp to acquire Aussie-born startup Instaclustr</h2>
+                                    <div class="article-list-intro">Developer of database, pipeline and workflow applications as a service platform.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/joseph-f-kovar-25233">Joseph F. Kovar</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 12:13PM</span>
+                                        <a href="/software" class="article-list-category">Software</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/survey-of-259-it-buyers-makes-optimistic-predictions-for-asia-pacific-578506">
+                                <img alt="Survey predicts strong APAC IT spending growth" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1159375409.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/survey-of-259-it-buyers-makes-optimistic-predictions-for-asia-pacific-578506">
+                                    <h2 class="article-list-title">Survey predicts strong APAC IT spending growth</h2>
+                                    <div class="article-list-intro">Spiceworks Ziff Davis surveyed buyers across ANZ and Singapore.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/jeremy-nadel-1633840">Jeremy Nadel</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 12:33PM</span>
+                                        <a href="/business/strategy" class="article-list-category">Strategy</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/dxc-chyma-integrated-products-score-alcatel-lucent-enterprise-partner-awards-578500">
+                                <img alt="Alcatel-Lucent Enterprise honours top ANZ partners" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220408105154_crn-14_partner_award_trophy_iStock-184137178.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/dxc-chyma-integrated-products-score-alcatel-lucent-enterprise-partner-awards-578500">
+                                    <h2 class="article-list-title">Alcatel-Lucent Enterprise honours top ANZ partners</h2>
+                                    <div class="article-list-intro">Recognising overall growth and top projects.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/staff-writers-18407">Staff Writers</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 10:58AM</span>
+                                        <a href="/networking" class="article-list-category">Networking</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/samsung-electronics-q1-profit-beats-expectations-on-solid-chip-demand-578487">
+                                <img alt="Samsung profit bouyed by chip demand" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f2022-04-07T000042Z_2_LYNXNPEI351AN_RTROPTP_4_SAMSUNG-ELEC-RESULTS.JPG&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/samsung-electronics-q1-profit-beats-expectations-on-solid-chip-demand-578487">
+                                    <h2 class="article-list-title">Samsung profit bouyed by chip demand</h2>
+                                    <div class="article-list-intro">Highest first-quarter profit since 2018.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/joyce-lee-and-heekyong-yang-1466601">Joyce Lee and Heekyong Yang</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 12:42PM</span>
+                                        <a href="/hardware" class="article-list-category">Hardware</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/hp-stock-surges-as-warren-buffetts-berkshire-hathaway-acquires-11-percent-of-vendor-578483">
+                                <img alt="HP stock soars from Warren Buffett investment" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220408123522_crn-14_hp_logo_sign_iStock-987512596.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/hp-stock-surges-as-warren-buffetts-berkshire-hathaway-acquires-11-percent-of-vendor-578483">
+                                    <h2 class="article-list-title">HP stock soars from Warren Buffett investment</h2>
+                                    <div class="article-list-intro">US$4b investment for an 11.4 percent stake.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/shane-snider-1623034">Shane Snider</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 12:36PM</span>
+                                        <a href="/hardware" class="article-list-category">Hardware</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/gallery/the-six-new-designations-replacing-microsofts-gold-and-silver-competencies-578471">
+                                <img alt="The six new designations replacing Microsoft&#39;s Gold and Silver competencies" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fGalleries%2f20220407044050_crn-14_microsoft_iStock-1191485295.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/gallery/the-six-new-designations-replacing-microsofts-gold-and-silver-competencies-578471">
+                                    <h2 class="article-list-title">The six new designations replacing Microsoft's Gold and Silver competencies</h2>
+                                    <div class="article-list-intro">More partner program changes on top of New Commerce Experience.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/wade-tyler-millward-1634094">Wade Tyler Millward</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 6:39AM</span>
+                                        <a href="/galleries" class="article-list-category">Photos</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/kiwi-integration-platform-underpins-aussie-partners-bank-compliance-solution-578490">
+                                <img alt="Kiwi integration platform underpins Aussie partner&amp;#8217;s bank compliance solution" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220407020814_iStock-1291478674.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/kiwi-integration-platform-underpins-aussie-partners-bank-compliance-solution-578490">
+                                    <h2 class="article-list-title">Kiwi integration platform underpins Aussie partner&#8217;s bank compliance solution</h2>
+                                    <div class="article-list-intro">Umlaut Solutions used Flow Software&#8217;s integration platform.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/ben-moore-1554451">Ben Moore</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 7:36AM</span>
+                                        <a href="/software" class="article-list-category">Software</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/versent-unveils-new-melbourne-office-578481">
+                                <img alt="Versent unveils new Melbourne office" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fVersent_office_opening.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/versent-unveils-new-melbourne-office-578481">
+                                    <h2 class="article-list-title">Versent unveils new Melbourne office</h2>
+                                    <div class="article-list-intro">To support workplace changes and new hires.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/chris-player-1475995">Chris Player</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 8 2022, 7:29AM</span>
+                                        <a href="/services" class="article-list-category">Services</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/absolute-software-signs-distie-deal-with-orca-tech-to-expand-anz-operations-578466">
+                                <img alt="Absolute Software signs Orca Tech as local distie" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcrn-14_absolute_software_Chris_Barton.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/absolute-software-signs-distie-deal-with-orca-tech-to-expand-anz-operations-578466">
+                                    <h2 class="article-list-title">Absolute Software signs Orca Tech as local distie</h2>
+                                    <div class="article-list-intro">Carrying its secure endpoint and secure access security solutions.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/jeremy-nadel-1633840">Jeremy Nadel</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 4:10PM</span>
+                                        <a href="/distribution" class="article-list-category">Distribution</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/mcr-it-scores-hpe-servers-storage-deployment-with-marriott-international-hotels-578465">
+                                <img alt="MCR IT scores storage deal with Marriott Hotels" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcrn-690_marriott_sydney_iStock-1210392705.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/mcr-it-scores-hpe-servers-storage-deployment-with-marriott-international-hotels-578465">
+                                    <h2 class="article-list-title">MCR IT scores storage deal with Marriott Hotels</h2>
+                                    <div class="article-list-intro">Also included backup solutions from VMware, Veeam.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/nico-arboleda-1179112">Nico Arboleda</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 2:49PM</span>
+                                        <a href="/services" class="article-list-category">Services</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/aussie-it-spend-to-grow-13-percent-to-117-billion-in-2022-578444">
+                                <img alt="Aussie IT spend to grow 13 percent to $117b in 2022" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220407103412_crn-14_money_dollars_cash_iStock-119844460.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/aussie-it-spend-to-grow-13-percent-to-117-billion-in-2022-578444">
+                                    <h2 class="article-list-title">Aussie IT spend to grow 13 percent to $117b in 2022</h2>
+                                    <div class="article-list-intro">But was inflated by changes in US dollar exchange rate.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/nico-arboleda-1179112">Nico Arboleda</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 10:45AM</span>
+                                        <a href="/business/strategy" class="article-list-category">Strategy</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/leader-c3-group-greenlight-ict-score-watchguard-anz-partner-awards-578454">
+                                <img alt="WatchGuard awards top 2021 ANZ partners" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220407125250_crn-14_partner_awards_trophy_winner_iStock-1152251342.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/leader-c3-group-greenlight-ict-score-watchguard-anz-partner-awards-578454">
+                                    <h2 class="article-list-title">WatchGuard awards top 2021 ANZ partners</h2>
+                                    <div class="article-list-intro">With newly expanded partner base via the 2020 Panda acquisition.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/jeremy-nadel-1633840">Jeremy Nadel</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 12:57PM</span>
+                                        <a href="/security" class="article-list-category">Security</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/access4-adds-call-analytics-to-sasboss-uc-platform-578446">
+                                <img alt="Access4 adds call analytics to SASBOSS UC platform" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fTim_Jackson_LW194258.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/access4-adds-call-analytics-to-sasboss-uc-platform-578446">
+                                    <h2 class="article-list-title">Access4 adds call analytics to SASBOSS UC platform</h2>
+                                    <div class="article-list-intro">Adding customer experience insights via sentiment analysis.
+</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/staff-writers-18407">Staff Writers</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 11:05AM</span>
+                                        <a href="/collaboration" class="article-list-category">Collaboration</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/kaseya-ends-support-for-kaspersky-anti-virus-578436">
+                                <img alt="Kaseya ends support for Kaspersky anti-virus" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1353205307.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/kaseya-ends-support-for-kaspersky-anti-virus-578436">
+                                    <h2 class="article-list-title">Kaseya ends support for Kaspersky anti-virus</h2>
+                                    <div class="article-list-intro">Telling MSPs that it is ceasing support for the Moscow-based company.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/jay-fitzgerald-1633760">Jay Fitzgerald</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 9:57AM</span>
+                                        <a href="/security" class="article-list-category">Security</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                        <div class="row collapse article-list-container">
+                            <a class="small-3 columns article-list-img " href="/news/new-ibm-channel-chief-we-need-to-be-more-essential-to-partners-578437">
+                                <img alt="New IBM Channel Chief: We need to be &amp;#8216;more essential to partners&amp;#8217;" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fkate-woolley-ibm.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                            </a>
+                            <div class="small-9 columns article-list-content">
+                                
+                                <a href="/news/new-ibm-channel-chief-we-need-to-be-more-essential-to-partners-578437">
+                                    <h2 class="article-list-title">New IBM Channel Chief: We need to be &#8216;more essential to partners&#8217;</h2>
+                                    <div class="article-list-intro">Promises to make Big Blue easier to do business with.</div>
+                                </a>
+                                
+                                    <div class="article-list-details">
+                                        <span class="article-list-author">
+                                                <a href="/author/wade-tyler-millward-1555545">Wade Tyler Millward</a>
+                                            
+                                                </span>
+                                            
+                                        <span class="article-list-date">Apr 7 2022, 10:04AM</span>
+                                        <a href="/hardware" class="article-list-category">Hardware</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+            </div>
+            <div class="row row-spacer">
+                <div id="load-more-articles" class="alternate-button load-more">LOAD MORE</div>
+            </div>
+        </div>
+        <aside class="large-4 columns container-secondary">
+            <div id="div-gpt-ad-button-top" class="button-ad"></div>
+            <div id="div-gpt-ad-island" class="mrec-top"></div>
+            <div id="div-gpt-ad-button" class="button-ad"></div>
+            
+        <section id="most-read-container">
+            <h3 class="section-header"><span>Most Read</span></h3>
+            <ul>
+    
+                <li><a href="/feature/better-together-veeam-on-aws-speeds-australian-business-through-the-cloud-577319">Better together: Veeam on AWS speeds Australian business through the cloud</a></li>
+    
+                <li><a href="/news/calibre-one-acquired-by-brisbane-based-azentro-group-578403">Calibre One acquired by Brisbane-based Azentro Group</a></li>
+    
+                <li><a href="/news/netapp-ceo-roasts-rivals-dell-and-hpe-578366">NetApp CEO roasts rivals Dell and HPE</a></li>
+    
+                <li><a href="/news/what-employees-look-for-in-a-tech-job-578146">What employees look for in a tech job</a></li>
+    
+                <li><a href="/news/dell-technologies-anz-opens-new-head-office-in-chatswood-578073">Dell moves head office to Chatswood</a></li>
+    
+            </ul>
+        </section>
+    
+
+        
+
+            
+        <section class="partner-content">
+            <h3 class="section-header"><span><a href="/partner-content">Partner Content</a></span></h3>
+    
+        <a class="row collapse whitepapers-list" href="/feature/why-aws-partners-buddy-up-with-ingram-micro-573656">
+            <div class="small-4 columns whitepapers-list-img ">
+                <img alt="Why AWS partners buddy up with Ingram Micro" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20211207121924_cloud_1.jpg&amp;w=200&amp;c=1&amp;s=0" class="width-only-img">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                Why AWS partners buddy up with Ingram Micro
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/heres-why-asuss-nexgen-minipc-pn63-s1-is-so-versatile-576698">
+            <div class="small-4 columns whitepapers-list-img ">
+                <img alt="Here&#39;s why ASUS&#39;s NexGen MiniPC PN63-S1 is so versatile" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fMini-PC-PN63-S1_1200x628.jpg&amp;w=200&amp;c=1&amp;s=0" class="width-only-img">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                    <div class="sponsored">Promoted Content</div>
+                
+                Here's why ASUS's NexGen MiniPC PN63-S1 is so versatile
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/eaton-partner-awards-celebrate-record-growth-577188">
+            <div class="small-4 columns whitepapers-list-img ">
+                <img alt="Eaton Partner Awards celebrate record growth" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2faward_trophys_v2.jpg&amp;w=200&amp;c=1&amp;s=0" class="width-only-img">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                    <div class="sponsored">Promoted Content</div>
+                
+                Eaton Partner Awards celebrate record growth
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/what-a-once-in-a-lifetime-workplace-rethink-means-for-channel-partners-573627">
+            <div class="small-4 columns whitepapers-list-img ">
+                <img alt="What a &quot;once-in-a-lifetime&quot; workplace rethink means for channel partners" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fFuture_office_v1.jpg&amp;w=200&amp;c=1&amp;s=0" class="width-only-img">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                What a "once-in-a-lifetime" workplace rethink means for channel partners
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/how-beyondtrust-partners-are-turning-zero-trust-into-customer-wins-574064">
+            <div class="small-4 columns whitepapers-list-img ">
+                <img alt="How BeyondTrust partners are turning zero trust into customer wins" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20211215042752_security_1.jpg&amp;w=200&amp;c=1&amp;s=0" class="width-only-img">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                How BeyondTrust partners are turning zero trust into customer wins
+            </div>
+        </a>
+    
+        </section>
+    
+
+            
+
+<section id="latest-comments">
+    <h3 class="section-header"><span>Latest Comments</span></h3>
+    <div id="latest-comments-response"></div>
+</section>
+            
+            <div id="div-gpt-ad-island2" class="mrec-lower"></div>
+        </aside>
+    </div>
+
+    <div class="row row-spacer">
+        <div class="large-12 columns latest-galleries-container">
+            <h3 class="section-header-primary"><span><a href="/galleries">Latest Galleries</a></span></h3>
+            <div class="row collapse">
+                
+                        <div class="small-6 medium-3 columns article-related-article">
+                            <a href="/gallery/five-big-changes-for-microsoft-partners-in-2022-578052">
+                                <img alt="Five big changes for Microsoft partners in 2022" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fGalleries%2f20220330065337_ms_sign.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                                <h2>Five big changes for Microsoft partners in 2022</h2>
+                            </a>
+                        </div>
+                    
+                        <div class="small-6 medium-3 columns article-related-article">
+                            <a href="/gallery/six-things-to-know-about-hps-us33b-poly-buy-578012">
+                                <img alt="Six things to know about HP&#39;s US$3.3b Poly buy" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fGalleries%2f20220329115534_iStock-1325899588.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                                <h2>Six things to know about HP's US$3.3b Poly buy</h2>
+                            </a>
+                        </div>
+                    
+                        <div class="small-6 medium-3 columns article-related-article">
+                            <a href="/gallery/msp-sector-shows-dramatic-growth-ingram-micro-577832">
+                                <img alt="&quot;Dramatic&quot; growth in MSPs, finds Ingram Micro" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fGalleries%2f20220328072211_managed_services.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                                <h2>"Dramatic" growth in MSPs, finds Ingram Micro</h2>
+                            </a>
+                        </div>
+                    
+                        <div class="small-6 medium-3 columns article-related-article">
+                            <a href="/gallery/hosted-networks-cooks-up-a-storm-with-partners-at-bbq-cooking-class-577763">
+                                <img alt="Hosted Network cooks up a storm with partners" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fGalleries%2f20220324065231_hn_bbq.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                                <h2>Hosted Network cooks up a storm with partners</h2>
+                            </a>
+                        </div>
+                    
+            </div>
+        </div>
+    </div>
+
+    
+<div class="row">
+    <div class="large-8 columns">
+    <div class="row collapse"></div>
+    </div>
+    <aside class="large-4 columns container-secondary"> 
+        &nbsp;    
+    </aside>
+</div>
+
+
+
+                
+                    <div id="div-gpt-ad-footer" class="row footerboard"></div>
+                    
+                    
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Home&pa=&sc=0&output=script&ros=True&offset=False&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+        
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+        <ul class="large-block-grid-5 network-bar-grid">
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                      <a href="https://www.itnews.com.au/digitalnation/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar">   
+                        
+                            <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.itnews.com.au/digitalnation/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar">   
+                        
+                        <h2 class="article-headline">
+                            Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.itnews.com.au/digitalnation/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar">   
+                        
+                        <h2 class="article-headline">
+                            Cyber crime is a team sport, say CISOs
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.itnews.com.au/digitalnation/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar">   
+                        
+                        <h2 class="article-headline">
+                            Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar">   
+                        
+                        <h2 class="article-headline">
+                            Boardroom Impact: Critical infrastructure
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                    <a href="https://www.itnews.com.au/awards/finalists-showcase?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                  
+                        
+                        <img alt="iTnews Benchmark Awards Finalist&#39;s Showcase" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiTnews_BA2022_FinalistShowcase_LinkedInSocial.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards Finalist's Showcase
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/news/us-warns-of-newly-found-advanced-chinese-backdoor-576663?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                  
+                        
+                        <h2 class="article-headline">
+                            US warns of newly found advanced Chinese backdoor
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/state-of-it/?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                  
+                        
+                        <h2 class="article-headline">
+                            State of IT
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                  
+                        
+                        <h2 class="article-headline">
+                            Digital Nation has relaunched
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/news/itnews-benchmark-awards-ceremony-moving-to-june-15-575464?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                  
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards ceremony moving to June 15
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                      <a href="https://www.bit.com.au/review/venom-blackbook-zero-15-phantom-573253?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                            <img alt="Venom BlackBook Zero 15 Phantom" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBlackBook-Zero-15-Phantom-right.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Venom BlackBook Zero 15 Phantom
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.bit.com.au/guide/facebook-linkedin-or-instagram-social-media-success-isnt-one-size-fits-all-574908?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            Facebook, LinkedIn or Instagram? Social media success isn&#8217;t one size fits all
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.bit.com.au/guide/digital-dystopia-your-reputation-is-on-the-line-574913?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            Digital dystopia: your reputation is on the line
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.bit.com.au/guide/creating-sustainable-high-performance-computing-to-drive-the-data-industry-forward-574918?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            Creating sustainable high-performance computing to drive the data industry forward
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                      <a href="https://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            How long will a UPS keep your computers on if the lights go out?
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                     <a href="https://www.iothub.com.au/event/iot-impact-conference-576820?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                            <img alt="IoT Impact Conference" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fEvents%2f20220303092641_iot-impact-intro-image1.png&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            IoT Impact Conference
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                     <a href="https://www.iothub.com.au/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576814?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            IoT Insights conference, Orange NSW: Digital Food & Agribusiness
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                     <a href="https://www.iothub.com.au/news/iot-impact-moving-to-june-9-575046?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            IoT Impact moving to June 9
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                     <a href="https://www.iothub.com.au/news/2021-iot-awards-winners-announced-572454?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            2021 IoT Awards winners announced
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                     <a href="https://www.iothub.com.au/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253?utm_source=crn&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">   
+                        
+                        <h2 class="article-headline">
+                            Second critical infrastructure cyber security bill passes parliament
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+        </ul>
+        </div>
+    </div>
+</div>
+        
+<footer>
+    <div id="footer-top-level" class="row">
+        <div class="large-12 columns">
+            <div id="footer-links">
+                <a href="/page/contact">Contact Us</a>
+                <a href="/page/about">About Us</a>
+                <a href="/feedback">Feedback</a>
+                <a href="/page/advertising">Advertise</a>
+                <a href="/newsletter">Newsletter Archive</a>
+                <a href="/sitemap">Site Map</a>
+                <a href="/rss">RSS</a> 
+            </div>
+            <a href="https://www.nextmedia.com.au/" target="_blank" class="nm-logo"><img src="/images/logo_nextmedia.png" alt="nextmedia" /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.    
+        </div>   
+    </div>
+    <div id="footer-bottom-level">
+        <div class="row">
+            <div class="small-12 large-9 columns">
+                <div id="footer-sites">
+                <span>OTHER TECH SITES:</span>
+                <a href="https://www.bit.com.au" target="_blank">BIT</a> &nbsp;|&nbsp;
+                <a href="https://www.iothub.com.au" target="_blank">IoT Hub</a> &nbsp;|&nbsp;
+                <a href="https://www.itnews.com.au" target="_blank">iTnews</a>
+                </div>
+                <div id="footer-terms">
+                All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />Your use of this website
+                constitutes acceptance of nextmedia's <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">Privacy Policy</a> and 
+                <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">Terms & Conditions</a>.
+                </div>
+            </div>
+            <div class="small-12 large-3 columns" id="footer-powered-by">
+                <div class="footer-powered-by-inner">
+                    <span>Powered By</span>
+                    <a href="https://www.interactive.com.au" target="_blank"><img src="/images/interactive-logo.png" alt="Powered by Interactive" /></a>
+                </div>
+            </div> 
+        </div>
+        
+        <div id="otp">
+            <div id="countdown" class="close"></div>
+            <div id="div-gpt-ad-interstitial"></div>
+        </div>
+        <div class="mask"> </div>
+        <div id="div-gpt-ad-skin"></div>
+    </div>
+</footer>
+        
+
+<div id="login-form">
+    <form id="frm-login" action="/" method="post">
+        <h3 class="section-header"><span>Log In</span></h3>
+        <div id="login-form-register"><a href="/register">Don't have an account? Register now!</a></div>
+        <div id="login-validation"></div>
+        <div id="login-response"></div>
+        <div class="form-label">Email:</div>
+        <div class="form-input"><input id="username" name="username" type="text" required /></div>
+        <div class="form-label">Password:</div>
+        <div class="form-input"><input id="password" name="password" type="password" required /></div>
+        <div class="row form-checkbox">
+            <input id="rememberMe" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label><span>&nbsp; | &nbsp;<a href="/forgot" title="Forgot your password?">Forgot your password?</a></span>
+        </div>   
+    </form>
+</div>
+
+    </div>
+    <div id="crn-data-store"
+        data-shareurl=""
+        data-articleid=""
+        data-adcategories="[]"
+        data-adkeywords="[]"
+        data-adsection="home"
+        data-adshow="True"
+        data-ga="UA-102830131-2"
+        data-gasitesection="Home"
+        data-gasitecategory=""
+        data-gasitesubcategory=""
+        data-gakeywords=""
+        data-disqus_auth=""
+        data-disqus_key="WeDiDhgZ62JLclZxdgBBBkeWhgVM9hMzh9cNeejv4y9q3GI5UtCBXu34mwMttbr2"
+        data-disqus_shortname="crnnext"
+        data-disqus_developer="0"
+        data-disqus_title=""
+        data-disqus_url=""
+        data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+    </div>    
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <script src="/scripts/gdpr.js" type="text/javascript"></script>    
+    <script src="/scripts/js_d25da4c1e3496cf26f4f0f1f0033400f.js"></script>    
+
+    
+    
+    <!--[if lt IE 9]>    
+        <link href="/styles/ie8.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+        
+    
+    </div>   
+</div>
+
+</body>
+</html>

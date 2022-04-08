@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /assets/1_-1_278_1/20160323132309_yen-magazine-82.jpg
+Disallow: /assets/1_259_198_1/20160323132309_yen-magazine-82.jpg
+Disallow: /assets/1_300_230_1/20160323132309_yen-magazine-82.jpg
+Disallow: /assets/1_300_230_1/20160323132309_yen-magazine-82.jpg
+Disallow: /covers/90x120/yen
+Disallow: /covers/150x200/yen
+
+User-agent: dotbot
+Disallow: /

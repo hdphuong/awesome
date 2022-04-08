@@ -1,0 +1,20 @@
+Content-Length: 0
+Date: Fri, 08 Apr 2022 11:14:43 GMT
+Content-Type: text/html; charset=utf-8
+Location: /en-gb/services/republishing/get-started-one-off-lp/?ft-content-uuid=9f27e64d-822b-402c-95ea-3e1b057960fa
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Content-Language: en-gb
+Vary: Cookie, Accept-Encoding
+Cache-Control: public, max-age=120
+Set-Cookie: django_language=en-gb; expires=Sat, 08 Apr 2023 11:14:43 GMT; Max-Age=31536000; Path=/
+X-Divio-App: ft1144enterpriserefresh-live-6f40ccdb87a54e189d252f62babda958
+X-Divio-Router: gfIzUbEoFzRWoi9alfj_3w
+X-Divio-Request-Id: c4cf324fe27fe34b7ebd798b4f6f5db8
+X-Divio-Request-Time: 0.030
+X-Divio-Handler: MTAuMC4wLjE4Mw
+X-Divio-Request-Upstream-Time: 0.032
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8a94ba2e1e5539-SYD

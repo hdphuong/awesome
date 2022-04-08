@@ -1,0 +1,13 @@
+Date: Fri, 08 Apr 2022 11:33:21 GMT
+Location: https://thehackernews.com/robots.txt
+Cf-Ray: 6f8ab00b1d85a7f5-SYD
+Cache-Control: max-age=3600
+Expires: Fri, 08 Apr 2022 12:33:21 GMT
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jI%2BVBtlCAu7TjoEacSeX%2FF%2BFDzXRzvUQ3CBa%2BrT9WEkVCHwWMXzEL9RrU8BLZEqXZ2tDCEQIGSeCv%2F4ObMFx13jNt2L01RcW9DF8EdTeHt8nTc8p%2FCa%2FvdbuS6%2Fvtu3EKodvFLhPgw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

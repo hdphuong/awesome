@@ -1,0 +1,11 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:18 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Olaf: ⛄
+Link: <https://developer.wordpress.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://developer.wordpress.org/wp-json/wp/v2/plugin-handbook/37615>; rel="alternate"; type="application/json"
+Link: <https://developer.wordpress.org/?p=37615>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+X-Nc: EXPIRED ord 2
+Content-Encoding: gzip

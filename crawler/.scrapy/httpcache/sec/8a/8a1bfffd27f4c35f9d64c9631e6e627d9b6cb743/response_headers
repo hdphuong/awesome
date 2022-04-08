@@ -1,0 +1,24 @@
+Content-Length: 208
+Cache-Control: private, no-store
+Content-Type: text/html; charset=utf-8
+Location: /en/authentication/keeping-your-account-and-data-secure/creating-a-strong-password
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none';prefetch-src 'self';connect-src 'self';font-src 'self' data: githubdocs.azureedge.net;img-src 'self' data: github.githubassets.com githubdocs.azureedge.net placehold.it *.githubusercontent.com github.com;object-src 'self';script-src 'self';frame-src https://graphql.github.com/ https://www.youtube-nocookie.com;style-src 'self' 'unsafe-inline';child-src 'self'
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 0
+X-Azure-Ref: 0Lh5QYgAAAABUfp21GbvsSq4RWYPIT7lIU1lEMDNFREdFMTgxMAA1OTZkNzhhMi1jYTVmLTQ3OWQtYmNkYy0wODM1ODMzMTc0YjI=
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:36:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-syd10155-SYD
+X-Cache: CONFIG_NOCACHE, MISS
+X-Cache-Hits: 0
+X-Timer: S1649417774.232620,VS0,VE429
+Vary: Accept
+Strict-Transport-Security: max-age=31557600

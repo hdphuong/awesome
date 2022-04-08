@@ -1,0 +1,641 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KNG437H');</script>
+    <title>Feedback - IoT Hub</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Submit your feedback, send a news tip, and get in contact with the IoT Hub team.">
+    <meta name="Keywords" content="">
+    <meta name="news_keywords" content="">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="IoT Hub RSS Feed" href="/rss/rss.ashx" />
+
+    
+    <meta property="og:site_name" content="IoT Hub">
+    <meta property="og:title" content="IoT Hub - Connecting YOU to the Internet of Things">
+    <meta property="og:url" content="http://www.iothub.com.au">
+    <meta property="og:image" content="http://www.iothub.com.au/images/iot-sm-logo.jpg">
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="500" />
+    <meta property="og:description" content="Submit your feedback, send a news tip, and get in contact with the IoT Hub team.">
+
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@IoTHubANZ" />
+    <meta name="twitter:creator" content="@IoTHubANZ" />
+    <meta name="twitter:title" content="IoT Hub - Connecting YOU to the Internet of Things" />
+    <meta name="twitter:description" content="Submit your feedback, send a news tip, and get in contact with the IoT Hub team." />
+    <meta name="twitter:url" content="http://www.iothub.com.au" />
+    
+        <meta name="twitter:image" content="http://www.iothub.com.au/images/iot-sm-logo.jpg" />
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,600,700,300" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_728A46416FA31E4B821584C7301D35DF.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 768px)" href="/styles/small_38BCDDE7A3D93E473D6EB3CD780EF4E2.css" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#282359">
+    <meta name="msapplication-TileColor" content="#282359">
+    <meta name="theme-color" content="#282359">
+
+    
+    
+    
+    
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+</head>
+<body class="">
+    
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNG437H" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <div class="wrapper">
+        <div class="off-canvas-wrap" data-offcanvas>
+            
+
+            <div class="inner-wrap">
+                <div class="sticky">
+                    <div id="search-dropdown" style="display: none; width: 100%">
+                        <div class="row collapse full-width">
+                            <div class="search-input medium-9 columns">
+                                <input type="text" autocomplete="off" placeholder="Search IoT Hub">
+                            </div>
+                            <div class="search-button medium-3 columns">
+                                <button>Search</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+<div class="top-bar">
+    <div class="row collapse">
+        <nav class="large-12">
+            <div id="logo" class="left"><a href="/"><img src="/Images/iot-logo.png" alt="IoT Hub" border="0" /></a></div>
+            <ul>
+            
+                    <li>
+                                            
+                        <a href="/events">Events</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/awards">IoT Awards</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="https://www.iothub.com.au/iot-impact">IoT Impact</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/covid-19">COVID-19 Hub</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/news">News</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/resources">Resources</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                    
+                    
+                        <a class="dropdown" href="/iotaa-hub" >IoTAA Hub</a>
+                    
+                    
+                            <ul>
+                        
+                                <li><a href="/iot-insights">IoT Insights</a></li>
+                        
+                            </ul>
+                                                
+                    </li>
+                
+            
+                <li class="user-login"><a href="/login">Login</a></li>
+                <li class="user-login"><a href="/register">Register</a></li>
+            
+            
+                <li class="user-login">
+                    <a id="search" class="left"></a> 
+                </li>
+            </ul>
+            <!-- <div id="user-login" class="left">
+            </div> 
+             -->
+        </nav>
+    </div>
+</div>
+
+<nav class="mobile-nav">
+    
+    <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+    </section>
+
+    <section class="middle tab-bar-section">
+        <a href="/"><img src="/Images/iot-logo.png" border="0" alt="IoT Hub" /></a>
+    </section>
+
+    <!-- Off Canvas Menu -->
+    <aside class="left-off-canvas-menu">
+        <section class="off-canvas-top-bar">
+            
+            <div class="search-mobile">
+                <div class="search-input"><input type="text" autocomplete="off" placeholder="Search IoT Hub"></div>
+                <div class="search-button"><button> </button></div>
+            </div>
+            
+            <div id="user-login-mobile">
+                            
+                    <a href="/login">Login</a><a href="/register">Register</a>
+                
+                
+            </div>
+            <div class="clearfix"> </div>
+        </section>
+        <ul>
+            <li><a href="/">Home</a></li>
+            
+            
+            <li>
+                <a href="/events" class="mobile-nav-item"><span>Events</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/awards" class="mobile-nav-item"><span>IoT Awards</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="https://www.iothub.com.au/iot-impact" class="mobile-nav-item"><span>IoT Impact</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/covid-19" class="mobile-nav-item"><span>COVID-19 Hub</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/news" class="mobile-nav-item"><span>News</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/resources" class="mobile-nav-item"><span>Resources</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/iotaa-hub" class="mobile-nav-item"><span>IoTAA Hub</span></a>
+                
+                        <div class="mobile-nav-arrow"></div>
+                        <div class="mobile-nav-dropdown">
+                    
+                            <a href="/iot-insights" class="mobile-nav-item"><span>IoT Insights</span></a>
+                    
+                        </div>
+                    
+            </li>
+                        
+            
+        </ul>         
+        <div id="mobile-social-media">
+        <div id="mobile-facebook"><a href="https://www.facebook.com/IoTHubANZ"> </a></div>
+        <div id="mobile-twitter"><a href="https://twitter.com/IoTHubANZ"> </a></div>
+        <div id="mobile-linkedin"><a href="https://www.linkedin.com/company/iot-hub"> </a></div>
+        <div id="mobile-rss"><a href="/rss.ashx"> </a></div>
+        <div class="clearfix"></div>
+    </div>
+    </aside>
+
+</nav>
+
+    
+                </div>
+
+                <div id="skin">
+                    <div class="leaderboard-container">
+                        <div id="div-gpt-ad-leader" class="ad-leader"></div>
+                    </div>
+
+                    <div class="row main-section">
+                        <div class="small-12 columns">
+                            
+
+<h1 class="cat-header"><span>Feedback</span></h1>
+    
+        <div class="form-blurb">
+            
+        </div>
+        <form method="post" action="/feedback/" id="form1" class="form-primary">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CE881A87" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XGXMNm+/9bW1xYp3UZLQGnMMCrcX2UC3IwwW6fqqtS8SIb27/Erlkxjk05uJYLGyI/pIDBYNuPe0D1iJ6SAbfI4zMqZSMtApoMGten/CQUvKdFFJYoGVRGnm14XGw4ZNMylf4FxIn0LVovA1F2JkZP8d0D4oiQjkQHQjrmWSQROwZRWb9fWASKqE3Hawu6qHfQLFbBBFe5W2Wo/86arbUuIhA4l5MdGlHFoZYwbBWM2mnu7XaiGGmTxi1S+ylKMKM3z6YSjwBpkXHSDk/AOBuImzOCQ=" />
+            <section class="form-section">
+                <div class="form-label">Message Type <span class="required">*</span></div>
+                <div class="form-input">
+                    <span id="ContentPlaceHolder1_rblMessageType"><input id="ContentPlaceHolder1_rblMessageType_0" type="radio" name="ctl00$ContentPlaceHolder1$rblMessageType" value="General" checked="checked" /><label for="ContentPlaceHolder1_rblMessageType_0">General</label><br /><input id="ContentPlaceHolder1_rblMessageType_1" type="radio" name="ctl00$ContentPlaceHolder1$rblMessageType" value="Review suggestion" /><label for="ContentPlaceHolder1_rblMessageType_1">Review suggestion</label><br /><input id="ContentPlaceHolder1_rblMessageType_2" type="radio" name="ctl00$ContentPlaceHolder1$rblMessageType" value="News tip" /><label for="ContentPlaceHolder1_rblMessageType_2">News tip</label></span>
+                    
+                </div>
+                <div class="form-label">Your Name <span class="required">*</span></div>
+                <div class="form-input">
+                    <input name="ctl00$ContentPlaceHolder1$tbName" type="text" id="ContentPlaceHolder1_tbName" />
+                                        
+                </div>
+                <div class="form-label">Your Email <span class="required">*</span></div>
+                <div class="form-input">   
+                    <input name="ctl00$ContentPlaceHolder1$tbEmail" type="text" id="ContentPlaceHolder1_tbEmail" />
+                    
+                                        
+                </div>
+                <div class="form-label">Subject <span class="required">*</span></div>
+                <div class="form-input">
+                    <input name="ctl00$ContentPlaceHolder1$tbSubject" type="text" id="ContentPlaceHolder1_tbSubject" />
+                                        
+                </div>
+                <div class="form-label">Your Message <span class="required">*</span></div>
+                <div class="form-input">
+                    <textarea name="ctl00$ContentPlaceHolder1$tbMessage" rows="2" cols="20" id="ContentPlaceHolder1_tbMessage">
+</textarea>
+                                        
+                </div>
+                <div class="form-input">
+                    <div class="g-recaptcha" data-sitekey="6Ld42igTAAAAAOBCacomS0nf4xR1s9sznmIaNxBI"></div>
+                    
+                </div>            
+                <span class="form-note">                    
+                    While we cannot guarantee a reply, all feedback is appreciated.
+                </span>                                
+            </section>
+            <div class="form-submit">
+                <input type="submit" name="ctl00$ContentPlaceHolder1$tbnSubmit" value="Submit Feedback" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$tbnSubmit&quot;, &quot;&quot;, true, &quot;Feedback&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolder1_tbnSubmit" class="button" />
+            </div>
+        </form>
+    
+    
+
+
+
+                        </div>
+
+                        <div class="small-12  columns">
+                            
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Feedback&pa=&sc=0&output=script&ros=True&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="iot-data-store"
+                    data-shareurl=""
+                    data-articleid=""
+                    data-adcategories="[]"
+                    data-adkeywords="[]"
+                    data-adsection="feedback"
+                    data-adshow="True"
+                    data-gasitesection="Feedback"
+                    data-gasitecategory=""
+                    data-gakeywords=""
+                    data-disqus_auth=""
+                    data-disqus_key="WHz8hVVluWH3Ccvt1W5Bu3LPz0s3TEjQJ65n5XQHnpQSOxtAunJU615fBVA9bEo4"
+                    data-disqus_shortname="iothub"
+                    data-disqus_developer="0"
+                    data-disqus-title=""
+                    data-disqus-url=""
+                    data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+                </div>
+
+                
+                
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+                <script src="/scripts/js_6189E2ACFD210F9C5E974A9D490DB97E.js"></script>
+
+                
+                
+
+                <div id="fixed-social-media">
+                    <div id="fixed-facebook"><a href="https://www.facebook.com/IoTHubANZ" target="_blank"></a></div>
+                    <div id="fixed-twitter"><a href="https://twitter.com/IoTHubANZ" target="_blank"></a></div>
+                    <div id="fixed-linkedin"><a href="https://www.linkedin.com/company/iot-hub" target="_blank"></a></div>
+                    <div id="fixed-rss"><a href="/rss.ashx"></a></div>
+                </div>
+
+                <!-- close the off-canvas menu -->
+                <a class="exit-off-canvas"></a>
+
+            </div>
+        </div>
+        
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns section-header-wrapper">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+        <ul class="large-block-grid-5 network-bar-grid">
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                        <a href="https://www.itnews.com.au/awards/finalists-showcase?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="iTnews Benchmark Awards Finalist&#39;s Showcase" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiTnews_BA2022_FinalistShowcase_LinkedInSocial.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards Finalist's Showcase
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/news/us-warns-of-newly-found-advanced-chinese-backdoor-576663?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            US warns of newly found advanced Chinese backdoor
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/state-of-it/?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            State of IT
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/digitalnation/?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Digital Nation has relaunched
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/news/itnews-benchmark-awards-ceremony-moving-to-june-15-575464?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards ceremony moving to June 15
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Cyber crime is a team sport, say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Boardroom Impact: Critical infrastructure
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                     <a href="https://www.crn.com.au/news/google-cloud-names-angela-coronica-new-anz-channel-chief-575039?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <img alt="Google Cloud names Angela Coronica new ANZ channel chief" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f1643011317593.jpeg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Google Cloud names Angela Coronica new ANZ channel chief
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/sap-names-first-regional-head-of-sustainability-575067?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            SAP names first regional head of sustainability
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/long-time-microsoft-anz-exec-phil-goldie-departs-after-12-years-575011?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Long-time Microsoft ANZ exec Phil Goldie departs after 12 years
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/canon-business-services-acquires-wa-microsoft-partner-satalyst-574890?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Canon Business Services acquires WA Microsoft partner Satalyst
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/aussie-technology-spending-to-reach-111-billion-in-2022-gartner-574894?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Aussie technology spending to reach $111 billion in 2022: Gartner
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                   <a href="https://www.bit.com.au/review/venom-blackbook-zero-15-phantom-573253?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="Venom BlackBook Zero 15 Phantom" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBlackBook-Zero-15-Phantom-right.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Venom BlackBook Zero 15 Phantom
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/facebook-linkedin-or-instagram-social-media-success-isnt-one-size-fits-all-574908?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Facebook, LinkedIn or Instagram? Social media success isn&#8217;t one size fits all
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/digital-dystopia-your-reputation-is-on-the-line-574913?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Digital dystopia: your reputation is on the line
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/creating-sustainable-high-performance-computing-to-drive-the-data-industry-forward-574918?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Creating sustainable high-performance computing to drive the data industry forward
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            How long will a UPS keep your computers on if the lights go out?
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            
+        </ul>
+        </div>
+    </div>
+</div>
+        <footer>
+            <div id="footer-top-level" class="row">
+                <div class="small-12 large-12 columns footer-content">
+                    <div id="footer-links">
+                        <a href="/page/contact">Contact Us</a>
+                        <a href="/page/about">About Us</a>
+                        <a href="/feedback">Feedback</a>
+                    </div>
+                    <a href="http://www.nextmedia.com.au/" target="_blank" class="nm-logo">
+                        <img src="/images/logo_nextmedia.png" alt="nextmedia" /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.               
+                
+                </div>
+            </div>
+            <div id="footer-bottom-level">
+                <div class="row">
+                    <div class="small-12 large-9 columns footer-content">
+                        All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />
+                        Your use of this website
+                        constitutes acceptance of nextmedia's <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">Privacy Policy</a> and 
+                        <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">Terms & Conditions</a>.            
+            
+                        <div id="otp">
+                            <div id="countdown" class="close"></div>
+                            <div id="div-gpt-ad-interstitial"></div>
+                        </div>
+                        <div class="mask"></div>
+
+                        <div id="div-gpt-ad-skin"></div>
+                    </div>
+
+                    <div class="small-12 large-3 columns" id="footer-powered-by">
+                        <div class="footer-powered-by-inner">
+                            <span>Powered By</span>
+                            <a href="https://www.interactive.com.au" target="_blank">
+                                <img src="/images/interactive-logo.png" alt="Powered by Interactive" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- close the wrapper -->
+    </div>
+    <script src="/scripts/gdpr.js"></script>
+</body>
+</html>

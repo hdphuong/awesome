@@ -1,0 +1,9 @@
+Server: nginx/1.20.2
+Date: Fri, 08 Apr 2022 11:36:11 GMT
+Content-Type: text/plain
+Etag: W/"6fcbbffb3af699d80ddbc5515d363550"
+Cache-Control: max-age=0, private, must-revalidate
+X-Runtime: 0.002180
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Github-Backend: Kubernetes
+X-Github-Request-Id: E225:92AF:69BBDB:1D7FDC5:62501E2B

@@ -1,0 +1,22 @@
+Date: Fri, 08 Apr 2022 11:14:28 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, follow
+Link: <https://thenai.org/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://thenai.org/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://thenai.org
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 27
+X-Cache-Group: bot
+Cf-Cache-Status: EXPIRED
+Last-Modified: Fri, 08 Apr 2022 06:23:54 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dwi6J2Z4VMynsKq3l%2BEZKa%2FSY%2FvMnk54%2Fuqave%2BBkA3fcrhVk6btUZ76r3N12HE7DvNTXakDvOtYH9G2jXLCdBGB5MvJLcgv2u9t4L6XYzR7VOM1dNMhAH32W%2BQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f8a945add505593-SYD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

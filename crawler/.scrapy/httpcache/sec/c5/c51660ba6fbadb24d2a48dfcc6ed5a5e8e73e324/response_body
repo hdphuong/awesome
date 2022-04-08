@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>U.S. Department of Justice</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+<meta content='width=device-width, initial-scale=1.0, user-scalable=yes' name='viewport' />
+<link href='https://www.justice.gov/favicon.ico' rel='shortcut icon' />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3G2IxjDI6BHW8HNWQSrxk8b/IeE12yl7neTElBTvLxSAjN2OyOfNUEFUClzXpGgq3l6gfooc29RggBw894Tdzw==" />
+<link rel="stylesheet" media="screen" href="https://content.govdelivery.com/assets/subscriber-c5bbdeb54d1ae80286e88d8537f0f8344ac1546b8ac10a91a1ca69074af80c3e.css" />
+<link rel="stylesheet" media="screen" href="https://public.govdelivery.com/accounts/USDOJ/style.css?v=1505940552" />
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" media="screen" href="https://content.govdelivery.com/assets/image_fallbacks-4158072338fe39a7068cb4e24030302b5b49a32f58407c057e78415bbc45090c.css" />
+<![endif]-->
+<script src="https://content.govdelivery.com/assets/Subscriber-03b5bf34260cdca6e914f294c508fe8c563c3c79ab47587418b3eea2174fc840.js"></script>
+
+<script src="https://content.govdelivery.com/assets/controller_manifests/AccountSubscribers-711a08bfb832345c261a7900e716c9c613c4768ac842cb1739e46dbbea17dead.js"></script>
+
+</head>
+<body id='sub'>
+<div id='page_margins'>
+<main id='page'>
+
+<div class='qs_banner'>
+<a href='https://www.justice.gov/' rel='noopener noreferrer' target='_blank'>
+<img alt='United States Department of Justice' src='/system/images/77372/original/United%20States%20Department%20of%20Justice.png?1586284058' />
+</a>
+</div>
+
+<div id='col3'>
+<p class='name'>
+
+</p>
+
+
+<form action="/accounts/USDOJ/subscriber/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hp3jhuLMlsmH113hfVbeV3qYwBTU1GY33jddJGGVffPafLbOGuOziBBzJOvr2EfuYjlBi2sTlJgjU4WMgv6PKA==" />
+
+<fieldset id='quick_subscribe_new'>
+<legend>
+<h1>
+Keep Informed with Email Updates
+</h1>
+</legend>
+<div id='quick_subscribe_new_instructions'>
+<p>The Department of Justice (DOJ) is pleased to offer a free e-mail subscription service through our contractor GovDelivery. This service allows you to receive notifications by e-mail when new information is available on pages you specify on Department of Justice websites. If you sign up for these automatic updates, you will no longer need to check those pages for changes. You may unsubscribe from this service at any time.</p>
+<p><strong>Start, Change, or Cancel Your Subscription. </strong></p>
+<p>To sign up for updates or to access your subscriber preferences, please enter your e-mail address.</p>
+</div>
+<ol class='form'>
+<li class='email_fields' style='display: block'>
+<label for="email"><img class="required" alt="" aria-hidden="true" src="https://content.govdelivery.com/images/required.gif" />E-mail Address</label>
+<input type="email" name="email" id="email" value="" class="long email_text_field" required="required" />
+
+</li>
+</ol>
+<span aria-hidden='aria-hidden' style='display: none'>
+<label for="name"><img class="required" alt="" aria-hidden="true" src="https://content.govdelivery.com/images/required.gif" />Name</label>
+<input type="text" name="name" id="name" value="" aria-disabled="true" autocomplete="off" />
+</span>
+
+<div class='button_panel'>
+<input type="submit" name="commit" value="Go" data-disable-with="Go" /><input type="button" value="Cancel" class="js_only cancel_button" />
+</div>
+</fieldset>
+</form>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    new GD.views.AccountSubscribersNew({
+      facebookAppId: 188927694463050,
+      facebookAPIVersion: "v3.2",
+      facebookLoginURL: "/accounts/USDOJ/facebook_subscriber/login",
+      wirelessEnabled: false,
+      facebookEnabled: false,
+      permissions: "email"
+    }).init();
+  //]]>
+</script>
+
+</div>
+</main>
+<footer id='footer'>
+<p style="text-align: left;"><span style="font-size: small;"><strong>Privacy Policies</strong></span></p>
+<p style="text-align: left;"><span style="font-size: small;">GovDelivery is providing this email subscription service on behalf of the Department of Justice. Providing your email address to GovDelivery is voluntary but necessary in order to participate in this service. GovDelivery will use the information you provide to deliver the notifications you have requested and to allow you to update your subscription preferences. GovDelivery may not use your subscription information for any other purposes, and will not share your personal information with third parties for promotional purposes. The Department of Justice will also have access to the information you provide to GovDelivery. Please review both the GovDelivery and Department of Justice Privacy Policies at the links below.</span></p>
+<p style="text-align: left;"><span style="font-size: small;">For additional guidance regarding how your information may be used or disclosed, please consult the Department's System of Records Notice entitled "JUSTICE/DOJ-003, Correspondence Management System for the Department of Justice." See <a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=2001_register&amp;docid=01-13860-filed.pdf" target="_blank" rel="noopener">66 Fed. Reg. 29992</a> (June 4, 2001) and <a href="http://edocket.access.gpo.gov/2007/pdf/E7-1176.pdf" target="_blank" rel="noopener">72 Fed. Reg. 3410</a> (Jan. 25, 2007). If you have any concerns about subscribing to this service, please see the privacy policies below.</span></p>
+<hr />
+<a id="privacy_policy" target="_blank" rel="noopener noreferrer" href="https://www.justice.gov/doj/privacy-policy">DOJ Privacy Policy</a> | <a id="cookie_statement" target="_blank" rel="noopener noreferrer" href="https://subscriberhelp.granicus.com/s/article/Cookies">Cookie Statement</a> | <a id="help" target="_blank" rel="noopener noreferrer" href="https://subscriberhelp.granicus.com/">Help</a>
+
+</footer>
+</div>
+<script type='text/javascript'>
+  //<![CDATA[
+    new GD.views.LayoutsAccountsSubscribers({
+      GDPRCookiePolicy: {
+        message: "We only use cookies that are necessary for this site to function to provide you with the best experience. The controller of this site may choose to place supplementary cookies to support additional functionality such as support analytics, and has an obligation to disclose these cookies. Learn more in our \u003ca href=\"https://subscriberhelp.granicus.com/s/article/Cookies\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCookie Statement\u003c/a\u003e.\n",
+        prefix: "USDOJ_production-as"
+      }
+    }).init();
+    new GD.ui.SubscriberButtonPanel({
+      navigate_confirm_text: "Are you sure you want to navigate away from this page?",
+      close_confirm_text: "Are you sure you want to close this page?",
+      logout_path: "https://public.govdelivery.com/accounts/USDOJ/subscriber/session/destroy",
+      change_to_wireless_confirm_text: "You are about to change your email address to a phone number. You may be missing out on valuable information because not all alerts are sent to phones. Do you want to continue?"
+    }).init();
+    function closeFlash(node) {
+      var nextFocus = GD.ui.tools.getNextFocus(node)[0];
+      nextFocus?nextFocus.focus():false;
+      $(node.closest('.flash')).hide({effect: 'slide', direction: 'left', easing: 'swing', duration: '2000'});
+    }
+  //]]>
+</script>
+</body>
+</html>

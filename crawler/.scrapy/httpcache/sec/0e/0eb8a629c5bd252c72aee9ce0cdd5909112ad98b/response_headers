@@ -1,0 +1,25 @@
+Date: Fri, 08 Apr 2022 11:09:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 77
+X-Sorting-Hat-Shopid: 10908172352
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.boscloner.com/
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10908172352
+X-Shardid: 77
+Vary: Accept
+Server-Timing-Public: processing;dur=12, db;dur=4
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 9b72cd78-5f9f-4073-ae0a-6e53643ba2b2
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8a8d38dceba7ea-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

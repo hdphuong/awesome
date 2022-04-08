@@ -1,0 +1,6 @@
+Referer: https://www.mymagazines.com.au/page/digital-subscriptions
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: MyMagsCart=52f868f5-ea51-416c-994e-b99a5640c2fb; ASP.NET_SessionId=z4djvgbm4v3wvicy24gnuzke; pJ8cQBkWvpIWj10Z=52f868f5-ea51-416c-994e-b99a5640c2fb; tjhz9YfcMSWBAzgu=52f868f5-ea51-416c-994e-b99a5640c2fb

@@ -1,0 +1,11 @@
+Content-Length: 0
+Date: Fri, 08 Apr 2022 11:33:29 GMT
+Location: https://www.aboutcookies.org/robots.txt
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=q1V3AIU9ZXYhNqJn8ngKOGTQPaEXkkuNn%2BD5obIYek0CihBM3k9zuhytAfM16A4pDxcdc%2BeWOyjkhn%2FxMBODaKTRs6a1DzGI4Yhg1vg777m%2BKWR8EGYGPI%2FyPDDO6dEb8TZIPS8Qeg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f8ab03a28c95ac8-MEL
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

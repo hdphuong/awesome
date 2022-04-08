@@ -9,15 +9,16 @@ X-Content-Type-Options: nosniff
 Referrer-Policy: strict-origin-when-cross-origin
 Vary: Accept-Encoding
 Content-Encoding: gzip
-Expires: Sat, 02 Apr 2022 04:15:28 GMT
+Expires: Fri, 08 Apr 2022 11:11:14 GMT
 Cache-Control: max-age=0, no-cache
 Pragma: no-cache
-Date: Sat, 02 Apr 2022 04:15:28 GMT
-Set-Cookie: _sphs_uuid=7d26b635-aae1-4823-9f93-a36c031eda22; domain=sophos.com; expires=Sun, 02-Oct-2022 04:15:28 GMT; path=/; secure
+Date: Fri, 08 Apr 2022 11:11:14 GMT
+Set-Cookie: _sphs_uuid=78527e41-d2a8-4315-bd24-8bfcd6d98ef0; domain=sophos.com; expires=Sat, 08-Oct-2022 11:11:13 GMT; path=/; secure
 Set-Cookie: __SophosNextDeviceEnabled=true; domain=sophos.com; path=/; secure; HttpOnly
-Set-Cookie: ASP.NET_SessionId=hkpbzg1gswylvfvrv1tk2mzf; domain=sophos.com; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ASP.NET_SessionId=hf02dop1evfj1kl3i1uysio1; domain=sophos.com; path=/; secure; HttpOnly; SameSite=Lax
 Set-Cookie: .ASPXAUTH=; domain=sophos.com; expires=Mon, 11-Oct-1999 23:00:00 GMT; path=/; secure; HttpOnly; SameSite=Lax
-Set-Cookie: akacd_pr01=3826325726~rv=52~id=bb5b61e4b2c8883b32a688b354af380a; path=/;; Secure; SameSite=None
+Set-Cookie: AKA_A2=A; expires=Fri, 08-Apr-2022 12:11:14 GMT; path=/; domain=sophos.com; secure; HttpOnly
+Set-Cookie: akacd_pr01=3826869071~rv=64~id=e68ea9929b8c84fb235071a535d9c7d8; path=/;; Secure; SameSite=None
 Server-Timing: cdn-cache; desc=MISS
-Server-Timing: edge; dur=325
-Server-Timing: origin; dur=213
+Server-Timing: edge; dur=388
+Server-Timing: origin; dur=650

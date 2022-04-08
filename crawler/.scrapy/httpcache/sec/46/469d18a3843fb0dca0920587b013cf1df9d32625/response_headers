@@ -1,0 +1,12 @@
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 Apr 2022 11:36:21 GMT
+Expires: Fri, 08 Apr 2022 11:36:21 GMT
+Cache-Control: private, max-age=0
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-oXIbiJH7QzVXocO/tyN7' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: support-content-ui
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

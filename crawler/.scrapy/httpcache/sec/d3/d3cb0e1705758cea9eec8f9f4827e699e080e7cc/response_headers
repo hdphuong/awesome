@@ -1,0 +1,9 @@
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Link: <https://www.ddai.info/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.ddai.info/?p=20>; rel=shortlink
+Content-Encoding: gzip
+X-Cloud-Trace-Context: d533e60f27cb077c62dc750960c2d59e
+Date: Fri, 08 Apr 2022 11:14:29 GMT
+Server: Google Frontend
+Cache-Control: private

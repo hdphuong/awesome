@@ -1,0 +1,18 @@
+Server: nginx/1.20.2
+Date: Fri, 08 Apr 2022 11:36:19 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Etag: W/"399b5b9d5d8c215543901b9b03f8f602"
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: default-src 'none'; font-src https://support-assets.github.com; img-src https: data:; script-src https://support-assets.github.com; style-src https://support-assets.github.com; connect-src 'self' wss://support.github.com https://enterprise-bundles.github.com https://github.zendesk.com https://esbtoolsproduction.blob.core.windows.net
+Set-Cookie: _help_hub_session=N%2Bwv%2BWVPz%2B6rPMFkNUFmUCYkm8fSrUKrGrUIEoST8p%2BoGv6%2FId7FpxkrlBf%2BNzUZngvToTeV7ftWiy6apVD3CXHeEImukl9BIKcOviRhM98%2BdvrFeZy%2Bb%2BC6FEA%2FWyfn33KRc0r531IwZg93iRNuuIOFhsO088Rr0xjzXijNnXi7W%2BfgrYVIVJ4BAiMhnGWKB1Ubmc9FWO%2FzFVsJ4iHmPtazTvhk%2BYlG8fHxbEqPtkO%2FepeULVAipX6MLxAxFGMS9zkTPc%2Fw59OV11cRJD7Ei9T9twByNqxfBNKVUYauo2mZWG1QcUozr3db%2BW9TnFWViQvRngbw7GtRs%2FPHvw8CikpO0HQ6KyYExx7kjsTwCxhqD3EgUm7hzOQ%3D--gFuf%2Fk%2F9dtoWzI%2B3--%2B6hVF9xLPkcUMrjdfhDI0w%3D%3D; path=/; secure; HttpOnly
+X-Runtime: 0.029785
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Content-Encoding: gzip
+X-Github-Backend: Kubernetes
+X-Github-Request-Id: E225:92AF:69BC61:1D80064:62501E33

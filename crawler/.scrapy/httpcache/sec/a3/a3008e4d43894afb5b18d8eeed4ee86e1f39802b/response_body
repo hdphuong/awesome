@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://resources.github.com
+
+# Sitemaps
+Sitemap: https://resources.github.com/sitemap.xml

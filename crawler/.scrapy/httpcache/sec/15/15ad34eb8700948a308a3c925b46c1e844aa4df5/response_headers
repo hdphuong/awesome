@@ -1,5 +1,5 @@
 Server: nginx
-Date: Sat, 02 Apr 2022 05:23:41 GMT
+Date: Fri, 08 Apr 2022 11:35:26 GMT
 Content-Type: text/html; charset=UTF-8
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 X-Content-Type-Options: nosniff
@@ -9,5 +9,5 @@ Link: <https://threatpost.com/?p=161539>; rel=shortlink
 X-Frame-Options: SAMEORIGIN
 X-Debug-Auth: off
 X-Request-Host: threatpost.com
-X-Cache-Hit: MISS
+X-Cache-Hit: HIT
 Content-Encoding: gzip

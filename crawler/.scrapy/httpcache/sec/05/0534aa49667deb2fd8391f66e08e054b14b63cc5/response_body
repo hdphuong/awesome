@@ -1,0 +1,842 @@
+
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"ae432a7c36","applicationID":"11200492","transactionName":"NFxRMURUWBBVBxJRDQ0WcjZmGkYWVggPWwMXUFwLGVFTBVURCkxMAkpDHQ==","queueTime":0,"applicationTime":847,"ttGuid":"3FBB5CAB497E8AC7","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"ae432a7c36",applicationID:"11200492"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>   
+    <script>window.dataLayer = window.dataLayer || [];</script>
+    <script>dataLayer.push({ 'ecommerce': { 'detail': { 'products': [{'name': 'Organic Gardener subscription','id': 'OG MY  OG N7','price': '56.00','brand': 'Organic Gardener','category': 'Home & Garden','quantity': 1}] } } });</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W7BWCRT');</script>    
+    <title>Organic Gardener - MyMagazines - Subscribe online and save.</title> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    
+    <meta name="Description" content="MyMagazines - Subscribe and save up to 80% on Australian magazines when you subscribe with mymagazines.com.au">
+    <meta name="Keywords" content="magazine, magazines, my magazines, mymagazines, subscribe, subscriptions, gift subscription, magazine subscriptions, Golf Australia, MAD, Gardening Australia, Healthy Food Guide, Old Bike Australasia, Science Illustrated, Inside Sport, Australian Muscle Car, Australian Mountain Bike, Organic Gardener, Prevention, Total Girl, K-Zone, frankie magazine, fathers day, mothers day, valentines day, gift voucher, nextmedia, next media">    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3a400%2c700%2c400italic%2c700italic%7cLato%3a400%2c700%2c400italic%2c700italic" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_073dc5f9eec5b041bda1b4154205d956.css" /> 
+    
+
+    
+    <link rel="icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">    
+    <!--[if IE]><link rel="shortcut icon" href="/images/favicon.ico"><![endif]-->
+    
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->    
+</head>
+<body>        
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7BWCRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="content" class="clearfix">
+        <header class="clearfix">
+            <div class="left" id="logo"><a href="/"><img src="/images/mymagazines-logo.png" alt="MyMagazines" class="logo-image"></a></div>
+            <div id="top-banner">
+                
+                <a id="hlTopBanner" class="top-banner" href="https://www.mymagazines.com.au/magazine/gardening-australia"><img src="../assets/20210616161923_Gardening-GIFs-0621.gif" alt="MyMagazines" /></a>
+            </div>
+        </header>
+        <nav id="top-nav" class="clearfix">
+            <div class="left">
+                <div class="mobnav-btn-wrapper">
+                    <div id="mobnav-btn">  
+			            <span></span>
+			            <span></span>
+			            <span></span>
+		            </div>
+                </div>
+                <ul class="main-menu">
+                    <li><a href="/products/magazines">Magazines</a></li>
+                    <li><a href="/products/merchandise">Books/Merch<span>andise</span></a></li>
+                    <li><a href="/ecard">Gift <span>eCard</span></a></li>
+                    <li><a href="/page/frequently-asked-questions">FAQ</a></li>
+                    <li><a href="/page/contact-us">Contact <span>Us<span></a></li>                    
+                </ul>
+            </div>
+
+            <div class="group-menu">
+                <div class="right" id="login">                
+                    
+                        <a href="/myaccount"><i class="icon icon-user"></i>Login</a>
+                    
+                                    
+                </div>            
+                <div class="right" id="cart-menu"> 
+                    <a href="/mycart" class="cart-menu-link">
+                        <img src="/images/menu-cart.png" alt="My Cart">
+                        <i class="icon icon-basket"></i>
+                        <span>0 item(s) for $0.00</span>
+                    </a>
+                </div> 
+            </div>
+                           
+            <div class="right" id="search">
+                <div class="search-wrapper"><input type="text" autocomplete="off" placeholder="Enter your search term">
+                <button><i class="icon  icon-search"></i></button>
+                </div>
+            </div>
+        </nav>
+        <div class="clearfix">
+            <div id="content-left">
+                <div style="position:relative;">
+                    
+                            <div class="nav-head">See all</div>
+                                <nav><ul>
+                        
+                            <li><a href="/products/magazines">Magazines</a></li>
+                        
+                            <li><a href="/products/books">Books</a></li>
+                        
+                            <li><a href="/products/other">Other</a></li>
+                        </ul></nav>
+                    
+                            <div class="nav-head">Select a Category</div>
+                            <nav><ul>
+                        
+                            <li><a href="/category/fashion-lifestyle">Fashion &amp; Lifestyle</a></li>
+                        
+                            <li><a href="/category/home-garden">Home &amp; Garden</a></li>
+                        
+                            <li><a href="/category/motoring-bikes">Motoring &amp; Bikes</a></li>
+                        
+                            <li><a href="/category/science-youth">Science &amp; Youth</a></li>
+                        
+                            <li><a href="/category/sports-outdoors">Sports &amp; Outdoors</a></li>
+                        </ul></nav>                
+                    <a href="/ecard"><img src="/images/gift-box.png" alt="Buying a gift subscription? Send a Gift eCard Now!" /></a>
+                    
+                </div>
+                <img src="/images/accepted-cards-2020.png" alt="We accept payment with VISA, MasterCard, and PayPal." />                
+            </div>
+            <div id="content-right" class="main-content">
+                
+
+
+    <div id="breadcrumb">
+        <a href="/">Home</a>&nbsp;<span>|</span>&nbsp;<a id="ContentPlaceHolder1_hlCategory" href="/category/home-garden">Home &amp; Garden</a>&nbsp;<span>|</span>&nbsp;Organic Gardener
+    </div>
+
+    
+<div class="publication magazine">
+    <div class="clearfix pub-top">
+        <div class="left pub-left">
+            <div class="publication-cover">
+                <div class="sneakwrap">                
+                    <img id="ContentPlaceHolder1_imgCover" src="/assets/1_-1_278_1/20220324085538_Web.jpg" alt="Organic Gardener Magazine" />
+                    
+                        <img src="/images/sneak-peak-fold.png" alt="Sneak Peak" class="view-sneakpeak">
+                    
+                </div> 
+            </div>
+
+            
+                <div class="roboto back-issue-menu clearfix">
+                    <a id="ContentPlaceHolder1_hlBackIssues" class="back-issues" href="/backissues/organic-gardener">Back Issues</a><a id="ContentPlaceHolder1_hlMerchandise" class="merchandise" href="/merchandise/organic-gardener">Merchandise</a>                        
+                </div>
+                                  
+        </div>
+        
+            <div class="left pub-right">
+         
+            <div class="product-details">
+            <h1 class="product-heading">Organic Gardener</h1>    
+            
+                <div class="cover-prices">Cover Price: <span class="price">$7.99</span></div>                
+                <div class="savings">
+                    <div>8 issues for                     
+                        <br /><span class="price">$56</span> <strong class="price-savings">SAVE 12%</strong></div>
+                    CHANCE TO WIN!
+                </div>
+            
+             </div>
+            
+            
+                <div class="pub-desc">
+                    <div class="moretext"></div>
+                    <a class="moreless-button" href="#">Read more</a>
+                    <div id="long-desc">
+                        <p><span style="color:rgb(0, 0, 0); font-family:lato,sans-serif; font-size:14.7px">ABC&nbsp;</span><em style="color:rgb(0, 0, 0); font-family:lato,sans-serif; font-size:14.7px">Organic Gardener</em><span style="color:rgb(0, 0, 0); font-family:lato,sans-serif; font-size:14.7px">&nbsp;magazine celebrates organic gardening and food. For over 20yrs it has been a trusted source of information for an ever-increasing number of Australians concerned about their impact on the earth and interested in making a difference through their lifestyle choices.</span></p>
+
+<p>ABC&nbsp;<em>Organic Gardener</em>&nbsp;magazine focuses on organic gardening and food production &ndash; providing seasonal advice on growing fruit, vegies, herbs, poultry and much more. It explores the fundamentals of chemical-free gardening that supports, rather than damages, nature. It also explores eco-living issues such as new organic food products, renewable energy, organic farmers&rsquo; markets and non-toxic household supplies. It&rsquo;s where naturally great ideas grow.</p>
+
+<p>ABC <em>Organic Gardener</em> Subs Club &ndash;&nbsp; as a subscriber to ABC<em> Organic Gardener</em>, you will automatically go into the draw to win a ABC <em>Organic Gardener</em> Subs Club Prize Pack each issue.</p>
+
+<p>To purchase the current or&nbsp;previous&nbsp;issues, please&nbsp;<strong><a href="https://www.mymagazines.com.au/backissues/organic-gardener">click here</a></strong></p>
+
+<p><small><em>Organic Gardener</em><em style="font-size:10.8333px">&nbsp;</em>issues are delivered wrapped in film containing Reverte&trade; - an additive that breaks down the polymer chain to make the film biodegradable.&nbsp;Click&nbsp;<a href="https://reverteplastics.com/oxobiodegradibility.php" target="_blank">here</a>&nbsp;for further information.</small><br />
+<br />
+<strong style="color:rgb(0, 0, 0); font-family:lato,sans-serif; font-size:14.7px; font-weight:700">PLEASE NOTE - ABC&nbsp;</strong><strong style="color:rgb(0, 0, 0); font-family:lato,sans-serif; font-size:14.7px; font-weight:700"><em>Organic Gardener</em><em>&nbsp;</em>special offers are NOT available with an&nbsp;<em>ULTIMATE GARDENER&nbsp;</em>subscription.</strong></p>
+ 
+                    </div>
+                </div>
+            
+            
+            
+                
+        
+            </div>
+          
+
+        
+    </div>    
+    
+    
+    
+    <div class="clearfix publication-bottom">    
+        <div class="cart-left">
+            
+                    <div class="special rel-zero">
+                        <img id="ContentPlaceHolder1_imgSpecialImage" class="special-offer rel-zero" src="/assets/1_209_270_1/20220324085932_OGCompMrec_131_newsletter2_copy.jpg" alt="SUBSCRIBE FOR YOUR CHANCE TO WIN 1 OF 25 COPIES OF COSTA&#39;S WORLD!" />
+                        <div class="view-offer">VIEW OFFER</div>
+                    </div>
+                
+
+            
+                <div style="text-align:center">            
+                    <img id="ContentPlaceHolder1_imgPromoImage" class="view-promo" src="/assets/1_-1_140_1/20200507120436_SUBS_CLUB_OG.PNG" alt="Organic Gardener Magazine" />
+                </div>
+            
+        </div>
+        <div class="cart-right">
+            <form method="post" action="/magazine/organic-gardener" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90DAB215" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1eWooW5bdYbDafVnEmuYXULdTIjO3+OPze3hglTdPTHJjaP7W+A5TXFxjt1n3GZC85wbxw/SVa/a56wjNOKPCbHZxs1XNDb550sxPP8wAmpXM8GmGMB2RGXE92vAsMAmaMBd4X/3Q/zJz2YsMCj4GdGfw36ia2bfu9L0Zxf8RJL2aRWjQ+2U4pG/5HjdxY6jeEvYC+TaAyPIUxNZt4F6DjJwotRhHd0w/f9KQE7uRjfVsVx+G46GKcRHBb/8BQErIWrs1FQNFfixqepR96BYPXzpx7kfSZlE5UC7wi+37tA+tmPfqw2RIxdEjqcIl9F+cgeS5veyakqsk3puTqYmiO6ZABRsVphv1YYJNXMnBcCSUMMt4SV+dVsmYsaxQP+wxuaKA6mSIZK1x9oHPRcNCB43YKXBzGMd+F1pu/7SGTpE9j1x6Ue89mP27DTjS+u6GyAJQff/oSgcHT7mMTLnS5vcDwoplMppQBDQlMe/V+tynld+TglVHKoVDzjpBI4bIMHq1zYRuFMVWc5At1qPXrlL4nBMbfJLeXSWsdzedkOksyXzk6K7Psz6w/CiZiY9RBcCey5GU+Xt9mgrhpAeKQ==" />                
+                    <div class="promo-code">
+                        <div class="promo-code-body">
+                            <div class="promo-code-text">
+                                 Do you have a promotion code?
+                            </div>
+                            <div class="promo-code-entry">
+                                <input name="ctl00$ContentPlaceHolder1$tbPromoCode" type="text" id="ContentPlaceHolder1_tbPromoCode" class="promo-code-number-entry" style="vertical-align:middle" />
+                                <input type="submit" name="ctl00$ContentPlaceHolder1$btnAddPromoCode" value="Apply" id="ContentPlaceHolder1_btnAddPromoCode" class="promo-code-number-apply" />
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$hdnPromoCode" id="ContentPlaceHolder1_hdnPromoCode" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="roboto clearfix offers-tabs">
+                        <span class="offers-tabs-text">Deliver to</span>
+                        <div id="offer-tab-au" class="left offers-tab selected">Australia</div>
+                        <div id="offer-tab-os" class="left offers-tab"><span id="tab-nz-mob" class="tab-nz-mob">NZ</span> <span id="tab-nz-desktop" class="tab-nz-desktop">New Zealand</span> / Overseas</div>
+                        <div id="offer-tab-digital" class="left offers-tab">Digital</div>
+                        
+                    </div>
+                            
+                    <div id="offer-au" class="offers-panel selected">
+                        
+                                <div class="pricing">
+                                    <div class="table">
+                                        <div class="table-row header">
+                                            <div class="table-cell">
+                                                PRICE
+                                            </div>
+                                            <div class="table-cell">
+                                                SAVINGS
+                                            </div>
+                                            <div class="table-cell">
+                                                DETAILS
+                                            </div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$29.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save $3
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings">
+                                                    $3
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        6 months / 4 issues
+                                                        
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl01$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpAustraliaOffers_btnBuyNow_0" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl01$hdnRateCode" id="ContentPlaceHolder1_rpAustraliaOffers_hdnRateCode_0" value="N4" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl01$hdnPremiums" id="ContentPlaceHolder1_rpAustraliaOffers_hdnPremiums_0" value="1" />
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$56.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save $8
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings">
+                                                    $8
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        12 months / 8 issues
+                                                        
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl02$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpAustraliaOffers_btnBuyNow_1" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl02$hdnRateCode" id="ContentPlaceHolder1_rpAustraliaOffers_hdnRateCode_1" value="N7" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl02$hdnPremiums" id="ContentPlaceHolder1_rpAustraliaOffers_hdnPremiums_1" value="1" />
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$99.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save $29
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings">
+                                                    $29
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        24 months / 16 issues
+                                                        
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl03$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpAustraliaOffers_btnBuyNow_2" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl03$hdnRateCode" id="ContentPlaceHolder1_rpAustraliaOffers_hdnRateCode_2" value="N14" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl03$hdnPremiums" id="ContentPlaceHolder1_rpAustraliaOffers_hdnPremiums_2" value="1" />
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$109.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save 
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings">
+                                                    
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        12 months / 8 issues
+                                                        <div class="subscription-details">THE ULTIMATE GARDENER: Inc 8 iss of Organic Gardener + 12 iss of Gardening Australia.    Organic Gardener special subscription offers are not available to Ultimate Gardener subscribers</div>
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl04$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpAustraliaOffers_btnBuyNow_3" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl04$hdnRateCode" id="ContentPlaceHolder1_rpAustraliaOffers_hdnRateCode_3" value="D7" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpAustraliaOffers$ctl04$hdnPremiums" id="ContentPlaceHolder1_rpAustraliaOffers_hdnPremiums_3" value="1" />
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    </div>
+                                </div>
+                            
+                    </div>
+
+                    <div id="offer-os" class="offers-panel">
+                        
+                                <div class="pricing">
+                                    <div class="table">
+                                        <div class="table-row header">
+                                            <div class="table-cell">PRICE</div>
+                                            <div class="table-cell">SAVINGS</div>
+                                            <div class="table-cell">DETAILS</div>
+                                            <div class="table-cell"> DELIVERY</div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$75.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save 
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings"></div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        12 months / 8 issues
+
+                                                        
+
+
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="delivery">
+                                                    New Zealand
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl01$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpOverseasOffers_btnBuyNow_0" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl01$hdnRateCode" id="ContentPlaceHolder1_rpOverseasOffers_hdnRateCode_0" value="Z7" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl01$hdnPremiums" id="ContentPlaceHolder1_rpOverseasOffers_hdnPremiums_0" value="1" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl01$hdnDelivery" id="ContentPlaceHolder1_rpOverseasOffers_hdnDelivery_0" value="New Zealand" /> 
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    
+                                        <div class="table-row">
+                                            <div class="table-cell">
+                                                <div class="price-wrapper">
+                                                    <span class="price">$90.00</span>
+                                                    <span class="savings-mob">
+                                                        <br>
+                                                        Save 
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="savings"></div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="details">
+                                                    <div class="issues">
+                                                        12 months / 8 issues
+
+                                                        
+
+
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="delivery">
+                                                    Overseas
+                                                </div>
+                                            </div>
+                                            <div class="table-cell">
+                                                <div class="buy-now">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl02$btnBuyNow" value="Buy Now" id="ContentPlaceHolder1_rpOverseasOffers_btnBuyNow_1" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl02$hdnRateCode" id="ContentPlaceHolder1_rpOverseasOffers_hdnRateCode_1" value="O7" />                        
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl02$hdnPremiums" id="ContentPlaceHolder1_rpOverseasOffers_hdnPremiums_1" value="1" />
+                                                    <input type="hidden" name="ctl00$ContentPlaceHolder1$rpOverseasOffers$ctl02$hdnDelivery" id="ContentPlaceHolder1_rpOverseasOffers_hdnDelivery_1" value="Overseas" /> 
+                                                </div>
+                                            </div>
+                                        </div>
+                            
+                                    </div>
+                                </div>
+                            
+                    </div>
+
+                    <div id="offer-digital" class="offers-panel">
+
+                        
+
+                        <div class="offer-digital-inner">
+
+                        
+
+
+                        
+                            <div class="center offer-digital-item"><a id="ContentPlaceHolder1_hlAppStoreUrl" href="https://itunes.apple.com/au/app/organic-gardener-magazine/id1116857278?mt=8" target="_blank"><img src="/images/applestore.png" alt="Available on the App Store"></a></div>
+                        
+                        
+                            <div class="center offer-digital-item"><a id="ContentPlaceHolder1_hlGooglePlayUrl" href="https://www.amazon.com/ABC-Organic-Gardener-Magazine/dp/B01JBMWDIY/ref=sr_1_4?dchild=1&amp;keywords=Nextmedia+pty+ltd&amp;qid=1623020427&amp;s=digital-text&amp;sr=1-4&amp;text=Nextmedia+pty+ltd" target="_blank"><img src="/images/amazonstore.png" alt="Available on Google Play"></a></div>
+                        
+                        
+                                
+                                    <div class="center offer-digital-item"><a href="https://www.zinio.com/au/abc-organic-gardener-magazine-m4882?campaign_code=2018-q1.publisher.5283.eng.p_nextmedia0318" target="_blank"><img src="/assets/0_-1_160_0/ZinioStore.png" alt="Available on Zinio"></a></div>                        
+                                
+                                
+                            
+
+
+
+                        
+                        </div>
+                    </div>
+
+                    
+                </form>  
+
+             
+
+        </div>
+    </div>
+
+    
+            
+    
+        <div id="view-offer-modal">
+            <div class="clearfix">                
+                <div class="right modal-right-pad">
+                    <div class="view-offer-close">CLOSE <img src="/images/close.png" alt="" class="close"></div>
+                    <img id="ContentPlaceHolder1_imgSpecialOffer" src="/assets/1_-1_386_1/20220324085935_OGCompMrec_131_newsletter2_copy.jpg" alt="SUBSCRIBE FOR YOUR CHANCE TO WIN 1 OF 25 COPIES OF COSTA&#39;S WORLD!" />
+                </div>
+                <h2>SUBSCRIBE FOR YOUR CHANCE TO WIN 1 OF 25 COPIES OF COSTA'S WORLD!</h2>
+                <div class="intro">
+                    Subscribe to ABC Organic Gardener for your chance to 1 OF 25 signed copies of Costa's World valued at $45!
+                </div>
+                <div><p>If anyone can capture the joy and fun of gardening and sustainability, it&rsquo;s Costa Georgiadis, beloved host of ABC TV&rsquo;s Gardening Australia. That&rsquo;s exactly what he does in his new book, Costa&rsquo;s World: Gardening for the soil, the soul and the suburbs, tackling topics big and small in a way that makes it easy for us all to get the most out of our patch. A generous, joyous, fully illustrated book, Costa&rsquo;s World celebrates the many wonders of gardening, from the life-changing joy of chooks to the brilliance of bees and pollinators and the power of community. Costa covers all bases, looking at big ideas for small spaces; growing the right plants for your conditions; kids in the garden; the need for biodiversity; easy-peasy permaculture; and much, much more! If you are just looking for inspiration or you want to take your urban garden to another level of sustainability, this book is one you will want on your shelf. So go ahead, subscribe today for your chance to win one of 25 signed copies and add to the fun of gardening in your patch! Available in bookshops and online.</p>
+</div>
+            </div>
+            <div class="terms">
+                <p>Costa&rsquo;s World book competition open to Aust and NZ residents subscribing, renewing or extending in print to ABC Organic Gardener for a minimum of 1 year between 24/3/22 and 4/5/22. Twenty five (25) subscribers will each win a signed copy of Costa&rsquo;s World by Costa Georgiadis, valued at $45. Total prize pool is $1,125. The winners will be drawn on 6/5/22 at Promoter&rsquo;s premises, 205 Pacific Hwy, St Leonards NSW 2065. ABC Organic Gardener Subs Club is open to Australian and New Zealand residents only, ending 6/5/22. Prize pack valued at $$121.98. One winner will be drawn from the entire ABC Organic Gardener magazine Australian and New Zealand subscription base on 6/5/22. The promoter is nextmedia P/L. NSW Authority No. TP/01427; ACT Permit No. TP 21/02081. Full competition terms at mymagazines.com.au. Please allow for 6&ndash;8 weeks after 6/5/22 for delivery of prize pack. Our Privacy Notice can be found at nextmedia.com.au.</p>
+
+            </div>
+        </div>
+        <div class="mask"></div>
+        
+
+    
+<div id="more-like-this">
+    <div id="more-like-this-heading"><div id="more-like-this-text">You may also like</div></div>    
+    <div id="carousel-wrapper">
+        <div class="clearfix" id="carousel-inner-wrapper">
+            <div class="clearfix" id="carousel-pad">
+                
+                    <div class="left left-arrow">    
+                        <!-- <img id="move-carousel-left" src="/images/carousel-left.png" alt=""> -->
+                        <i id="move-carousel-left" class="icon  icon-left-open-big"></i>
+                    </div>    
+                
+                <div class="left " id="more-carousel">   
+                    <div id="inner-carousel">          
+                        
+                                <div id="more-carousel-0" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/healthy-food-guide"><img src="/assets/1_240_183_1/20220404083641_web.jpg" alt="Healthy Food Guide Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Healthy Food Guide</h2>
+                                       </div>
+                                        <span class="promo-desc">12 issues for $67 - SAVE 20%<br>CHANCE TO WIN!</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-1" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/australian-muscle-car"><img src="/assets/1_240_183_1/20220331140907_Web.jpg" alt="Australian Muscle Car Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Muscle Car</h2>
+                                       </div>
+                                        <span class="promo-desc">7 issues for $59 - SAVE 23%<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-2" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/australian-mountain-bike"><img src="/assets/1_240_183_1/20220321084619_Web.jpg" alt="Australian Mountain Bike Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Mountain Bike</h2>
+                                       </div>
+                                        <span class="promo-desc">7 issues for $59 - SAVE 23%<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-3" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/golf-australia"><img src="/assets/1_240_183_1/20220317084653_x_GAApr22_001crop.jpg" alt="Golf Australia Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Golf Australia</h2>
+                                       </div>
+                                        <span class="promo-desc">12 issues for $89 - SAVE 26%<br>CHANCE TO WIN!</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-4" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/gardening-australia"><img src="/assets/1_240_183_1/20220314090703_Web.jpg" alt="Gardening Australia Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Gardening Australia</h2>
+                                       </div>
+                                        <span class="promo-desc">12 issues for $56 - SAVE 40%<br>CHANCE TO WIN!</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-5" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/old-bike-australasia"><img src="/assets/1_240_183_1/20220303085855_Web.jpg" alt="Old Bike Australasia Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Old Bike Australasia</h2>
+                                       </div>
+                                        <span class="promo-desc">7 issues for $59 - SAVE 23%<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-6" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/prevention"><img src="/assets/1_240_183_1/20220228084611_Web.jpg" alt="Prevention Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Prevention</h2>
+                                       </div>
+                                        <span class="promo-desc">&nbsp;<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-7" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/frankie-magazine"><img src="/assets/1_240_183_1/20220404083214_Web.jpg" alt="frankie magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>frankie magazine</h2>
+                                       </div>
+                                        <span class="promo-desc">6 issues for $65 - SAVE 18%<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                                <div id="more-carousel-8" class="more-carousel-item">                
+                                   <div class="more-carousel-img"><a href="/magazine/inside-sport"><img src="/assets/1_240_183_1/20200608092215_WEB.jpg" alt="Inside Sport Magazine"></a></div>
+                                   <div class="promo-text"> 
+                                       <div>
+                                           <h2>Inside Sport</h2>
+                                       </div>
+                                        <span class="promo-desc">&nbsp;<br>&nbsp;</span>
+                                   </div>
+                                </div>
+                            
+                        
+                    </div>
+                </div>
+                
+                    <div class="left right-arrow">
+                        <!-- <img id="move-carousel-right" src="/images/carousel-right.png" alt=""> -->
+                        <i id="move-carousel-right" class="icon icon-right-open-big"></i>
+                    </div>                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
+    
+    
+        <div id="view-promo-modal">
+            <div class="clearfix">                
+                <div class="right modal-right-pad">
+                    <div class="view-promo-close">CLOSE <img src="/images/close.png" alt="" class="close"></div>
+                    <img id="ContentPlaceHolder1_imgPromoModal" src="/assets/1_-1_386_1/20220324090706_sUBS.JPG" alt="Organic Gardener Magazine" />
+                </div>
+                <div><p>Subscribe to ABC<em> Organic Gardener </em>magazine and go in the draw to win great prizes every issue. All of our current subscribers have a chance to WIN! This issue, our prize pack includes a beautiful book that looks at how the environment and our gardens are interwoven, a copy of the revised edition of Backyard Bees (we love bees!) and a fun book about backyard birds for kids.</p>
+
+<p><sub>ABC Organic Gardener Subs Club is open to Australian and New Zealand residents only, ending 6/5/22. Prize pack valued at $$121.98. One winner will be drawn from the entire ABC Organic Gardener magazine Australian and New Zealand subscription base on 6/5/22. The promoter is nextmedia P/L. NSW Authority No. TP/01427; ACT Permit No. TP 21/02081.</sub></p>
+</div>
+            </div>
+        </div>    
+    
+    
+    
+        <div id="view-sneakpeak-modal">
+            <div class="clearfix">
+                <div class="right view-sneakpeak-close">CLOSE <img src="/images/close.png" alt="" class="close"></div>
+                <h2>Organic Gardener - Sneak Peek</h2>
+                
+                    <div>
+                        <div class="sneakpeak-box">
+                            <div class="flipbook">    
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page1.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page2.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page3.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page4.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page5.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page6.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page7.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page8.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page9.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page10.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page11.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page12.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page13.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page14.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page15.png" alt="" />
+                                    </div>            
+                                
+                                    <div>
+                                        <img src="/assets/0_500_400_1/20220324085707_og_feb2022-min.page16.png" alt="" />
+                                    </div>            
+                                
+                            </div>
+                            <div class="center">
+                                <h4>Click on the corners of the pages to turn</h4>
+                            </div>
+                        </div>                    
+                    </div>
+                
+            </div>
+        </div>  
+         <div class="mask"></div>
+    
+    
+    
+        
+</div>
+
+
+            </div>
+        </div>
+        <footer>
+            <div class="main-content">
+                <div class="accepted-payment">
+                    <span class="accepted-payment-text">We accept payment with </span>
+                    <img src="/images/accepted-cards-2021.png" alt="We accept payment with VISA, MasterCard, and PayPal.">
+                </div>
+                <a href="http://www.nextmedia.com.au" target="_blank" class="nextmedia-link"> &copy;  nextmedia Pty Ltd 2022</a>
+                <a href="/page/about-us">About Us</a> &#8226;
+                <a href="/page/terms-and-conditions">Terms and Conditions</a> &#8226; 
+                <a href="/page/digital-subscriptions">Digital Subscriptions</a> &#8226; 
+                <a href="/page/privacy">Privacy</a> &#8226; 
+                <a href="/sitemap">Sitemap</a> &#8226; 
+                <a href="/page/security">Security</a>
+            </div>
+        </footer>
+    </div>
+
+        
+    <div class="no-js-content">This site required javascript to operate correctly.</div>    
+    <div id="mymags-datastore" data-shareurl="https://www.mymagazines.com.au/magazine/organic-gardener"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+    
+    <script src="/scripts/gdpr.js"></script>
+    <script src="/scripts/js_6bba3915c2f4c7da606a0cd4f9ee5d20.js"></script>  
+                
+    <script>
+        $(function() {
+
+            var _tmSlideActive = true;
+            var _tmSlide = 1;
+            if ($('#tm-slides').length > 0) {
+                //alert('slide');                
+                setTimeout(tmSlide, 5000);
+                $('#tm-slides').mouseover(function() { _tmSlideActive = false; });
+                $('#tm-slides').mouseout(function() { _tmSlideActive = true; });
+            }
+            function tmSlide() {
+                if (_tmSlideActive) {
+                    $('#tm-slide-' + _tmSlide).fadeOut(1500);
+                    _tmSlide++;
+                    _tmSlide = _tmSlide > 3 ? 1 : _tmSlide;
+                    $('#tm-slide-' + _tmSlide).fadeIn(1500);
+                }
+                setTimeout(tmSlide, 5000);
+            }
+
+            if ($('.checkout .error').length > 0) {
+                $([document.documentElement, document.body]).animate({
+                    scrollTop: $('.checkout .error').offset().top
+                }, 1);
+            }
+        });
+
+
+    </script>                
+    
+    
+    
+    
+    
+</body>
+</html>

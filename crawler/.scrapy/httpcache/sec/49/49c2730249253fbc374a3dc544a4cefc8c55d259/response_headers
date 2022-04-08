@@ -1,0 +1,37 @@
+Date: Fri, 08 Apr 2022 11:09:31 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 77
+X-Sorting-Hat-Shopid: 10908172352
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 08 Apr 2023 11:09:31 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Fri, 22 Apr 2022 11:09:31 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Fri, 22 Apr 2022 11:09:31 GMT; SameSite=Lax
+Set-Cookie: _y=cb233c71-fe6d-4eff-abd9-5381b33badbd; Expires=Sat, 08-Apr-23 11:09:31 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _s=4c14e16f-ee4b-473a-acfc-f24efb849b02; Expires=Fri, 08-Apr-22 11:39:31 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=cb233c71-fe6d-4eff-abd9-5381b33badbd; Expires=Sat, 08-Apr-23 11:09:31 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4c14e16f-ee4b-473a-acfc-f24efb849b02; Expires=Fri, 08-Apr-22 11:39:31 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; rel=preconnect; crossorigin
+Etag: cacheable:c93eedb869f495ada1ca252b48355f7d
+X-Alternate-Cache-Key: cacheable:446fe580c19816d15d82d15fa1f336a4
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10908172352
+X-Shardid: 77
+Vary: Accept
+Content-Language: en
+Server-Timing-Public: processing;dur=33, db;dur=16
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 36ac0acc-e5a1-4acd-ba68-e8e96a358e98
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8a8d1fd9a9a7e9-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

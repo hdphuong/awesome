@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>We have our best look yet at mysterious ORCs (odd radio circles) in space | Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars\/assets","HOME_URL":"https:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"light","VIEW":"mobile","MOBILE":true,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["askap","astronomy","galaxies","meerkat-telescope","odd-radio-circles","science-2"],"channel":"science","slug":"we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space","template_type":"article","queue":[],"server":"production"},"TOTAL":103786,"UNREAD":0,"RECENT":[1846491,1846733,1846635,1846651,1846629,1846613,1846633,1846622,1846550,1846105,1846508,1846523,1846517,1846526,1846539,1846505,1846496,1846340,1846440,1846437,1846367,1846358,1846347,1845514,1845789],"LOGINS":true,"CROSS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"science","PAGETITLE":"","ZEN_MODE":false,"MEMO_PID":"62012a7a19351c07620394e0"};
+  </script>
+
+  <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/css/main-c3a3431538.css" />
+      <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-ios-icon-d9a45f558c.png" />
+  <link rel="mask-icon" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-macos-safari-8997f76b21.svg" color="#ff4e00">
+  <link rel="icon" sizes="192x192" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+    <meta property="fb:pages" content="19374573752" />
+  
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <!-- cache hit 312:single/meta:8c8207d7c54c5bc8087e049b7d4d4911 -->
+<meta name='parsely-page' content='{"title":"We have our best look yet at mysterious ORCs (odd radio circles) in space","link":"https:\/\/arstechnica.com\/science\/2022\/03\/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space\/","type":"post","author":"Jennifer Ouellette","post_id":1844277,"pub_date":"2022-03-30T12:24:14Z","section":"Science","tags":["askap","astronomy","galaxies","meerkat-telescope","odd-radio-circles","science-2","type: report"],"image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/orcTOP-150x150.jpg"}'>
+<meta name='parsely-metadata' content='{"type":"report","title":"We have our best look yet at mysterious ORCs (odd radio circles) in space","post_id":1844277,"lower_deck":"New observational data rules out all but three possibilities about what they might be.","image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/orcTOP-150x150.jpg","listing_image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/03\/orcTOP-360x200.jpg"}'>
+
+<link rel="canonical" href="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/" />
+
+<link rel="amphtml" href="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?amp=1">
+
+<link rel="shorturl" href="https://arstechnica.com/?p=1844277" />
+
+<meta name="description" content="New observational data rules out all but three possibilities about what they might be." />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/">
+<meta name="twitter:title" content="We have our best look yet at mysterious ORCs (odd radio circles) in space">
+<meta name="twitter:description" content="New observational data rules out all but three possibilities about what they might be.">
+
+<meta name="twitter:site" content="@arstechnica">
+<meta name="twitter:domain" content="arstechnica.com">
+
+<meta property="og:site_name" content="Ars Technica" />
+
+<meta name="twitter:image:src" content="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orcTOP-760x380.jpg">
+<meta name="twitter:image:width" content="760">
+<meta name="twitter:image:height" content="380">
+
+<meta name="twitter:creator" content="@JenLucPiquant">
+
+<meta property="og:url" content="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/" />
+<meta property="og:title" content="We have our best look yet at mysterious ORCs (odd radio circles) in space" />
+<meta property="og:image" content="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orcTOP-760x380.jpg" />
+<meta property="og:description" content="New observational data rules out all but three possibilities about what they might be." />
+<meta property="og:type" content="article" />
+  <!-- cache hit 312:single/header:8c8207d7c54c5bc8087e049b7d4d4911 -->
+        
+  
+      <!-- Google Tag Manager DataLayer -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"event":"data-layer-loaded","user":{"ars_userId":undefined,"amg_userId":undefined,"uID":undefined,"sID":undefined,"loginStatus":false,"subscriberStatus":"none","infinityId":undefined,"registrationSource":undefined,"mdw_cnd_id":undefined,"monthlyVisits":undefined,"accessPaywall":undefined,"view":"mobile","theme":"light","show_comments":false},"content":{"pageTemplate":"single","pageType":"article|report","contentCategory":"science","section":"science","subsection":undefined,"contributor":"Jennifer Ouellette","contentID":1844277,"contentLength":1344,"display":"We have our best look yet at mysterious ORCs (odd radio circles) in space","contentSource":"web","pageAssets":undefined,"uniqueContentCount":undefined,"monthlyContentCount":undefined,"publishDate":"2022-03-30T12:24:14+00:00","modifiedDate":"2022-03-30T16:29:57+00:00","keywords":"ASKAP|astronomy|galaxies|MeerKAT telescope|Odd Radio Circles|science","dataSource":undefined},"marketing":{"campaignName":undefined,"circCampaignId":undefined,"internalCampaignId":undefined,"brand":"Ars Technica","certified_mrc_data":undefined,"condeNastId":undefined},"page":{"pID":undefined,"syndicatorUrl":undefined,"pageURL":"https:\/\/arstechnica.com\/?p=1844277","canonical":"https:\/\/arstechnica.com\/science\/2022\/03\/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space\/","canonicalPathName":"\/science\/2022\/03\/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space\/?view=mobile"},"search":{"facets":undefined,"searchTerms":undefined},"site":{"appVersion":"1.0.0"}});
+</script>
+<!-- End Google Tag Manager DataLayer -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLXNPCQ');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+class ABTest {
+  constructor(post_id, init_method) {
+    this.post_id = post_id;
+    this.ajaxurl = '/services/ars-ajax-handler.php';
+    this.expireDays = 1/48; // 30 min
+    this.group = this.getGroup();
+    this.uid = this.getUid();
+    this.init_method = init_method;
+    this.setTitle();
+
+    if (this.init_method === 'click') {
+      this.click();
+    }
+    else {
+      this.impression();
+    }
+  }
+
+  setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Retrieves a unique id for determining whether the event should be recorded
+  getUid() {
+    var uid = this.getCookie('ars_ab_' + this.post_id + '_uid');
+    if (!uid) {
+      uid = (Math.random() + 1).toString(36).substring(2,7);
+      this.setCookie('ars_ab_' + this.post_id + '_uid', uid, this.expireDays);
+    }
+    return uid;
+  };
+
+  // Places the user in either A or B for this post id
+  getGroup() {
+    var group = this.getCookie('ars_ab_' + this.post_id + '_group');
+    if (!group) {
+      group = String.fromCharCode(Math.floor(Math.random() * 2) + 65).toLowerCase();
+      this.setCookie('ars_ab_' + this.post_id + '_group', group, this.expireDays);
+    }
+    return group;
+  };
+
+  // Records a headline impression (from homepage or other listing)
+  impression() {
+    // Send fake ajax
+    var params = {
+      nonce:        '052ceae214',
+      action:       'ars_ab_impression',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // Records a headline click from the actual post page
+  click() {
+    // Send fake ajax
+    var params = {
+      nonce:        '10deb1a137',
+      action:       'ars_ab_click',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // If user is in B group, dynamically set title
+  setTitle() {
+    if (this.group == 'b') {
+      var span = document.getElementById('ars_ab_' + this.post_id);
+      var title = span.parentNode;
+      title.innerHTML = span.getAttribute('data-title-b');
+    }
+  };
+
+  encodeParams(data) {
+    var ret = [];
+    for (var d in data)
+      ret.push(encodeURIComponent(d) + "=" + encodeURIComponent(data[d]));
+    return ret.join("&");
+  };
+
+};
+</script><!-- OneTrust Cookies Consent Notice start -->
+<script 
+    src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  
+    type="text/javascript" charset="UTF-8" 
+    data-domain-script="b10882a1-8446-4e7d-bfb2-ce2c770ad910">
+</script>
+<script type="text/javascript">function OptanonWrapper(){};</script>
+<script 
+    src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" 
+    type="text/javascript" 
+    charset="UTF-8" 
+    ccpa-opt-out-ids="C0002,C0003,C0004,C0005" 
+    ccpa-opt-out-geo="ca" 
+    ccpa-opt-out-lspa="true">
+</script> 
+<!-- OneTrust Cookies Consent Notice end -->
+<script src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-script" async ></script>
+<script>window.googletag=window.googletag||{};window.googletag.cmd=window.googletag.cmd||[];window.cns=window.cns||{};window.cns.queue=[];window.cns.async=function(s,c){cns.queue.push({service:s,callback:c})};window.sparrowQueue=window.sparrowQueue||[];</script>
+<link rel="dns-prefetch" href="//aax.amazon-adsystem.com">
+<link rel="preconnect" href="//aax.amazon-adsystem.com" crossorigin>
+<link rel="preconnect" href="https://mb.moatads.com" crossorigin>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649417696"></script>
+<script src="https://js-sec.indexww.com/ht/p/183973-93942139695505.js" async></script>
+<script src="https://z.moatads.com/condenastprebidheader987326845656/moatheader.js" async></script>
+<script>
+  window.cns.pageContext = {"contentType":"article","templateType":"article","channel":"science","subChannel":"","slug":"we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space","server":"production","keywords":{"tags":["askap","astronomy","galaxies","meerkat-telescope","odd-radio-circles","science-2"],"cm":[],"platform":["wordpress"],"copilotid":""}};
+</script>
+<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649417696"></script>
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-84a4ab0802.ads.us.js"></script>
+</head>
+<body class="post-template-default single single-post postid-1844277 single-format-standard mobile-view light blog-us">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLXNPCQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  	<aside class="ad ad_crown" aria-label="Top of page advertisement"></aside>
+
+<div class="site-wrapper">
+  <a class="screen-reader-text skip-link" href="#main" aria-label="Skip to main content">Skip to main content</a>    
+  <header class="site-header">
+    <div class="header-left">
+      <a href="https://arstechnica.com" id="header-logo" title="Ars Technica Homepage">
+      <span class="icon icon-logo-ars-us"></span>
+  </a>
+    </div>
+
+    <div class="header-right">
+      <nav id="header-nav-primary">
+        <ul>
+          
+  <li><a class="nav-link section-information-technology " href="/information-technology/">Biz &amp; IT</a></li>
+  <li><a class="nav-link section-gadgets " href="/gadgets/">Tech</a></li>
+  <li><a class="nav-link section-science active" href="/science/">Science</a></li>
+  <li><a class="nav-link section-tech-policy " href="/tech-policy/">Policy</a></li>
+  <li><a class="nav-link section-cars " href="/cars/">Cars</a></li>
+  <li><a class="nav-link section-gaming " href="/gaming/">Gaming &amp; Culture</a></li>
+
+<li><a class="nav-link store" href="/store/">Store</a></li>
+<li><a class="nav-link forums" href="/civis/">Forums</a></li>
+        </ul>
+      </nav>
+
+              <a href="/store/product/subscriptions/" class="header-highlight-link">Subscribe</a>
+                  <div class="dropdown" id="header-search">
+        <a href="/search/" class="dropdown-toggle search-toggle" aria-label="Search" aria-expanded="false">
+          <span class="icon icon-search-mag-glass"></span>
+        </a>
+        <div class="dropdown-content">
+          <form action="/search/" method="GET" id="search_form">
+  <input type="hidden" name="ie" value="UTF-8">
+  <input type="text" name="q" id="hdr_search_input" value="" aria-label="Search..." placeholder="Search...">
+</form>
+<a class="nav-search-close">Close</a>
+        </div>
+      </div>
+      <div class="dropdown dropdown-mega" id="header-burger">
+        <a href="#site-menu" class="dropdown-toggle" aria-label="Menu" aria-expanded="false">
+          <span></span>
+        </a>
+        <div id="site-menu" class="dropdown-content">
+          <section class="burger-navigate">
+  <h3>
+    <span class="icon icon-half-target"></span>
+    Navigate
+  </h3>
+  <ul>
+  <li><a class="nav-link store" href="/store/">Store</a></li>
+  <li><a class="nav-link subscribe" href="/store/product/subscriptions/">Subscribe</a></li>
+    <li><a class="nav-link videos" href="http://video.arstechnica.com/">Videos</a></li>
+    <li><a class="nav-link section-features" href="/features/">Features</a></li>
+    <li><a class="nav-link section-reviews" href="/reviews/">Reviews</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-rss-feeds" href="/rss-feeds/">RSS Feeds</a></li>
+    <li><a class="nav-link mobile" href="/?view=mobile">Mobile Site</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-about-us" href="/about-us/">About Ars</a></li>
+    <li><a class="nav-link page-staff-directory" href="/staff-directory/">Staff Directory</a></li>
+    <li><a class="nav-link page-contact-us" href="/contact-us/">Contact Us</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-advertise-with-us" href="/advertise-with-us/">Advertise with Ars</a></li>
+    <li><a class="nav-link page-reprints" href="/reprints/">Reprints</a></li>
+  </ul>
+</section>
+
+<section class="burger-filter">
+  <h3>
+    <span class="icon icon-half-mag"></span>
+    Filter by topic
+  </h3>
+  <ul id="burger-nav-primary">
+    
+  <li><a class="nav-link section-information-technology " href="/information-technology/">Biz &amp; IT</a></li>
+  <li><a class="nav-link section-gadgets " href="/gadgets/">Tech</a></li>
+  <li><a class="nav-link section-science active" href="/science/">Science</a></li>
+  <li><a class="nav-link section-tech-policy " href="/tech-policy/">Policy</a></li>
+  <li><a class="nav-link section-cars " href="/cars/">Cars</a></li>
+  <li><a class="nav-link section-gaming " href="/gaming/">Gaming &amp; Culture</a></li>
+
+<li><a class="nav-link store" href="/store/">Store</a></li>
+<li><a class="nav-link forums" href="/civis/">Forums</a></li>
+  </ul>
+</section>
+
+<section class="burger-settings">
+  <h3>
+    <span class="icon icon-half-gear"></span>
+    Settings
+  </h3>
+  <div>
+    <div class="burger-layout">
+      
+<p>Front page layout</p>
+<div class="burger-layout-grid">
+  <a rel="nofollow" href="http://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?view=mobile" class="">
+    <span class="icon icon-grid"></span><br>
+    Grid
+    <div class="faux-radio "></div>
+      </a>
+</div>
+
+<div class="burger-layout-list">
+  <a rel="nofollow" href="http://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?view=mobile" class="">
+    <span class="icon icon-list"></span><br>
+    List
+    <div class="faux-radio "></div>
+      </a>
+</div>
+
+    </div>
+    <div class="burger-theme">
+      
+<p>Site theme</p>
+<div class="burger-theme-light">
+  <a rel="nofollow" href="http://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?mobile_theme=light&amp;view=mobile" class="">
+    <span><span>Black on white</span></span>
+    <div class="faux-radio active"></div>
+      </a>
+</div>
+
+<div class="burger-theme-dark">
+  <a rel="nofollow" href="http://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?mobile_theme=dark&amp;view=mobile" class="">
+    <span><span>White on black</span></span>
+    <div class="faux-radio "></div>
+      </a>
+</div>
+    </div>
+  </div>
+</section>
+        </div>
+      </div>
+      <div class="dropdown dropdown-mega" id="header-account">
+      <a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fscience%2F2022%2F03%2Fwe-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space%2F%3Fview%3Dmobile" class="dropdown-toggle" aria-expanded="false">
+      Sign in
+      <span class="icon dropdown-indicator icon-drop-indicator"></span>
+    </a>
+    <div class="dropdown-content">
+    <section class="profile-activity">
+      <h3>
+        <span class="icon icon-half-bubble-up"></span>
+        Comment activity
+      </h3>
+              <p>Sign up or login to join the discussions!</p>
+          </section>
+
+    <section class="profile-settings">
+              <form id="login-form" action="https://arstechnica.com/civis/ucp.php?mode=login" method="post">
+  <input type="text" name="username" id="username" placeholder="Username or Email" aria-label="Username or Email" />
+  <input type="password" name="password" id="password"  placeholder="Password" aria-label="Password" />
+  <input type="submit" value="Submit" class="button button-orange button-wide" name="login" />
+  <label id="remember-label">
+    <input type="checkbox" name="autologin" id="autologin" />
+  Stay logged in</label> <span>|</span> <a href="/civis/ucp.php?mode=sendpassword">Having trouble?</a>
+
+  <input type="hidden" name="redirect" value="./ucp.php?mode=login&amp;autoredirect=1&amp;return_to=%2Fscience%2F2022%2F03%2Fwe-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space%2F%3Fview%3Dmobile" />
+  <input type="hidden" name="return_to" value="/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?view=mobile" />
+  <input type="hidden" name="from_homepage" value="1" />
+</form>
+<div class="register-account">
+  <span>Sign up to comment and more</span>
+  <a href="https://arstechnica.com/civis/ucp.php?mode=register" class="signup-btn button button-wide">Sign up</a>
+</div>
+      
+    </section>
+  </div>
+</div>
+    </div>
+  </header>
+
+        
+  <main id="main" class="content-wrapper">
+
+<script type="text/javascript">
+  ars.ARTICLE = {"url":"https:\/\/arstechnica.com\/science\/2022\/03\/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space\/","short_url":"https:\/\/arstechnica.com\/?p=1844277","title":"We have our best look yet at mysterious ORCs (odd radio circles) in space","author":746799,"authorName":"Jennifer Ouellette","pubDate":"2022-03-30T12:24:14Z","id":1844277,"topic":1483351,"pages":1,"current_page":1,"superscroll":true,"promoted":[],"single_page":false,"comments":48,"fullwidth":false,"slug":"we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space","arsStaff":{"104481":{"name":"Aaron Zimmerman","title":"Copy Chief","staff":true},"332715":{"name":"Andrew Cunningham","title":"Senior Technology Reporter","staff":true},"1002":{"name":"Aurich Lawson","title":"Creative Director","staff":true},"509873":{"name":"Beth Mole","title":"Senior Health Reporter","staff":true},"453791":{"name":"Cathleen O'Grady","title":"Contributing science reporter","staff":true},"102179":{"name":"Chris Lee","title":"Associate writer","staff":true},"821742":{"name":"Corey Gaskin","title":"Senior Commerce Writer","staff":true},"329388":{"name":"Dan Goodin","title":"Security Editor","staff":true},"254631":{"name":"Diana Gitig","title":"Associate Writer","staff":false},"25862":{"name":"Eric Bangeman","title":"Managing Editor","staff":true},"512413":{"name":"Eric Berger","title":"Senior Space Editor","staff":true},"46707":{"name":"Iljitsch van Beijnum","title":"Associate Writer","staff":false},"316010":{"name":"Jason Marlin","title":"Technical Director","staff":true},"746799":{"name":"Jennifer Ouellette","title":"Senior Writer","staff":true},"15365":{"name":"Jeremy Reimer","title":"Senior Niche Technology Historian","staff":false},"52979":{"name":"John Timmer","title":"Senior Science Editor","staff":true},"312082":{"name":"Jon Brodkin","title":"Senior IT Reporter","staff":true},"14317":{"name":"Jonathan M. Gitlin","title":"Automotive Editor","staff":true},"998":{"name":"Ken Fisher","title":"Editor in Chief","staff":true},"440179":{"name":"Kerry Staurseth","title":"Associate Copyeditor","staff":true},"328283":{"name":"Kyle Orland","title":"Senior Gaming Editor","staff":true},"10243":{"name":"Lee Hutchinson","title":"Senior Technology Editor","staff":true},"173191":{"name":"Matthew Lasar","title":"Associate writer","staff":true},"182268":{"name":"Nate Anderson","title":"Deputy Editor","staff":true},"1991":{"name":"Ohrmazd","title":"","staff":false},"391727":{"name":"Ron Amadeo","title":"Reviews Editor","staff":true},"348927":{"name":"Sam Machkovech","title":"Tech Culture Editor","staff":true},"588289":{"name":"Samuel Axon","title":"Senior Reviews Editor","staff":true},"294205":{"name":"Scott K. Johnson","title":"Associate Writer","staff":true},"843451":{"name":"Steve Haske","title":"","staff":false},"163185":{"name":"Tim De Chant","title":"Senior Technology Reporter","staff":true},"173910":{"name":"Timothy B. Lee","title":"Senior tech policy reporter","staff":false}},"tags":["askap","astronomy","galaxies","meerkat-telescope","odd-radio-circles","science-2"],"zen_mode":false,"vote_sentiments":[{"sentiment_id":"1","sentiment":"agree","direction":"positive","icon":null,"label":"Agree"},{"sentiment_id":"3","sentiment":"interesting","direction":"positive","icon":null,"label":"Interesting"},{"sentiment_id":"5","sentiment":"funny","direction":"positive","icon":null,"label":"Funny"},{"sentiment_id":"6","sentiment":"addsto","direction":"positive","icon":null,"label":"Adds to Story"},{"sentiment_id":"7","sentiment":"disagree","direction":"negative","icon":null,"label":"Disagree"},{"sentiment_id":"8","sentiment":"inaccurate","direction":"negative","icon":null,"label":"Inaccurate"},{"sentiment_id":"11","sentiment":"pointless","direction":"negative","icon":null,"label":"Doesn't Contribute"},{"sentiment_id":"12","sentiment":"abusive","direction":"negative","icon":null,"label":"Abusive"}]};
+</script>
+
+<article itemscope itemtype="http://schema.org/NewsArticle" class="article-single standalone intro-standard " id="">
+      <div class="column-wrapper">
+    <div class="left-column">
+        <header class="article-header">
+            <h4 class="post-upperdek">
+      Hunting for WTFs    &mdash;
+</h4>
+            <h1 itemprop="headline">We have our best look yet at mysterious ORCs (odd radio circles) in space</h1>
+            <h2 itemprop="description">New observational data rules out all but three possibilities about what they might be.</h2>
+            <section class="post-meta">
+
+  
+<p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+      <a itemprop="url" href="https://arstechnica.com/author/jenniferouellette/" rel="author"><span itemprop="name">Jennifer Ouellette</span></a>
+    -  <time class="date" data-time="1648643054" datetime="2022-03-30T12:24:14+00:00">Mar 30, 2022 12:24 pm UTC</time>
+</p>
+
+
+  
+</section>        </header>
+        <section class="article-guts">
+            <div itemprop="articleBody" class="article-content post-page">
+                                    
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orcTOP-800x532.jpg" alt="Data from SARAO's MeerKAT radio telescope data (green) showing the odd radio circles, is overlaid on optical and near infrared data from the Dark Energy Survey. ">
+      <figcaption class="caption"><div class="caption-text"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orcTOP.jpg" class="enlarge-link" data-height="798" data-width="1200">Enlarge</a> <span class="sep">/</span> Data from SARAO's MeerKAT radio telescope data (green) showing the odd radio circles, is overlaid on optical and near infrared data from the Dark Energy Survey. </div><div class="caption-credit">J. English (U. Manitoba)/EMU/MeerKAT/DES(CTIO)</div></figcaption>  </figure>
+
+  <aside id="social-left" class="social-left" aria-label="Read the comments or share this article">
+    <a title="42 posters participating" class="comment-count icon-comment-bubble-down" href="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?comments=1">
+      <h4 class="comment-count-before">reader comments</h4>
+    
+  <span class="comment-count-number">48</span>
+  <span class="visually-hidden"> with 42 posters participating</span>
+  </a>
+  
+
+<div class="share-links">
+  <h4>Share this story</h4>
+  <ul>
+    <li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277" target="_blank" class="social-icon share-facebook" title="Share on Facebook"><span class="visually-hidden">Share on Facebook</span></a></li>
+    <li><a href="https://twitter.com/share?text=We+have+our+best+look+yet+at+mysterious+ORCs+%28odd+radio+circles%29+in+space&amp;url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277" target="_blank" class="social-icon share-twitter" title="Share on Twitter"><span class="visually-hidden">Share on Twitter</span></a></li>
+    <li><a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277&amp;title=We+have+our+best+look+yet+at+mysterious+ORCs+%28odd+radio+circles%29+in+space" target="_blank" class="social-icon share-reddit" title="Share on Reddit"><span class="visually-hidden">Share on Reddit</span></a></li>
+  </ul>
+</div>
+      </aside>
+
+
+
+
+
+<p>Astronomers have been puzzling over the nature and origin of rare, mysterious radio circles in space ever since the objects were first discovered in 2019. Now, the high-resolution MeerKAT radio telescope in South Africa has captured one such circle in much greater detail, offering some helpful clues about this rare phenomenon. The image and accompanying analysis appeared in a preprint <a href="https://arxiv.org/abs/2203.10669">on Arxiv</a>, and <a href="https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac701/6553851">the paper</a> has been accepted for publication in the Monthly Notices of the Royal Astronomical Society.</p>
+<p>The discovery arose from the <a href="http://emu-survey.org">Evolutionary Map of the Universe</a> (EMU) project, which aims <a href="https://en.wikipedia.org/wiki/Evolutionary_Map_of_the_Universe">to take</a> a census of <a title="Astronomical radio source" href="https://en.wikipedia.org/wiki/Astronomical_radio_source">radio sources</a> in the sky. Several years ago, Ray Norris, an astronomer at Western Sydney University and <a href="https://www.csiro.au/en/research/technology-space/astronomy-space">CSIRO</a> in Australia, predicted the EMU project would make unexpected discoveries. He dubbed them "WTFs." Norris admitted <a href="https://theconversation.com/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited-142812">in a 2020 piece</a> for The Conversation that he expected those discoveries would arise from machine learning analysis, given the vast amounts of data involved. "But these discoveries were made with good old-fashioned eyeballing," he wrote.</p>
+<p>One pair of eyeballs belonged to <a href="https://www.akapinska.com">Anna Kapinska</a>, an astronomer at the National Radio Astronomy Observatory (NRAO). While browsing through new radio astronomy data collected by CSIRO's Australian Square Kilometer Array Pathfinder (ASKAP) telescope, Kapinska noticed several strange shapes that didn't seem to resemble any known type of object. Following Norris' nomenclature, she labeled them as possible WTFs. One of those, per Norris, "was a picture of a ghostly circle of radio emission, hanging out in space like a cosmic smoke ring."</p>
+<figure class="image shortcode-img center large" style="width:100%"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc2.jpg" class="enlarge" data-height="534" data-width="1200" alt="(Left) The original discovery of ORC1 in the Evolutionary Map of the Universe (EMU) science survey team's ASKAP radio telescope data. (Right) The follow-up observation of ORC1 with the MeerKAT radio telescope."><img alt="(Left) The original discovery of ORC1 in the Evolutionary Map of the Universe (EMU) science survey team's ASKAP radio telescope data. (Right) The follow-up observation of ORC1 with the MeerKAT radio telescope." src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc2-640x285.jpg" width="640" height="285" srcset="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc2.jpg 2x"></a><figcaption class="caption"><div class="caption-text"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc2.jpg" class="enlarge-link" data-height="534" data-width="1200">Enlarge</a> <span class="sep">/</span> (Left) The original discovery of ORC1 in the Evolutionary Map of the Universe (EMU) science survey team's ASKAP radio telescope data. (Right) The follow-up observation of ORC1 with the MeerKAT radio telescope.</div><div class="caption-credit">Evolutionary Map of the Universe</div></figcaption></figure>
+<p>Other team members soon found two more weird round blobs, which they dubbed odd radio circles (ORCs). A fourth ORC was identified in archival data from India’s Giant MetreWave Radio Telescope, and a fifth was discovered last year in new ASKAP data. There are several more objects that might also be ORCs. Based on this, the team estimates there could be as many as 1,000 ORCs in all.</p>                                            <aside class="ad_wrapper" aria-label="In Content advertisement">
+    <span class="ad_notice">Advertisement </span>    
+    <div class="ad ad_instream"></div>    
+</aside>
+                                                        
+<p>While Norris <em>et al.</em> initially assumed the blobs were just imaging artifacts, data from other radio telescopes confirmed they were a new class of astronomical object. They don't show up in standard optical telescopes, or in infrared and X-ray telescopes—only in the radio spectrum. Astronomers suspect the radio emissions are due to clouds of electrons. But that wouldn't explain why ORCs don't show up in other wavelengths.</p>
+<p>All of the confirmed ORCs thus far have a galaxy at the center, suggesting this might be a relevant factor in how they form. And they are enormous, measuring about a million light-years across, which is larger than our own Milky Way. "We know ORCs are rings of faint radio emissions surrounding a galaxy with a highly active black hole at its center, but we don't yet know what causes them, or why they are so rare," <a href="https://www.csiro.au/en/news/News-releases/2022/Astronomers-reveal-best-image-yet-of-mysterious-ORCs-in-space">said Norris</a>.</p>
+<figure class="image shortcode-img center large" style="width:100%"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc4.jpg" class="enlarge" data-height="995" data-width="1200" alt="Lines around the edge of the ORC show the direction of a magnetic field. A circular magnetic field like this indicates it has been compressed by a shock wave from the central galaxy."><img alt="Lines around the edge of the ORC show the direction of a magnetic field. A circular magnetic field like this indicates it has been compressed by a shock wave from the central galaxy." src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc4-640x531.jpg" width="640" height="531" srcset="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc4.jpg 2x"></a><figcaption class="caption"><div class="caption-text"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc4.jpg" class="enlarge-link" data-height="995" data-width="1200">Enlarge</a> <span class="sep">/</span> Lines around the edge of the ORC show the direction of a magnetic field. A circular magnetic field like this indicates it has been compressed by a shock wave from the central galaxy.</div><div class="caption-credit"> Larry Rudnick/MeerKAT</div></figcaption></figure>
+<p>Astronomers have posited several possibilities for what the objects might be. Perhaps they are supernova remnants or Einstein rings. Alternatively, they might be caused by jets of electrons emitted from the vicinity of a supermassive black hole, although the ORCs are much more circular than the clouds typically seen resulting from this phenomenon in radio galaxies. The most speculative proposal posited that ORCs might actually be the "throats" of wormholes.</p>
+<p>According to Norris, ASKAP is ideal for surveying large areas of the sky, while MeerKAT is designed to zoom in on any interesting objects, so the two telescope arrays are complementary. This latest radio image from MeerKAT shows several smaller rings inside the larger outer circle. MeerKAT also mapped out the polarization of the radio wave, revealing a magnetic field along the edge of the sphere. This is consistent with an explosion in the central galaxy.</p>
+<p>"We can now see each ORC is centered on a galaxy too faint to be detected earlier," Norris wrote in <a href="https://theconversation.com/odd-radio-circles-that-baffled-astronomers-are-likely-explosions-from-distant-galaxies-178290">The Conversation</a>. "The circles are most likely enormous explosions of hot gas, about a million light-years across, emanating from the central galaxy. From modeling the faint cloudy radio emission that MeerKAT detects within the rings, it seems the rings are the edges of a spherical shell surrounding the galaxy, like a blast wave from a giant explosion in the galaxy. They look like rings instead of orbs only because the sphere appears brighter at the edges where there is more material along the line of sight, much like a soap bubble."</p>                                            <aside class="ad_wrapper" aria-label="In Content advertisement">
+    <span class="ad_notice">Advertisement </span>    
+    <div class="ad ad_instream"></div>    
+</aside>
+                                                        
+<figure class="image shortcode-img center large" style="width:100%"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc3.jpg" class="enlarge" data-height="696" data-width="1200" alt="Fifteen of the MeerKAT radio telescope’s 64 dishes beneath a star-filled sky in the Karoo, South Africa. "><img alt="Fifteen of the MeerKAT radio telescope’s 64 dishes beneath a star-filled sky in the Karoo, South Africa. " src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc3-640x371.jpg" width="640" height="371" srcset="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc3.jpg 2x"></a><figcaption class="caption"><div class="caption-text"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/03/orc3.jpg" class="enlarge-link" data-height="696" data-width="1200">Enlarge</a> <span class="sep">/</span> Fifteen of the MeerKAT radio telescope’s 64 dishes beneath a star-filled sky in the Karoo, South Africa. </div><div class="caption-credit">South African Radio Astronomy Observatory </div></figcaption></figure>
+<p>So what caused the explosion that led to the formation of ORCs? The new data is sufficient to rule out all but three possibilities. The first is that ORCs are the result of a shockwave from the center of a galaxy, perhaps arising from the merging of two supermassive black holes. Alternatively, they could be the result of radio jets spewing particles from active galactic nuclei. Finally, ORCs may be shells caused by starburst events ("termination shock"), which would produce a spherical shock wave as hot gas blasted out from a galactic center.</p>
+<p>Determining which of these hypotheses is correct will take more data. There is a large collection of radio telescopes, dubbed the Square Kilometer Array (SKA), scheduled to come online in 2028, and Norris is confident that SKA will find many more ORCs, hopefully revealing more details about the life cycle of galaxies. That additional observational data might also enable astronomers to identify the strange curved filaments of radio emissions lurking within the outer ring.</p>
+<p>In the meantime, several astronomers are enjoying having a new cosmic puzzle to solve. “People often want to explain their observations and show that it aligns with our best knowledge," <a href="https://www.csiro.au/en/news/News-releases/2022/Astronomers-reveal-best-image-yet-of-mysterious-ORCs-in-space">said co-author Jordan Collier</a> of the Inter-University Institute for Data Intensive Astronomy. "To me, it’s much more exciting to discover something new, that defies our current understanding.”</p>
+<p>DOI: Monthly Notices of the Royal Astronomical Society, 2022. <a href="http://dx.doi.org/10.1093/mnras/stac701">10.1093/mnras/stac701</a>  (<a href="http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars">About DOIs</a>).</p>
+<figure class="video"><div class="wrapper" style="padding-bottom: 550%;"><iframe style="display:block" type="text/html" width="100%" height="550" src="https://www.youtube.com/embed/5tYr_5sD-RA?start=0&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe></div><figcaption class="caption"><div class="caption-text">Artist’s impression of odd radio circles exploding from a central galaxy.</div></figcaption></figure>
+
+                                                </div>
+
+            
+            
+        </section>
+    </div>
+    <div class="xrail">
+        <div class="xrail-content">
+            
+            
+            
+                            <div class="ars-interlude-container ad_xrail ad_xrail_top"></div>
+            
+            
+                            <aside class="ad ad_xrail ad_xrail_top ad_xrail_last" aria-label="Top sidebar advertisement"></aside>
+                    </div>
+    </div>
+</div>
+
+<div class="column-wrapper">
+    <div class="left-column">
+        <div id="social-footer">
+            <a title="42 posters participating" class="comment-count icon-comment-bubble-down" href="https://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?comments=1">
+      <h4 class="comment-count-before">reader comments</h4>
+    
+  <span class="comment-count-number">48</span>
+  <span class="visually-hidden"> with 42 posters participating</span>
+  </a>
+  
+
+<div class="share-links">
+  <h4>Share this story</h4>
+  <ul>
+    <li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277" target="_blank" class="social-icon share-facebook" title="Share on Facebook"><span class="visually-hidden">Share on Facebook</span></a></li>
+    <li><a href="https://twitter.com/share?text=We+have+our+best+look+yet+at+mysterious+ORCs+%28odd+radio+circles%29+in+space&url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277" target="_blank" class="social-icon share-twitter" title="Share on Twitter"><span class="visually-hidden">Share on Twitter</span></a></li>
+    <li><a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1844277&title=We+have+our+best+look+yet+at+mysterious+ORCs+%28odd+radio+circles%29+in+space" target="_blank" class="social-icon share-reddit" title="Share on Reddit"><span class="visually-hidden">Share on Reddit</span></a></li>
+  </ul>
+</div>
+        </div>
+                    <!-- cache hit 312:single/author:9be4b7799f2ae2c6de3dad3c97aa1d01 --><section class="article-author">
+      <a style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/08/arspic300.jpg');" class="author-photo" href="/author/jenniferouellette" tabindex="-1" role="presentation" aria-hidden="true"></a>
+  
+  <div class="author-bio">
+    <section class="author-bio-top">
+      <a href="/author/jenniferouellette" class="author-name">Jennifer Ouellette</a>
+      Jennifer Ouellette is a senior writer at Ars Technica with a particular focus on where science meets culture, covering everything from physics and related interdisciplinary topics to her favorite films and TV series.  Jennifer lives in Los Angeles.    </section>
+    <section class="author-social">
+              <strong>Email</strong> <a href="mailto:jennifer.ouellette@arstechnica.com">jennifer.ouellette@arstechnica.com</a>
+                    <span class="slashes">//</span>
+                    <strong>Twitter</strong> <a href="https://www.twitter.com/JenLucPiquant" target="_blank">@JenLucPiquant</a>
+          </section>
+    
+  </div>
+
+</section>
+            </div>
+    <div class="xrail"></div>
+</div>
+<div id="article-footer-wrap">
+            <aside class="ad_wrapper" aria-label="Full width advertisement">
+    <span class="ad_notice">Advertisement </span>        
+    <div class="ad ad_fullwidth fullwidth"></div>
+</aside>
+    
+            <section id="comments-area" class="comments-area column-wrapper">
+  <div class="row comments-row left-column">
+    <a name="comments-bar"></a>
+          <div id="comments-container"></div>
+      <div id="comments-posting-container" class="thick-divide-bottom">
+        <p id="reply">You must <a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?view=mobile" class="vote_login">login or create an account</a> to comment.</p>
+      </div>
+      </div>
+    <div class="xrail xrail-comments">
+    <div class="xrail-content-wrapper">
+      <div class="xrail-content xrail-content-comments">
+          <aside class="ad ad_xrail ad_xrail_comments" aria-label="Comments sidebar advertisement"></aside>
+      </div>
+    </div>
+        <div class="xrail-content-wrapper xrail-content-wrapper-bottom">
+      <div class="xrail-content xrail-content-comments">
+          <aside class="ad ad_xrail ad_xrail_comments" aria-label="Comments sidebar advertisement"></aside>
+      </div>
+    </div>
+      </div>
+  </section>
+                    <section class="inline-playlist">
+  <div class='ars-video-playlist'>
+    <h3 class="ars-video-playlist-module-header">Channel <span>Ars Technica</span></h3>
+    <div class='ars-video-playlist-module' data-playlist-id='arstechnica-channel-ars-science' data-video-options='[]'></div>
+  </div>
+</section>
+                <div class="prev-next-links">
+  <a href="https://arstechnica.com/science/2022/03/a-cosmic-mystery-astronomers-capture-dying-star-blowing-smoke-rings/" rel="prev"><span class="arrow">&larr;</span> Previous story</a>  <a href="https://arstechnica.com/gaming/2022/03/how-did-a-hacker-steal-over-600-million-from-a-crypto-gaming-blockchain/" rel="next">Next story <span class="arrow">&rarr;</span></a></div>
+        <footer id="article-footer">
+  <div id="recommendations-footer">
+    <div id="story-recommendations">
+  <div class="heading-column">
+    <h3>Related Stories</h3>
+  </div>
+  <ul id="story-recs" class="rec-wrap"></ul>
+</div>
+        <div id="sponsored-recommendations">
+  <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_14"></div>
+  <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+</div>
+        <div id="latest-stories">
+  <div class="heading-column">
+    <h3>Today on Ars</h3>
+  </div>
+  <ul id="latest-recs" class="rec-wrap"></ul>
+</div>
+  </div>
+</footer>
+    </div>
+  </article>
+  </main>
+
+  <footer class="site-footer">
+    <nav class="nav-footer">
+
+  <section>
+    <ul>
+      <li><a href="/store/">Store</a></li>
+      <li><a href="/store/product/subscriptions/">Subscribe</a></li>
+      <li><a href="/about-us/">About Us</a></li>
+      <li><a href="/rss-feeds/">RSS Feeds</a></li>
+      <li><a rel="nofollow" href="http://arstechnica.com/science/2022/03/we-have-our-best-look-yet-at-mysterious-orcs-odd-radio-circles-in-space/?view=mobile">View Mobile Site</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <ul>
+      <li><a href="/contact-us/">Contact Us</a></li>
+      <li><a href="/staff-directory/">Staff</a></li>
+      <li><a href="/advertise-with-us/">Advertise with us</a></li>
+      <li><a href="/reprints/">Reprints</a></li>
+    </ul>
+  </section>
+
+  <section class="footer-newsletter">
+    <div class="newsletter-wrapper">
+      <h3>
+        <a href="/newsletters/">Newsletter Signup</a>
+      </h3>
+      <p>Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.</p>
+      <a class="button" href="/newsletters/">Sign me up &rarr;</a>
+    </div>
+  </section>
+
+</nav>
+
+<section class="footer-terms-logo">
+  <div class="cn-logo">
+    <a href="http://condenast.com/" class="icon icon-logo-cn-us" title="Visit Condé Nast"></a>
+  </div>
+
+  <p id="copyright-terms">
+  CNMN Collection<br>
+  WIRED Media Group<br>
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our <a href="https://www.condenast.com/user-agreement/">User Agreement</a> (updated 1/1/20) and <a href="https://www.condenast.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 1/1/20) and <a href="/amendment-to-conde-nast-user-agreement-privacy-policy/">Ars Technica Addendum</a> (effective 8/21/2018). Ars may earn compensation on sales from links on this site. <a href="/affiliate-link-policy/">Read our affiliate link policy</a>.<br>
+  <a href="https://www.condenast.com/privacy-policy/#california">Your California Privacy Rights</a> | <a id="ot-sdk-btn" class="ot-sdk-show-settings">Do Not Sell My Personal Information</a><br>
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br>
+  <a href="https://www.condenast.com/online-behavioral-advertising-oba-and-how-to-opt-out-of-oba/#clickheretoreadmoreaboutonlinebehavioraladvertising(oba)">Ad Choices</a>
+</p>
+</section>
+  </footer>
+</div>
+
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/main-7329c51a38.js"></script>
+
+
+<!-- cache hit 312:single/javascript-footer:8c8207d7c54c5bc8087e049b7d4d4911 -->
+        
+
+
+  
+  <!-- Parse.ly start -->
+<script type="text/plain" class="optanon-category-C0002" id="parsely-cfg" src="//fpa-cdn.arstechnica.com/keys/arstechnica.com/p.js"></script>
+<!-- Parse.ly end -->
+
+<!-- Memo start -->
+<script type="text/javascript">
+__memo_config = {
+	pid: ars.MEMO_PID,
+	url: ars.ARTICLE.url,
+	author: [ars.ARTICLE.authorName],
+	title: ars.ARTICLE.title,
+	date: ars.ARTICLE.pubDate,
+};
+(function(){
+	var s = document.createElement('script'); 
+	s.async = true; 
+	s.type = 'text/javascript'; 
+	s.src = document.location.protocol + '//cdn.memo.co/js/memo.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body') [0]).appendChild(s); 
+})();
+</script>
+<!-- Memo end -->
+
+
+
+
+<script src="https://player.cnevids.com/interlude/arstechnica.js" async></script>
+<script id="conde-polar" src="https://cdn.mediavoice.com/nativeads/script/condenastcorporate/conde-asa-polar-master.js" async></script>
+<script>
+  (function () {
+      function DQ() {
+        var queue = window.sparrowQueue;
+        this.push = fn => fn();
+        window.sparrowQueue = this;
+        while (queue.length) {
+          queue.shift()();
+        }
+      }
+      function e(t, e) {
+        var n, a, o;
+        a = !1, n = document.createElement("script"), n.type = "text/javascript", n.src = t, n.onload = n.onreadystatechange = function () {
+          a || this.readyState && "complete" != this.readyState || (a = !0, e ? e() : !0)
+        }, o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(n, o)
+      }
+      if (location.search.indexOf('no_sparrow') < 0) {
+        e("https://pixel.condenastdigital.com/config/v2/production/ars-technica.config.js", function () {
+          e("https://pixel.condenastdigital.com/sparrow.min.js", function () {
+            if (window.SparrowConfigV2) {
+              window.sparrow = new window.Sparrow(window.SparrowConfigV2);
+              new DQ();
+            }
+          })
+        })
+      }
+    })();
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
+</body>
+</html>

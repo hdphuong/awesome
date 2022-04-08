@@ -1,0 +1,924 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KNG437H');</script>
+    <title>IoT Hub - Connecting YOU to the Internet of Things</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="IoT Hub is a site focused on the growing connectivity between software, the cloud, and the devices we use in everyday business operations.">
+    <meta name="Keywords" content="">
+    <meta name="news_keywords" content="">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="IoT Hub RSS Feed" href="/rss/rss.ashx" />
+
+    
+    <meta property="og:site_name" content="IoT Hub">
+    <meta property="og:title" content="IoT Hub - Connecting YOU to the Internet of Things">
+    <meta property="og:url" content="http://www.iothub.com.au">
+    <meta property="og:image" content="http://www.iothub.com.au/images/iot-sm-logo.jpg">
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="500" />
+    <meta property="og:description" content="IoT Hub is a site focused on the growing connectivity between software, the cloud, and the devices we use in everyday business operations.">
+
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@IoTHubANZ" />
+    <meta name="twitter:creator" content="@IoTHubANZ" />
+    <meta name="twitter:title" content="IoT Hub - Connecting YOU to the Internet of Things" />
+    <meta name="twitter:description" content="IoT Hub is a site focused on the growing connectivity between software, the cloud, and the devices we use in everyday business operations." />
+    <meta name="twitter:url" content="http://www.iothub.com.au" />
+    
+        <meta name="twitter:image" content="http://www.iothub.com.au/images/iot-sm-logo.jpg" />
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,600,700,300" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_728A46416FA31E4B821584C7301D35DF.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (max-width: 768px)" href="/styles/small_38BCDDE7A3D93E473D6EB3CD780EF4E2.css" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#282359">
+    <meta name="msapplication-TileColor" content="#282359">
+    <meta name="theme-color" content="#282359">
+
+    
+    
+    
+    
+
+
+</head>
+<body class="">
+    
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNG437H" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <div class="wrapper">
+        <div class="off-canvas-wrap" data-offcanvas>
+            
+
+            <div class="inner-wrap">
+                <div class="sticky">
+                    <div id="search-dropdown" style="display: none; width: 100%">
+                        <div class="row collapse full-width">
+                            <div class="search-input medium-9 columns">
+                                <input type="text" autocomplete="off" placeholder="Search IoT Hub">
+                            </div>
+                            <div class="search-button medium-3 columns">
+                                <button>Search</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+<div class="top-bar">
+    <div class="row collapse">
+        <nav class="large-12">
+            <div id="logo" class="left"><a href="/"><img src="/Images/iot-logo.png" alt="IoT Hub" border="0" /></a></div>
+            <ul>
+            
+                    <li>
+                                            
+                        <a href="/events">Events</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/awards">IoT Awards</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="https://www.iothub.com.au/iot-impact">IoT Impact</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/covid-19">COVID-19 Hub</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/news">News</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                                            
+                        <a href="/resources">Resources</a>
+                    
+                    
+                                            
+                    </li>
+                
+                    <li>
+                    
+                    
+                        <a class="dropdown" href="/iotaa-hub" >IoTAA Hub</a>
+                    
+                    
+                            <ul>
+                        
+                                <li><a href="/iot-insights">IoT Insights</a></li>
+                        
+                            </ul>
+                                                
+                    </li>
+                
+            
+                <li class="user-login"><a href="/login">Login</a></li>
+                <li class="user-login"><a href="/register">Register</a></li>
+            
+            
+                <li class="user-login">
+                    <a id="search" class="left"></a> 
+                </li>
+            </ul>
+            <!-- <div id="user-login" class="left">
+            </div> 
+             -->
+        </nav>
+    </div>
+</div>
+
+<nav class="mobile-nav">
+    
+    <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+    </section>
+
+    <section class="middle tab-bar-section">
+        <a href="/"><img src="/Images/iot-logo.png" border="0" alt="IoT Hub" /></a>
+    </section>
+
+    <!-- Off Canvas Menu -->
+    <aside class="left-off-canvas-menu">
+        <section class="off-canvas-top-bar">
+            
+            <div class="search-mobile">
+                <div class="search-input"><input type="text" autocomplete="off" placeholder="Search IoT Hub"></div>
+                <div class="search-button"><button> </button></div>
+            </div>
+            
+            <div id="user-login-mobile">
+                            
+                    <a href="/login">Login</a><a href="/register">Register</a>
+                
+                
+            </div>
+            <div class="clearfix"> </div>
+        </section>
+        <ul>
+            <li><a href="/">Home</a></li>
+            
+            
+            <li>
+                <a href="/events" class="mobile-nav-item"><span>Events</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/awards" class="mobile-nav-item"><span>IoT Awards</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="https://www.iothub.com.au/iot-impact" class="mobile-nav-item"><span>IoT Impact</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/covid-19" class="mobile-nav-item"><span>COVID-19 Hub</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/news" class="mobile-nav-item"><span>News</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/resources" class="mobile-nav-item"><span>Resources</span></a>
+                
+            </li>
+            
+            <li>
+                <a href="/iotaa-hub" class="mobile-nav-item"><span>IoTAA Hub</span></a>
+                
+                        <div class="mobile-nav-arrow"></div>
+                        <div class="mobile-nav-dropdown">
+                    
+                            <a href="/iot-insights" class="mobile-nav-item"><span>IoT Insights</span></a>
+                    
+                        </div>
+                    
+            </li>
+                        
+            
+        </ul>         
+        <div id="mobile-social-media">
+        <div id="mobile-facebook"><a href="https://www.facebook.com/IoTHubANZ"> </a></div>
+        <div id="mobile-twitter"><a href="https://twitter.com/IoTHubANZ"> </a></div>
+        <div id="mobile-linkedin"><a href="https://www.linkedin.com/company/iot-hub"> </a></div>
+        <div id="mobile-rss"><a href="/rss.ashx"> </a></div>
+        <div class="clearfix"></div>
+    </div>
+    </aside>
+
+</nav>
+
+    
+                </div>
+
+                <div id="skin">
+                    <div class="leaderboard-container">
+                        <div id="div-gpt-ad-leader" class="ad-leader"></div>
+                    </div>
+
+                    <div class="row main-section">
+                        <div class="small-12 columns">
+                            
+
+
+    
+            <ul class="small-block-grid-1 medium-block-grid-1 large-block-grid-1 lead-article">
+        
+            <li class="article-list-item news">
+                <a href="/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253">
+                    <div class="article-list-img" style="background-image: url('https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https://i.nextmedia.com.au/News/20220404105000_powerpolesshutterstock_32484703.jpg');"></div>
+                    <div class="article-list-content">
+                        <div class="triangle"></div>
+                        <h2>Second critical infrastructure cyber security bill passes parliament</h2>
+                        
+                        
+                        <div class="intro">Protecting &#8216;systems of national significance&#8217;.</div>
+                    </div>
+                    <div class="clearfix"></div>
+                </a>
+            </li>
+        </ul>
+
+    
+            <ul class="small-block-grid-1 large-block-grid-2 top-articles">
+        
+            <li class="article-list-item iot-enabler-workstreams">
+                <a href="/news/last-call-for-next-months-digital-food-agribusiness-event-577744">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220323122533_Woman_farm_iot_iStock-1225746630.jpg&amp;h=180&amp;w=470&amp;c=1&amp;s=1" alt="Last call for next month&#39;s Digital Food &amp; Agribusiness event">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Last call for next month's Digital Food & Agribusiness event</h2>
+                        
+                        
+                        <div class="intro">The special NSW event features a smart farm tour and expert insights from industry leaders - and it's a chance to enjoy Orange FOOD Week.</div>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="article-list-item news">
+                <a href="/news/telstra-to-build-teleports-for-oneweb-577750">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f0_0_480_1_70__News_OneWeb_satellite.jpg&amp;h=180&amp;w=470&amp;c=1&amp;s=1" alt="Telstra to build teleports for OneWeb">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Telstra to build teleports for OneWeb</h2>
+                        
+                        
+                        <div class="intro">The Northern Territory, Queensland and Western Australia will host the LEO provider&#8217;s ground infrastructure.</div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+
+    
+
+    
+            <ul class="small-block-grid-1 large-block-grid-3">
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/floods-left-thousands-without-power-microgrids-could-help-communities-weather-the-nextdisaster-577385">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fflood_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Floods left thousands without power. Microgrids could help communities weather the next&amp;#160;disaster">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Floods left thousands without power. Microgrids could help communities weather the next&#160;disaster</h2>
+                        
+                        
+                        <div class="intro">Several dozen community microgrid feasibility projects are already in progress.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/john-holland-uses-iot-to-track-spoil-removal-from-construction-sites-577419">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fconstruction_2.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="John Holland uses IoT to track spoil removal from construction sites">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>John Holland uses IoT to track spoil removal from construction sites</h2>
+                        
+                        
+                        <div class="intro">Innovation project born out of level crossing removal program.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+                <li class="article-list-item">
+                    <div class="mrec-container">
+                        <div id="div-gpt-ad-mrec" class="ad-mrec"></div>
+                    </div>
+                </li>
+            
+            <li class="article-list-item news">
+                <a href="/news/telstra-to-explore-leo-satellite-uses-with-oneweb-577010">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f0_0_820_1_70__News_connected_globe.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Telstra to explore LEO satellite uses with OneWeb">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Telstra to explore LEO satellite uses with OneWeb</h2>
+                        
+                        
+                        <div class="intro">Under non-exclusive arrangement.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/fleet-scores-20m-grant-for-adelaide-satellite-factory-576893">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220304125121_Australian_Space_Manufacturing_Hub.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Fleet scores $20m grant for Adelaide satellite factory">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Fleet scores $20m grant for Adelaide satellite factory</h2>
+                        
+                        
+                        <div class="intro">SA will be largest manufacturer in the country.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/hackers-face-25-years-jail-for-ransomware-attacks-on-critical-infrastructure-576482">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20210527060804_energy_grid_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Hackers face 25 years&#39; jail for ransomware attacks on critical infrastructure">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Hackers face 25 years' jail for ransomware attacks on critical infrastructure</h2>
+                        
+                        
+                        <div class="intro">Cryptocurrency seizure in the bill, plus other new offences.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/telstra-announces-100-million-deal-to-provide-iot-sims-for-smart-meters-575714">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsolar_man_home_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Telstra announces $100 million deal to provide IoT SIMs for smart meters">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Telstra announces $100 million deal to provide IoT SIMs for smart meters</h2>
+                        
+                        
+                        <div class="intro">Ten-year deal with Intellihub comes ahead of expected Telstra Energy launch this year.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/how-data-can-help-prevent-overdiagnosis-576186">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fcrowd_overhead_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="How data can help prevent overdiagnosis">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>How data can help prevent overdiagnosis</h2>
+                        
+                        
+                        <div class="intro">The increasing use of digital technologies in medical screening may lead to a rise in overdiagnosis that could be prevented by a new focus on patient data.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/telstra-purple-acquires-iot-specialists-alliance-automation-aqura-technologies-575398">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fmine_underground_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Telstra Purple acquires IoT specialists Alliance Automation, Aqura Technologies">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Telstra Purple acquires IoT specialists Alliance Automation, Aqura Technologies</h2>
+                        
+                        
+                        <div class="intro">To bolster presence across mining, energy, oil and gas and more sectors.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item iot-enabler-workstreams">
+                <a href="/news/iot-impact-moving-to-june-9-575046">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20220125100428_IoT_Impact_backround_image_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="IoT Impact moving to June 9">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>IoT Impact moving to June 9</h2>
+                        
+                        
+                        <div class="intro">Melbourne event returns to shine a light on use of IoT to tackle the nation's challenges.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/altruism-in-birds-magpies-have-outwitted-scientists-by-helping-each-other-remove-tracking-devices-576491">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fMagpies.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Altruism in birds? Magpies have outwitted scientists by helping each other remove tracking devices">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Altruism in birds? Magpies have outwitted scientists by helping each other remove tracking devices</h2>
+                        
+                        
+                        <div class="intro">Pilot study was one of the first of its kind.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/nec-australia-tapped-by-property-developer-celestino-for-smart-city-tech-in-sydney-science-park-575184">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fSydney_science_park_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="NEC Australia tapped by property developer Celestino for &#39;smart city&#39; tech in Sydney Science Park">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>NEC Australia tapped by property developer Celestino for 'smart city' tech in Sydney Science Park</h2>
+                        
+                        
+                        <div class="intro">For development built around Western Sydney Airport.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/nnnco-signs-deal-to-connect-70000-lorawan-street-lights-in-uruguay-575183">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fNNNCo_street_light_1.png&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="NNNCo signs deal to connect 70,000 LoRaWAN street lights in Uruguay">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>NNNCo signs deal to connect 70,000 LoRaWAN street lights in Uruguay</h2>
+                        
+                        
+                        <div class="intro">Touts project as &#8220;one of LoRaWAN&#8217;s largest smart street lighting projects in the world.&#8221;</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/agrifood-connect-deploys-private-5g-platform-575020">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2ffarm_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="AgriFood Connect deploys private 5G platform">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>AgriFood Connect deploys private 5G platform</h2>
+                        
+                        
+                        <div class="intro">Ericsson touts Australian implementation as a world-first.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/yes-its-rocket-science-australia-needs-eyes-in-space-to-monitor-our-tinderbox-landscape-573402">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f0_0_820_1_70__News_file-20191205-16520-78opnr.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Yes, it&#39;s rocket science: Australia needs eyes in space to monitor our tinderbox landscape">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Yes, it's rocket science: Australia needs eyes in space to monitor our tinderbox landscape</h2>
+                        
+                        
+                        <div class="intro">Today, a roadmap released by the Australian Space Agency outlines its priorities for Earth observation.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/endeavour-energy-to-create-digital-twin-of-its-electricity-network-574230">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20211220013935_Endeavour_digital_twin.jpeg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Endeavour Energy to create digital twin of its electricity network">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Endeavour Energy to create digital twin of its electricity network</h2>
+                        
+                        
+                        <div class="intro">After running pilot using Neara platform.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item blogs">
+                <a href="/news/shopping-is-changing-which-is-why-retailers-should-be-setting-up-for-5g-iot-574229">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fsupermarket_trolley_1.jpg&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Shopping is changing, which is why retailers should be setting up for 5G &amp; IoT">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Shopping is changing, which is why retailers should be setting up for 5G & IoT</h2>
+                        
+                        
+                        <div class="intro">'Cutting the cord' can help retailers bounce back, argues Cradlepoint&#8217;s Tim Evans.</div>
+                    </div>
+                </a>
+            </li>
+        
+            
+            <li class="article-list-item news">
+                <a href="/news/transurbans-data-efforts-drive-changes-in-motorist-behaviour-573078">
+                    <div class="triangle"></div>
+                    <div class="article-list-img">
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20211123032903_Transurban_Red_X.png&amp;h=180&amp;w=320&amp;c=1&amp;s=1" alt="Transurban&#39;s data efforts drive changes in motorist behaviour">
+                    </div>
+                    <div class="article-list-content">
+                        <h2>Transurban's data efforts drive changes in motorist behaviour</h2>
+                        
+                        
+                        <div class="intro">Underscores multi-year effort to build capability around analytics and data use.</div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+
+
+
+                        </div>
+
+                        <div class="small-12  columns">
+                            
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Home&pa=&sc=0&output=script&ros=True&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="iot-data-store"
+                    data-shareurl=""
+                    data-articleid=""
+                    data-adcategories="[]"
+                    data-adkeywords="[]"
+                    data-adsection="home"
+                    data-adshow="True"
+                    data-gasitesection="Home"
+                    data-gasitecategory=""
+                    data-gakeywords=""
+                    data-disqus_auth=""
+                    data-disqus_key="WHz8hVVluWH3Ccvt1W5Bu3LPz0s3TEjQJ65n5XQHnpQSOxtAunJU615fBVA9bEo4"
+                    data-disqus_shortname="iothub"
+                    data-disqus_developer="0"
+                    data-disqus-title=""
+                    data-disqus-url=""
+                    data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+                </div>
+
+                
+                
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+                <script src="/scripts/js_6189E2ACFD210F9C5E974A9D490DB97E.js"></script>
+
+                
+                
+
+                <div id="fixed-social-media">
+                    <div id="fixed-facebook"><a href="https://www.facebook.com/IoTHubANZ" target="_blank"></a></div>
+                    <div id="fixed-twitter"><a href="https://twitter.com/IoTHubANZ" target="_blank"></a></div>
+                    <div id="fixed-linkedin"><a href="https://www.linkedin.com/company/iot-hub" target="_blank"></a></div>
+                    <div id="fixed-rss"><a href="/rss.ashx"></a></div>
+                </div>
+
+                <!-- close the off-canvas menu -->
+                <a class="exit-off-canvas"></a>
+
+            </div>
+        </div>
+        
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns section-header-wrapper">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+        <ul class="large-block-grid-5 network-bar-grid">
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                        <a href="https://www.itnews.com.au/awards/finalists-showcase?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="iTnews Benchmark Awards Finalist&#39;s Showcase" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiTnews_BA2022_FinalistShowcase_LinkedInSocial.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards Finalist's Showcase
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/news/us-warns-of-newly-found-advanced-chinese-backdoor-576663?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            US warns of newly found advanced Chinese backdoor
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/state-of-it/?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            State of IT
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/digitalnation/?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Digital Nation has relaunched
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                        <a href="https://www.itnews.com.au/news/itnews-benchmark-awards-ceremony-moving-to-june-15-575464?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            iTnews Benchmark Awards ceremony moving to June 15
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Cyber crime is a team sport, say CISOs
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                    <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">                   
+                        
+                        <h2 class="article-headline">
+                            Boardroom Impact: Critical infrastructure
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                    <div>
+                     <a href="https://www.crn.com.au/news/google-cloud-names-angela-coronica-new-anz-channel-chief-575039?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <img alt="Google Cloud names Angela Coronica new ANZ channel chief" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f1643011317593.jpeg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Google Cloud names Angela Coronica new ANZ channel chief
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/sap-names-first-regional-head-of-sustainability-575067?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            SAP names first regional head of sustainability
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/long-time-microsoft-anz-exec-phil-goldie-departs-after-12-years-575011?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Long-time Microsoft ANZ exec Phil Goldie departs after 12 years
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/canon-business-services-acquires-wa-microsoft-partner-satalyst-574890?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Canon Business Services acquires WA Microsoft partner Satalyst
+                        </h2>
+                    </a>
+                    </div>
+                
+                    <div>
+                     <a href="https://www.crn.com.au/news/aussie-technology-spending-to-reach-111-billion-in-2022-gartner-574894?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">        
+                        
+                        <h2 class="article-headline">
+                            Aussie technology spending to reach $111 billion in 2022: Gartner
+                        </h2>
+                    </a>
+                    </div>
+                
+            </li>
+            <li class="network-bar-item">
+            <div class="network-bar-brand">&nbsp;</div>
+            
+                <div>
+                   <a href="https://www.bit.com.au/review/venom-blackbook-zero-15-phantom-573253?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                            <img alt="Venom BlackBook Zero 15 Phantom" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBlackBook-Zero-15-Phantom-right.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                        
+                        <h2 class="article-headline">
+                            Venom BlackBook Zero 15 Phantom
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/facebook-linkedin-or-instagram-social-media-success-isnt-one-size-fits-all-574908?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Facebook, LinkedIn or Instagram? Social media success isn&#8217;t one size fits all
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/digital-dystopia-your-reputation-is-on-the-line-574913?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Digital dystopia: your reputation is on the line
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/guide/creating-sustainable-high-performance-computing-to-drive-the-data-industry-forward-574918?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            Creating sustainable high-performance computing to drive the data industry forward
+                        </h2>
+                    </a>
+                </div>
+                
+                <div>
+                   <a href="https://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806?utm_source=iothub&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">    
+                        
+                        <h2 class="article-headline">
+                            How long will a UPS keep your computers on if the lights go out?
+                        </h2>
+                    </a>
+                </div>
+                
+            </li>
+            
+        </ul>
+        </div>
+    </div>
+</div>
+        <footer>
+            <div id="footer-top-level" class="row">
+                <div class="small-12 large-12 columns footer-content">
+                    <div id="footer-links">
+                        <a href="/page/contact">Contact Us</a>
+                        <a href="/page/about">About Us</a>
+                        <a href="/feedback">Feedback</a>
+                    </div>
+                    <a href="http://www.nextmedia.com.au/" target="_blank" class="nm-logo">
+                        <img src="/images/logo_nextmedia.png" alt="nextmedia" /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.               
+                
+                </div>
+            </div>
+            <div id="footer-bottom-level">
+                <div class="row">
+                    <div class="small-12 large-9 columns footer-content">
+                        All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />
+                        Your use of this website
+                        constitutes acceptance of nextmedia's <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">Privacy Policy</a> and 
+                        <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">Terms & Conditions</a>.            
+            
+                        <div id="otp">
+                            <div id="countdown" class="close"></div>
+                            <div id="div-gpt-ad-interstitial"></div>
+                        </div>
+                        <div class="mask"></div>
+
+                        <div id="div-gpt-ad-skin"></div>
+                    </div>
+
+                    <div class="small-12 large-3 columns" id="footer-powered-by">
+                        <div class="footer-powered-by-inner">
+                            <span>Powered By</span>
+                            <a href="https://www.interactive.com.au" target="_blank">
+                                <img src="/images/interactive-logo.png" alt="Powered by Interactive" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- close the wrapper -->
+    </div>
+    <script src="/scripts/gdpr.js"></script>
+</body>
+</html>

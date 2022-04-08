@@ -1,0 +1,39 @@
+Date: Fri, 08 Apr 2022 11:09:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 77
+X-Sorting-Hat-Shopid: 10908172352
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 08 Apr 2023 11:09:39 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Fri, 22 Apr 2022 11:09:39 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Fri, 22 Apr 2022 11:09:39 GMT; SameSite=Lax
+Set-Cookie: dynamic_checkout_shown_on_cart=1; path=/; expires=Fri, 08 Apr 2022 11:39:39 GMT; SameSite=Lax
+Set-Cookie: _y=cb233c71-fe6d-4eff-abd9-5381b33badbd; Expires=Sat, 08-Apr-23 11:09:39 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _s=4c14e16f-ee4b-473a-acfc-f24efb849b02; Expires=Fri, 08-Apr-22 11:39:39 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=cb233c71-fe6d-4eff-abd9-5381b33badbd; Expires=Sat, 08-Apr-23 11:09:39 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4c14e16f-ee4b-473a-acfc-f24efb849b02; Expires=Fri, 08-Apr-22 11:39:39 GMT; Domain=boscloner.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; rel=preconnect; crossorigin
+Etag: cacheable:f3f354b34c2a4661e2a6a36f6ba5de71
+X-Alternate-Cache-Key: cacheable:015a883ebd0d0fc71e11c2f9708bab6b
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10908172352
+X-Shardid: 77
+Vary: Accept
+Content-Language: en
+Server-Timing-Public: processing;dur=132, db;dur=64, parse;dur=6
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 1fb0388a-05c1-45b3-9f0e-5de61b486daa
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8a8d4d7db7a7e9-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

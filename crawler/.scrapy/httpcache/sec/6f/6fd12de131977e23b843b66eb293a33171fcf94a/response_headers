@@ -1,0 +1,7 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:21 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://wordpress.com/robots.txt
+X-Nc: HIT bur 209
+X-Ac: 2.syd _bur
+Strict-Transport-Security: max-age=15552000

@@ -1,0 +1,16 @@
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Location: https://www.sophos.com/en-us/products/phish-threat
+X-Request-Id: v-9c106ba2-b72c-11ec-95a9-bbae58c3627e
+X-Ah-Environment: prod
+X-Geo-Country: AU
+Vary: X-Geo-Country
+X-Age: 0
+Expires: Fri, 08 Apr 2022 11:11:16 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 08 Apr 2022 11:11:16 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=184
+Server-Timing: origin; dur=176
+X-Sophos-O: d

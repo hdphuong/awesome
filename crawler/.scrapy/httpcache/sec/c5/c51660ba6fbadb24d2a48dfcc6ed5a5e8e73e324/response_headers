@@ -1,0 +1,20 @@
+Date: Fri, 08 Apr 2022 11:35:33 GMT
+Server: Apache
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Referrer-Policy: no-referrer-when-downgrade
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+X-Request-Id: 74290313-45c5-45f1-b30c-4aee11c8c314
+X-Download-Options: noopen
+P3P: CP="CAO DSP COR ADM DEV TAIo PSAo IVAo IVDo OUR DELo SAMo OTRo BUS UNI PRE", policyref="/w3c/p3p.xml"
+Etag: W/"2ad2f36f14894d1b3d58bdff86ca0627"
+X-Frame-Options: ALLOWALL
+X-Runtime: 0.057615
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+Set-Cookie: _trunk_session=66452e440ef3526becd2d8546e05c958; path=/; secure; HttpOnly; SameSite=Lax
+Status: 200 OK
+X-Served-By: prod-evo-public6.as.gdi
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000

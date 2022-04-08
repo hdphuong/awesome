@@ -1,0 +1,27 @@
+Content-Length: 209
+Content-Type: text/plain; charset=utf-8
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: max-age=86400, public, must-revalidate
+Etag: W/"54ff0267ac41cb4845074d159ba6f2b2"
+X-Request-Id: badd80b6f7b87571d6fee0231f57d233b58af4a4
+X-Runtime: 0.031346
+Strict-Transport-Security: max-age=31556952; preload
+Content-Encoding: gzip
+Fastly-Original-Body-Size: 209
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:35:09 GMT
+Via: 1.1 varnish
+Age: 28581
+Set-Cookie: _chorus_geoip_continent=OC; expires=Sat, 09 Apr 2022 11:35:09 GMT; path=/;
+Set-Cookie: vmidv1=b6947986-3881-4f9f-afa7-f9004ae555f7;Expires=Wed, 07 Apr 2027 11:35:09 GMT;Domain=www.theverge.com;Path=/;SameSite=Lax;Secure
+X-Served-By: cache-syd10153-SYD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1649417709.112107,VS0,VE1
+Vary: Accept-Encoding, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region, Origin, X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region

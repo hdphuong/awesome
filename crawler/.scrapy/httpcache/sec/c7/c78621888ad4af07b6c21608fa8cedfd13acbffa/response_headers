@@ -1,0 +1,36 @@
+Date: Fri, 08 Apr 2022 11:09:43 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 42
+X-Sorting-Hat-Shopid: 25375866954
+X-Storefront-Renderer-Rendered: 1
+Content-Encoding: gzip
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 08 Apr 2023 11:09:43 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Fri, 22 Apr 2022 11:09:43 GMT
+Set-Cookie: _y=f43ce657-0c02-45ee-bd80-e11d4384992c; Expires=Sat, 08-Apr-23 11:09:43 GMT; Domain=presidiocreative.com; Path=/; SameSite=Lax
+Set-Cookie: _s=3b45279d-db93-48d5-ad38-e0bbf22f1818; Expires=Fri, 08-Apr-22 11:39:43 GMT; Domain=presidiocreative.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=f43ce657-0c02-45ee-bd80-e11d4384992c; Expires=Sat, 08-Apr-23 11:09:43 GMT; Domain=presidiocreative.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3b45279d-db93-48d5-ad38-e0bbf22f1818; Expires=Fri, 08-Apr-22 11:39:43 GMT; Domain=presidiocreative.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; rel=preconnect; crossorigin
+Etag: cacheable:d8206d564ad2fc0d9facab14af856d3e
+X-Alternate-Cache-Key: cacheable:c55a53ee1e5ccbfb30df2027dd1adb01
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25375866954
+X-Shardid: 42
+Vary: Accept
+Content-Language: en
+Server-Timing-Public: processing;dur=23, db;dur=9
+X-Shopify-Stage: production
+X-Dc: gcp-australia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 7292bb54-09c4-43f8-8b4c-c0a33db2506c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8a8d67ad066a45-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

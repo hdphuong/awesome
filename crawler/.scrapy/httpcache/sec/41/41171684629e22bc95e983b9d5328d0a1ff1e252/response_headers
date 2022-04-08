@@ -1,13 +1,9 @@
 Content-Length: 600
-Date: Sat, 02 Apr 2022 04:15:32 UTC
+Date: Fri, 08 Apr 2022 11:35:49 UTC
 Server: tsa_l
-Set-Cookie: guest_id_marketing=v1%3A164887293276445096; Max-Age=63072000; Expires=Mon, 01 Apr 2024 04:15:32 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: guest_id_ads=v1%3A164887293276445096; Max-Age=63072000; Expires=Mon, 01 Apr 2024 04:15:32 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: personalization_id="v1_A7dgiaintlZSHgVEhMbu4g=="; Max-Age=63072000; Expires=Mon, 01 Apr 2024 04:15:32 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: guest_id=v1%3A164887293276445096; Max-Age=63072000; Expires=Mon, 01 Apr 2024 04:15:32 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
 Content-Type: text/plain;charset=utf-8
 Cache-Control: no-cache, no-store, max-age=0
 Strict-Transport-Security: max-age=631138519
 Content-Encoding: gzip
-X-Response-Time: 144
-X-Connection-Hash: 872c182fbff2d39d7772f75201e02a2ca96d2bd49553fb5e620e166c29e8effe
+X-Response-Time: 158
+X-Connection-Hash: 4a8deb809288c5815de7545c0fa1d58a768dd6f0d4c986c1451de0ba80d1ce14

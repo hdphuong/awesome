@@ -1,0 +1,1260 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars-mobile\/assets","HOME_URL":"https:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"light","VIEW":"mobile","MOBILE":true,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["index"],"channel":"homepage","slug":"page","template_type":"home","queue":[],"server":"production"},"TOTAL":103786,"UNREAD":0,"RECENT":[1846491,1846733,1846635,1846651,1846629,1846613,1846633,1846622,1846550,1846105,1846508,1846523,1846517,1846526,1846539,1846505,1846496,1846340,1846440,1846437,1846367,1846358,1846347,1845514,1845789],"LOGINS":true,"CROSS":false,"GEOALERTS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":true,"COUNTRY":"us","SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":false,"MEMO_PID":"62012a7a19351c07620394e0"};
+  </script>
+
+
+  <!--[if lte IE 8]><script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/modernizr/modernizr.js"></script><![endif]-->
+
+      <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/css/ars.min.a7ae7810147219057e83a38ffb92d16f.css" />
+        <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/ars-ios-icon.png" />
+  <link rel="icon" sizes="192x192" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/material-ars.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+                  <meta property="og:site_name" content="Ars Technica" />
+      <meta property="og:title" content="Ars Technica" />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://arstechnica.com/" />
+      <meta property="og:image" content="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/ars-logo-open-grey.png" />
+      <meta property="og:description" content="Serving the Technologist for more than a decade. IT news, reviews, and analysis." />
+      <meta name="google-site-verification" content="HdFEloOqFNJZvQWa7SK2BRmWVt8aVnPuagqXZ-C2U5U" />
+      <meta name="description" content="Serving the Technologist for more than a decade. IT news, reviews, and analysis." />
+  
+  
+
+  <!-- Google Tag Manager DataLayer -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"event":"data-layer-loaded","user":{"ars_userId":undefined,"amg_userId":undefined,"uID":undefined,"sID":undefined,"loginStatus":false,"subscriberStatus":"none","infinityId":undefined,"registrationSource":undefined,"mdw_cnd_id":undefined,"monthlyVisits":undefined,"accessPaywall":undefined,"view":"mobile","theme":"light","show_comments":false},"content":{"pageTemplate":"home","pageType":"home","contentCategory":undefined,"section":"homepage","subsection":undefined,"contributor":undefined,"contentID":undefined,"contentLength":undefined,"display":"Ars Technica Homepage","contentSource":"web","pageAssets":undefined,"uniqueContentCount":undefined,"monthlyContentCount":undefined,"publishDate":undefined,"modifiedDate":undefined,"keywords":undefined,"dataSource":undefined},"marketing":{"campaignName":undefined,"circCampaignId":undefined,"internalCampaignId":undefined,"brand":"Ars Technica","certified_mrc_data":undefined,"condeNastId":undefined},"page":{"pID":undefined,"syndicatorUrl":undefined,"pageURL":"https:\/\/arstechnica.com","canonical":"https:\/\/arstechnica.com","canonicalPathName":"\/page\/7\/?view=mobile"},"search":{"facets":undefined,"searchTerms":undefined},"site":{"appVersion":"1.0.0"}});
+</script>
+<!-- End Google Tag Manager DataLayer -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLXNPCQ');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+class ABTest {
+  constructor(post_id, init_method) {
+    this.post_id = post_id;
+    this.ajaxurl = '/services/ars-ajax-handler.php';
+    this.expireDays = 1/48; // 30 min
+    this.group = this.getGroup();
+    this.uid = this.getUid();
+    this.init_method = init_method;
+    this.setTitle();
+
+    if (this.init_method === 'click') {
+      this.click();
+    }
+    else {
+      this.impression();
+    }
+  }
+
+  setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Retrieves a unique id for determining whether the event should be recorded
+  getUid() {
+    var uid = this.getCookie('ars_ab_' + this.post_id + '_uid');
+    if (!uid) {
+      uid = (Math.random() + 1).toString(36).substring(2,7);
+      this.setCookie('ars_ab_' + this.post_id + '_uid', uid, this.expireDays);
+    }
+    return uid;
+  };
+
+  // Places the user in either A or B for this post id
+  getGroup() {
+    var group = this.getCookie('ars_ab_' + this.post_id + '_group');
+    if (!group) {
+      group = String.fromCharCode(Math.floor(Math.random() * 2) + 65).toLowerCase();
+      this.setCookie('ars_ab_' + this.post_id + '_group', group, this.expireDays);
+    }
+    return group;
+  };
+
+  // Records a headline impression (from homepage or other listing)
+  impression() {
+    // Send fake ajax
+    var params = {
+      nonce:        '052ceae214',
+      action:       'ars_ab_impression',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // Records a headline click from the actual post page
+  click() {
+    // Send fake ajax
+    var params = {
+      nonce:        '10deb1a137',
+      action:       'ars_ab_click',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // If user is in B group, dynamically set title
+  setTitle() {
+    if (this.group == 'b') {
+      var span = document.getElementById('ars_ab_' + this.post_id);
+      var title = span.parentNode;
+      title.innerHTML = span.getAttribute('data-title-b');
+    }
+  };
+
+  encodeParams(data) {
+    var ret = [];
+    for (var d in data)
+      ret.push(encodeURIComponent(d) + "=" + encodeURIComponent(data[d]));
+    return ret.join("&");
+  };
+
+};
+</script><!-- OneTrust Cookies Consent Notice start -->
+<script 
+    src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  
+    type="text/javascript" charset="UTF-8" 
+    data-domain-script="b10882a1-8446-4e7d-bfb2-ce2c770ad910">
+</script>
+<script type="text/javascript">function OptanonWrapper(){};</script>
+<script 
+    src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" 
+    type="text/javascript" 
+    charset="UTF-8" 
+    ccpa-opt-out-ids="C0002,C0003,C0004,C0005" 
+    ccpa-opt-out-geo="ca" 
+    ccpa-opt-out-lspa="true">
+</script> 
+<!-- OneTrust Cookies Consent Notice end -->
+<script src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-script" async ></script>
+<script>window.googletag=window.googletag||{};window.googletag.cmd=window.googletag.cmd||[];window.cns=window.cns||{};window.cns.queue=[];window.cns.async=function(s,c){cns.queue.push({service:s,callback:c})};window.sparrowQueue=window.sparrowQueue||[];</script>
+<link rel="dns-prefetch" href="//aax.amazon-adsystem.com">
+<link rel="preconnect" href="//aax.amazon-adsystem.com" crossorigin>
+<link rel="preconnect" href="https://mb.moatads.com" crossorigin>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649417696"></script>
+<script src="https://js-sec.indexww.com/ht/p/183973-93942139695505.js" async></script>
+<script src="https://z.moatads.com/condenastprebidheader987326845656/moatheader.js" async></script>
+<script>
+  window.cns.pageContext = {"contentType":"bundle","templateType":"home","channel":"homepage","subChannel":"","slug":"page","server":"production","keywords":{"tags":["index"],"cm":[],"platform":["wordpress"],"copilotid":""}};
+</script>
+<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649417696"></script>
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-84a4ab0802.ads.us.js"></script>
+ 
+</head>
+<body class="home blog paged paged-7 mobile-view light blog-us noskim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLXNPCQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div id="container">
+    <aside class="ad ad_crown">
+    </aside>
+ 
+        <div id="pushdown-wrap">
+          </div>
+       
+<script type="text/javascript">
+  document.domain = location.hostname.split('.').slice(-2).join('.');
+</script>
+
+<header id="mobile-masthead" class="">
+  <div class="masthead-center-wrap">
+        <h1><a href="https://arstechnica.com"><img src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/logo.png" alt="Ars Technica"></a></h1>
+    <div class="post-link-older">
+      <a href="https://arstechnica.com/cars/2022/03/honda-just-built-the-worlds-most-advanced-wind-tunnel-in-ohio/" rel="prev"><span class="arrow">&larr;</span></a>    </div>
+    <div class="post-link-newer">
+      <a href="https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/" rel="next"><span class="arrow">&rarr;</span></a>    </div>
+  </div>
+
+  <div class="sliding-trigger" id="burger-time" data-menu="main-menu" aria-label="Menu" aria-expanded="false"><div id="burger"><div></div><div></div><div></div></div></div>
+  <div class="sliding-trigger" id="little-head" data-menu="profile-menu" aria-label="Profile" aria-expanded="false">
+    <div>0</div>
+  </div>
+</header>
+
+<!-- Begin sliding main menu -->
+<div class="sliding-container" id="main-menu">
+  <div class="sliding-contents">
+    <div class="sliding-contents-scroll">
+      <form action="/search" method="GET">
+        <input type="text" name="q" id="search-top" placeholder="Search…">
+      </form>
+      <nav id="mobile-primary">
+        <ul>
+          <li><a class="" href="/information-technology/">Biz &amp; IT</a></li>
+          <li><a class="" href="/gadgets/">Tech</a></li>
+          <li><a class="" href="/science/">Science</a></li>
+          <li><a class="" href="/tech-policy/">Policy</a></li>
+          <li><a class="" href="/cars/">Cars</a></li>
+          <li><a class="" href="/gaming/">Gaming &amp; Culture</a></li>
+          <li><a href="/civis/">Forums</a></li>
+          <li><a href="/newsletters/">Newsletter</a></li>
+          <li><a href="/store/product/subscriptions/">Subscribe</a></li>
+          <li><a href="/store/">Store</a></li>
+        </ul>
+      </nav>
+      <div class="mobile-options">
+        <h2 class="subheading" id="full-site"><a rel="nofollow" href="http://arstechnica.com/page/7/?view=mobile">View Full Site</a></h2>
+      </div>
+      
+<ul id="theme-switch">
+    <li class="light active">
+      <a rel="nofollow" href="http://arstechnica.com/page/7/?mobile_theme=light&amp;view=mobile"><span class="subheading">Dark on light</span></a>
+    </li>
+  <li class="dark ">
+      <a rel="nofollow" href="http://arstechnica.com/page/7/?mobile_theme=dark&amp;view=mobile"><span class="subheading">Light on dark</span></a>
+    </li>
+</ul>
+    </div>
+  </div>
+</div>
+<!-- End sliding main menu -->
+
+<!-- Begin sliding profile -->
+<div class="sliding-container" id="profile-menu">
+  <div class="sliding-contents">
+    <div class="sliding-contents-scroll">
+              <div class="mobile-options">
+      <h2 class="subheading" id="full-site"><a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fpage%2F7%2F%3Fview%3Dmobile" rel="nofollow">Log in</a></h2>
+    <h2 class="subheading float-toggle"><a href="/civis/ucp.php?mode=register" rel="nofollow">Register</a></h2>
+  
+  <div style="border-top:1px solid #414141;margin-top: 20px; padding-top: 20px;">
+    <a href="/civis/ucp.php?mode=sendpassword" style="color: #FF2400;">Forgot your password?</a><br><br><a href="/civis/ucp.php?mode=resend_act" style="color: #FF2400;">Resend activation e-mail</a>
+  </div>
+
+</div>          </div>
+  </div>
+</div>
+<!-- End sliding profile -->
+    <section id="content">
+
+<section class="archive">
+  
+	<ol class="archive-list">
+				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/FOKie2rXoAQ8yJz-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/">So how do Russian cosmonauts feel about Russia’s war on Ukraine?</a></h1>
+		<p class="excerpt">"Everyone that I know or have heard of supports the war."</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ericberger/"><span itemprop="name">Eric Berger</span></a>
+        -    <span class="date" data-time="1647871239">Mar 21, 2022 2:00 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="115 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/so-how-do-russian-cosmonauts-feel-about-russias-war-on-ukraine/?comments=1"><span>233</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/cars/2022/03/honda-just-built-the-worlds-most-advanced-wind-tunnel-in-ohio/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/HALO-1-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/cars/2022/03/honda-just-built-the-worlds-most-advanced-wind-tunnel-in-ohio/">Honda just built the world’s most advanced wind tunnel in Ohio</a></h1>
+		<p class="excerpt">The 192 mph tunnel will mostly be used for road car aerodynamics and aeroacoustics.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jonathan-m-gitlin/"><span itemprop="name">Jonathan M. Gitlin</span></a>
+        -    <span class="date" data-time="1647871203">Mar 21, 2022 2:00 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="60 posters participating, including story author." class="comment-count" href="https://arstechnica.com/cars/2022/03/honda-just-built-the-worlds-most-advanced-wind-tunnel-in-ohio/?comments=1"><span>107</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-feature">  <article class="main-feature main-feature-alt" data-post-id="1837694">
+    <h2 class="feature-sash subheading notched-left">Feature Story</h2>
+    <a class="feature-container" href="https://arstechnica.com/gadgets/2022/03/samsung-galaxy-s22-ultra-review-the-slab-phone-retirement-plan/">
+      <span class="img-holder" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2022/03/Galaxy-S22-4-760x380.jpg');"></span>
+      <div class="feature-contents">
+        <h1 class="heading">Samsung Galaxy S22 Ultra review: The slab phone retirement plan</h1>
+        <p class="excerpt">Samsung stands still while the competition is better than ever.</p>
+        <hr />
+      </div>
+    </a>
+    <footer class="feature-meta">
+      
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ronamadeo/"><span itemprop="name">Ron Amadeo</span></a>
+        |    <span class="date" data-time="1647860442">Mar 21, 2022 11:00 am UTC</span>
+  </p>
+
+      	<aside class="comments-hotness ">
+  
+    <a title="152 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/samsung-galaxy-s22-ultra-review-the-slab-phone-retirement-plan/?comments=1"><span>267</span></a>
+
+	</aside>
+
+    </footer>
+  </article>
+</li>		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/tech-policy/2022/03/the-tik-tok-oracle-deal-would-set-two-dangerous-precedents/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/tiktok-oracle-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/tech-policy/2022/03/the-tik-tok-oracle-deal-would-set-two-dangerous-precedents/">The TikTok-Oracle deal would set two dangerous precedents</a></h1>
+		<p class="excerpt">The agreement may provoke a global data storage melee.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/wired-com/"><span itemprop="name">Matt Perault, wired.com</span></a>
+        -    <span class="date" data-time="1647781843">Mar 20, 2022 1:10 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="93 posters participating" class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/the-tik-tok-oracle-deal-would-set-two-dangerous-precedents/?comments=1"><span>128</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/information-technology/2022/03/a-big-bet-to-kill-the-password-for-good/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/password-tombstone-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/information-technology/2022/03/a-big-bet-to-kill-the-password-for-good/">A big bet to kill the password for good</a></h1>
+		<p class="excerpt">FIDO Alliance says it’s found the missing piece on the path to a password-free future.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/wired-com/"><span itemprop="name">Lily Hay Newman, wired.com</span></a>
+        -    <span class="date" data-time="1647772639">Mar 20, 2022 10:37 am UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="160 posters participating" class="comment-count" href="https://arstechnica.com/information-technology/2022/03/a-big-bet-to-kill-the-password-for-good/?comments=1"><span>450</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/staff/2022/03/the-weekends-best-deals-apple-watch-series-7-gift-card-bundles-and-more/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/dealmaster031922-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/staff/2022/03/the-weekends-best-deals-apple-watch-series-7-gift-card-bundles-and-more/">The weekend’s best deals: Apple Watch Series 7, gift card bundles, and more</a></h1>
+		<p class="excerpt">Dealmaster also has a big PC games charity bundle, Anker chargers, and the Xbox Series S.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ars-staff/"><span itemprop="name">Ars Staff</span></a>
+        -    <span class="date" data-time="1647718156">Mar 19, 2022 7:29 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="8 posters participating" class="comment-count" href="https://arstechnica.com/staff/2022/03/the-weekends-best-deals-apple-watch-series-7-gift-card-bundles-and-more/?comments=1"><span>9</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-feature">  <article class="main-feature main-feature-alt" data-post-id="1842277">
+    <h2 class="feature-sash subheading notched-left">Feature Story</h2>
+    <a class="feature-container" href="https://arstechnica.com/tech-policy/2022/03/how-did-a-vast-amazon-warehouse-change-life-in-a-former-mining-town/">
+      <span class="img-holder" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2022/03/amazon1-760x380.jpg');"></span>
+      <div class="feature-contents">
+        <h1 class="heading">How did a vast Amazon warehouse change life in a former mining town?</h1>
+        <p class="excerpt">Looking back a decade after the mine closed and Amazon opened up.</p>
+        <hr />
+      </div>
+    </a>
+    <footer class="feature-meta">
+      
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/financialtimes/"><span itemprop="name">Sarah O'Connor, Financial Times</span></a>
+        |    <span class="date" data-time="1647690350">Mar 19, 2022 11:45 am UTC</span>
+  </p>
+
+      	<aside class="comments-hotness ">
+  
+    <a title="103 posters participating" class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/how-did-a-vast-amazon-warehouse-change-life-in-a-former-mining-town/?comments=1"><span>230</span></a>
+
+	</aside>
+
+    </footer>
+  </article>
+</li>		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/information-technology/2022/03/leaked-ransomware-documents-show-conti-helping-putin-from-the-shadows/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/putin-hax-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/information-technology/2022/03/leaked-ransomware-documents-show-conti-helping-putin-from-the-shadows/">Leaked ransomware documents show Conti helping Putin from the shadows</a></h1>
+		<p class="excerpt">Hacker gang sometimes acts in Russia’s interest, with ad hoc links to FSB, Cozy Bear.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/wired-com/"><span itemprop="name">Matt Burgess, wired.com</span></a>
+        -    <span class="date" data-time="1647686749">Mar 19, 2022 10:45 am UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="24 posters participating" class="comment-count" href="https://arstechnica.com/information-technology/2022/03/leaked-ransomware-documents-show-conti-helping-putin-from-the-shadows/?comments=1"><span>33</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/the-fda-would-like-you-to-not-put-covid-19-test-solution-in-your-eyes-nose/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1237528799-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/the-fda-would-like-you-to-not-put-covid-19-test-solution-in-your-eyes-nose/">Please stop putting COVID-19 test solution in your eyes and nose, FDA says</a></h1>
+		<p class="excerpt">FDA says it has received reports that people are injuring themselves with the tests.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/beth/"><span itemprop="name">Beth Mole</span></a>
+        -    <span class="date" data-time="1647639870">Mar 18, 2022 9:44 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="148 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/the-fda-would-like-you-to-not-put-covid-19-test-solution-in-your-eyes-nose/?comments=1"><span>283</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/android-13-preview-locks-down-notifications-adds-more-to-the-tablet-taskbar/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/12-2-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/android-13-preview-locks-down-notifications-adds-more-to-the-tablet-taskbar/">Android 13 preview locks down notifications, adds more to the tablet taskbar</a></h1>
+		<p class="excerpt">Tablets get an apps button in the taskbar and what sounds like a smart-display mode. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ronamadeo/"><span itemprop="name">Ron Amadeo</span></a>
+        -    <span class="date" data-time="1647639279">Mar 18, 2022 9:34 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="40 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/android-13-preview-locks-down-notifications-adds-more-to-the-tablet-taskbar/?comments=1"><span>51</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		            <li class="archive-list archive-list-insteam">
+        <div class="instream-wrap">
+            <div class="instream-container">
+                                    <span class="ad-label">Ars Trending Video</span>
+                    <div class="ars-interlude-container"></div>
+                            </div>
+        </div>
+    </li>
+    				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/some-types-of-brain-studies-need-thousands-of-participants-to-be-reliable/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2016/01/brains-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/some-types-of-brain-studies-need-thousands-of-participants-to-be-reliable/">Some types of brain studies need thousands of participants to be reliable</a></h1>
+		<p class="excerpt">Researchers split up a big, reliable data set to find out where things go wrong.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/john-timmer/"><span itemprop="name">John Timmer</span></a>
+        -    <span class="date" data-time="1647636777">Mar 18, 2022 8:52 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="25 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/some-types-of-brain-studies-need-thousands-of-participants-to-be-reliable/?comments=1"><span>44</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gaming/2022/03/stadia-xbox-cloud-gaming-finally-work-on-steam-deck-thanks-to-microsoft-edge/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/stadia-xbox-steamdeck-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gaming/2022/03/stadia-xbox-cloud-gaming-finally-work-on-steam-deck-thanks-to-microsoft-edge/">Microsoft Edge’s new Linux beta supports cloud-streamed games on Steam Deck</a></h1>
+		<p class="excerpt">Tests confirm: What's good for Xbox Game Pass is good for Stadia.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/samred/"><span itemprop="name">Sam Machkovech</span></a>
+        -    <span class="date" data-time="1647634543">Mar 18, 2022 8:15 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="48 posters participating" class="comment-count" href="https://arstechnica.com/gaming/2022/03/stadia-xbox-cloud-gaming-finally-work-on-steam-deck-thanks-to-microsoft-edge/?comments=1"><span>65</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/murky-case-for-fourth-doses-now-with-fda-as-protection-wanes-ba-2-looms/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1234841684-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/murky-case-for-fourth-doses-now-with-fda-as-protection-wanes-ba-2-looms/">Murky case for fourth doses now with FDA as protection wanes, BA.2 looms</a></h1>
+		<p class="excerpt">Israeli data provides limited and mixed look at fourth doses so far. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/beth/"><span itemprop="name">Beth Mole</span></a>
+        -    <span class="date" data-time="1647630405">Mar 18, 2022 7:06 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="77 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/murky-case-for-fourth-doses-now-with-fda-as-protection-wanes-ba-2-looms/?comments=1"><span>135</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/tech-policy/2022/03/proposed-law-in-minnesota-would-ban-algorithms-to-protect-the-children/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-ones-and-zeros-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/tech-policy/2022/03/proposed-law-in-minnesota-would-ban-algorithms-to-protect-the-children/">Proposed law in Minnesota would ban algorithms to protect the children</a></h1>
+		<p class="excerpt">Bill approved by House committee requires disabling algorithms for kids under 18.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jon-brodkin/"><span itemprop="name">Jon Brodkin</span></a>
+        -    <span class="date" data-time="1647629201">Mar 18, 2022 6:46 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="123 posters participating" class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/proposed-law-in-minnesota-would-ban-algorithms-to-protect-the-children/?comments=1"><span>168</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-feature">  <article class="main-feature main-feature-alt" data-post-id="1842181">
+    <h2 class="feature-sash subheading notched-left">Feature Story</h2>
+    <a class="feature-container" href="https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/">
+      <span class="img-holder" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2022/03/delete-erase-wipe-760x380.jpeg');"></span>
+      <div class="feature-contents">
+        <h1 class="heading">Sabotage: Code added to popular NPM package wiped files in Russia and Belarus</h1>
+        <p class="excerpt">When code with millions of downloads nukes user files, bad things can happen.</p>
+        <hr />
+      </div>
+    </a>
+    <footer class="feature-meta">
+      
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/dan-goodin/"><span itemprop="name">Dan Goodin</span></a>
+        |    <span class="date" data-time="1647628271">Mar 18, 2022 6:31 pm UTC</span>
+  </p>
+
+      	<aside class="comments-hotness ">
+  
+    <a title="148 posters participating, including story author." class="comment-count" href="https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/?comments=1"><span>263</span></a>
+
+	</aside>
+
+    </footer>
+  </article>
+</li>		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/tech-policy/2022/03/mac-studio-is-far-better-for-the-climate-than-the-imac-pro-even-with-the-display/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/Apple-Mac-Studio-Studio-Display-carbon-footprint-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/tech-policy/2022/03/mac-studio-is-far-better-for-the-climate-than-the-imac-pro-even-with-the-display/">Mac Studio is far better for the climate than the iMac Pro—even with the display</a></h1>
+		<p class="excerpt">We dive into the data to see where Apple improved.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/tim-de-chant-2/"><span itemprop="name">Tim De Chant</span></a>
+        -    <span class="date" data-time="1647626434">Mar 18, 2022 6:00 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="69 posters participating, including story author." class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/mac-studio-is-far-better-for-the-climate-than-the-imac-pro-even-with-the-display/?comments=1"><span>122</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/samsungs-qd-oled-tv-challenges-premium-oleds-with-2200-starting-price/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/Samsung-OLED-TV-S95B-Lifestyle-2-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/samsungs-qd-oled-tv-challenges-premium-oleds-with-2200-starting-price/">Samsung’s QD-OLED TV challenges premium OLEDs with $2,200 starting price </a></h1>
+		<p class="excerpt">Samsung's first OLED TVs in a decade priced similarly to LG's high-end G series. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/scharonharding/"><span itemprop="name">Scharon Harding</span></a>
+        -    <span class="date" data-time="1647624592">Mar 18, 2022 5:29 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="49 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/samsungs-qd-oled-tv-challenges-premium-oleds-with-2200-starting-price/?comments=1"><span>73</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/SLS-Mar-18-2022-1841-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/">It’s huge, expensive, and years late—but the SLS rocket is finally here</a></h1>
+		<p class="excerpt">"The program is an economic engine for America."</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ericberger/"><span itemprop="name">Eric Berger</span></a>
+        -    <span class="date" data-time="1647622918">Mar 18, 2022 5:01 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="200 posters participating, including story author." class="comment-count" href="https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/?comments=1"><span>542</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/cars/2022/03/better-rollover-safety-may-be-to-blame-for-more-pedestrian-deaths/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-115027948-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/cars/2022/03/better-rollover-safety-may-be-to-blame-for-more-pedestrian-deaths/">Blindspots on SUVs, vans, and pickups are bad for pedestrian health</a></h1>
+		<p class="excerpt">Thick A-pillars cause large blindspots when vehicles are turning.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jonathan-m-gitlin/"><span itemprop="name">Jonathan M. Gitlin</span></a>
+        -    <span class="date" data-time="1647620691">Mar 18, 2022 4:24 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="173 posters participating, including story author." class="comment-count" href="https://arstechnica.com/cars/2022/03/better-rollover-safety-may-be-to-blame-for-more-pedestrian-deaths/?comments=1"><span>392</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/apple-is-working-on-a-software-update-to-fix-studio-display-webcam-quality/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/Screen-Shot-2022-03-18-at-11.39.51-AM-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/apple-is-working-on-a-software-update-to-fix-studio-display-webcam-quality/">Reviewers panned Apple’s Studio Display webcam, but a software fix is coming</a></h1>
+		<p class="excerpt">Fix should make the built-in webcam comparable to the front-facing iPad camera.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/andrew_cunningham/"><span itemprop="name">Andrew Cunningham</span></a>
+        -    <span class="date" data-time="1647618895">Mar 18, 2022 3:54 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="45 posters participating, including story author." class="comment-count" href="https://arstechnica.com/gadgets/2022/03/apple-is-working-on-a-software-update-to-fix-studio-display-webcam-quality/?comments=1"><span>74</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		            <li class="archive-list archive-list-insteam">
+        <div class="instream-wrap">
+            <div class="instream-container">
+                                    <span class="ad-label">Advertisement</span>
+                    <div class="ad ad_fullwidth"></div>
+                            </div>
+        </div>
+    </li>
+    				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gaming/2022/03/server-issues-lock-gran-turismo-7-owners-out-of-single-player-races/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/gt7-150x150.png" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gaming/2022/03/server-issues-lock-gran-turismo-7-owners-out-of-single-player-races/">Server issues lock <em>Gran Turismo 7</em> owners out of single-player races</a></h1>
+		<p class="excerpt">30-hour outage highlights the problems with "always online" DRM.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/kyle-orland/"><span itemprop="name">Kyle Orland</span></a>
+        -    <span class="date" data-time="1647618202">Mar 18, 2022 3:43 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="70 posters participating, including story author." class="comment-count" href="https://arstechnica.com/gaming/2022/03/server-issues-lock-gran-turismo-7-owners-out-of-single-player-races/?comments=1"><span>91</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/shining-an-infrared-light-on-how-metal-soaps-threaten-priceless-oil-paintings/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/metalsoap1CROP-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/shining-an-infrared-light-on-how-metal-soaps-threaten-priceless-oil-paintings/">Shining an infrared light on how “metal soaps” threaten priceless oil paintings</a></h1>
+		<p class="excerpt">Scientists analyzed paint samples from Corot's <em>Gypsy Woman with Mandolin</em> (circa 1870).</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jenniferouellette/"><span itemprop="name">Jennifer Ouellette</span></a>
+        -    <span class="date" data-time="1647614739">Mar 18, 2022 2:45 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="29 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/shining-an-infrared-light-on-how-metal-soaps-threaten-priceless-oil-paintings/?comments=1"><span>46</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gaming/2022/03/mario-kart-8-deluxes-new-expansion-is-good-so-far-but-is-it-worth-25/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/mk8bcp-listing-150x150.png" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gaming/2022/03/mario-kart-8-deluxes-new-expansion-is-good-so-far-but-is-it-worth-25/"><em>Mario Kart 8 Deluxe</em>’s new expansion is good so far—but is it worth $25?</a></h1>
+		<p class="excerpt">Believe it or not, the best track so far comes from the series' smartphone version.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/samred/"><span itemprop="name">Sam Machkovech</span></a>
+        -    <span class="date" data-time="1647606819">Mar 18, 2022 12:33 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="46 posters participating" class="comment-count" href="https://arstechnica.com/gaming/2022/03/mario-kart-8-deluxes-new-expansion-is-good-so-far-but-is-it-worth-25/?comments=1"><span>63</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/dentist-guilty-of-deliberately-breaking-teeth-cashing-in-on-crown-repairs/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-129376214-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/dentist-guilty-of-deliberately-breaking-teeth-cashing-in-on-crown-repairs/">Dentist broke his patients’ teeth to make millions installing crowns, jury finds</a></h1>
+		<p class="excerpt">The dentist billed $4.2 million for crowns between 2016 and 2019.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/beth/"><span itemprop="name">Beth Mole</span></a>
+        -    <span class="date" data-time="1647551274">Mar 17, 2022 9:07 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="159 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/dentist-guilty-of-deliberately-breaking-teeth-cashing-in-on-crown-repairs/?comments=1"><span>276</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/speedy-new-5800x3d-is-amds-first-non-overclockable-ryzen-processor/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/5800x3d-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/speedy-new-5800x3d-is-amds-first-non-overclockable-ryzen-processor/">Speedy new 5800X3D is AMD’s first non-overclockable Ryzen processor</a></h1>
+		<p class="excerpt">New 3D V-Cache technology requires a lower voltage limit for the CPU. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/andrew_cunningham/"><span itemprop="name">Andrew Cunningham</span></a>
+        -    <span class="date" data-time="1647550146">Mar 17, 2022 8:49 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="45 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/speedy-new-5800x3d-is-amds-first-non-overclockable-ryzen-processor/?comments=1"><span>54</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gaming/2022/03/want-to-become-a-supervillain-heres-a-step-by-step-guide/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/how-to-take-over-the-world-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gaming/2022/03/want-to-become-a-supervillain-heres-a-step-by-step-guide/">How to become a world-dominating supervillain for a measly $55 billion</a></h1>
+		<p class="excerpt">Ars chats with <em>Dinosaur Comics</em>' Ryan North about his new book <em>How to Take Over the World</em>.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jenniferouellette/"><span itemprop="name">Jennifer Ouellette</span></a>
+        -    <span class="date" data-time="1647545289">Mar 17, 2022 7:28 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="41 posters participating" class="comment-count" href="https://arstechnica.com/gaming/2022/03/want-to-become-a-supervillain-heres-a-step-by-step-guide/?comments=1"><span>53</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gaming/2022/03/amd-announces-fsr-upscaling-2-0-promises-big-hardware-agnostic-gains/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/amdfsr2listing-150x150.png" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gaming/2022/03/amd-announces-fsr-upscaling-2-0-promises-big-hardware-agnostic-gains/">AMD announces FSR upscaling 2.0, promises big, hardware-agnostic gains</a></h1>
+		<p class="excerpt">Admits that FSR 1.0 wasn't up to snuff—which led to new, temporal-based solution.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/samred/"><span itemprop="name">Sam Machkovech</span></a>
+        -    <span class="date" data-time="1647542050">Mar 17, 2022 6:34 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="46 posters participating, including story author." class="comment-count" href="https://arstechnica.com/gaming/2022/03/amd-announces-fsr-upscaling-2-0-promises-big-hardware-agnostic-gains/?comments=1"><span>62</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/information-technology/2022/03/trickbot-is-using-mikrotik-routers-to-ply-its-trade-now-we-know-why/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/router-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/information-technology/2022/03/trickbot-is-using-mikrotik-routers-to-ply-its-trade-now-we-know-why/">Trickbot is using MikroTik routers to ply its trade. Now we know why</a></h1>
+		<p class="excerpt">Something special makes MikroTik attractive to the Internet's most aggressive botnet. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/dan-goodin/"><span itemprop="name">Dan Goodin</span></a>
+        -    <span class="date" data-time="1647541008">Mar 17, 2022 6:16 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="37 posters participating" class="comment-count" href="https://arstechnica.com/information-technology/2022/03/trickbot-is-using-mikrotik-routers-to-ply-its-trade-now-we-know-why/?comments=1"><span>49</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/science/2022/03/largest-aztec-temple-was-decorated-with-over-100-starfish/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/starfish-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/science/2022/03/largest-aztec-temple-was-decorated-with-over-100-starfish/">Largest Aztec temple was decorated with over 100 starfish</a></h1>
+		<p class="excerpt">The offering dates to just a few decades before the empire fell.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ksmith/"><span itemprop="name">Kiona N. Smith</span></a>
+        -    <span class="date" data-time="1647540297">Mar 17, 2022 6:04 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="34 posters participating" class="comment-count" href="https://arstechnica.com/science/2022/03/largest-aztec-temple-was-decorated-with-over-100-starfish/?comments=1"><span>57</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/information-technology/2022/03/netflix-fights-password-sharing-with-test-of-3-extra-member-fee/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-tv-streaming-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/information-technology/2022/03/netflix-fights-password-sharing-with-test-of-3-extra-member-fee/">Netflix fights password-sharing with test of $3 “Extra Member” fee</a></h1>
+		<p class="excerpt">New fee in Chile, Costa Rica, and Peru first while Netflix considers wider rollout.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jon-brodkin/"><span itemprop="name">Jon Brodkin</span></a>
+        -    <span class="date" data-time="1647539992">Mar 17, 2022 5:59 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="125 posters participating" class="comment-count" href="https://arstechnica.com/information-technology/2022/03/netflix-fights-password-sharing-with-test-of-3-extra-member-fee/?comments=1"><span>191</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		            <li class="archive-list archive-list-insteam">
+        <div class="instream-wrap">
+            <div class="instream-container">
+                                    <span class="ad-label">Advertisement</span>
+                    <div class="ad ad_fullwidth"></div>
+                            </div>
+        </div>
+    </li>
+    				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/google-play-store-will-promote-tablet-apps-with-quality-ranking/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/11-1-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/google-play-store-will-promote-tablet-apps-with-quality-ranking/">Google Play Store will promote tablet apps with “quality” ranking</a></h1>
+		<p class="excerpt">The next part of Google's tablet push is easier app discovery. </p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/ronamadeo/"><span itemprop="name">Ron Amadeo</span></a>
+        -    <span class="date" data-time="1647537998">Mar 17, 2022 5:26 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="28 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/google-play-store-will-promote-tablet-apps-with-quality-ranking/?comments=1"><span>29</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/nvidia-wants-to-speed-up-data-transfer-by-connecting-data-center-gpus-to-ssds/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2017/04/getty.servers-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/nvidia-wants-to-speed-up-data-transfer-by-connecting-data-center-gpus-to-ssds/">Nvidia wants to speed up data transfer by connecting data center GPUs to SSDs </a></h1>
+		<p class="excerpt">Nvidia, IBM, university researchers plan to make BaM open source.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/scharonharding/"><span itemprop="name">Scharon Harding</span></a>
+        -    <span class="date" data-time="1647535790">Mar 17, 2022 4:49 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="24 posters participating" class="comment-count" href="https://arstechnica.com/gadgets/2022/03/nvidia-wants-to-speed-up-data-transfer-by-connecting-data-center-gpus-to-ssds/?comments=1"><span>33</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/tech-policy/2022/03/antitrust-bill-would-bar-mergers-over-5b-allow-regulators-to-unwind-others/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2015/01/monopoly-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/tech-policy/2022/03/antitrust-bill-would-bar-mergers-over-5b-allow-regulators-to-unwind-others/">Antitrust bill would bar mergers over $5B, allow regulators to unwind others</a></h1>
+		<p class="excerpt">“Big companies have had almost free rein over our economy.”</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/tim-de-chant-2/"><span itemprop="name">Tim De Chant</span></a>
+        -    <span class="date" data-time="1647534097">Mar 17, 2022 4:21 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="93 posters participating, including story author." class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/antitrust-bill-would-bar-mergers-over-5b-allow-regulators-to-unwind-others/?comments=1"><span>192</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/tech-policy/2022/03/amazon-completes-mgm-merger-will-add-studios-films-and-tv-to-prime-video/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/Amazon-MGM-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/tech-policy/2022/03/amazon-completes-mgm-merger-will-add-studios-films-and-tv-to-prime-video/">Amazon completes MGM merger, will add studio’s films and TV to Prime Video</a></h1>
+		<p class="excerpt">European Commission approved $8.5B deal, and the FTC hasn't challenged it in court.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jon-brodkin/"><span itemprop="name">Jon Brodkin</span></a>
+        -    <span class="date" data-time="1647530542">Mar 17, 2022 3:22 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="95 posters participating" class="comment-count" href="https://arstechnica.com/tech-policy/2022/03/amazon-completes-mgm-merger-will-add-studios-films-and-tv-to-prime-video/?comments=1"><span>154</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/cars/2022/03/lego-readies-an-impressive-new-back-to-the-future-time-machine/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/LEGO-Back-to-the-Future-Time-Machine-Lifestyle-–-Image-3-150x150.jpg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/cars/2022/03/lego-readies-an-impressive-new-back-to-the-future-time-machine/">Lego readies an impressive new <em>Back to the Future</em> Time Machine kit</a></h1>
+		<p class="excerpt">The 3-in-1 kit lets you decide which version of the famous DeLorean to build.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/jonathan-m-gitlin/"><span itemprop="name">Jonathan M. Gitlin</span></a>
+        -    <span class="date" data-time="1647529575">Mar 17, 2022 3:06 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="58 posters participating, including story author." class="comment-count" href="https://arstechnica.com/cars/2022/03/lego-readies-an-impressive-new-back-to-the-future-time-machine/?comments=1"><span>87</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        				<li class="archive-report">
+	<article class="in-column clearfix">
+					<a href="https://arstechnica.com/gadgets/2022/03/studio-display-review-an-apple-monitor-where-5k-doesnt-describe-the-price/">
+        <span class="overlay archive-listing">
+          <img class="archive-image" src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0142-150x150.jpeg" width="50" height="50" />
+        </span>
+			</a>
+				<h1 class="heading"><a href="https://arstechnica.com/gadgets/2022/03/studio-display-review-an-apple-monitor-where-5k-doesnt-describe-the-price/">Studio Display review: An Apple monitor where “5K” doesn’t describe the price</a></h1>
+		<p class="excerpt">It will make many Mac owners very happy, even if it's missing some frills.</p>
+    	
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/andrew_cunningham/"><span itemprop="name">Andrew Cunningham</span></a>
+        -    <span class="date" data-time="1647522057">Mar 17, 2022 1:00 pm UTC</span>
+  </p>
+
+			<aside class="comments-hotness ">
+  
+    <a title="134 posters participating, including story author." class="comment-count" href="https://arstechnica.com/gadgets/2022/03/studio-display-review-an-apple-monitor-where-5k-doesnt-describe-the-price/?comments=1"><span>339</span></a>
+
+	</aside>
+
+	</article>
+</li>
+		        			</ol>
+	  <table class="post-links thick-divide-top thin-divide-bottom clearfix-redux" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tr>
+      <td width="50%" class="subheading older">
+                  <a href="/page/8/"><span class="arrow">&larr;</span> Older Stories</a>
+              </td>
+      <td class="subheading newer">
+                  <a href="/page/6/">Newer Stories <span class="arrow">&rarr;</span></a>
+              </td>
+    <tr>
+  </table>
+</section>
+
+		</section>
+        <footer id="page-footer">
+							<aside class="ad ad_footer">
+						
+				</aside>
+      			<nav id="footer-nav"></nav>
+	    <p class="cn-logo"><a href="http://www.condenast.com"><img src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/condenast-logo.png" width="131" height="19"></a></p>
+
+<div id="copyright-terms" class="footer-copyright-terms">
+  CNMN Collection<br>
+  WIRED Media Group<br>
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our <a href="https://www.condenast.com/user-agreement/">User Agreement</a> (updated 1/1/20) and <a href="https://www.condenast.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 1/1/20) and <a href="/amendment-to-conde-nast-user-agreement-privacy-policy/">Ars Technica Addendum</a> (effective 8/21/2018). Ars may earn compensation on sales from links on this site. <a href="/affiliate-link-policy/">Read our affiliate link policy</a>.<br>
+  <a href="https://www.condenast.com/privacy-policy/#california">Your California Privacy Rights</a> | <a id="ot-sdk-btn" class="ot-sdk-show-settings"> Do Not Sell My Personal Information</a><br>
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br>
+  <a href="https://www.condenast.com/online-behavioral-advertising-oba-and-how-to-opt-out-of-oba/#clickheretoreadmoreaboutonlinebehavioraladvertising(oba)">Ad Choices</a>
+</div>
+		</footer>
+	</div>
+
+    		<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/ars.min.762db9c7614f608898187cd9bd3230ec.js"></script>
+	
+        
+  
+  
+    <!-- Parse.ly start -->
+<script type="text/plain" class="optanon-category-C0002" id="parsely-cfg" src="//fpa-cdn.arstechnica.com/keys/arstechnica.com/p.js"></script>
+<!-- Parse.ly end -->
+
+  
+  
+    <script src="https://player.cnevids.com/interlude/arstechnica.js" async></script>
+<script id="conde-polar" src="https://cdn.mediavoice.com/nativeads/script/condenastcorporate/conde-asa-polar-master.js" async></script>
+<script>
+  (function () {
+      function DQ() {
+        var queue = window.sparrowQueue;
+        this.push = fn => fn();
+        window.sparrowQueue = this;
+        while (queue.length) {
+          queue.shift()();
+        }
+      }
+      function e(t, e) {
+        var n, a, o;
+        a = !1, n = document.createElement("script"), n.type = "text/javascript", n.src = t, n.onload = n.onreadystatechange = function () {
+          a || this.readyState && "complete" != this.readyState || (a = !0, e ? e() : !0)
+        }, o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(n, o)
+      }
+      if (location.search.indexOf('no_sparrow') < 0) {
+        e("https://pixel.condenastdigital.com/config/v2/production/ars-technica.config.js", function () {
+          e("https://pixel.condenastdigital.com/sparrow.min.js", function () {
+            if (window.SparrowConfigV2) {
+              window.sparrow = new window.Sparrow(window.SparrowConfigV2);
+              new DQ();
+            }
+          })
+        })
+      }
+    })();
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
+</body>
+</html>

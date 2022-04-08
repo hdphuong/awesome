@@ -1,0 +1,6 @@
+Referer: https://www.vice.com/en/topic/worldnews
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: Vice-H2-Push-Sig=fc958a63e735dbfff58e4ddef1662397b26b927be16fed46860b19aa; X-GeoIP-Country-Code=AU; X-GeoIP-Region-Code=NSW; X-Vice-Split-Testing=2020-10-19a:C

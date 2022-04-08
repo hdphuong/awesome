@@ -1,0 +1,20 @@
+Content-Length: 1076
+Server: Varnish
+Retry-After: 0
+Content-Type: text/plain; charset=utf-8
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:14:25 GMT
+Via: 1.1 varnish
+X-Served-By: cache-syd10132-SYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1649416466.683595,VS0,VE0
+Set-Cookie: X-Vice-Split-Testing=(null); expires=Sun, 08 May 2022 11:14:25 GMT; domain=www.vice.com; path=/
+Set-Cookie: X-GeoIP-Country-Code=AU; path=/;
+Set-Cookie: X-GeoIP-Region-Code=NSW; path=/;
+X-Geoip-Country-Code: AU
+X-Geoip-Region-Code: NSW
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' *.vice.com vicetv.com *.vicetv.com vicetv.nl vicetv.be vicesports.nl vicemoney.nl vicebelgique.com survey18.toluna.com *.viceops.net survey-d.dynata.com

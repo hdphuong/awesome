@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /about/images/
+Disallow: /compatible/includes/
+Disallow: /compatible/images/
+Disallow: /compatible/questionnaires/images/
+Disallow: /compatible/questionnaires/certificates/
+Disallow: /cve/images/
+Disallow: /news/images/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /css/

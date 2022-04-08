@@ -1,0 +1,25 @@
+Content-Length: 287
+Date: Fri, 08 Apr 2022 11:35:37 GMT
+Content-Type: text/plain;charset=UTF-8
+Cache-Control: public, max-age=120, stale-while-revalidate=3600, stale-if-error=86400, stale-if-error=604800
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Content-Encoding: gzip
+X-Varnish: 246464200 282441953
+Via: 1.1 varnish (Varnish/6.3)
+X-Varnish-Cache: HIT
+Cf-Cache-Status: EXPIRED
+Last-Modified: Fri, 08 Apr 2022 07:38:49 GMT
+Accept-Ranges: bytes
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __cf_bm=752xTG3E06Cgk1P7BcOQHtEQ9RR0.HLQnAFilQr_.A4-1649417737-0-Af/r6TaGYUuj9dgsloOwirYyltUP0t3vuLT7eMv7t1EJUws1WJnfgp1IMPhjW+sx8u5WbFNWzfBs84ZaB8Wmc2U=; path=/; expires=Fri, 08-Apr-22 12:05:37 GMT; domain=.www.politico.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=7adbfabe96a75f0fa90b0c3ed24f0cacc07986d1-1649417737; path=/; domain=.www.politico.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tcI3CC9DZSBhfE8fKSFzOjWIyekNjN1aCLhuDQ2fAZ1ZNEYUJj6hqAwGBI1w%2FrCpwmlwDcM712YkD%2Bfp4Ss3ickt4KrOC17iIhSUtW7PTGTXAyBQ7e%2FO18e4oHkl9GONyFc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f8ab354db085569-SYD

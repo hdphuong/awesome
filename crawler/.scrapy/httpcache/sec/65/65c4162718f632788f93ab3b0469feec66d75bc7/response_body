@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en-us" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-us" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-us" class="no-js ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="en-us" class="no-js ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-us"> <!--<![endif]-->
+<head>
+<title>IPCC report: The next few years are critical | Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars-mobile\/assets","HOME_URL":"https:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"light","VIEW":"grid","MOBILE":false,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["climate-change","ipcc"],"channel":"science","slug":"ipcc-report-the-next-few-years-are-critical","template_type":"article","queue":[],"server":"production"},"TOTAL":103786,"UNREAD":0,"RECENT":[1846491,1846733,1846635,1846651,1846629,1846613,1846633,1846622,1846550,1846105,1846508,1846523,1846517,1846526,1846539,1846505,1846496,1846340,1846440,1846437,1846367,1846358,1846347,1845514,1845789],"LOGINS":true,"CROSS":false,"GEOALERTS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"COUNTRY":"us","SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"science","MEMO_PID":"62012a7a19351c07620394e0"};
+  </script>
+
+
+  <!--[if lte IE 8]><script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/modernizr/modernizr.js"></script><![endif]-->
+
+      <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/css/ars.min.a7ae7810147219057e83a38ffb92d16f.css" />
+        <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/ars-ios-icon.png" />
+  <link rel="icon" sizes="192x192" href="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/material-ars.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+    <meta name="viewport" content="width=1020" />
+
+    <!-- cache hit 312:single/meta:d1f5eb140e71af4dbcc65ba23f2b10a8 -->
+<meta name='parsely-page' content='{"title":"IPCC report: The next few years are critical","link":"https:\/\/arstechnica.com\/science\/2022\/04\/ipcc-report-the-next-few-years-are-critical\/","type":"post","author":"Scott K. Johnson","post_id":1846017,"pub_date":"2022-04-05T22:40:40Z","section":"Science","tags":["climate-change","ipcc","type: report"],"image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/04\/wind_farm_tony_armstrong-sly-150x150.jpg"}'>
+<meta name='parsely-metadata' content='{"type":"report","title":"IPCC report: The next few years are critical","post_id":1846017,"lower_deck":"New report on climate solutions is good news, bad news, and a to-do list.","image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/04\/wind_farm_tony_armstrong-sly-150x150.jpg","listing_image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2022\/04\/wind_farm_tony_armstrong-sly-360x200.jpg"}'>
+
+<link rel="canonical" href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/" />
+
+<link rel="shorturl" href="https://arstechnica.com/?p=1846017" />
+
+<meta name="description" content="New report on climate solutions is good news, bad news, and a to-do list." />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/">
+<meta name="twitter:title" content="IPCC report: The next few years are critical">
+<meta name="twitter:description" content="New report on climate solutions is good news, bad news, and a to-do list.">
+
+<meta name="twitter:site" content="@arstechnica">
+<meta name="twitter:domain" content="arstechnica.com">
+
+<meta property="og:site_name" content="Ars Technica" />
+
+<meta name="twitter:image:src" content="https://cdn.arstechnica.net/wp-content/uploads/2022/04/wind_farm_tony_armstrong-sly-640x427.jpg">
+<meta name="twitter:image:width" content="640">
+<meta name="twitter:image:height" content="427">
+
+<meta name="twitter:creator" content="@SJOnEarth">
+
+<meta property="og:url" content="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/" />
+<meta property="og:title" content="IPCC report: The next few years are critical" />
+<meta property="og:image" content="https://cdn.arstechnica.net/wp-content/uploads/2022/04/wind_farm_tony_armstrong-sly-640x427.jpg" />
+<meta property="og:description" content="New report on climate solutions is good news, bad news, and a to-do list." />
+<meta property="og:type" content="article" />
+  <!-- cache hit 312:single/header:d1f5eb140e71af4dbcc65ba23f2b10a8 -->
+        
+  
+  
+
+  <!-- Google Tag Manager DataLayer -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"event":"data-layer-loaded","user":{"ars_userId":undefined,"amg_userId":undefined,"uID":undefined,"sID":undefined,"loginStatus":false,"subscriberStatus":"none","infinityId":undefined,"registrationSource":undefined,"mdw_cnd_id":undefined,"monthlyVisits":undefined,"accessPaywall":undefined,"view":"grid","theme":"light","show_comments":false},"content":{"pageTemplate":"single","pageType":"article|report","contentCategory":"science","section":"science","subsection":undefined,"contributor":"Scott K. Johnson","contentID":1846017,"contentLength":1403,"display":"IPCC report: The next few years are critical","contentSource":"web","pageAssets":undefined,"uniqueContentCount":undefined,"monthlyContentCount":undefined,"publishDate":"2022-04-05T22:40:40+00:00","modifiedDate":"2022-04-05T23:21:17+00:00","keywords":"climate change|IPCC","dataSource":undefined},"marketing":{"campaignName":undefined,"circCampaignId":undefined,"internalCampaignId":undefined,"brand":"Ars Technica","certified_mrc_data":undefined,"condeNastId":undefined},"page":{"pID":undefined,"syndicatorUrl":undefined,"pageURL":"https:\/\/arstechnica.com\/?p=1846017","canonical":"https:\/\/arstechnica.com\/science\/2022\/04\/ipcc-report-the-next-few-years-are-critical\/","canonicalPathName":"\/science\/2022\/04\/ipcc-report-the-next-few-years-are-critical\/?view=grid"},"search":{"facets":undefined,"searchTerms":undefined},"site":{"appVersion":"1.0.0"}});
+</script>
+<!-- End Google Tag Manager DataLayer -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLXNPCQ');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+class ABTest {
+  constructor(post_id, init_method) {
+    this.post_id = post_id;
+    this.ajaxurl = '/services/ars-ajax-handler.php';
+    this.expireDays = 1/48; // 30 min
+    this.group = this.getGroup();
+    this.uid = this.getUid();
+    this.init_method = init_method;
+    this.setTitle();
+
+    if (this.init_method === 'click') {
+      this.click();
+    }
+    else {
+      this.impression();
+    }
+  }
+
+  setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Retrieves a unique id for determining whether the event should be recorded
+  getUid() {
+    var uid = this.getCookie('ars_ab_' + this.post_id + '_uid');
+    if (!uid) {
+      uid = (Math.random() + 1).toString(36).substring(2,7);
+      this.setCookie('ars_ab_' + this.post_id + '_uid', uid, this.expireDays);
+    }
+    return uid;
+  };
+
+  // Places the user in either A or B for this post id
+  getGroup() {
+    var group = this.getCookie('ars_ab_' + this.post_id + '_group');
+    if (!group) {
+      group = String.fromCharCode(Math.floor(Math.random() * 2) + 65).toLowerCase();
+      this.setCookie('ars_ab_' + this.post_id + '_group', group, this.expireDays);
+    }
+    return group;
+  };
+
+  // Records a headline impression (from homepage or other listing)
+  impression() {
+    // Send fake ajax
+    var params = {
+      nonce:        '052ceae214',
+      action:       'ars_ab_impression',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // Records a headline click from the actual post page
+  click() {
+    // Send fake ajax
+    var params = {
+      nonce:        '10deb1a137',
+      action:       'ars_ab_click',
+      id:           this.post_id,
+      group:        this.group,
+      uid:          this.uid,
+      ts:           (new Date()).getTime()
+    };
+    var url = this.ajaxurl + '?' + this.encodeParams(params);
+    document.write('\x3Cscript type="text/javascript" src="' + url + '">\x3C/script>');
+  };
+
+  // If user is in B group, dynamically set title
+  setTitle() {
+    if (this.group == 'b') {
+      var span = document.getElementById('ars_ab_' + this.post_id);
+      var title = span.parentNode;
+      title.innerHTML = span.getAttribute('data-title-b');
+    }
+  };
+
+  encodeParams(data) {
+    var ret = [];
+    for (var d in data)
+      ret.push(encodeURIComponent(d) + "=" + encodeURIComponent(data[d]));
+    return ret.join("&");
+  };
+
+};
+</script><!-- OneTrust Cookies Consent Notice start -->
+<script 
+    src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  
+    type="text/javascript" charset="UTF-8" 
+    data-domain-script="b10882a1-8446-4e7d-bfb2-ce2c770ad910">
+</script>
+<script type="text/javascript">function OptanonWrapper(){};</script>
+<script 
+    src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" 
+    type="text/javascript" 
+    charset="UTF-8" 
+    ccpa-opt-out-ids="C0002,C0003,C0004,C0005" 
+    ccpa-opt-out-geo="ca" 
+    ccpa-opt-out-lspa="true">
+</script> 
+<!-- OneTrust Cookies Consent Notice end -->
+<script src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-script" async ></script>
+<script>window.googletag=window.googletag||{};window.googletag.cmd=window.googletag.cmd||[];window.cns=window.cns||{};window.cns.queue=[];window.cns.async=function(s,c){cns.queue.push({service:s,callback:c})};window.sparrowQueue=window.sparrowQueue||[];</script>
+<link rel="dns-prefetch" href="//aax.amazon-adsystem.com">
+<link rel="preconnect" href="//aax.amazon-adsystem.com" crossorigin>
+<link rel="preconnect" href="https://mb.moatads.com" crossorigin>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649417696"></script>
+<script src="https://js-sec.indexww.com/ht/p/183973-93942139695505.js" async></script>
+<script src="https://z.moatads.com/condenastprebidheader987326845656/moatheader.js" async></script>
+<script>
+  window.cns.pageContext = {"contentType":"article","templateType":"article","channel":"science","subChannel":"","slug":"ipcc-report-the-next-few-years-are-critical","server":"production","keywords":{"tags":["climate-change","ipcc"],"cm":[],"platform":["wordpress"],"copilotid":""}};
+</script>
+<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649417696"></script>
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-84a4ab0802.ads.us.js"></script>
+</head>
+<body class="post-template-default single single-post postid-1846017 single-format-standard grid-view light blog-us">
+  <div id="container">
+    <header id="masthead">
+      <aside class="ad ad_crown">
+    </aside>
+ 
+            <h1><a href="https://arstechnica.com"><em>Ars</em>Technica</a></h1>
+          <div id="profile">
+          <a href="/civis/ucp.php?mode=register" rel="nofollow">Register</a>
+      <a id="login" href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F%3Fview%3Dgrid" rel="nofollow">Log in</a>
+        </div>
+      <nav id="primary">
+              <ul>
+        <li id="home-icon">
+          <a href="/"><span>Home</span></a>
+        </li>
+        <li class="has-children">
+          <a href="#">Main Menu</a>
+           <div id="main-menu" class="dropdown">
+  <div id="sections">
+    <ul class="cat-list">
+      <li class="top-row even">
+        <a class="cat-link" href="/information-technology" data-track-type="navigationClick" data-track-source="Biz &amp; IT" data-track-location="header">
+          <span class="cat-name">Biz &amp; IT</span>
+          <span class="subheading cat-desc">Biz &amp; IT</span>
+        </a>
+      </li>
+      <li class="top-row odd">
+        <a class="cat-link" href="/gadgets" data-track-type="navigationClick" data-track-source="Tech" data-track-location="header">
+          <span class="cat-name">Tech</span>
+          <span class="subheading cat-desc">Gear &amp; Gadgets</span>
+        </a>
+      </li>
+      <li class="even">
+        <a class="cat-link" href="/tech-policy" data-track-type="navigationClick" data-track-source="Policy" data-track-location="header">
+          <span class="cat-name">Policy</span>
+          <span class="subheading cat-desc">Law &amp; Disorder</span>
+        </a>
+      </li>
+      <li class="odd">
+        <a class="cat-link" href="/gaming" data-track-type="navigationClick" data-track-source="Opposable Thumbs" data-track-location="header">
+          <span class="cat-name">Gaming &amp; Culture</span>
+          <span class="subheading cat-desc">Opposable Thumbs</span>
+        </a>
+      </li>
+      <li class="even">
+        <a class="cat-link" href="/science" data-track-type="navigationClick" data-track-source="The Scientific Method" data-track-location="header">
+          <span class="cat-name">Science</span>
+          <span class="subheading cat-desc">The Scientific Method</span>
+        </a>
+      </li>
+      <li class="odd">
+        <a class="cat-link" href="/cars" data-track-type="navigationClick" data-track-source="Cars Technica" data-track-location="header">
+          <span class="cat-name">Cars</span>
+          <span class="subheading cat-desc">Cars Technica</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <aside class="drop-extras">
+    <aside id="layout-swap">
+	<span class="subheading">Layout:</span>
+  <ul>
+    <li class="grid active">
+            <a rel="nofollow" href="http://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?view=grid" title="Grid view"><span>Grid View</span></a>
+          </li>
+    <li class="article">
+            <a rel="nofollow" href="http://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?view=grid" title="Archive view"><span>Article View</span></a>
+          </li>
+  </ul>
+</aside>
+
+
+    <h2 class="subheading notched">Site Theme</h2>
+    
+<ul id="theme-switch">
+    <li class="light active">
+      <a rel="nofollow" href="http://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?theme=light&amp;view=grid"><span class="subheading">Dark on light</span></a>
+    </li>
+  <li class="dark ">
+      <a rel="nofollow" href="http://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?theme=dark&amp;view=grid"><span class="subheading">Light on dark</span></a>
+    </li>
+</ul>
+    <div id="explore-ars">
+      <h2 class="subheading notched">Explore Ars</h2>
+      <ul>
+        <li><a href="/reviews/">Reviews</a></li>
+        <li><a href="http://video.arstechnica.com/">Video</a></li>
+        <li><a href="/staff/">Staff Blogs</a></li>
+        <li><a href="/features/">Feature Archive</a></li>
+        <li><a href="/staff-directory/">Staff Directory</a></li>
+        <li><a href="/contact-us/">Contact Us</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>
+        </li>
+        <li class="has-children" id="my-stories">
+          <a href="#">My Stories: <span class="unread-count">0</span></a>
+          <div class="dropdown">
+            <nav class="my-stories-nav first">
+              <h2 class="subheading notched">New Since Last Visit <span class="unread-count"></span></h2>
+              <ol class="new-stories with-numbers"></ol>
+              <footer><a class="subheading" href="#" id="more-unread-stories">See more news stories</a></footer>
+            </nav>
+            <nav class="my-stories-nav middle">
+              <h2 class="subheading notched">We Recommend</h2>
+              <ol class="recommendations"></ol>
+            </nav>
+            <nav class="my-stories-nav">
+              <h2 class="subheading notched">My Discussions</h2>
+                            <p class="discussions disabled">Log in to track your discussions.</p>
+                          </nav>
+          </div>
+        </li>
+        <li class="no-children"><a href="https://arstechnica.com/civis/" data-track-type="navigationClick" data-track-type="Forums" data-track-location="header">Forums</a></li>
+                        <li class="no-children subscribe">
+          <a href="/subscriptions/">Subscribe</a>
+        </li>
+                <li class="no-children"><a href="/jobs/">Jobs</a></li>
+                        <li id="search-container" class="right inactive">
+          <a id="search-switch" href="/search/"></a>
+          <form action="/search/" method="GET" id="search_form">
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" id="hdr_search_input" value="">
+            <input type="submit" value="">
+          </form>
+        </li>
+              </ul>
+      </nav>
+    </header>
+
+    
+    <section id="content" class="clearfix">
+<!-- cache hit 312:home/toppost:b70f30fa9e89cdd472eec07b2d4abefe -->
+
+<h1 id="archive-head" class="subheading thick-divide-bottom">
+	<a href="https://arstechnica.com/science/">	<span class="archive-name">Science</span>
+		<span class="divider"> / </span>
+	<span class="archive-desc">Science &amp; Exploration</span>
+		</a></h1>
+
+<script type="text/javascript">
+  ars.ARTICLE = {"url":"https:\/\/arstechnica.com\/science\/2022\/04\/ipcc-report-the-next-few-years-are-critical\/","short_url":"https:\/\/arstechnica.com\/?p=1846017","title":"IPCC report: The next few years are critical","author":294205,"authorName":"Scott K. Johnson","pubDate":"2022-04-05T22:40:40Z","id":1846017,"topic":1483499,"pages":2,"current_page":1,"superscroll":true,"promoted":[],"single_page":false,"comments":223,"fullwidth":false,"slug":"ipcc-report-the-next-few-years-are-critical","arsStaff":{"104481":{"name":"Aaron Zimmerman","title":"Copy Chief","staff":true},"332715":{"name":"Andrew Cunningham","title":"Senior Technology Reporter","staff":true},"1002":{"name":"Aurich Lawson","title":"Creative Director","staff":true},"509873":{"name":"Beth Mole","title":"Senior Health Reporter","staff":true},"453791":{"name":"Cathleen O'Grady","title":"Contributing science reporter","staff":true},"102179":{"name":"Chris Lee","title":"Associate writer","staff":true},"821742":{"name":"Corey Gaskin","title":"Senior Commerce Writer","staff":true},"329388":{"name":"Dan Goodin","title":"Security Editor","staff":true},"254631":{"name":"Diana Gitig","title":"Associate Writer","staff":false},"25862":{"name":"Eric Bangeman","title":"Managing Editor","staff":true},"512413":{"name":"Eric Berger","title":"Senior Space Editor","staff":true},"46707":{"name":"Iljitsch van Beijnum","title":"Associate Writer","staff":false},"316010":{"name":"Jason Marlin","title":"Technical Director","staff":true},"746799":{"name":"Jennifer Ouellette","title":"Senior Writer","staff":true},"15365":{"name":"Jeremy Reimer","title":"Senior Niche Technology Historian","staff":false},"52979":{"name":"John Timmer","title":"Senior Science Editor","staff":true},"312082":{"name":"Jon Brodkin","title":"Senior IT Reporter","staff":true},"14317":{"name":"Jonathan M. Gitlin","title":"Automotive Editor","staff":true},"998":{"name":"Ken Fisher","title":"Editor in Chief","staff":true},"440179":{"name":"Kerry Staurseth","title":"Associate Copyeditor","staff":true},"328283":{"name":"Kyle Orland","title":"Senior Gaming Editor","staff":true},"10243":{"name":"Lee Hutchinson","title":"Senior Technology Editor","staff":true},"173191":{"name":"Matthew Lasar","title":"Associate writer","staff":true},"182268":{"name":"Nate Anderson","title":"Deputy Editor","staff":true},"1991":{"name":"Ohrmazd","title":"","staff":false},"391727":{"name":"Ron Amadeo","title":"Reviews Editor","staff":true},"348927":{"name":"Sam Machkovech","title":"Tech Culture Editor","staff":true},"588289":{"name":"Samuel Axon","title":"Senior Reviews Editor","staff":true},"294205":{"name":"Scott K. Johnson","title":"Associate Writer","staff":true},"843451":{"name":"Steve Haske","title":"","staff":false},"163185":{"name":"Tim De Chant","title":"Senior Technology Reporter","staff":true},"173910":{"name":"Timothy B. Lee","title":"Senior tech policy reporter","staff":false}},"tags":["climate-change","ipcc"],"vote_sentiments":[{"sentiment_id":"1","sentiment":"agree","direction":"positive","icon":null,"label":"Agree"},{"sentiment_id":"3","sentiment":"interesting","direction":"positive","icon":null,"label":"Interesting"},{"sentiment_id":"5","sentiment":"funny","direction":"positive","icon":null,"label":"Funny"},{"sentiment_id":"6","sentiment":"addsto","direction":"positive","icon":null,"label":"Adds to Story"},{"sentiment_id":"7","sentiment":"disagree","direction":"negative","icon":null,"label":"Disagree"},{"sentiment_id":"8","sentiment":"inaccurate","direction":"negative","icon":null,"label":"Inaccurate"},{"sentiment_id":"11","sentiment":"pointless","direction":"negative","icon":null,"label":"Doesn't Contribute"},{"sentiment_id":"12","sentiment":"abusive","direction":"negative","icon":null,"label":"Abusive"}]};
+</script>
+
+<article itemscope itemtype="http://schema.org/NewsArticle" class="standalone">
+	<header>
+		<h1 class="heading" itemprop="headline">IPCC report: The next few years are critical</h1>
+		<h2 class="standalone-deck" itemprop="description">New report on climate solutions is good news, bad news, and a to-do list.</h2>
+    				<div class="post-meta">
+      
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+  by 
+          <a itemprop="url" href="https://arstechnica.com/author/scott-johnson/" rel="author"><span itemprop="name">Scott K. Johnson</span></a>
+        -    <span class="date" data-time="1649198440">Apr 5, 2022 10:40 pm UTC</span>
+  </p>
+
+			<div class="corner-info">
+                          <ul class="share-buttons">
+
+  <li class="share-facebook">
+    <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F" target="_blank" data-dialog="400:368" data-track-type="socialShare" data-track-source="Facebook" data-track-location="top">
+      <span class="share-text">Share</span>
+          </a>
+  </li>
+  <li class="share-twitter">
+    <a href="https://twitter.com/share?text=IPCC%20report%3A%20The%20next%20few%20years%20are%20critical&url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F" target="_blank" data-dialog="364:250" data-track-type="socialShare" data-track-source="Twitter" data-track-location="top">
+      <span class="share-text">Tweet</span>
+    </a>
+  </li>
+  <li class="share-reddit">
+    <a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F&title=IPCC%20report%3A%20The%20next%20few%20years%20are%20critical" target="_blank" data-track-type="socialShare" data-track-source="Reddit" data-track-location="top">
+      <span class="share-text">Reddit</span>
+          </a>
+  </li>
+</ul>
+                  <a title="92 posters participating, including story author." class="comment-count" href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?comments=1"><span>223</span></a>
+
+			</div>
+		</div>
+    	</header>
+	<section id="article-guts">
+		<div itemprop="articleBody" class="article-content clearfix">
+    
+<figure class="intro-image image center full-width" style="width:640px">
+      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/wind_farm_tony_armstrong-sly-800x533.jpg" width="640" height="426">
+  
+<figcaption class="caption"><div class="caption-credit"><a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/tonyarmstrong/21922973089/">Tony Armstrong-Sly / Flickr</a></div></figcaption>
+</figure>
+
+
+
+
+<!-- cache miss 312:single/related:d1f5eb140e71af4dbcc65ba23f2b10a8 --><!-- empty -->
+<p>The urgency of action on climate change is a complicated thing. On the one hand, the harm of inaction is real and growing every year. On the other hand, there's no such thing as "too late." Plug in some numbers, and you can define a corresponding deadline to hit a target, but we're not dealing with an all-or-nothing proposition. There is a continuum of consequences, and our choices can always move us one notch toward "better" or "worse."</p>
+<p>With that in mind, the latest report from the Intergovernmental Panel on Climate Change (IPCC) shows the next few years are a critical window of opportunity for our hopes of limiting global warming to the benchmarks of 1.5° C or 2° C. Those numbers aren't magic, but they are meaningful. First, they represent better futures than any larger number on the thermometer. Second, these are the targets that international negotiations have long centered around.</p>
+<h2>(Giga)tons of work to do</h2>
+<p>The <a href="https://www.ipcc.ch/report/ar6/wg3/">release</a> is the third and final section of the 6th Assessment Report. The first two releases handled the <a href="https://arstechnica.com/science/2021/08/new-ipcc-climate-report-is-the-clearest-guidebook-for-selecting-a-future/">physical science</a> of a changing climate and the <a href="https://arstechnica.com/science/2022/03/if-adapting-to-climate-change-sounds-easy-it-shouldnt/">impacts of climate change</a>. This one deals with climate <em>solutions</em> called "mitigation" in hazards parlance. The release examines past and present greenhouse gas emissions and illuminates the path to eliminating emissions and stabilizing our planet's climate.</p>
+<p>There are clear signs of progress. Past reports were forced to describe future scenarios with massive emissions as "business-as-usual" continuations of current trends. This report says these scenarios no longer look likely. Rapid declines in the cost of renewables have led to accelerating growth of clean energy, among other trends. Together with national commitments, this puts us on a trajectory toward something like 3° C by 2100 rather than the 4+° C world of a "burn every bit of carbon you can find" emissions scenario.</p>
+<p>Getting from there to a world that actually <em>stops</em> warming at 2° C or 1.5° C is a big job, though. The past few years of emissions data have raised the possibility that we stand near the peak of the emissions curve. That would have to be true. In scenarios where warming stops at about 1.5° C or by 2° C, the report says, "emissions are projected to peak between 2020 and at the latest before 2025." In other words, emissions have to start declining right about now.</p>
+<p>And after the peak, emissions also have to <em>steeply</em> decline. For the 1.5° C limit, emissions have to drop more than 40 percent by 2030 and reach net zero in the 2050s. Hitting the 2° C limit isn't much easier—we must cut over 25 percent by 2030 and hit net-zero in the 2070s.</p>
+<p>Another way to visualize these changes is to imagine a remaining "budget" of emissions before the world crosses a chosen limit. About 1,200 gigatons of CO<sub>2</sub> would push us from where we are now to 2° C. Just 400 gigatons tons would push us to 1.5° C. For sobering context, the world emitted about 410 gigatons in the 2010s <em>alone</em>.</p>
+
+		</div>
+    <div class="article-expander">
+      <p><a href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/">Expand full story</a></p>
+    </div>
+            <nav class="page-numbers subheading">Page: <span class="numbers">
+      1 <a href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/2/">2</a> <a href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/2/"><span class="next">Next <span class="arrow">&rarr;</span></span></a>      </span></nav>
+      	</section>
+
+  <div id="article-footer-wrap">
+
+    <section id="comments-area">
+      
+      <a name="comments-bar"></a>
+      <div class="comments-bar">
+        <a class="subheading comments-read-link" href="https://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?comments=1"><span class="text">Reader comments</span> <span class="comment-count"><span proptype>223</span></span></a>
+      </div>
+            <div id="comments-container"></div>
+      <div id="comments-posting-container" class="thick-divide-bottom">
+        <p id="reply">You must <a href="/civis/ucp.php?mode=login" class="vote_login">login or create an account</a> to comment.</p>
+      </div>
+          </section>
+    
+    <aside class="thin-divide-bottom">
+    <ul class="share-buttons">
+
+  <li class="share-facebook">
+    <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F" target="_blank" data-dialog="400:368" data-track-type="socialShare" data-track-source="Facebook" data-track-location="bottom">
+      <span class="share-text">Share</span>
+            <div class="share-count-container">
+        <div class="share-count">-</div>
+      </div>
+          </a>
+  </li>
+  <li class="share-twitter">
+    <a href="https://twitter.com/share?text=IPCC%20report%3A%20The%20next%20few%20years%20are%20critical&url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F" target="_blank" data-dialog="364:250" data-track-type="socialShare" data-track-source="Twitter" data-track-location="bottom">
+      <span class="share-text">Tweet</span>
+    </a>
+  </li>
+  <li class="share-reddit">
+    <a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2022%2F04%2Fipcc-report-the-next-few-years-are-critical%2F&title=IPCC%20report%3A%20The%20next%20few%20years%20are%20critical" target="_blank" data-track-type="socialShare" data-track-source="Reddit" data-track-location="bottom">
+      <span class="share-text">Reddit</span>
+            <div class="share-count-container">
+        <div class="share-count">-</div>
+      </div>
+          </a>
+  </li>
+</ul>
+    </aside>
+
+        <!-- cache hit 312:single/author:f3cad3e6cf8fdbd66f46e75a1dad7fa9 -->  	<section class="article-author clearfix-redux">
+    				<a href="/author/scott-johnson"><img width="47" height="47" src="https://cdn.arstechnica.net/wp-content/uploads/2016/09/sj_2016_prof_100.jpg"></a>
+    		    
+		<p><a href="/author/scott-johnson" class="author-name">Scott K. Johnson</a>  / Scott has written about geoscience and energy at Ars as a freelancer since 2011.</p>
+	</section>
+      
+        <div id="article_end_ad_footer" class="instream-wrap">
+      <div class="instream-container" style="min-width:initial; max-width:initial;">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad ad_footer"></div>
+      </div>
+    </div>
+    
+            <table class="post-links thick-divide-top thin-divide-bottom clearfix-redux" cellspacing="0" cellpadding="0" border="0" width="100%">
+      <tr>
+        <td width="50%" class="subheading older">
+          &nbsp;<a href="https://arstechnica.com/science/2022/04/biden-steps-up-federal-efforts-to-address-long-covid/" rel="prev"><span class="arrow">&larr;</span> Older Story</a>        </td>
+        <td class="subheading newer">
+          <a href="https://arstechnica.com/tech-policy/2022/04/comcast-wanted-man-to-pay-19000-even-though-his-neighbor-already-had-service/" rel="next">Newer Story <span class="arrow">&rarr;</span></a>&nbsp;
+        </td>
+      </tr>
+    </table>    
+<footer id="article-footer">
+      <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_14"></div>
+    <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+      </footer>
+    
+  </div>
+</article>
+
+
+<section id="article-sidebar" class="column-1 right">
+  
+  
+  
+  <!-- cache miss 312:column/article-bottom:dfba4ff33e67f976b9321e7d7f41e7ff -->
+<aside class="side-ad thick-divide-bottom">
+  </aside>
+
+<h2 id="recent-featured-title" class="subheading notched">Latest Feature Story</h2>
+<ul class="column">
+
+
+<li class="post" id="post-1707531">
+  <article class="in-column" data-post-id="1707531">
+		<a href="https://arstechnica.com/gadgets/2020/09/ios-and-ipados-14-review-iphone-transformation-ipad-iteration/" class="headline-image">
+						<img src="https://cdn.arstechnica.net/wp-content/uploads/2020/09/iOS-14-header-300x100.jpg" width="300" height="100">
+						<h2 class="page-count subheading">Feature Story (7 pages)</h2>
+			<h1 class="heading">iOS and iPadOS 14 review: iPhone transformation, iPad iteration</h1>
+		</a>
+		<p class="excerpt">Yes, you can finally change your default email app.</p>
+    	</article>
+</li>
+  <aside class="thick-divide-top">
+    <h2 class="subheading notched">Watch Ars Video</h2>
+	  <article class="in-column">
+      <div class="column-video" data-player="//player.cnevids.com/embed/621901dc5577c21903785ee9/5511d76261646d5566020000?autoplay=1">
+        <div style="width:300px; height:169px; background: transparent url('https://cdn.arstechnica.net/wp-content/uploads/2022/03/AT_STEAMDECK_11.png') no-repeat; background-size: cover;"></div>
+        <div class="column-video-overlay"></div>
+      </div>
+      <a href="https://arstechnica.com/gaming/2022/03/watch-sam-machkovech-go-hands-on-with-valves-steam-deck/"><h1 class="heading videohead">Watch Sam Machkovech go hands-on with Valve’s Steam Deck</h1></a>
+		  <p class="excerpt">We spend some time with a prerelease unit and give our impressions.</p>
+    </article>
+  </aside>
+<li id="in-the-know">
+	<h2 class="subheading notched">Stay in the know with</h2>
+	<ul class="social clearfix">
+    <li class="fb">
+			<a href="https://www.facebook.com/arstechnica"></a>
+		</li>
+		<li class="twit">
+			<a href="https://twitter.com/arstechnica"></a>
+		</li>
+		<li class="email">
+      <a href="http://arstechnica.us1.list-manage.com/subscribe?u=af7f013bad7e785d15aab736f&id=0adf3ee3d9"></a>
+		</li>
+		<li class="rss">
+			<a href="/rss-feeds/"></a>
+		</li>
+	</ul>
+</li>
+
+<h2 class="subheading notched">Latest News</h2>
+<ol class="rail latest-stories">
+      <li>
+    <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/Jt8I1XSs-150x150.jpeg" width="50" height="50">
+        <h1 class="heading">Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase</h1>
+          </a>
+  </li>
+    <li>
+    <a href="https://arstechnica.com/information-technology/2022/04/ransomware-sent-north-carolina-at-university-scrambling-to-restore-services/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/ransom-note-150x150.jpeg" width="50" height="50">
+        <h1 class="heading">Ransomware sent North Carolina A&#038;T University scrambling to restore services</h1>
+          </a>
+  </li>
+    <li>
+    <a href="https://arstechnica.com/gaming/2022/04/russian-doll-s2-trailer-is-a-trippy-time-traveling-delight/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/doll2-150x150.jpg" width="50" height="50">
+        <h1 class="heading"><em>Russian Doll</em> S2 trailer is a trippy time-traveling delight</h1>
+          </a>
+  </li>
+    <li>
+    <a href="https://arstechnica.com/gadgets/2022/04/apples-iwork-12-0-adds-new-features-to-pages-numbers-and-keynote/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/Pages-150x150.png" width="50" height="50">
+        <h1 class="heading">Apple’s iWork 12.0 adds new features to Pages, Numbers, and Keynote</h1>
+          </a>
+  </li>
+    <li>
+    <a href="https://arstechnica.com/science/2022/04/a-tsunami-wiped-out-ancient-communities-the-atacama-desert-3800-years-ago/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/zapatero-150x150.png" width="50" height="50">
+        <h1 class="heading">A tsunami wiped out ancient communities in the Atacama Desert 3,800 years ago</h1>
+          </a>
+  </li>
+    <li>
+    <a href="https://arstechnica.com/tech-policy/2022/04/facebook-says-ukraine-military-accounts-were-hacked-to-post-calls-for-surrender/" data-track-type="mostPopular" data-track-source="rightRail" data-track-location="rightRail">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-ukraine-soldiers-150x150.jpg" width="50" height="50">
+        <h1 class="heading">Facebook says Ukraine military accounts were hacked to post calls for surrender</h1>
+          </a>
+  </li>
+    <div style="display:none">
+    </div>
+</ol>
+
+<li>
+  <aside class="side-ad">
+      </aside>
+</li>
+
+</ul>
+
+</section>
+
+
+		</section>
+    		<footer id="page-footer">
+			<nav id="footer-nav" class="clearfix">
+				<div class="nav-section">
+					<h2 class="subheading">Site Links</h2>
+					<ul>
+						<li><a href="/about-us/">About Us</a></li>
+						<li><a href="/advertise-with-us/">Advertise with us</a></li>
+						<li><a href="/contact-us/">Contact Us</a></li>
+						<li><a href="/reprints/">Reprints</a></li>
+					</ul>
+
+					<h2 class="subheading">Subscriptions</h2>
+					<ul>
+						<li><a href="/subscriptions/">Subscribe to Ars</a></li>
+					</ul>
+				</div>
+				<div class="nav-section">
+					<h2 class="subheading">More Reading</h2>
+					<ul>
+						<li><a href="/rss-feeds/">RSS Feeds</a></li>
+						<li><a href="/newsletters/">Newsletters</a></li>
+					</ul>
+
+				</div>
+				<div class="nav-section">
+					<h2 class="subheading">Conde Nast Sites</h2>
+					<ul class="conde-nast-sites">
+						<li><a href="http://www.reddit.com/">Reddit</a></li>
+						<li><a href="http://www.wired.com/">Wired</a></li>
+						<li><a href="http://www.vanityfair.com/">Vanity Fair</a></li>
+						<li><a href="http://www.style.com/">Style</a></li>
+						<li><a href="http://www.details.com/">Details</a></li>
+					</ul>
+					<form method="get" action="#">
+						<select id="mag_list" name="mag_list" onchange="(this.options[this.selectedIndex].value) ? (window.location = this.options[this.selectedIndex].value) : null">
+							<option value="" selected="selected">Visit our sister sites</option>
+							<option value="">- - - - - - - - - - - - - -</option>
+							<option value="http://www.gq.com">GQ</option>
+							<option value="http://www.concierge.com">Concierge</option>
+							<option value="http://www.epicurious.com">Epicurious</option>
+							<option value="http://men.style.com">Men.Style.com</option>
+							<option value="http://www.style.com">Style.com</option>
+							<option value="http://www.wired.com">Wired.com</option>
+							<option value="http://www.lipstick.com">Lipstick.com</option>
+							<option value="http://www.nutritiondata.com">NutritionData</option>
+							<option value="http://www.allure.com">Allure</option>
+							<option value="http://www.architecturaldigest.com">Architectural Digest</option>
+							<option value="http://www.bonappetit.com">Bon App&eacute;tit</option>
+							<option value="http://www.brides.com">Brides</option>
+							<option value="http://www.portfolio.com">Cond&eacute; Nast Portfolio</option>
+							<option value="http://www.glamour.com">Glamour</option>
+							<option value="http://www.golfdigest.com">Golf Digest</option>
+							<option value="http://www.golfworld.com">Golf World</option>
+							<option value="http://www.luckymag.com">Lucky</option>
+							<option value="http://www.self.com">Self</option>
+							<option value="http://www.teenvogue.com">Teen Vogue</option>
+							<option value="http://www.newyorker.com">The New Yorker</option>
+							<option value="http://www.vanityfair.com">Vanity Fair</option>
+							<option value="http://www.wmagazine.com">W</option>
+						</select>
+					</form>
+					<form method="get" action="#">
+						<select size="1" id="sub_list" name="sub_list" onchange="(this.options[this.selectedIndex].value) ? (window.location = this.options[this.selectedIndex].value) : null">
+							<option value="" selected="selected">Subscribe to a magazine</option>
+							<option value="http://www.magazinestoresubscriptions.com?source=univdropdown">View All Titles</option>
+							<option value="">- - - - - - - - - - - - - -</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest">Architectural Digest</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?source=SITEFOOTER">Bon App&eacute;tit</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER">Brides</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastPortfolio?source=SITEFOOTER">Cond&eacute; Nast Portfolio</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER">Cond&eacute; Nast Traveler</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER">Details</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ElegantBride?source=SITEFOOTER">Elegant Bride</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER">Glamour</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER">Golf Digest</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER">Golf World</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER">GQ</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER">Lucky</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ModernBride?source=SITEFOOTER">Modern Bride</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER">Self</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER">Teen Vogue</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER">The New Yorker</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER">Vanity Fair</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER">Vogue</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER">W</option>
+							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER">Wired</option>
+						</select>
+					</form>
+				</div>
+				<div class="nav-section" id="mobile-site">
+          <h2 class="subheading"><a rel="nofollow" href="http://arstechnica.com/science/2022/04/ipcc-report-the-next-few-years-are-critical/?view=grid">View Mobile Site</a></h2>
+				</div>
+			</nav>
+	    <p class="cn-logo"><a href="http://www.condenast.com"><img src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/images/condenast-logo.png" width="131" height="19"></a></p>
+
+<div id="copyright-terms" class="footer-copyright-terms">
+  CNMN Collection<br>
+  WIRED Media Group<br>
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our <a href="https://www.condenast.com/user-agreement/">User Agreement</a> (updated 1/1/20) and <a href="https://www.condenast.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 1/1/20) and <a href="/amendment-to-conde-nast-user-agreement-privacy-policy/">Ars Technica Addendum</a> (effective 8/21/2018). Ars may earn compensation on sales from links on this site. <a href="/affiliate-link-policy/">Read our affiliate link policy</a>.<br>
+  <a href="https://www.condenast.com/privacy-policy/#california">Your California Privacy Rights</a> | <a id="ot-sdk-btn" class="ot-sdk-show-settings"> Do Not Sell My Personal Information</a><br>
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br>
+  <a href="https://www.condenast.com/online-behavioral-advertising-oba-and-how-to-opt-out-of-oba/#clickheretoreadmoreaboutonlinebehavioraladvertising(oba)">Ad Choices</a>
+</div>
+		</footer>
+	</div>
+
+   		<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars-mobile/assets/js/ars.min.762db9c7614f608898187cd9bd3230ec.js"></script>
+	
+        
+  
+  <!-- cache hit 312:single/javascript-footer:d1f5eb140e71af4dbcc65ba23f2b10a8 -->
+        
+
+
+    <!-- Parse.ly start -->
+<script type="text/plain" class="optanon-category-C0002" id="parsely-cfg" src="//fpa-cdn.arstechnica.com/keys/arstechnica.com/p.js"></script>
+<!-- Parse.ly end -->
+
+<!-- Memo start -->
+<script type="text/javascript">
+__memo_config = {
+	pid: ars.MEMO_PID,
+	url: ars.ARTICLE.url,
+	author: [ars.ARTICLE.authorName],
+	title: ars.ARTICLE.title,
+	date: ars.ARTICLE.pubDate,
+};
+(function(){
+	var s = document.createElement('script'); 
+	s.async = true; 
+	s.type = 'text/javascript'; 
+	s.src = document.location.protocol + '//cdn.memo.co/js/memo.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body') [0]).appendChild(s); 
+})();
+</script>
+<!-- Memo end -->
+  
+  
+  
+    <script src="https://player.cnevids.com/interlude/arstechnica.js" async></script>
+<script id="conde-polar" src="https://cdn.mediavoice.com/nativeads/script/condenastcorporate/conde-asa-polar-master.js" async></script>
+<script>
+  (function () {
+      function DQ() {
+        var queue = window.sparrowQueue;
+        this.push = fn => fn();
+        window.sparrowQueue = this;
+        while (queue.length) {
+          queue.shift()();
+        }
+      }
+      function e(t, e) {
+        var n, a, o;
+        a = !1, n = document.createElement("script"), n.type = "text/javascript", n.src = t, n.onload = n.onreadystatechange = function () {
+          a || this.readyState && "complete" != this.readyState || (a = !0, e ? e() : !0)
+        }, o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(n, o)
+      }
+      if (location.search.indexOf('no_sparrow') < 0) {
+        e("https://pixel.condenastdigital.com/config/v2/production/ars-technica.config.js", function () {
+          e("https://pixel.condenastdigital.com/sparrow.min.js", function () {
+            if (window.SparrowConfigV2) {
+              window.sparrow = new window.Sparrow(window.SparrowConfigV2);
+              new DQ();
+            }
+          })
+        })
+      }
+    })();
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
+</body>
+</html>

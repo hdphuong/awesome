@@ -1,0 +1,21 @@
+Content-Length: 24145
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Drupal-Cache: HIT
+Etag: "1649404928-0"
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+Cache-Control: public, max-age=10800
+Last-Modified: Fri, 08 Apr 2022 08:02:08 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Content-Encoding: gzip
+X-Request-Id: v-06d1997e-b71a-11ec-b1fa-ab2f80e6564f
+X-Ah-Environment: prod
+Age: 9450
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 1652
+Accept-Ranges: bytes

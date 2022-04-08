@@ -1,0 +1,17 @@
+Date: Fri, 08 Apr 2022 11:35:12 GMT
+Content-Type: text/plain
+Last-Modified: Fri, 08 Apr 2022 09:52:05 GMT
+Etag: W/"625005c5-1f6"
+Strict-Transport-Security: max-age=31536000;
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: unsafe-url
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 109
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f8ab2bd3ce46a54-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

@@ -1,0 +1,16 @@
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Location: https://www.sophos.com/en-us/products/managed-threat-response
+X-Request-Id: v-9e0c9372-b72c-11ec-9678-5fd1b3ef785d
+X-Ah-Environment: prod
+X-Geo-Country: AU
+Vary: X-Geo-Country
+X-Age: 0
+Expires: Fri, 08 Apr 2022 11:11:20 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 08 Apr 2022 11:11:20 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=181
+Server-Timing: origin; dur=172
+X-Sophos-O: d

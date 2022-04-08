@@ -1,0 +1,27 @@
+Content-Length: 94
+Date: Fri, 08 Apr 2022 11:09:40 GMT
+Content-Type: text/html; charset=UTF-8
+Zendesk-Api-Version: 2022-01-01
+P3P: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+Vary: Accept
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'self' ;
+Zendesk-Ep: -10
+Location: https://zdnet.zendesk.com/hc
+Set-Cookie: _zendesk_shared_session=-QllZRkJxOGIxMU9jYWt6TU0vRGdkMGt0QjBvNDZHeVRiN0IvTTVVbEhoSG44dDRBK2NxRVNwdFd0WlhCRUQwbW9GcU15dEF2aVhjcC9xWE56dHRyVWtTRWRXa25qTTlIVjVYY25ZNENWZU5SbE1jREhvRjR0RVFTeWNJakw0bnJsWHJjTUt0S2w1VTE4eEVya1JyeGxRPT0tLTAyMjRid0lUT2RqK3NLb0NJUW41amc9PQ%3D%3D--238e6680cc3aff16b5eab4861dadbe95486dbce4; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure; HttpOnly; SameSite=None
+Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJThlYTc0YTMyYjBjNWUzZDA3YTE2NTYyYTI3MGEwZTA1BjsAVEkiDGFjY291bnQGOwBGaQP7yKdJIgpyb3V0ZQY7AEZpA3jtSEkiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--6894f17a7d34335fadae6bd869e9ee8ac1f78e01; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=259200;
+Cache-Control: no-cache
+X-Zendesk-Origin-Server: classic-app-server-86c8b57847-g94cm
+X-Request-Id: 6f8a8d56f82c55ab-SYD
+X-Request-Id: 6f8a8d56f82c55ab-SYD
+X-Runtime: 0.055888
+X-Zendesk-Zorg: yes
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mloEEtPKWyNc7rSqFtUDFxyCtVrdoN2gE5LQSZvBex6zmlaEsJDZgf8ss8h01LYz6HaIoksVuM3X%2Bl0qsAgTDrLcO1vHNdQnbi%2FELm9jkUudfPmsIYlL7eml5IqTMiPaclDU"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f8a8d56f82c55ab-SYD

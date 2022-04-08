@@ -1,0 +1,12 @@
+Date: Fri, 08 Apr 2022 11:35:57 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://blog.redforce.io>; rel=shortlink
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=q1ZsOwcnuTj4chJS21mAn24K5ISdM1f5SsDPLSu%2Bm5GUL5z59xZ2EZH8rGyQDQr7qkGteI%2BvNN9jVDFm4wVvtxH0YIjvDTq9Jus9L7ArCeU1ssLsbeBGyb88FVwoYZd3qHD3"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f8ab3d6caff5ab8-MEL
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

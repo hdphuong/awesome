@@ -1,0 +1,24 @@
+Content-Length: 116
+Content-Language: en-GB
+Content-Security-Policy: default-src 'none'; img-src 'self' https://stats.g.doubleclick.net https://www.google-analytics.com  https://images.ctfassets.net https://downloads.ctfassets.net https://www.gstatic.com https://ssl.gstatic.com https://platform.twitter.com https://obs.twimg.com https://syndication.twitter.com https://pbs.twimg.com https://ton.twimg.com data: https://cdn.cookielaw.org https://i.creativecommons.org https://licensebuttons.net; media-src 'self' https://videos.ctfassets.net https://www.youtube.com https://player.vimeo.com https://strapi-dev2.s3.amazonaws.com; frame-src 'self' https://www.youtube.com https://player.vimeo.com https://cookies.onetrust.mgr.consensu.org https://www.instagram.com https://platform.twitter.com https://syndication.twitter.com https://privacyportal-eu.onetrust.com; connect-src 'self' https://cdn.contentful.com https://preview.contentful.com https://www.google-analytics.com https://www.googletagmanager.com https://stats.g.doubleclick.net https://sentry.io https://cdn.cookielaw.org https://api.twitter.com; script-src 'self' https://www.google-analytics.com 'unsafe-inline' https://www.googletagmanager.com https://tagmanager.google.com https://platform.twitter.com https://cdn.syndication.twimg.com data: https://cdn.cookielaw.org https://geolocation.onetrust.com; font-src 'self' https://fonts.gstatic.com https://github.com data:; style-src 'self' 'unsafe-inline' https://tagmanager.google.com https://fonts.googleapis.com/ https://platform.twitter.com https://ton.twimg.com; manifest-src 'self'; worker-src 'self'; child-src 'self'; upgrade-insecure-requests
+Content-Type: text/html; charset=utf-8
+Expect-Ct: enforce, max-age=86400
+Feature-Policy: accelerometer 'none'
+Location: /online-behavioral-advertising
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Fastly-Original-Body-Size: 116
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:35:22 GMT
+Age: 108
+X-Served-By: cache-iad-kjyo7100107-IAD, cache-syd10145-SYD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1649417723.849787,VS0,VE1
+Vary: Accept-Encoding, Authorization, Accept

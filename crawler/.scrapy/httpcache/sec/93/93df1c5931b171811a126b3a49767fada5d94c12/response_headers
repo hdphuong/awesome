@@ -1,0 +1,15 @@
+Content-Length: 2440
+Server: nginx
+Date: Fri, 08 Apr 2022 11:35:44 GMT
+Content-Type: text/plain
+X-Content-Type-Options: nosniff
+Last-Modified: Thu, 04 Nov 2021 17:51:12 GMT
+Cache-Control: max-age=1209600
+Expires: Thu, 21 Apr 2022 20:19:09 GMT
+X-Request-Id: v-fb56afea-b6af-11ec-9690-fbafe310b5f4
+X-Ah-Environment: prod
+Age: 54995
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 359
+Accept-Ranges: bytes

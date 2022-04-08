@@ -1,0 +1,10 @@
+Content-Length: 230
+Location: https://www.google.com/robots.txt
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Fri, 08 Apr 2022 11:36:13 GMT
+Expires: Fri, 08 Apr 2022 12:06:13 GMT
+Cache-Control: public, max-age=1800
+Server: sffe
+X-Xss-Protection: 0

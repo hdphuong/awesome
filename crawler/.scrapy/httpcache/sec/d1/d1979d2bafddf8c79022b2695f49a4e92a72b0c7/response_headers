@@ -1,0 +1,16 @@
+Content-Length: 162
+Cache-Control: public, max-age=2592000
+Content-Type: text/html
+Date: Fri, 08 Apr 2022 11:09:35 GMT
+Display: staticcontent_sol
+Location: https://www.youronlinechoices.com.au/
+Pagespeed: off
+Response: 301
+Server: nginx
+Vary: Accept-Encoding
+Vary: User-Agent,Origin,Accept-Encoding
+X-Ezoic-Cdn: Hit ds;mm;e6307db38c6a825c910531b6556713b0;2-307473-4;8a7454db-1b22-4d08-78e8-0d9330999e6a
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 301
+X-Origin-Cache-Control: 
+X-Sol: pub_site

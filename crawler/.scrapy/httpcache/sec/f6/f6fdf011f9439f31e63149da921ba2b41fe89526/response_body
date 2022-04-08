@@ -1,0 +1,1333 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-TN7JJ3N');</script>
+    <title>startup - Business IT</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="Description" content="Breaking startup news, analysis and opinion, tailored for Australian CIOs, IT managers and IT professionals.">
+    <meta name="Keywords" content="">
+    <meta name="news_keywords" content="">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Business IT RSS Feed" href="/rss/rss.ashx" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:300,700,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,700italic,300,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:600" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png?v=20170426">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png?v=20170426">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png?v=20170426">
+    <link rel="manifest" href="/images/favicons/manifest.json?v=20170426">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg?v=20170426" color="#303030">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico?v=20170426">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml?v=20170426">
+    <meta name="theme-color" content="#cccccc">
+
+    
+    <meta property="og:site_name" content="Business IT">
+    <meta property="og:title" content="startup - Business IT">
+    <meta property="og:url" content="https://www.bit.com.au/tag/startup">
+    <meta property="og:image" content="https://www.bit.com.au/images/bit-logo.png">
+    <meta property="og:image:width" content="176" />
+    <meta property="og:image:height" content="122" />
+    <meta property="og:description" content="Breaking startup news, analysis and opinion, tailored for Australian CIOs, IT managers and IT professionals.">
+
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@BIT_au">
+    <meta name="twitter:creator" content="@BIT_au">
+    <meta name="twitter:title" content="startup - Business IT">
+    <meta name="twitter:description" content="Breaking startup news, analysis and opinion, tailored for Australian CIOs, IT managers and IT professionals.">
+    <meta name="twitter:url" content="https://www.bit.com.au/tag/startup">
+    
+        <meta name="twitter:image" content="https://www.bit.com.au/images/bit-logo.png">
+    
+    
+
+    
+    
+    <link rel="next" href="http://www.bit.com.au/tag/startup/page2"/>
+    
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_8b10ef91e0bbce72994406c6209efa9e.css" />
+
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->
+
+    
+    
+
+
+</head>
+<body>
+    
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN7JJ3N" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <div class="wrapper" id="wrapper">
+        <div class="off-canvas-wrap" data-offcanvas>
+            <div class="inner-wrap">
+                <header>
+                    <div class="collapse header-full show-for-large-up" id="header-secondary">
+                        <div class="header-columns">
+                            <div id="header-lb">
+                                <div id="ph-leader"></div>
+                                <div id="div-gpt-ad-leader" class="ad-leader"></div>
+                            </div>
+                            <a href="/" id="site-logo"></a>
+                        </div>
+                    </div>
+                    <div class="collapse header-full" id="header-primary">
+                        
+
+<div class="header-columns">
+    <div class="sticky" id="sticky-nav">
+        <nav class="top-bar row full-width collapse show-for-large-up" data-topbar role="navigation">
+            <div id="top-bar-secondary">
+                <div id="follow-us">
+                    <a class="follow-twitter" href="https://twitter.com/BIT_au" target="_blank"></a>
+                    <a class="follow-facebook" href="http://www.facebook.com/BITAustralia" target="_blank"></a>
+                    <a class="follow-linkedin" href="https://www.linkedin.com/company/bit-business-it" target="_blank"></a>
+                    <a class="follow-rss" href="/rss"></a>
+                </div>
+                
+                    <a class="login-click">Log In</a>
+                    <a href="/register">Subscribe</a>
+                
+                
+                <a href="#" class="search">&nbsp;</a>
+
+            </div>
+            <section class="top-bar-section">
+                <a href="/" id="bit-logo-sticky">
+                    <img src="/images/bit-logo-sticky.png" alt="Business IT" /></a>
+                <ul class="top-bar-primary">
+                    
+                            <li>
+                                
+                                    <a href="/topic/reviews-and-comparisons-455549">Reviews</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/galleries">Photo Galleries</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/tips-and-guides-455550">Guides</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/for-small-and-mid-sized-businesses-455547">SMB</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/for-startups-452497">Startups</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                
+                                    <a href="#" data-dropdown="dropdown-5" data-options="is_hover:true;pip:center">Trending Topics</a>
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/resources">Resources</a>
+                                
+                                
+                                
+                            </li>
+                        
+                </ul>
+            </section>
+            <div id="search-box">
+                <input type="text" placeholder="Search Business IT">
+                <button>Search</button>
+            </div>
+            
+                                        <div id="dropdown-5" data-dropdown-content class="f-dropdown menu-dropdown">
+                                            <div class="dropdown-links">
+                                    
+                                        <a href="/topic/accounting-323722">Accounting</a>
+                                    
+                                        <a href="/topic/security-455554">Security</a>
+                                    
+                                        <a href="/topic/telecommunications-455557">Telco</a>
+                                    
+                                        <a href="/topic/laptops-and-hybrids-455556">Laptops</a>
+                                    
+                                        <a href="/topic/tablets-455559">Tablets</a>
+                                    
+                                        <a href="/topic/smartphones-455560">Smartphones</a>
+                                    
+                                        <a href="/topic/printers-455564">Printers</a>
+                                    
+                                        <a href="/topic/storage-455565">Storage</a>
+                                    
+                                        </div>
+                            </div>
+                                    
+        </nav>
+
+        
+        <div class="hide-for-large-up">
+            <nav class="mobile-nav" role="navigation">
+
+                <section class="title-area full-width">
+                    <div class="menu-primary">
+                        <button class="c-hamburger c-hamburger--htx">
+                            <span></span>
+                        </button>
+                    </div>
+                    <div class="logo">
+                        <a href="/">
+                            <img src="/images/bit-logo.png" alt="Business IT" /></a>
+                    </div>
+                    <div class="menu-secondary">
+                        <a class="user-icon">
+                            <div id="icon"></div>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="top-bar-nav">
+                    <div class="mobile-nav-search">
+                        <input type="text" placeholder="Search Business IT">
+                    </div>
+                    <div class="mobile-nav-container">
+                        
+                                <a href="/topic/reviews-and-comparisons-455549" class="mobile-nav-item"><span>Reviews</span></a>
+                                
+                            
+                                <a href="/galleries" class="mobile-nav-item"><span>Photo Galleries</span></a>
+                                
+                            
+                                <a href="/topic/tips-and-guides-455550" class="mobile-nav-item"><span>Guides</span></a>
+                                
+                            
+                                <a href="/topic/for-small-and-mid-sized-businesses-455547" class="mobile-nav-item"><span>SMB</span></a>
+                                
+                            
+                                <a href="/topic/for-startups-452497" class="mobile-nav-item"><span>Startups</span></a>
+                                
+                            
+                                <a href="#" class="mobile-nav-item"><span>Trending Topics</span></a>
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/topic/accounting-323722" class="mobile-nav-item"><span>Accounting</span></a>
+                                    
+                                        <a href="/topic/security-455554" class="mobile-nav-item"><span>Security</span></a>
+                                    
+                                        <a href="/topic/telecommunications-455557" class="mobile-nav-item"><span>Telco</span></a>
+                                    
+                                        <a href="/topic/laptops-and-hybrids-455556" class="mobile-nav-item"><span>Laptops</span></a>
+                                    
+                                        <a href="/topic/tablets-455559" class="mobile-nav-item"><span>Tablets</span></a>
+                                    
+                                        <a href="/topic/smartphones-455560" class="mobile-nav-item"><span>Smartphones</span></a>
+                                    
+                                        <a href="/topic/printers-455564" class="mobile-nav-item"><span>Printers</span></a>
+                                    
+                                        <a href="/topic/storage-455565" class="mobile-nav-item"><span>Storage</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/resources" class="mobile-nav-item"><span>Resources</span></a>
+                                
+                            
+                    </div>
+                    <div class="mobile-nav-follow">
+                        <a class="follow-twitter" href="https://twitter.com/BIT_au" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a class="follow-facebook" href="http://www.facebook.com/BITAustralia" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                        <a class="follow-linkedin" href="https://www.linkedin.com/company/bit-business-it" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                    </div>
+                </section>
+
+                <section class="top-bar-user">
+                    
+                        <div id="login-form-mobile">
+                            <h3 class="section-header"><span>Log In</span></h3>
+                            <div class="mobile-small">
+                                <div class="form-label">Email:</div>
+                                <div class="form-input">
+                                    <input id="username-mobile" name="username" type="text" required />
+                                </div>
+                            </div>
+                            <div class="mobile-small">
+                                <div class="form-label">Password:</div>
+                                <div class="form-input">
+                                    <input id="password-mobile" name="password" type="password" required />
+                                </div>
+                            </div>
+                            <div class="row collapse form-checkbox">
+                                <input id="rememberMe-mobile" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label>
+                                <span>| &nbsp;<a href="/forgot" title="Forgot your password?">Forgot password?</a></span>
+                            </div>
+                            <div class="ui-dialog-buttonset mobile-submit">
+                                <input type="button" id="login-button-mobile" value="Log In" class="button" />
+                            </div>
+                            <div id="login-validation-mobile"></div>
+                            <div id="login-response-mobile"></div>
+                            <div id="mobile-register"><a href="/register">Don't have an account? Register now!</a></div>
+                        </div>
+                    
+                    
+                </section>
+            </nav>
+        </div>
+        
+    </div>
+</div>
+
+                    </div>
+                </header>
+                <div id="skin">
+                    <div class="row leaderboard">
+                        <div id="div-gpt-ad-pushdown" class="ad-leader"></div>
+                    </div>
+                    <div class="row main-section collapse">
+                        <div class="large-12 columns">
+                            
+<div>
+    
+
+</div>
+<div class="row">
+    <div class="small-12 large-8 columns container-primary"> 
+        
+
+    <h1 class="cat-header"><span>startup</span></h1>
+    
+
+<div>
+                   
+            <div class="row collapse article-list-container">
+                <a href="/guide/how-are-parents-utilising-health-tech-to-give-their-dogs-a-voice-573844" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="How are parents utilising health tech to give their dogs a voice?" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2filume_dog_tech.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/how-are-parents-utilising-health-tech-to-give-their-dogs-a-voice-573844">
+                        <h2 class="article-list-title">How are parents utilising health tech to give their dogs a voice?</h2>
+                        <div class="article-list-intro">Giving dogs a voice through health tech</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Dec 10 2021, 9:36AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/pure-health-hub-a-new-womens-health-platform-to-meet-gap-in-the-market-571988" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Pure Health Hub: A new women&amp;#8217;s health platform to meet gap in the market" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fwomens_health.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/pure-health-hub-a-new-womens-health-platform-to-meet-gap-in-the-market-571988">
+                        <h2 class="article-list-title">Pure Health Hub: A new women&#8217;s health platform to meet gap in the market</h2>
+                        <div class="article-list-intro">Across the world, women are being impacted by COVID in many ways.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Oct 29 2021, 4:11PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/4-driving-forces-behind-every-great-tech-team-571839" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="4 driving forces behind every great tech team" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2ftech_team_safety_culture.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/4-driving-forces-behind-every-great-tech-team-571839">
+                        <h2 class="article-list-title">4 driving forces behind every great tech team</h2>
+                        <div class="article-list-intro">There&#8217;s a science to building truly great teams. Set up your teams to scale from good to great.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Oct 27 2021, 4:14PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/5-top-tips-every-entrepreneur-should-know-before-starting-a-business-570451" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="5 top-tips every entrepreneur should know before starting a business" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fOrdermentum.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/5-top-tips-every-entrepreneur-should-know-before-starting-a-business-570451">
+                        <h2 class="article-list-title">5 top-tips every entrepreneur should know before starting a business</h2>
+                        <div class="article-list-intro">When you think of a successful entrepreneur...</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Sep 28 2021, 10:37AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/send---the-origin-story-of-australias-latest-food-delivery-start-up-569427" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="SEND - the origin story of Australia&#39;s latest food delivery start-up" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fsend-logo.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/send---the-origin-story-of-australias-latest-food-delivery-start-up-569427">
+                        <h2 class="article-list-title">SEND - the origin story of Australia's latest food delivery start-up</h2>
+                        <div class="article-list-intro">Rob Adams, a 29 year old high school dropout from Sydney&#8217;s Northern Beaches never intended to climb the corporate ladder and wasn&#8217;t overly interested in any of the subjects taught at school.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Sep 3 2021, 4:15PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/aussie-consumers-thinking-twice-about-the-people-impacted-by-their-supermarket-purchases-569025" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Aussie consumers thinking twice about the people impacted by their supermarket purchases" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2faustralian_made_logo.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/aussie-consumers-thinking-twice-about-the-people-impacted-by-their-supermarket-purchases-569025">
+                        <h2 class="article-list-title">Aussie consumers thinking twice about the people impacted by their supermarket purchases</h2>
+                        <div class="article-list-intro">Over the last 18 months, as well as our health and wellbeing, it&#8217;s also the economy and Australian business that&#8217;s taken a hit. </div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Aug 25 2021, 10:57AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/thriving-post-covid-from-those-that-were-hit-hardest-567403" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Thriving post-COVID from those that were hit hardest" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fpreno_hotel_covid.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/thriving-post-covid-from-those-that-were-hit-hardest-567403">
+                        <h2 class="article-list-title">Thriving post-COVID from those that were hit hardest</h2>
+                        <div class="article-list-intro">All businesses have had to learn resilience in the past 12 months.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jul 15 2021, 11:56AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/5-expert-digital-marketing-tips-565503" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="5 Expert digital marketing tips" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fdigital_marketing.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/5-expert-digital-marketing-tips-565503">
+                        <h2 class="article-list-title">5 Expert digital marketing tips</h2>
+                        <div class="article-list-intro">Quick tips for start-ups and SMBs.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jun 4 2021, 2:02PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/what-makes-australian-entrepreneurs-stand-out-from-the-crowd-565499" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="What makes Australian entrepreneurs stand out from the crowd?" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fstart-up.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/what-makes-australian-entrepreneurs-stand-out-from-the-crowd-565499">
+                        <h2 class="article-list-title">What makes Australian entrepreneurs stand out from the crowd?</h2>
+                        <div class="article-list-intro">Australians are known all over the world for their &#8216;can do&#8217; spirit, but what sets our local entrepreneurs apart from their global peers?</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jun 4 2021, 1:40PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/breakfast-cereal-technology-with-a-hint-of-religion-and-forthcoming-nfts-564913" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Breakfast cereal technology with a hint of religion and forthcoming NFTs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2falt_saints.png&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/breakfast-cereal-technology-with-a-hint-of-religion-and-forthcoming-nfts-564913">
+                        <h2 class="article-list-title">Breakfast cereal technology with a hint of religion and forthcoming NFTs</h2>
+                        <div class="article-list-intro">Food design and technology: a profile of Alt Saints.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">May 23 2021, 6:41PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/6-tips-from-a-start-up-founder-564335" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="6 Tips from a Start-Up Founder" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fstart-up_advice.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/6-tips-from-a-start-up-founder-564335">
+                        <h2 class="article-list-title">6 Tips from a Start-Up Founder</h2>
+                        <div class="article-list-intro">Research shows eight out of ten startups fail but those that do survive are most likely in e-commerce, mobile apps or agriculture.&#160;</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">May 10 2021, 10:51AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/the-state-of-smb-innovation-in-2021-563765" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="The state of SMB innovation in 2021" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2famazon_launchpad_innovation_grant.png&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/the-state-of-smb-innovation-in-2021-563765">
+                        <h2 class="article-list-title">The state of SMB innovation in 2021</h2>
+                        <div class="article-list-intro">Small to medium sized businesses&#8217; (SMBs) ability to demonstrate resilience and fortitude over the past year is nothing short of astounding. </div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Apr 23 2021, 4:40PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/equity-mates-podcast-secures-funding-to-accelerate-growth-558755" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Equity Mates podcast, secures funding to accelerate growth" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fwww.bit.com.au%2fimages%2fplaceholder.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/equity-mates-podcast-secures-funding-to-accelerate-growth-558755">
+                        <h2 class="article-list-title">Equity Mates podcast, secures funding to accelerate growth</h2>
+                        <div class="article-list-intro">Finance podcast procures payment</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Dec 9 2020, 11:08AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/affordable-startup-space-coming-to-sydney-cbd-mega-tower-532597" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="&quot;Affordable&quot; startup space coming to Sydney CBD mega-tower" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fCircular_quay.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/affordable-startup-space-coming-to-sydney-cbd-mega-tower-532597">
+                        <h2 class="article-list-title">"Affordable" startup space coming to Sydney CBD mega-tower</h2>
+                        <div class="article-list-intro">Under-construction tower at Circular Quay will be grand location for innovators.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Oct 18 2019, 1:51PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/plain-english-guide-to-startup-jargon-439135" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Plain English guide to startup jargon" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=http%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fiStock_37869242_SMALL.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/plain-english-guide-to-startup-jargon-439135">
+                        <h2 class="article-list-title">Plain English guide to startup jargon</h2>
+                        <div class="article-list-intro">Ever wondered what an &#8216;incubator&#8217;, &#8216;angel investor&#8217; or &#8216;minimum viable product&#8217; is? We explain 10 commonly used startup terms.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jun 15 2018, 2:49AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/guide/nine-innovation-tips-from-a-leading-startup-investor-442343" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Nine innovation tips from a leading startup investor" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=http%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fjefftobias-640.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/guide/nine-innovation-tips-from-a-leading-startup-investor-442343">
+                        <h2 class="article-list-title">Nine innovation tips from a leading startup investor</h2>
+                        <div class="article-list-intro">Leading Australian angel investor and consultant Jeffrey Tobias shares his insights for making your tech business a success.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jun 14 2018, 1:04AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/aussie-startup-claims-its-ai-outperforms-embryologists-487323" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Aussie startup claims its AI outperforms embryologists" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2flife_whisperer.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/aussie-startup-claims-its-ai-outperforms-embryologists-487323">
+                        <h2 class="article-list-title">Aussie startup claims its AI outperforms embryologists</h2>
+                        <div class="article-list-intro">Medical image analysis is one area where artificial intelligence is more accurate than human experts, according to Life Whisperer. </div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Mar 19 2018, 10:21PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/how-flossie-helps-minimise-no-shows-for-appointments-484983" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="How Flossie helps minimise no-shows for appointments" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fFlossie.png&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/how-flossie-helps-minimise-no-shows-for-appointments-484983">
+                        <h2 class="article-list-title">How Flossie helps minimise no-shows for appointments</h2>
+                        <div class="article-list-intro">The successful NZ startup aims to become Australian salon owners&#8217; best friend.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Feb 12 2018, 12:30PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/nsw-startup-creates-navigation-app-for-wheelchair-users-484235" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="NSW startup creates navigation app for wheelchair users" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBriometrix_tracker.jpg&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/nsw-startup-creates-navigation-app-for-wheelchair-users-484235">
+                        <h2 class="article-list-title">NSW startup creates navigation app for wheelchair users</h2>
+                        <div class="article-list-intro">Briometrix is piloting an app with maps that provide reliable accessibility information.</div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Feb 1 2018, 3:45PM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+                       
+            <div class="row collapse article-list-container">
+                <a href="/news/mental-health-and-safety-startup-set-to-expand-482228" class="small-3 columns article-list-img">
+                    
+                    
+                        <img alt="Mental health and safety startup set to expand" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fTap_Into_Safety.png&amp;h=149&amp;w=240&amp;c=1&amp;s=1">
+                    
+                    
+                    
+                    
+                </a>
+                <div class="small-9 columns article-list-content">
+                    <a href="/news/mental-health-and-safety-startup-set-to-expand-482228">
+                        <h2 class="article-list-title">Mental health and safety startup set to expand</h2>
+                        <div class="article-list-intro">A new $750,000 investment will allow Tap Into Safety to accelerate its growth plans. </div>
+                    </a>
+                    <div class="article-list-details">
+                          
+                    
+                        
+                        
+                        
+                        <span class="article-list-date">Jan 31 2018, 8:33AM</span> 
+                    </div>                    
+                </div>            
+            </div>                        
+        
+</div>
+<div>
+    
+
+<div class="list-paging row collapse">
+    
+    
+    <div class="list-paging-next">
+            <a title="Next" href="/tag/startup/page2" class="alternate-button">Next</a>
+    </div>
+    
+</div>
+</div>
+
+
+    </div> 
+    <aside class="small-12 large-4 columns container-secondary">  
+        
+  
+        
+        <div class="mrec-top mrec-secondary">
+            <div id="div-gpt-ad-island" class="ad-mrec"></div>
+        </div>
+        
+        <div id="div-gpt-ad-button" class="button-ad"></div>
+        
+        
+
+<div class="newsletter-block">
+    <div class="nl-title"><span>Newsletter Signup</span></div>
+    <div class="nl-signup newsletter-form">
+        <div>
+            <p>Get the latest business tech news, reviews and guides delivered to your inbox.</p>
+            <div class="nl-message"></div>
+            <input placeholder="mail@example.com" type="text" name="email" value="" class="email" data-source="BIT_Boxout">
+            <button>SIGN UP</button>
+            <div class="newsletter-terms">
+                I have read and accept the <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">privacy policy</a> and <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">terms and conditions</a> and by submitting my email address I agree to receive the Business IT newsletter and receive special offers on behalf of Business IT, nextmedia and its valued partners. We will not share your details with third parties. 
+            </div>
+            
+        </div>
+    </div>
+</div>
+        
+        <section id="most-read-container">
+            <h3 class="section-header"><span>Most Read</span></h3>
+            <ul>
+    
+                <li><a href="/guide/2022-tech-stack-resolutions-put-your-crm-first-573848">2022 tech stack resolutions: Put your CRM first</a></li>
+    
+                <li><a href="/review/venom-blackbook-zero-15-phantom-573253">Venom BlackBook Zero 15 Phantom</a></li>
+    
+                <li><a href="/guide/technology-predictions-for-2022-and-beyond-573344">Technology predictions for 2022 and beyond</a></li>
+    
+                <li><a href="/news/epson-launches-new-ecotank-printers-for-the-home-office-572174">Epson launches new EcoTank printers for the Home Office</a></li>
+    
+                <li><a href="/guide/home-security-d-link-wi-fi-cameras-reviewed-dcs-6500lh-and-dcs-6100lh-573578">Home Security: D-Link Wi-Fi cameras reviewed (DCS-6500LH and DCS-6100LH)</a></li>
+    
+            </ul>
+        </section>
+    
+
+        
+
+        
+
+<section id="latest-comments">
+    <h3 class="section-header"><span>Latest Comments</span></h3>
+    <div id="latest-comments-response"></div>
+</section>
+        
+
+
+<section id="poll-container">
+    <h3 class="section-header"><span>Poll</span></h3>
+        <div id="poll-id-553834">            
+            <div id="poll-title">What would you like to see more of on BiT?</div>
+            <div>
+                                            
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5844">
+                                News                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5845">
+                                Reviews                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5846">
+                                Features                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5847">
+                                How To's                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5848">
+                                Lollies                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5849">
+                                Photo Galleries                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5850">
+                                Videos                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5851">
+                                Opinion                                                                
+                            </div>
+                        
+                    <button data-poll-id="553834" class="alternate-button">Vote Now</button>
+                
+                
+            </div>
+        </div>            
+    
+    <a class="poll-archive" href="/polls">View poll archive</a>
+</section>
+                
+        <div class="mrec-lower">
+            <div id="div-gpt-ad-island2" class="ad-mrec"></div>
+        </div>
+    </aside>
+</div>
+
+
+                            <div class="row footerboard">
+                                <div id="div-gpt-ad-footer" class="ad-leader"></div>
+                            </div>
+                            
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Blogs&pa=&sc=0&output=script&ros=True&offset=False&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+                
+
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+            <ul class="large-block-grid-5 network-bar-grid">
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                        <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Cyber crime is a team sport, say CISOs
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Boardroom Impact: Critical infrastructure
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="https://www.itnews.com.au/awards/finalists-showcase?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="iTnews Benchmark Awards Finalist&#39;s Showcase" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiTnews_BA2022_FinalistShowcase_LinkedInSocial.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        iTnews Benchmark Awards Finalist's Showcase
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/news/us-warns-of-newly-found-advanced-chinese-backdoor-576663?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        US warns of newly found advanced Chinese backdoor
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/state-of-it/?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        State of IT
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/digitalnation/?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Digital Nation has relaunched
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/news/itnews-benchmark-awards-ceremony-moving-to-june-15-575464?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        iTnews Benchmark Awards ceremony moving to June 15
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.crn.com.au/news/google-cloud-names-angela-coronica-new-anz-channel-chief-575039?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="Google Cloud names new ANZ channel chief" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f1643011317593.jpeg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        Google Cloud names Angela Coronica new ANZ channel chief
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/sap-names-first-regional-head-of-sustainability-575067?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        SAP names first regional head of sustainability
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/long-time-microsoft-anz-exec-phil-goldie-departs-after-12-years-575011?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Long-time Microsoft ANZ exec Phil Goldie departs after 12 years
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/canon-business-services-acquires-wa-microsoft-partner-satalyst-574890?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Canon Business Services acquires WA Microsoft partner Satalyst
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/aussie-technology-spending-to-reach-111-billion-in-2022-gartner-574894?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Aussie technology spending to reach $111 billion in 2022: Gartner
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.iothub.com.au/event/iot-impact-conference-576820?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="IoT Impact Conference" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fEvents%2f20220303092641_iot-impact-intro-image1.png&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Impact Conference
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576814?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Insights conference, Orange NSW: Digital Food & Agribusiness
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/iot-impact-moving-to-june-9-575046?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Impact moving to June 9
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/2021-iot-awards-winners-announced-572454?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        2021 IoT Awards winners announced
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Second critical infrastructure cyber security bill passes parliament
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                
+
+<footer>
+    <div id="footer-top-level" class="row">
+        <div class="large-12 columns">
+            <div id="footer-links">
+                <a href="/page/contact">Contact Us</a>
+                <a href="/page/about">About Us</a>
+                <a href="/feedback">Feedback</a>
+                <a href="/page/advertising">Advertise</a>
+                <a href="/newsletter">Newsletter Archive</a>
+                <a href="/sitemap">Site Map</a>
+                <a href="/rss">RSS</a> 
+            </div>
+            <a href="http://www.nextmedia.com.au/" target="_blank" class="nm-logo"><img src="/images/logo_nextmedia.png" alt="nextmedia" /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.    
+        </div>   
+    </div>
+    <div id="footer-bottom-level">
+        <div class="row">
+        <div class="small-12 medium-9 columns">
+            <div id="footer-sites">
+            <span>OTHER TECH SITES:</span>
+            <a href="https://www.crn.com.au" target="_blank">CRN</a> &nbsp;|&nbsp;
+            <a href="https://www.iothub.com.au" target="_blank">IoT Hub</a> &nbsp;|&nbsp;
+            <a href="https://www.itnews.com.au" target="_blank">iTnews</a>
+            </div>
+            <div id="footer-terms">
+            All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />Your use of this website
+            constitutes acceptance of nextmedia's <a href="http://www.nextmedia.com.au/next-media-privacy-statement.html" target="_blank">Privacy Policy</a> and 
+            <a href="http://www.nextmedia.com.au/next-media-terms-and-conditions.html" target="_blank">Terms & Conditions</a>.
+            </div>
+        </div>
+            <div class="small-12 large-3 columns" id="footer-powered-by">
+            <div class="footer-powered-by-inner">
+                <span>Powered By</span>
+                <a href="https://www.interactive.com.au" target="_blank"><img src="/images/interactive-logo.png" alt="Powered by Interactive" /></a>
+            </div>
+        </div> 
+        <!-- <div class="small-12 medium-3 columns" id="footer-rackspace"><a href="http://www.rackspace.com.au" target="_blank"><img src="/images/rackspace.png" alt="Powered by Rackspace Hosting" /></a></div> -->
+        </div>
+        
+        <div id="otp">
+            <div id="countdown" class="close"></div>
+            <div id="div-gpt-ad-interstitial"></div>
+        </div>
+        <div class="mask"> </div>
+        <div id="div-gpt-ad-skin"></div>
+    </div>
+</footer>
+                
+
+<div id="login-form">
+    <form id="frm-login" action="/tag/startup" method="post">
+        <h3 class="section-header"><span>Log In</span></h3>
+        <div id="login-form-register"><a href="/register">Don't have an account? Register now!</a></div>
+        <div id="login-validation"></div>
+        <div id="login-response"></div>
+        <div class="form-label">Email:</div>
+        <div class="form-input"><input id="username" name="username" type="text" required /></div>
+        <div class="form-label">Password:</div>
+        <div class="form-input"><input id="password" name="password" type="password" required /></div>
+        <div class="row form-checkbox">
+            <input id="rememberMe" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label><span>&nbsp; | &nbsp;<a href="/forgot" title="Forgot your password?">Forgot your password?</a></span>
+        </div>
+    </form>
+</div>
+
+            </div>
+            <div id="bit-data-store"
+                data-shareurl=""
+                data-articleid=""
+                data-adcategories="[]"
+                data-adkeywords="[startup]"
+                data-adsection=""
+                data-adshow="True"
+                data-gasitesection=""
+                data-gasitecategory=""
+                data-gasitesubcategory=""
+                data-gakeywords=""
+                data-disqus_auth=""
+                data-disqus_key="2bt7UC48dbwaUo2wrcbpiMexghu5XOsf5RqbahE11pIlQFDkOZwwsf18o4moKS7q"
+                data-disqus_shortname="bitnext"
+                data-disqus_developer="0"
+                data-disqus_title=""
+                data-disqus_url=""
+                data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+            </div>
+
+            
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+            <script src="https://use.fontawesome.com/ce439b86a9.js"></script>
+            <script src="/scripts/gdpr.js"></script>
+            
+            <script src="/scripts/js_bc5c7515e234cd2838b53b4ea40bdcff.js"></script>
+
+            
+
+            <!--[if lt IE 9]>    
+        <link href="/styles/ie8.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+
+        </div>
+    </div>
+
+</body>
+</html>

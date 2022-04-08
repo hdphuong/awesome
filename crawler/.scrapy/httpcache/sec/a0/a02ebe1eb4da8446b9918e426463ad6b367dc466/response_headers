@@ -1,0 +1,33 @@
+Date: Fri, 08 Apr 2022 11:09:51 GMT
+Content-Type: text/html; charset=utf-8
+Link: <https://themes.shopify.com/themes/palo-alto/styles/palo-alto>; rel="canonical"
+Content-Language: en
+Accept-Ch: Save-Data
+Content-Encoding: gzip
+Etag: cacheable:a7723395f287a794e4d51e6b7972d269
+Cache-Control: max-age=0, private, must-revalidate
+X-Alternate-Cache-Key: cacheable:c9d81d8f9f2bc39177d81446174a1d1a
+X-Cache: hit, server
+Set-Cookie: _shopify_y=13e16ed3-0d8a-454a-b832-e889c5b482dc; domain=shopify.com; path=/; expires=Sat, 08 Apr 2023 10:29:35 GMT; secure; SameSite=Lax
+Set-Cookie: _shopify_s=bb345067-2ecc-44ad-9624-524c23b0364d; domain=shopify.com; path=/; expires=Fri, 08 Apr 2022 10:59:35 GMT; secure; SameSite=Lax
+Set-Cookie: _y=13e16ed3-0d8a-454a-b832-e889c5b482dc; domain=shopify.com; path=/; expires=Sat, 08 Apr 2023 10:29:35 GMT; secure; SameSite=Lax
+Set-Cookie: _s=bb345067-2ecc-44ad-9624-524c23b0364d; domain=shopify.com; path=/; expires=Fri, 08 Apr 2022 10:59:35 GMT; secure; SameSite=Lax
+X-Request-Id: 0b72e756-7e5f-48f6-9a81-67109a143776
+X-Runtime: 0.023061
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy-Report-Only: default-src 'self' https:; child-src 'self' https: data:; connect-src 'self' https: wss:; font-src 'self' https: data:; img-src 'self' https: data:; media-src 'self' https: data:; object-src 'self' https:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; report-uri /csp-report?source%5Baction%5D=show&source%5Bapp%5D=ThemeStore&source%5Bcontroller%5D=styles&source%5Buuid%5D=0b72e756-7e5f-48f6-9a81-67109a143776
+Server-Timing: processing;dur=64, socket_queue;dur=1.773, edge;dur=1.036
+X-App-Name: themestore
+X-Dc: gcp-us-central1,us-east1,gke
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Pfl43Y5PutD%2BGfAl4QUk%2F28S%2Bwfneyp8lYq4p%2F1BGVbhcvvqIzmE7auzbY03GGXLD8oAPd%2FQkZua7jmFeGx%2BGErqaxRGlSOxjbF1XKRqzeOwj6VKFWySvJMxRNtNgvWO73avwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f8a8d9c2d81a811-SYD
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

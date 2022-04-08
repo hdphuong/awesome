@@ -1,0 +1,17 @@
+Content-Length: 67
+Age: 0
+Cache-Control: public, max-age=2592000
+Content-Type: text/plain; charset=utf-8
+Date: Fri, 08 Apr 2022 11:09:32 GMT
+Display: staticcontent_sol
+Link: <https://youronlinechoices.com.au/wp-json/>; rel="https://api.w.org/"
+Response: 200
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent,Origin
+X-Cache: MISS
+X-Ezoic-Cdn: Hit ds;mm;78f7341cb416108d841fe4e849cd4c1f;2-307473-4;7966670e-4534-4ab2-42a3-6e501abd9019
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Origin-Cache-Control: 
+X-Robots-Tag: noindex, follow

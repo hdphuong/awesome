@@ -1,0 +1,13 @@
+Content-Length: 0
+Server: Server
+Date: Fri, 08 Apr 2022 11:09:40 GMT
+X-Amz-Rid: VB1A802101T2MHTF3BBM
+Location: https://www.amazon.com/ABC-Organic-Gardener-Magazine/dp/B01JBMWDIY
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+X-Cache: Miss from cloudfront
+Via: 1.1 9ce11977697b826548974c991c092622.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: 2oic_8U8bw2mVjD-PM-mk8aEN5-dtLFw9aIHpNuyw7C-WkTfhdQ3tg==

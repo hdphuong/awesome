@@ -1,0 +1,10 @@
+Date: Fri, 08 Apr 2022 11:36:07 GMT
+Content-Type: text/html; charset=UTF-8
+Server: nginx/1.17.10
+X-Powered-By: PHP/7.3.33
+Link: <https://arstechnica.com/wp-json/>; rel="https://api.w.org/"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: data:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+Content-Encoding: gzip

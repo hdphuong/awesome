@@ -1,0 +1,8 @@
+Date: Fri, 08 Apr 2022 11:35:22 GMT
+Cache-Control: max-age=3600
+Expires: Fri, 08 Apr 2022 12:35:22 GMT
+Location: https://www.informatech.com/terms-and-conditions
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f8ab2fb5963a823-SYD

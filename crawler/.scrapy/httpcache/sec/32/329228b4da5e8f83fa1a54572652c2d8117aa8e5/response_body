@@ -1,0 +1,839 @@
+
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"ae432a7c36","applicationID":"11200492","transactionName":"NFxRMURUWBBVBxJRDQ0WcjZmGkYCUwFJXAcFWEYJQhtXEEQc","queueTime":0,"applicationTime":7,"ttGuid":"6552A0A17C5181EF","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"ae432a7c36",applicationID:"11200492"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>   
+    <script>window.dataLayer = window.dataLayer || [];</script>
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W7BWCRT');</script>    
+    <title>Mother's Day 2022 terms and conditions - MyMagazines - Subscribe online and save.</title> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    
+    <meta name="Description" content="MyMagazines - Subscribe and save up to 80% on Australian magazines when you subscribe with mymagazines.com.au">
+    <meta name="Keywords" content="magazine, magazines, my magazines, mymagazines, subscribe, subscriptions, gift subscription, magazine subscriptions, Golf Australia, MAD, Gardening Australia, Healthy Food Guide, Old Bike Australasia, Science Illustrated, Inside Sport, Australian Muscle Car, Australian Mountain Bike, Organic Gardener, Prevention, Total Girl, K-Zone, frankie magazine, fathers day, mothers day, valentines day, gift voucher, nextmedia, next media">    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3a400%2c700%2c400italic%2c700italic%7cLato%3a400%2c700%2c400italic%2c700italic" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_073dc5f9eec5b041bda1b4154205d956.css" /> 
+    
+
+    
+    <link rel="icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">    
+    <!--[if IE]><link rel="shortcut icon" href="/images/favicon.ico"><![endif]-->
+    
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->    
+</head>
+<body>        
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7BWCRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="content" class="clearfix">
+        <header class="clearfix">
+            <div class="left" id="logo"><a href="/"><img src="/images/mymagazines-logo.png" alt="MyMagazines" class="logo-image"></a></div>
+            <div id="top-banner">
+                
+                <a id="hlTopBanner" class="top-banner" href="https://www.mymagazines.com.au/category/motoring-bikes"><img src="../assets/20210616161844_MotorSport.gif" alt="MyMagazines" /></a>
+            </div>
+        </header>
+        <nav id="top-nav" class="clearfix">
+            <div class="left">
+                <div class="mobnav-btn-wrapper">
+                    <div id="mobnav-btn">  
+			            <span></span>
+			            <span></span>
+			            <span></span>
+		            </div>
+                </div>
+                <ul class="main-menu">
+                    <li><a href="/products/magazines">Magazines</a></li>
+                    <li><a href="/products/merchandise">Books/Merch<span>andise</span></a></li>
+                    <li><a href="/ecard">Gift <span>eCard</span></a></li>
+                    <li><a href="/page/frequently-asked-questions">FAQ</a></li>
+                    <li><a href="/page/contact-us">Contact <span>Us<span></a></li>                    
+                </ul>
+            </div>
+
+            <div class="group-menu">
+                <div class="right" id="login">                
+                    
+                        <a href="/myaccount"><i class="icon icon-user"></i>Login</a>
+                    
+                                    
+                </div>            
+                <div class="right" id="cart-menu"> 
+                    <a href="/mycart" class="cart-menu-link">
+                        <img src="/images/menu-cart.png" alt="My Cart">
+                        <i class="icon icon-basket"></i>
+                        <span>0 item(s) for $0.00</span>
+                    </a>
+                </div> 
+            </div>
+                           
+            <div class="right" id="search">
+                <div class="search-wrapper"><input type="text" autocomplete="off" placeholder="Enter your search term">
+                <button><i class="icon  icon-search"></i></button>
+                </div>
+            </div>
+        </nav>
+        <div class="clearfix">
+            <div id="content-left">
+                <div style="position:relative;">
+                    
+                            <div class="nav-head">See all</div>
+                                <nav><ul>
+                        
+                            <li><a href="/products/magazines">Magazines</a></li>
+                        
+                            <li><a href="/products/books">Books</a></li>
+                        
+                            <li><a href="/products/other">Other</a></li>
+                        </ul></nav>
+                    
+                            <div class="nav-head">Select a Category</div>
+                            <nav><ul>
+                        
+                            <li><a href="/category/fashion-lifestyle">Fashion &amp; Lifestyle</a></li>
+                        
+                            <li><a href="/category/home-garden">Home &amp; Garden</a></li>
+                        
+                            <li><a href="/category/motoring-bikes">Motoring &amp; Bikes</a></li>
+                        
+                            <li><a href="/category/science-youth">Science &amp; Youth</a></li>
+                        
+                            <li><a href="/category/sports-outdoors">Sports &amp; Outdoors</a></li>
+                        </ul></nav>                
+                    <a href="/ecard"><img src="/images/gift-box.png" alt="Buying a gift subscription? Send a Gift eCard Now!" /></a>
+                    
+                </div>
+                <img src="/images/accepted-cards-2020.png" alt="We accept payment with VISA, MasterCard, and PayPal." />                
+            </div>
+            <div id="content-right" class="main-content">
+                
+
+
+    <div id="breadcrumb">
+        <a href="/">Home</a>&nbsp;<span>|</span>&nbsp;Mother's Day 2022 terms and conditions
+    </div>
+
+        
+    <div class="page">
+        <h2>Mother's Day 2022 terms and conditions</h2>
+        <div>
+            <p><strong>TERMS &amp; CONDITIONS</strong></p>
+
+<p><br />
+<strong>Schedule to Terms &amp; Conditions of entry</strong><br />
+&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:99%">
+	<tbody>
+		<tr>
+			<td style="width:130px;height:7px;">
+			<p><strong>Promotion name</strong></p>
+			</td>
+			<td style="width:513px;height:7px;">
+			<p>Mother&rsquo;s Day 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:19px;">
+			<p><strong>Eligible States/Territories</strong></p>
+			</td>
+			<td style="width:513px;height:19px;">
+			<p>National</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:19px;">
+			<p><strong>Promotion period</strong></p>
+			</td>
+			<td style="width:513px;height:19px;">
+			<p>Start: 11 Apr 2022 12:00 AM AEST</p>
+
+			<p>End: 7 Aug 2022 11:55 PM AEST</p>
+
+			<p>No entries will be accepted outside this time.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:19px;">
+			<p><strong>Website address</strong></p>
+			</td>
+			<td style="width:513px;height:19px;">
+			<p>www.mymagazines.com.au</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:134px;">
+			<p><strong>Promoter</strong></p>
+			</td>
+			<td style="width:513px;height:134px;">
+			<p>nextmedia</p>
+
+			<p>ABN: 84128805970</p>
+
+			<p>205 Pacific Highway<br />
+			Level 8</p>
+
+			<p>St Leonards NSW 2065</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Eligible entrants</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>Entry to the Promotion is open to Australian residents in all eligible states/territories who fulfil the method of entry requirements and are 18 years of age or older.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Details of prizes </strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>5 x Gardening packs valued at $2,279.40 each. Each pack includes:<br />
+			<br />
+			&nbsp;</p>
+
+			<table border="0" cellpadding="0" cellspacing="0" style="width:487px">
+				<tbody>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Product</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>RRP</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p><strong>Garden Express Gift Voucher</strong></p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p><strong>$500 </strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p><strong>Van Berkel Pack</strong></p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Van Berkel Garden Tools Set (Spade and Fork)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$198.00</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Van Berkel Prunner</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$29.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Van Berkel Wooden Harvest Basket</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$39.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p><strong>Wollemi Pine 300mm Pot </strong></p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p><strong>$499.00 </strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p><strong>Bucket Barrow Urban 88</strong></p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p><strong>$229.00 </strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p><strong>Gardeners Advantage Pack</strong></p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Gloves x 2 pairs</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$9.80</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Soft Garden Ties (25m) x 2</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$15.80</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Standup Weeder</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$59.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Peat Pot Starter Kit</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$24.50</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Peat Pot Tray Kit</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$14.50</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Peat Pot Refills (15pack) x 2</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$15.00</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Plastic Plant Tags (20 pack) x 2</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$13.80</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Universal Knife Tool</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$22.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Multi Use Scoope</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$16.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Rose Ring</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$70.00</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Rose Fertiliser (1kg)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Rose Dethorner</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$4.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Bulb Planter</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$9.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Bulb Basket Round 22cm (set of 3)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$6.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Bulb Basket Round 26cm (set of 3)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$7.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Bulb Basket Round 30cm (set of 3)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$8.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Bulb Fertiliser (1kg)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Garden Tunnel Poly</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$29.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Garden Tunnel Fleece</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$29.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Garden Tunel Shad Mesh</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$29.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Humming Line (30m)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$19.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Popup Garden Bag</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$19.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Plant Support Round - Fixed (3 Pack)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$10.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Plant Stakes Metal (4 pack)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$14.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Flexible Bamboo Style Support (5 pack)</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$14.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Fork</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Scoop</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Spade</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Cultivator</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Rake</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Hand Edger</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$12.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Knee Pads</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$44.00</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Metal Kneeler/Seat</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$59.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Lawn Aerator Sandals</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$24.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Easy Garden Obelisk</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$39.90</p>
+						</td>
+					</tr>
+					<tr>
+						<td nowrap="nowrap" style="width:340px;height:29px;">
+						<p>Easy Garden Arch</p>
+						</td>
+						<td nowrap="nowrap" style="width:147px;height:29px;">
+						<p>$39.90</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Total number of prizes</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Total prize value</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>Total prize pool (inc GST): $11,397</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Method of entry</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>To enter, an entrant must, during the promotional period:<br />
+			<br />
+			During the promotional period, they must purchase a print subscription to any nextmedia publication for a minimum of 1 year</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:30px;">
+			<p><strong>Maximum number of entries</strong></p>
+			</td>
+			<td style="width:513px;height:30px;">
+			<p>1 entry per subscription purchase</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Prize draw</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>A random prize draw will occur 11:00 AM AEST on 12 Aug 2022 in the presence of an independent scrutineer<br />
+			<br />
+			Location of draw:<br />
+			nextmedia<br />
+			205 Pacific Highway<br />
+			Level 8<br />
+			St Leonards NSW 2065</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Notification of winners </strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>Winners will be notified via Email no later than 16 Aug 2022.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Public announcement of winners</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>The winners of all prizes will be published here:</p>
+
+			<p>www.mymagazines.com.au/md22 on 19 Aug 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Unclaimed prize draw</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>A random unclaimed prize draw will occur 10:00 AM AEDT on 16 Nov 2022 in the presence of an independent scrutineer<br />
+			<br />
+			Location of draw:<br />
+			nextmedia<br />
+			205 Pacific Highway<br />
+			Level 8<br />
+			St Leonards NSW 2065</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Notification of unclaimed prize winners</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>Unclaimed prize winners will be notified via Email no later than 19 Nov 2022.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:15px;">
+			<p><strong>Public announcement of winners from unclaimed prize draw</strong></p>
+			</td>
+			<td style="width:513px;height:15px;">
+			<p>The winners of all unclaimed prizes will be published here:</p>
+
+			<p>www.mymagazines.com.au on 20 Nov 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:130px;height:73px;">
+			<p><strong>&nbsp;Permit reference</strong></p>
+			</td>
+			<td style="width:513px;height:73px;">
+			<p>Authorised under<br />
+			<br />
+			NSW Authority No. TP/01427<br />
+			SA Permit No. T22/409<br />
+			ACT Permit No. TP 22/00519</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Terms &amp; Conditions of entry</strong></p>
+
+<ol>
+	<li>Information on how to enter and prize details form part of these terms &amp; conditions (<strong>Terms of entry</strong>). The Terms must be read in conjunction with the Schedule. The Schedule defines the terminology used in these Terms of entry. Where there is any inconsistency between these Terms and the Schedule, the Schedule prevails. &nbsp;Participation in this Promotion is deemed acceptance of these Terms of entry.</li>
+	<li>Entry is open only to legal residents of the Eligible States/Territories who satisfy the Method of entry. Directors, officers, management, employees, suppliers (including prize suppliers) and contractors (and the immediate families of directors, officers, management, employees, suppliers &nbsp;and contractors) of the Promoter and of its related bodies corporate, and of the agencies and companies associated with this Promotion, including the competition permit providers <a href="https://www.tpal.com.au/?utm_source=TCs-chance-doc" title="competition permits / trade promotion permits">TPAL</a> (Trade Promotions and Lotteries Pty Ltd) are ineligible to enter. Immediate family means any of the following: spouse, ex-spouse, child or step-child (whether natural or by adoption), parent, step-parent, grandparent, step-grandparent, uncle, aunt, niece, nephew, brother, sister, step-brother, step-sister or first cousin.</li>
+	<li>The Promotion will be conducted during the Promotion period.</li>
+	<li>The Prize/s are specified in the Details of prizes section of the Schedule.</li>
+	<li>The total prize pool is specified in the Total prize value section of the Schedule.</li>
+	<li>Any prize is valued in Australian dollars unless expressly stated to the contrary.</li>
+	<li>Prizes involving travel must be taken to coincide with the dates specified in the Details of prizes section of the Schedule or as otherwise specified in the conditions of any third party travel provider. Any changes to the confirmed prize details will be at the expense of the winner(s) and will only be permitted with the prior consent of the Promoter or third party travel provider.</li>
+	<li>Unless otherwise stated, any travel prize does not include travel insurance, travel documents, meals, taxes not included in the price of the ticket, transfers, flights, accommodation or any other costs of a personal nature. Compliance with any health, travel insurance, passport or other government requirements is the responsibility of the prize winner. Failure to comply with this will deem the winner&rsquo;s entry invalid and the entrant will forfeit the prize. The Promoter makes no representation as to the safety, conditions or other issues that may exist as part of the travel or at the destination.</li>
+	<li>The Prize travel is subject to availability at the time of booking. The winner and, if applicable, their companion must travel together on all prize travel. The Promoter is not responsible for any cancellation, delay or rescheduling of flights, and any costs incurred as a result (including, without limitation, accommodation costs) will be the sole responsibility of the winner.</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<ol>
+	<li value="10">Entrants are advised that tax implications may arise from their prize winnings and they should seek independent financial advice prior to acceptance of their prize(s). The Promoter accepts no responsibility for any tax implications that may arise from accepting a prize. Entrants are responsible for any and all expenses that they incur in entering the competition and they will not be reimbursed regardless of whether or not they win the competition.</li>
+	<li>The entrants must follow the Method of entry during the Promotion period to enter the Promotion. Failure to do so will result in an invalid entry. The Promoter will not advise an Entrant if their entry is deemed invalid.</li>
+	<li>The time of entry will be deemed to be the time the entry is received by the Promoter.</li>
+	<li>Entrants may submit up to the Maximum number of entries (if applicable).</li>
+	<li>The Promoter accepts no responsibility for any late, lost, delayed, incomplete, incorrectly submitted, corrupted, illegible or misdirected entries, claims or correspondence whether due to omission, error, alteration, tampering, deletion, theft, destruction, disruption to any communication network or medium, or otherwise including those entries not received by the Promoter for any reason. &nbsp;The Promoter is not liable for any consequences of user error including (without limitation) costs incurred. No correspondence will be entered into.</li>
+	<li>The prize(s) will be awarded to the valid entrant(s) drawn randomly in accordance with the Prize draw details. The Promoter may draw additional reserve entries (and record them in order). In the event of an invalid entry or an ineligible entrant, or if the entrant is ineligible to accept the prize, the prize will be awarded to the first reserve entry drawn. If the prize can&rsquo;t be awarded to the entrant drawn, the promoter will then continue this process until the prize is awarded. &nbsp;</li>
+	<li>The winner does not need to be present at the draw unless expressly stated to the contrary.</li>
+	<li>The winner(s) will be notified in accordance with the Notification of winners and Notification of unclaimed prize winners (if applicable) sections of the Schedule. Notification to winners will be deemed to have occurred on the later of the time the winner receives actual notification from the Promoter or two business days thereafter. The notification will include details about how the prize(s) can be claimed.</li>
+	<li>The Promoter takes no responsibility where it is unable to contact prize winners who have not provided correct or complete contact details. If an entrant&rsquo;s contact details change during the promotional period, it is the entrant&#39;s responsibility to notify the Promoter. A request to modify any entry information should be directed to Promoter.</li>
+	<li>It is a condition of accepting any prize that the winner must comply with all the conditions of use of the prize and the prize supplier&rsquo;s requirements. Each prize must be taken as stated and no compensation will be payable if a winner is unable to use the prize as stated.</li>
+	<li>The winner(s) name and state/territory of residence will be published in accordance with the Public announcement of winners section of the Schedule (if applicable).</li>
+	<li>If the prize(s) has not been claimed by the Unclaimed prize draw time and date and subject to any written directions from a State lottery agency,&nbsp;the Promoter may conduct an Unclaimed prize draw in accordance with the Unclaimed prize draw section of the Schedule (if applicable).&nbsp; In the event the Unclaimed prize draw takes place, the Promoter will attempt to contact the winner(s) of the Unclaimed prize draw in accordance with the Notification of unclaimed prize draw section of the Schedule, and if applicable, the name and State/Territory of residency of any winner(s) of the Unclaimed prize draw will be published in accordance with the section of the Schedule entitled Public announcement of winners from unclaimed prize draw. If a prize is no longer available the promoter may substitute with a prize of higher or equal value subject to any written directions from a regulatory authority.&nbsp; The promoter is not allowed to deduct any administrative costs associated with provision of the prize.</li>
+	<li>To the greatest extent permitted by law, the Promoter excludes all warranties, representations or guarantees (<strong>Warranties</strong>) regarding the Promotion and any prizes, including any Warranties which may have been made in the course of advertising or promoting the Promotion. The conduct of the Promotion or the supply of prizes may involve third parties, and the Promoter makes no Warranties and disclaims all liability in connection with any such third parties, their acts or omissions. By entering the Promotion, an entrant releases and indemnifies the Promoter and its related bodies corporate (including the officers, employees and agents of each) from and against all actions, penalties, liabilities, claims or demands the entrant may have against the Promoter or that the Promoter may incur for any loss or damage which is or may be suffered or sustained as a direct or indirect result of an entrant entering or participating in the Promotion or winning or failing to win a prize, or using or permitting any other person to use the prize, except for any liability which cannot be excluded by law or which would cause any part of this clause to be void or unenforceable.</li>
+	<li>If despite the foregoing clause, the Promoter incurs a liability to an entrant under any law which implies a Warranty into these Terms of entry which cannot legally be excluded, the Promoter&rsquo;s liability in respect of the Promotion is limited, in the Promoter&rsquo;s discretion, to either resupplying such goods or services as form part of the Promotion, or paying the cost of resupplying those goods or services.</li>
+	<li>Without limiting any of the foregoing, in no circumstances will an entrant or the Promoter have any liability to the other for any loss or damage suffered which is indirect or consequential in nature, including without limitation any loss of profit, loss of reputation, loss of goodwill, or loss of business opportunity.</li>
+	<li>The Promoter and its associated agencies and companies will not be liable for any delay, damage, or loss in transit of prizes.</li>
+	<li>The Promoter may in its absolute discretion not accept a particular entry, may disqualify an entry, or cancel the entire Promotion at any time without giving reasons and without liability to any entrants, subject to any written directions from a regulatory authority. Without limiting this the Promoter reserves the right to verify the validity of entries, prize claims and entrants and to disqualify any entrant who submits an entry or prize claim that is misleading or not in accordance with these Terms of entry or who manipulates or tampers with the entry process. In the event that a winner breaches these Terms of entry, the winner will forfeit the prize in whole and no substitute will be offered. Verification is at the discretion of the Promoter, whose decision is final. Failure by the Promoter to enforce any of its rights at any stage does not constitute a waiver of those rights.</li>
+	<li>Prizes, or any unused portion of a prize, are not transferable or exchangeable and cannot be taken as cash, subject to any written directions from a regulatory authority. Where a prize is unavailable for any reason, the Promoter may substitute the prize for another item of equal or higher value subject to any written directions from a regulatory authority. The Promoter accepts no responsibility for any variation in prize value (including between advertising of the Promotion and receipt of the prize).</li>
+	<li>In the case of the intervention of any outside act, agent or event which prevents or significantly hinders the Promoter&rsquo;s ability (or that of a third party involved with the Promotion) to proceed with the Promotion on the dates and in the manner described in these Terms of entry, including but not limited to vandalism, natural disasters, acts of God, civil unrest, strike, war, act of terrorism, the Promoter&rsquo;s obligations in respect of the Promotion will be suspended for the duration of the event and, in addition, the Promoter may in its absolute discretion cancel the promotion and recommence it from the start on the same conditions, subject to approval of the relevant authorities.</li>
+	<li>All entries become the property of the Promoter. As a condition of entering into this Promotion, entrants agree to assign all their rights in and to their entry and any related content to the Promoter, including any copyright or other intellectual property rights in the entry and related content. Without limiting this, the Promoter may use entry content for any and all purposes including commercial purposes. You warrant that entry content is original, lawful and not misleading and that the Promoter&rsquo;s use of such content will not infringe the rights of any third parties. The Promoter has no obligation to credit you as the author of any content submitted and may otherwise do any acts or omissions which would otherwise constitute an infringement of any moral rights you may have as an author of content.&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li>Entrants consent to the Promoter using the personal information provided in connection with this promotion for the purposes of facilitating the conduct of the promotion and awarding any prizes, including to third parties involved in the promotion and any relevant authorities. In addition to any use that may be outlined in the Promoter&rsquo;s Privacy Policy, the Promoter including third parties may, for an indefinite period, unless otherwise advised, use the private information for promotional, marketing, publicity, research and profiling purposes, including sending electronic messages or telephoning the entrant.</li>
+	<li>The collection and disclosure of personal information provided in connection with this promotion will be handled in accordance with the Promoter&#39;s Privacy statement which adheres to the Privacy Act 1988 (cth) and Australian Privacy Principles.</li>
+	<li>The Promotion and these Terms of entry will be governed by the law of the State or Territory in which the Promoter ordinarily resides. Entrants accept the non-exclusive jurisdiction of courts and tribunals of that State or Territory in connection with disputes concerning the Promotion.</li>
+	<li>Facebook, YouTube, Instagram, or Snapchat may be used to advertise or promote the Promotion. By entering the Promotion, entrants agree that the Promotion is in no way sponsored, endorsed or administered by, or associated with Facebook, YouTube, Instagram, or Snapchat; and to release Facebook, YouTube, Instagram, or Snapchat from all liability in relation to this Promotion. Any questions, comments or complaints regarding the Promotion should be directed to the Promoter and not Facebook, YouTube, Instagram, or Snapchat.
+	<ol>
+		<li>Prize is not redeemable for cash</li>
+	</ol>
+	</li>
+</ol>
+
+        </div>
+        
+        
+
+        
+
+    </div>
+
+
+            </div>
+        </div>
+        <footer>
+            <div class="main-content">
+                <div class="accepted-payment">
+                    <span class="accepted-payment-text">We accept payment with </span>
+                    <img src="/images/accepted-cards-2021.png" alt="We accept payment with VISA, MasterCard, and PayPal.">
+                </div>
+                <a href="http://www.nextmedia.com.au" target="_blank" class="nextmedia-link"> &copy;  nextmedia Pty Ltd 2022</a>
+                <a href="/page/about-us">About Us</a> &#8226;
+                <a href="/page/terms-and-conditions">Terms and Conditions</a> &#8226; 
+                <a href="/page/digital-subscriptions">Digital Subscriptions</a> &#8226; 
+                <a href="/page/privacy">Privacy</a> &#8226; 
+                <a href="/sitemap">Sitemap</a> &#8226; 
+                <a href="/page/security">Security</a>
+            </div>
+        </footer>
+    </div>
+
+        
+    <div class="no-js-content">This site required javascript to operate correctly.</div>    
+    <div id="mymags-datastore" data-shareurl=""></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+    
+    <script src="/scripts/gdpr.js"></script>
+    <script src="/scripts/js_6bba3915c2f4c7da606a0cd4f9ee5d20.js"></script>  
+                
+    <script>
+        $(function() {
+
+            var _tmSlideActive = true;
+            var _tmSlide = 1;
+            if ($('#tm-slides').length > 0) {
+                //alert('slide');                
+                setTimeout(tmSlide, 5000);
+                $('#tm-slides').mouseover(function() { _tmSlideActive = false; });
+                $('#tm-slides').mouseout(function() { _tmSlideActive = true; });
+            }
+            function tmSlide() {
+                if (_tmSlideActive) {
+                    $('#tm-slide-' + _tmSlide).fadeOut(1500);
+                    _tmSlide++;
+                    _tmSlide = _tmSlide > 3 ? 1 : _tmSlide;
+                    $('#tm-slide-' + _tmSlide).fadeIn(1500);
+                }
+                setTimeout(tmSlide, 5000);
+            }
+
+            if ($('.checkout .error').length > 0) {
+                $([document.documentElement, document.body]).animate({
+                    scrollTop: $('.checkout .error').offset().top
+                }, 1);
+            }
+        });
+
+
+    </script>                
+    
+    
+    
+    
+    
+</body>
+</html>

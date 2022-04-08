@@ -1,0 +1,992 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- New Relic Header -->
+    
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-TN7JJ3N');</script>
+    <title>How long will a UPS keep your computers on if the lights go out? - Hardware - Business IT</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="Description" content="Worried about a blackout causing you to lose all your work? A UPS will keep your computer running, but there&#39;s something very important you should k...">
+    <meta name="Keywords" content="blackout,generator,how long,power,ups,va,watts">
+    <meta name="news_keywords" content="blackout, generator, how long, power, ups, va, watts">
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Business IT RSS Feed" href="/rss/rss.ashx" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:300,700,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,700italic,300,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:600" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png?v=20170426">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png?v=20170426">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png?v=20170426">
+    <link rel="manifest" href="/images/favicons/manifest.json?v=20170426">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg?v=20170426" color="#303030">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico?v=20170426">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml?v=20170426">
+    <meta name="theme-color" content="#cccccc">
+
+    
+    <meta property="og:site_name" content="Business IT">
+    <meta property="og:title" content="How long will a UPS keep your computers on if the lights go out?">
+    <meta property="og:url" content="http://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806">
+    <meta property="og:image" content="http://i.nextmedia.com.au/News/tunnel-dark.jpg">
+    <meta property="og:image:width" content="640" />
+    <meta property="og:image:height" content="449" />
+    <meta property="og:description" content="Worried about a blackout causing you to lose all your work? A UPS will keep your computer running, but there&#39;s something very important you should know.">
+
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@BIT_au">
+    <meta name="twitter:creator" content="@BIT_au">
+    <meta name="twitter:title" content="How long will a UPS keep your computers on if the lights go out?">
+    <meta name="twitter:description" content="Worried about a blackout causing you to lose all your work? A UPS will keep your computer running, but there&#39;s something very important you should know.">
+    <meta name="twitter:url" content="http://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806">
+    
+        <meta name="twitter:image" content="http://i.nextmedia.com.au/News/tunnel-dark.jpg">
+    
+    
+
+    
+    <link rel="canonical" href="https://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806"/>
+    
+    
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="/styles/css_8b10ef91e0bbce72994406c6209efa9e.css" />
+
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="/scripts/rem.min.js"></script>
+    <![endif]-->
+
+    
+
+</head>
+<body>
+    
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN7JJ3N" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
+    <div class="wrapper" id="wrapper">
+        <div class="off-canvas-wrap" data-offcanvas>
+            <div class="inner-wrap">
+                <header>
+                    <div class="collapse header-full show-for-large-up" id="header-secondary">
+                        <div class="header-columns">
+                            <div id="header-lb">
+                                <div id="ph-leader"></div>
+                                <div id="div-gpt-ad-leader" class="ad-leader"></div>
+                            </div>
+                            <a href="/" id="site-logo"></a>
+                        </div>
+                    </div>
+                    <div class="collapse header-full" id="header-primary">
+                        
+
+<div class="header-columns">
+    <div class="sticky" id="sticky-nav">
+        <nav class="top-bar row full-width collapse show-for-large-up" data-topbar role="navigation">
+            <div id="top-bar-secondary">
+                <div id="follow-us">
+                    <a class="follow-twitter" href="https://twitter.com/BIT_au" target="_blank"></a>
+                    <a class="follow-facebook" href="http://www.facebook.com/BITAustralia" target="_blank"></a>
+                    <a class="follow-linkedin" href="https://www.linkedin.com/company/bit-business-it" target="_blank"></a>
+                    <a class="follow-rss" href="/rss"></a>
+                </div>
+                
+                    <a class="login-click">Log In</a>
+                    <a href="/register">Subscribe</a>
+                
+                
+                <a href="#" class="search">&nbsp;</a>
+
+            </div>
+            <section class="top-bar-section">
+                <a href="/" id="bit-logo-sticky">
+                    <img src="/images/bit-logo-sticky.png" alt="Business IT" /></a>
+                <ul class="top-bar-primary">
+                    
+                            <li>
+                                
+                                    <a href="/topic/reviews-and-comparisons-455549">Reviews</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/galleries">Photo Galleries</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/tips-and-guides-455550">Guides</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/for-small-and-mid-sized-businesses-455547">SMB</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/topic/for-startups-452497">Startups</a>
+                                
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                
+                                    <a href="#" data-dropdown="dropdown-5" data-options="is_hover:true;pip:center">Trending Topics</a>
+                                
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                    <a href="/resources">Resources</a>
+                                
+                                
+                                
+                            </li>
+                        
+                </ul>
+            </section>
+            <div id="search-box">
+                <input type="text" placeholder="Search Business IT">
+                <button>Search</button>
+            </div>
+            
+                                        <div id="dropdown-5" data-dropdown-content class="f-dropdown menu-dropdown">
+                                            <div class="dropdown-links">
+                                    
+                                        <a href="/topic/accounting-323722">Accounting</a>
+                                    
+                                        <a href="/topic/security-455554">Security</a>
+                                    
+                                        <a href="/topic/telecommunications-455557">Telco</a>
+                                    
+                                        <a href="/topic/laptops-and-hybrids-455556">Laptops</a>
+                                    
+                                        <a href="/topic/tablets-455559">Tablets</a>
+                                    
+                                        <a href="/topic/smartphones-455560">Smartphones</a>
+                                    
+                                        <a href="/topic/printers-455564">Printers</a>
+                                    
+                                        <a href="/topic/storage-455565">Storage</a>
+                                    
+                                        </div>
+                            </div>
+                                    
+        </nav>
+
+        
+        <div class="hide-for-large-up">
+            <nav class="mobile-nav" role="navigation">
+
+                <section class="title-area full-width">
+                    <div class="menu-primary">
+                        <button class="c-hamburger c-hamburger--htx">
+                            <span></span>
+                        </button>
+                    </div>
+                    <div class="logo">
+                        <a href="/">
+                            <img src="/images/bit-logo.png" alt="Business IT" /></a>
+                    </div>
+                    <div class="menu-secondary">
+                        <a class="user-icon">
+                            <div id="icon"></div>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="top-bar-nav">
+                    <div class="mobile-nav-search">
+                        <input type="text" placeholder="Search Business IT">
+                    </div>
+                    <div class="mobile-nav-container">
+                        
+                                <a href="/topic/reviews-and-comparisons-455549" class="mobile-nav-item"><span>Reviews</span></a>
+                                
+                            
+                                <a href="/galleries" class="mobile-nav-item"><span>Photo Galleries</span></a>
+                                
+                            
+                                <a href="/topic/tips-and-guides-455550" class="mobile-nav-item"><span>Guides</span></a>
+                                
+                            
+                                <a href="/topic/for-small-and-mid-sized-businesses-455547" class="mobile-nav-item"><span>SMB</span></a>
+                                
+                            
+                                <a href="/topic/for-startups-452497" class="mobile-nav-item"><span>Startups</span></a>
+                                
+                            
+                                <a href="#" class="mobile-nav-item"><span>Trending Topics</span></a>
+                                
+                                        <div class="mobile-nav-arrow"></div>
+                                        <div class="mobile-nav-dropdown">
+                                    
+                                        <a href="/topic/accounting-323722" class="mobile-nav-item"><span>Accounting</span></a>
+                                    
+                                        <a href="/topic/security-455554" class="mobile-nav-item"><span>Security</span></a>
+                                    
+                                        <a href="/topic/telecommunications-455557" class="mobile-nav-item"><span>Telco</span></a>
+                                    
+                                        <a href="/topic/laptops-and-hybrids-455556" class="mobile-nav-item"><span>Laptops</span></a>
+                                    
+                                        <a href="/topic/tablets-455559" class="mobile-nav-item"><span>Tablets</span></a>
+                                    
+                                        <a href="/topic/smartphones-455560" class="mobile-nav-item"><span>Smartphones</span></a>
+                                    
+                                        <a href="/topic/printers-455564" class="mobile-nav-item"><span>Printers</span></a>
+                                    
+                                        <a href="/topic/storage-455565" class="mobile-nav-item"><span>Storage</span></a>
+                                    
+                                        </div>
+                                    
+                            
+                                <a href="/resources" class="mobile-nav-item"><span>Resources</span></a>
+                                
+                            
+                    </div>
+                    <div class="mobile-nav-follow">
+                        <a class="follow-twitter" href="https://twitter.com/BIT_au" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a class="follow-facebook" href="http://www.facebook.com/BITAustralia" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                        <a class="follow-linkedin" href="https://www.linkedin.com/company/bit-business-it" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a class="follow-rss" href="/rss"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                    </div>
+                </section>
+
+                <section class="top-bar-user">
+                    
+                        <div id="login-form-mobile">
+                            <h3 class="section-header"><span>Log In</span></h3>
+                            <div class="mobile-small">
+                                <div class="form-label">Email:</div>
+                                <div class="form-input">
+                                    <input id="username-mobile" name="username" type="text" required />
+                                </div>
+                            </div>
+                            <div class="mobile-small">
+                                <div class="form-label">Password:</div>
+                                <div class="form-input">
+                                    <input id="password-mobile" name="password" type="password" required />
+                                </div>
+                            </div>
+                            <div class="row collapse form-checkbox">
+                                <input id="rememberMe-mobile" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label>
+                                <span>| &nbsp;<a href="/forgot" title="Forgot your password?">Forgot password?</a></span>
+                            </div>
+                            <div class="ui-dialog-buttonset mobile-submit">
+                                <input type="button" id="login-button-mobile" value="Log In" class="button" />
+                            </div>
+                            <div id="login-validation-mobile"></div>
+                            <div id="login-response-mobile"></div>
+                            <div id="mobile-register"><a href="/register">Don't have an account? Register now!</a></div>
+                        </div>
+                    
+                    
+                </section>
+            </nav>
+        </div>
+        
+    </div>
+</div>
+
+                    </div>
+                </header>
+                <div id="skin">
+                    <div class="row leaderboard">
+                        <div id="div-gpt-ad-pushdown" class="ad-leader"></div>
+                    </div>
+                    <div class="row main-section collapse">
+                        <div class="large-12 columns">
+                            
+<div class="row">
+    
+
+<article class="small-12 large-12 columns" itemscope itemtype="http://schema.org/NewsArticle">
+    
+    
+
+    <h1 id="article-headline" itemprop="headline">How long will a UPS keep your computers on if the lights go out?</h1>
+    <div id="article-details-mobile">
+        By 
+                <a href="/author/adam-turner-515599">
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="name">Adam Turner</span>
+                    </span>
+                </a>
+                
+         on <span id="ContentPlaceHolder1_ucArticle_lbDateFromMobile" itemprop="datePublished" content="2012-09-25T11:45">Sep 25, 2012 11:45AM</span>
+    </div>
+    <div class="row collapse">
+        <div id="article-primary" class="">
+            <div id="article-image" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                <img id="ContentPlaceHolder1_ucArticle_imgImage" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=http%3a%2f%2fi.nextmedia.com.au%2fNews%2ftunnel-dark.jpg&amp;w=480&amp;c=0&amp;s=1" alt="How long will a UPS keep your computers on if the lights go out?" />
+                    <meta itemprop="url" content="http://i.nextmedia.com.au/News/tunnel-dark.jpg">
+                    <meta itemprop="width" content="960">
+                    <meta itemprop="height" content="540">
+
+                    
+                
+                
+            
+                
+                <div id="linked-gallery-placeholder"></div>  
+            </div>
+            
+            
+
+<div id="spotlight">
+    <h3 id="spotlight-header">Editor's Picks</h3>
+    <div id="spotlight-content">
+                            
+                <a class="spotlight-main-article" href="/guide/facebook-linkedin-or-instagram-social-media-success-isnt-one-size-fits-all-574908?utm_source=bit&utm_medium=web&utm_campaign=editorspicks&utm_content=">
+                    
+                        <img src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fsocial_media_metigy.jpg&amp;h=128&amp;w=207&amp;c=1&amp;s=1" alt="" />
+                    
+                    <h2>Facebook, LinkedIn or Instagram? Social media success isn&#8217;t one size fits all</h2>
+                </a>
+                                
+                <a href="/review/venom-blackbook-zero-15-phantom-573253?utm_source=bit&utm_medium=web&utm_campaign=editorspicks&utm_content=">
+                    
+                    <h2>Venom BlackBook Zero 15 Phantom</h2>
+                </a>
+                                
+                <a href="/guide/how-shopping-has-changed-for-christmas-2021-573871?utm_source=bit&utm_medium=web&utm_campaign=editorspicks&utm_content=">
+                    
+                    <h2>How shopping has changed for Christmas 2021</h2>
+                </a>
+                                
+                <a href="/guide/how-are-parents-utilising-health-tech-to-give-their-dogs-a-voice-573844?utm_source=bit&utm_medium=web&utm_campaign=editorspicks&utm_content=">
+                    
+                    <h2>How are parents utilising health tech to give their dogs a voice?</h2>
+                </a>
+            
+    </div>
+</div>
+
+            <div class="mrec-top">
+                <div id="div-gpt-ad-island" class="ad-mrec"></div>
+            </div>
+                       
+                
+            
+            <div id="article-body" itemprop="articleBody">
+            
+                
+                <h2 id="article-intro" itemprop="description">Worried about a blackout causing you to lose all your work? A UPS will keep your computer running, but there's something very important you should know.</h2>
+                
+                
+                
+                 
+                <p>An Uninterruptible Power Supply, or UPS, is basically a large battery designed to keep your equipment running should the power go out. It&#39;s a handy idea, but don&#39;t expect miracles if you&#39;re shopping on a budget.</p>
+
+<p><strong>How long will a UPS keep you running?</strong></p>
+
+<p>Every UPS comes with a &quot;VA rating&quot; (Voltage-Amps) which tells you how much gear you can connect to it and roughly how long it will keep running after the power is cut. As a rule of thumb, you should multiply it by .6 to convert the VA rating into Watts rating - so a 1000VA UPS is designed to handle roughly a 600-Watt load.</p>
+
+<p>For a few hundred dollars you&#39;ll find an entry-level UPS with a 550VA rating, supporting around a 330 Watt load, such as <a href="http://www.apc.com/products/resource/include/techspec_index.cfm?base_sku=BR550GI&amp;total_watts=200" target="_blank">APC&#39;s Back-UPS Pro 550</a>. By APC&#39;s own figures, this UPS can run 300 Watts worth of equipment for around four minutes. Even if you can get the load down closers to 150 Watts - perhaps enough to run one PC, a monitor and a some networking gear - you&#39;ll still be lucky to get more than 10 minutes before the UPS runs flat. That&#39;s not a lot of time.</p><div class="newsletter-block">
+    <div class="nl-title"><span>Newsletter Signup</span></div>
+    <div class="nl-signup newsletter-form">
+        <div>
+            <p>Get the latest business tech news, reviews and guides delivered to your inbox.</p>
+            <div class="nl-message"></div>
+            <input placeholder="mail@example.com" type="text" name="email" value="" class="email" data-source="BIT_Boxout_Article_316806">
+            <button>SIGN UP</button>
+            <div class="newsletter-terms">
+                I have read and accept the <a href="https://www.nextmedia.com.au/privacy-policy/" target="_blank">privacy policy</a> and <a href="https://www.nextmedia.com.au/terms-conditions/" target="_blank">terms and conditions</a> and by submitting my email address I agree to receive the Business IT newsletter and receive special offers on behalf of Business IT, nextmedia and its valued partners. We will not share your details with third parties. 
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<p>Even a 1500VA UPS isn&#39;t likely to keep your computer running for more than an hour. This isn&#39;t to say that a small business-grade UPS is useless, just that you need to be realistic about what it can do. Large businesses looking to run an entire office for hours during a blackout generally put a diesel generator on the roof, but that&#39;s obviously not practical for most businesses.</p>
+
+<p><strong>Tip: Don&#39;t try and ride out a blackout</strong></p>
+
+<p>A smarter strategy for a small business is not to try to ride out a blackout. Instead a UPS buys you time to save everything, put your Plan B in place and then gracefully shutdown your essential systems. Some UPSs even connect to your computer via USB and let you automate this process should disaster strike. It could be particularly important if you&#39;ve servers running in your back office.</p>
+
+<p>When you look at it this way, the UPS&#39; job is to ensure you don&#39;t lose any work rather than to let you keep working for hours when the lights go out.</p>
+
+<p>Apart from blackouts, a UPS is also useful for coping with power brownout and spikes. The onboard battery and surge protector helps smooth out the power flow the reduce the chance of damaging to your equipment.</p>
+
+                
+                
+                
+                
+            </div>
+            
+                
+
+            
+
+            
+            
+            <div id="article-source">
+                <a href="http://www.bit.com.au" target="_blank">Copyright &#169; BIT (Business IT).</a> All rights reserved. 
+            </div>
+            
+            <div id="article-tag-container">
+                <div id="article-tag-header">Tags:</div><a class="article-tag" href="/tag/blackout">blackout</a> <a class="article-tag" href="/tag/generator">generator</a> <a class="article-tag" href="/hardware">hardware</a> <a class="article-tag" href="/tag/how-long">how long</a> <a class="article-tag" href="/tag/power">power</a> <a class="article-tag" href="/tag/ups">ups</a> <a class="article-tag" href="/tag/va">va</a> <a class="article-tag" href="/tag/watts">watts</a>
+            </div>
+            <div id="div-gpt-ad-inread"></div>
+            
+            
+            
+            
+
+            
+                <script type="text/javascript" id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js"></script>
+                <div class="dianomi_context" data-dianomi-context-id="252"></div>
+                
+        </div>
+        <aside id="article-secondary">
+            <div id="article-details">
+                By 
+                        <a href="/author/adam-turner-515599">
+                            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="name">Adam Turner</span>
+                            </span>
+                        </a>
+                        
+                <br><span id="ContentPlaceHolder1_ucArticle_lbDateFrom" itemprop="datePublished" content="2012-09-25T11:45">Sep 25 2012<br />11:45AM</span>
+            </div>
+
+            <div id="article-scroll">
+                <div class="article-share">
+                    <a class="share-comments" title="Join the Conversation" href="/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806#disqus_thread" data-disqus-identifier="316806">0 Comments</a>                    
+                    <a class="share-email" title="Email A Friend" href="mailto:?subject=Business%20IT: How long will a UPS keep your computers on if the lights go out?&amp;body=Check out this great article I read on Business IT:%0D%0A%0D%0AHow long will a UPS keep your computers on if the lights go out?%0D%0A%0D%0Ahttps%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Ddesktop%26utm_medium%3Demail%26utm_campaign%3Dshare"></a>
+                    <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=How long will a UPS keep your computers on if the lights go out?&amp;related=&amp;url=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Ddesktop%26utm_medium%3Dtwitter%26utm_campaign%3Dshare" target="_blank"><div id="article-twitter-share-count"></div></a>
+                    <a class="share-feedback" title="Send Feedback" href="/feedback/?id=316806"></a>
+                    <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Ddesktop%26utm_medium%3Dfacebook%26utm_campaign%3Dshare" target="_blank"><div id="article-facebook-share-count"></div></a>
+                    <a class="share-print" title="Print" href="/tools/print.aspx?ciid=316806" target="_blank"></a>
+                    <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Ddesktop%26utm_medium%3Dlinkedin%26utm_campaign%3Dshare" target="_blank"><div id="article-linkedin-share-count"></div></a>                   
+                    
+                </div>
+                
+        <div>
+            <h3 class="section-header"><span>Related Articles</span></h3>
+            <ul id="related-article-list">
+    
+                <li><a href="/news/msis-2022-laptop-line-up-revealed-at-ces-574411">MSI's 2022 laptop line-up revealed at CES</a></li>
+    
+                <li><a href="/guide/start-up-success-from-e-bay-side-hustle-to-10mbusinessin-just-10-years---australias-leading-giftbusiness-574137">Start-up success: from e-bay side hustle to $10m&#160;business&#160;in just 10 years - Australia&#8217;s leading gift&#160;business</a></li>
+    
+                <li><a href="/guide/digital-identity-management-initiative-9-key-questions-to-ask-574131">Digital identity management initiative: 9 key questions to ask</a></li>
+    
+                <li><a href="/guide/why-australian-businesses-need-to-turn-to-intelligent-automation-in-a-post-lockdown-world-574130">Why Australian businesses need to turn to Intelligent Automation in a post lockdown world</a></li>
+    
+            </ul>
+        </div>
+    
+
+        
+
+
+
+     
+            </div>
+        </aside>
+    </div>
+        
+    <div class="article-share-mobile">
+        <a class="share-twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=How long will a UPS keep your computers on if the lights go out?&amp;related=&amp;url=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Dmobile%26utm_medium%3Dtwitter%26utm_campaign%3Dshare" target="_blank"><img src="/Images/mobile-share-twitter.png" border="0" alt="Share on Twitter" /></a>
+        <a class="share-facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Dmobile%26utm_medium%3Dfacebook%26utm_campaign%3Dshare" target="_blank"><img src="/Images/mobile-share-facebook.png" border="0" alt="Share on Facebook" /></a>
+        <a class="share-linkedin" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Dmobile%26utm_medium%3Dlinkedin%26utm_campaign%3Dshare" target="_blank"><img src="/Images/mobile-share-linkedin.png" border="0" alt="Share on LinkedIn" /></a>
+        <a class="share-whatsapp" title="Share on WhatsApp" href="whatsapp://send?text=How long will a UPS keep your computers on if the lights go out?%0D%0A%0D%0Ahttps%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Dmobile%26utm_medium%3Dwhatsapp%26utm_campaign%3Dshare"><img src="/Images/mobile-share-whatsapp.png" border="0" alt="Share on Whatsapp" /></a>
+        <a class="share-email" title="Email A Friend" href="mailto:?subject=Business%20IT: How long will a UPS keep your computers on if the lights go out?&amp;body=Check out this great article I read on Business IT:%0D%0A%0D%0AHow long will a UPS keep your computers on if the lights go out?%0D%0A%0D%0Ahttps%3a%2f%2fwww.bit.com.au%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806%3Futm_source%3Dmobile%26utm_medium%3Demail%26utm_campaign%3Dshare"><img src="/Images/mobile-share-email.png" border="0" alt="Email A Friend" /></a>
+    </div>
+        
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://www.bit.com.au/images/bit-logo.png">
+            <meta itemprop="width" content="176">
+            <meta itemprop="height" content="122">
+        </div>
+        <meta itemprop="name" content="Business IT">
+    </div>
+
+    
+
+</article>
+
+
+
+
+        <div class="row small-12 columns" id="article-mostread-container">
+            <h3 class="section-header-primary"><span>Most Read Articles</span></h3>
+            <div class="row collapse">
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/guide/2022-tech-stack-resolutions-put-your-crm-first-573848" >
+                        <img alt="2022 tech stack resolutions: Put your CRM first" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fwebstacks_hubspot.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>2022 tech stack resolutions: Put your CRM first</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/review/venom-blackbook-zero-15-phantom-573253" >
+                        <img alt="Venom BlackBook Zero 15 Phantom" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fBlackBook-Zero-15-Phantom-right.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>Venom BlackBook Zero 15 Phantom</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/guide/technology-predictions-for-2022-and-beyond-573344" >
+                        <img alt="Technology predictions for 2022 and beyond" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f2022_predictions.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>Technology predictions for 2022 and beyond</h2>
+                    </a>
+                </div>
+    
+                <div class="small-12 medium-3 columns article-mostread-article">
+                    <a href="/news/epson-launches-new-ecotank-printers-for-the-home-office-572174" >
+                        <img alt="Epson launches new EcoTank printers for the Home Office" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fET-4850.jpg&amp;h=298&amp;w=480&amp;c=1&amp;s=1">
+                        <h2>Epson launches new EcoTank printers for the Home Office</h2>
+                    </a>
+                </div>
+    
+            </div>
+        </div>
+            
+
+
+<div class="row">
+    <div class="large-8 columns" id="disqus-container">
+
+    
+
+    
+        <div id="disqus_thread"></div> 
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+
+    </div>
+    
+    <div class="large-4 columns">
+        <div class="mrec-lower">
+            <div id="div-gpt-ad-island2" class="ad-mrec"></div>
+        </div>
+        <div id="div-gpt-ad-button" class="button-ad-lower"></div>
+        
+
+
+<section id="poll-container">
+    <h3 class="section-header"><span>Poll</span></h3>
+        <div id="poll-id-553834">            
+            <div id="poll-title">What would you like to see more of on BiT?</div>
+            <div>
+                                            
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5844">
+                                News                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5845">
+                                Reviews                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5846">
+                                Features                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5847">
+                                How To's                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5848">
+                                Lollies                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5849">
+                                Photo Galleries                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5850">
+                                Videos                                                                
+                            </div>
+                                                    
+                            <div class="poll-item" data-poll-id="553834" data-poll-option-id="5851">
+                                Opinion                                                                
+                            </div>
+                        
+                    <button data-poll-id="553834" class="alternate-button">Vote Now</button>
+                
+                
+            </div>
+        </div>            
+    
+    <a class="poll-archive" href="/polls">View poll archive</a>
+</section>
+    </div>
+</div>
+</div>
+
+                            <div class="row footerboard">
+                                <div id="div-gpt-ad-footer" class="ad-leader"></div>
+                            </div>
+                            
+<script>
+    ord=Math.random()*10000000000000000;
+    document.write('<script src="/scripts/sponsoredcontent.ashx?type=SponsoredLink&si=Blogs&pa=&sc=697&output=script&ros=True&offset=False&ord=' + ord + '"></scr' + 'ipt>');
+</script>
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+                
+
+<div id="network-bar">
+    <div class="row">
+        <div class="large-12 columns">
+            <h3 class="section-header">Most popular tech stories</h3>
+        </div>
+        <div class="large-12 columns">
+            <ul class="large-block-grid-5 network-bar-grid">
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/video/cover-story-technology-alone-cant-beat-cybercrime-attack-the-economic-triggers-say-cisos-577648?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                        <img alt="COVER STORY: Technology alone can&#39;t beat cybercrime. Attack the economic triggers say CISOs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fbigstock-hacker_concepty_cybercrime_cyber_crime-133762928.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        COVER STORY: Technology alone can't beat cybercrime. Attack the economic triggers say CISOs
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/can-dahsnft-solve-a-big-problem-with-metaverses-moving-between-them-576496?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Can DahsNFT solve a big problem with metaverses? &#8212; Moving between them
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/cyber-crime-is-a-team-sport-say-cisos-577765?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Cyber crime is a team sport, say CISOs
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/digitalnation2021/news/analysis-personalisation-was-a-myth-says-adobe-apac-president-but-not-anymore-577758?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Analysis: Personalisation was a myth says Adobe APAC president, but not anymore
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/digitalnation/boardroom-impact/critical-infrastructure-and-cybersecurity-576783?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar">
+                                    
+                                    <h2 class="article-headline">
+                                        Boardroom Impact: Critical infrastructure
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="https://www.itnews.com.au/awards/finalists-showcase?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="iTnews Benchmark Awards Finalist&#39;s Showcase" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiTnews_BA2022_FinalistShowcase_LinkedInSocial.jpg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        iTnews Benchmark Awards Finalist's Showcase
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/news/us-warns-of-newly-found-advanced-chinese-backdoor-576663?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        US warns of newly found advanced Chinese backdoor
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/state-of-it/?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        State of IT
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="https://www.itnews.com.au/digitalnation/?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Digital Nation has relaunched
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.itnews.com.au/news/itnews-benchmark-awards-ceremony-moving-to-june-15-575464?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        iTnews Benchmark Awards ceremony moving to June 15
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.crn.com.au/news/google-cloud-names-angela-coronica-new-anz-channel-chief-575039?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="Google Cloud names new ANZ channel chief" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f1643011317593.jpeg&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        Google Cloud names Angela Coronica new ANZ channel chief
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/sap-names-first-regional-head-of-sustainability-575067?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        SAP names first regional head of sustainability
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/long-time-microsoft-anz-exec-phil-goldie-departs-after-12-years-575011?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Long-time Microsoft ANZ exec Phil Goldie departs after 12 years
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/canon-business-services-acquires-wa-microsoft-partner-satalyst-574890?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Canon Business Services acquires WA Microsoft partner Satalyst
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.crn.com.au/news/aussie-technology-spending-to-reach-111-billion-in-2022-gartner-574894?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Aussie technology spending to reach $111 billion in 2022: Gartner
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+                <li class="network-bar-item">
+                    <div class="network-bar-brand">&nbsp;</div>
+                    
+                            <div>
+                                <a href="http://dev.iothub.com.au/event/iot-impact-conference-576820?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                        <img alt="IoT Impact Conference" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fEvents%2f20220303092641_iot-impact-intro-image1.png&amp;h=141&amp;w=208&amp;c=1&amp;s=1">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Impact Conference
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/event/iot-insights-conference-orange-nsw-digital-food-agribusiness-576814?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Insights conference, Orange NSW: Digital Food & Agribusiness
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/iot-impact-moving-to-june-9-575046?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        IoT Impact moving to June 9
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/2021-iot-awards-winners-announced-572454?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        2021 IoT Awards winners announced
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                            <div>
+                                <a href="http://dev.iothub.com.au/news/second-critical-infrastructure-cyber-security-bill-passes-parliament-578253?utm_source=bit&amp;utm_medium=web&amp;utm_campaign=networkbar" target="_blank">
+                                    
+                                    <h2 class="article-headline">
+                                        Second critical infrastructure cyber security bill passes parliament
+                                    </h2>
+                                </a>
+                            </div>
+                        
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                
+
+<footer>
+    <div id="footer-top-level" class="row">
+        <div class="large-12 columns">
+            <div id="footer-links">
+                <a href="/page/contact">Contact Us</a>
+                <a href="/page/about">About Us</a>
+                <a href="/feedback">Feedback</a>
+                <a href="/page/advertising">Advertise</a>
+                <a href="/newsletter">Newsletter Archive</a>
+                <a href="/sitemap">Site Map</a>
+                <a href="/rss">RSS</a> 
+            </div>
+            <a href="http://www.nextmedia.com.au/" target="_blank" class="nm-logo"><img src="/images/logo_nextmedia.png" alt="nextmedia" /></a>&nbsp; <a href="/page/copyright">&copy; 2022 nextmedia Pty Ltd</a>.    
+        </div>   
+    </div>
+    <div id="footer-bottom-level">
+        <div class="row">
+        <div class="small-12 medium-9 columns">
+            <div id="footer-sites">
+            <span>OTHER TECH SITES:</span>
+            <a href="https://www.crn.com.au" target="_blank">CRN</a> &nbsp;|&nbsp;
+            <a href="https://www.iothub.com.au" target="_blank">IoT Hub</a> &nbsp;|&nbsp;
+            <a href="https://www.itnews.com.au" target="_blank">iTnews</a>
+            </div>
+            <div id="footer-terms">
+            All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form without prior authorisation.<br />Your use of this website
+            constitutes acceptance of nextmedia's <a href="http://www.nextmedia.com.au/next-media-privacy-statement.html" target="_blank">Privacy Policy</a> and 
+            <a href="http://www.nextmedia.com.au/next-media-terms-and-conditions.html" target="_blank">Terms & Conditions</a>.
+            </div>
+        </div>
+            <div class="small-12 large-3 columns" id="footer-powered-by">
+            <div class="footer-powered-by-inner">
+                <span>Powered By</span>
+                <a href="https://www.interactive.com.au" target="_blank"><img src="/images/interactive-logo.png" alt="Powered by Interactive" /></a>
+            </div>
+        </div> 
+        <!-- <div class="small-12 medium-3 columns" id="footer-rackspace"><a href="http://www.rackspace.com.au" target="_blank"><img src="/images/rackspace.png" alt="Powered by Rackspace Hosting" /></a></div> -->
+        </div>
+        
+        <div id="otp">
+            <div id="countdown" class="close"></div>
+            <div id="div-gpt-ad-interstitial"></div>
+        </div>
+        <div class="mask"> </div>
+        <div id="div-gpt-ad-skin"></div>
+    </div>
+</footer>
+                
+
+<div id="login-form">
+    <form id="frm-login" action="/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806?utm_source=iothub&utm_medium=web&utm_campaign=networkbar" method="post">
+        <h3 class="section-header"><span>Log In</span></h3>
+        <div id="login-form-register"><a href="/register">Don't have an account? Register now!</a></div>
+        <div id="login-validation"></div>
+        <div id="login-response"></div>
+        <div class="form-label">Email:</div>
+        <div class="form-input"><input id="username" name="username" type="text" required /></div>
+        <div class="form-label">Password:</div>
+        <div class="form-input"><input id="password" name="password" type="password" required /></div>
+        <div class="row form-checkbox">
+            <input id="rememberMe" name="rememberMe" type="checkbox" /><label for="rememberMe">Remember me</label><span>&nbsp; | &nbsp;<a href="/forgot" title="Forgot your password?">Forgot your password?</a></span>
+        </div>
+    </form>
+</div>
+
+            </div>
+            <div id="bit-data-store"
+                data-shareurl="%2fnews%2fhow-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806"
+                data-articleid="316806"
+                data-adcategories="[&quot;hardware&quot;]"
+                data-adkeywords="[&quot;blackout&quot;,&quot;generator&quot;,&quot;how long&quot;,&quot;power&quot;,&quot;ups&quot;,&quot;va&quot;,&quot;watts&quot;]"
+                data-adsection="news"
+                data-adshow="True"
+                data-gasitesection="News"
+                data-gasitecategory="Hardware"
+                data-gasitesubcategory=""
+                data-gakeywords="|blackout|generator|how long|power|ups|va|watts|"
+                data-disqus_auth=""
+                data-disqus_key="2bt7UC48dbwaUo2wrcbpiMexghu5XOsf5RqbahE11pIlQFDkOZwwsf18o4moKS7q"
+                data-disqus_shortname="bitnext"
+                data-disqus_developer="0"
+                data-disqus_title="How long will a UPS keep your computers on if the lights go out?"
+                data-disqus_url="http://www.bit.com.au/news/how-long-will-a-ups-keep-your-computers-on-if-the-lights-go-out-316806"
+                data-resizer="https://i.nextmedia.com.au/Utils/ImageResizer.ashx">
+            </div>
+
+            <img id="imgPixelTrack" src="/t.ashx?u=&amp;c=316806&amp;s=34&amp;r=https%3a%2f%2fwww.iothub.com.au&amp;n=%2fnews%2fArticle.aspx&amp;q=id%3d316806%26utm_source%3diothub%26utm_medium%3dweb%26utm_campaign%3dnetworkbar" alt="" style="display:none;" />
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+            <script src="https://use.fontawesome.com/ce439b86a9.js"></script>
+            <script src="/scripts/gdpr.js"></script>
+            
+            <script src="/scripts/js_bc5c7515e234cd2838b53b4ea40bdcff.js"></script>
+
+            
+
+            <!--[if lt IE 9]>    
+        <link href="/styles/ie8.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+
+        </div>
+    </div>
+
+</body>
+</html>
