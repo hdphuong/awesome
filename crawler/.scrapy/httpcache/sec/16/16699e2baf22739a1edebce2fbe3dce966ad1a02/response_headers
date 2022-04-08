@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:45:56 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Cookie
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+Host-Header: WordPress.com
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=60
+X-Redirect-By: WordPress
+Location: https://crowdsignal.com/support/api-example-code/
+X-Ac: 2.syd _bur

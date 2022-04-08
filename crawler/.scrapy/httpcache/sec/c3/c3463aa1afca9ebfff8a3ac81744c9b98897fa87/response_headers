@@ -1,0 +1,21 @@
+Date: Fri, 08 Apr 2022 11:45:47 GMT
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Origin: *
+Etag: W/"e3ddf8b5062f2abf7373d1fb91147d7f"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: us_user=false; path=/; secure
+Set-Cookie: show_cookie_prompt=false; path=/; secure
+Set-Cookie: v5_stackshops_session_production=Y0JUYUU3VTg4YnRVRXY1d2tmNXppQ25TekpkNUVrVTBCRndwQWk2dDhBK0RJNEF1NHNlWkIwaDFydkwwOWtZNk5nc21RNGpaanJoWWtEdDdnMGZBY2oxa1RORXFLQi9jaHM5TUlzakNIQzN6MVNCazVwdVp3SlN1Z2pvcTFMQzdpUTN2bHRTOTlLams5OEdnZGpQTWV3PT0tLTc5YWtValVGNWl0czNld09XQUNHeXc9PQ%3D%3D--2a4527363165771fd31fcc3ef76cf69e999caae2; path=/; secure; HttpOnly
+X-Request-Id: b6f20895-3b48-40d5-8710-c2de974c81e1
+X-Runtime: 1.604606
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains

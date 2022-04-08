@@ -1,0 +1,6 @@
+Referer: https://open.spotify.com/show/6IIjDymiwpNBC5ntDvysU2
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: sp_t=d920567b67049abdf8fd462a3b9ba233; sp_landing=https%3A%2F%2Fopen.spotify.com%2Fshow%2F6IIjDymiwpNBC5ntDvysU2%3Fsp_cid%3Dd920567b67049abdf8fd462a3b9ba233%26device%3Ddesktop

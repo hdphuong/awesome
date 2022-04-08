@@ -1,0 +1,11 @@
+Date: Fri, 08 Apr 2022 11:45:41 GMT
+Content-Type: text/plain
+Server: nginx
+Status: 200 OK
+Cache-Control: public, max-age=3600
+Etag: W/"2a0e9ebaec4dc8db206b82bbb04165d4"
+X-Request-Id: feb612cc-20b6-4a9b-9c24-646802b44519
+X-Runtime: 0.004723
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains

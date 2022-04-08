@@ -1,0 +1,11 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.condenast.com/
+Accept-Ranges: bytes
+Date: Fri, 08 Apr 2022 11:45:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-syd10171-SYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1649418354.693906,VS0,VE1

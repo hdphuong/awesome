@@ -1,4 +1,4 @@
-Date: Fri, 08 Apr 2022 11:35:14 GMT
+Date: Fri, 08 Apr 2022 11:45:34 GMT
 Content-Type: text/html
 Location: https://thenextweb.com/security
 Strict-Transport-Security: max-age=31536000;
@@ -10,5 +10,5 @@ Cf-Cache-Status: EXPIRED
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Vary: Accept-Encoding
 Server: cloudflare
-Cf-Ray: 6f8ab2cb7c3d6a54-SYD
+Cf-Ray: 6f8ac1ec9e516a51-SYD
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

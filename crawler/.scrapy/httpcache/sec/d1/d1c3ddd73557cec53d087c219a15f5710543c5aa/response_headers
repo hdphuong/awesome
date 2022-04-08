@@ -1,0 +1,18 @@
+Date: Fri, 08 Apr 2022 11:45:49 GMT
+Content-Type: text/html
+Last-Modified: Wed, 09 Jun 2021 18:04:05 GMT
+X-Ms-Request-Id: 7c896ed3-d01e-000f-48e1-4a89fb000000
+X-Ms-Version: 2009-09-19
+X-Ms-Lease-Status: unlocked
+X-Ms-Blob-Type: BlockBlob
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Type,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding
+Access-Control-Allow-Origin: *
+Cf-Cache-Status: REVALIDATED
+Expires: Fri, 08 Apr 2022 15:45:49 GMT
+Cache-Control: public, max-age=14400
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 6f8ac248face5509-SYD
+Content-Encoding: gzip

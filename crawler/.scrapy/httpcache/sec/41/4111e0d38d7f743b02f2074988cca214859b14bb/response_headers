@@ -1,0 +1,19 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Fri, 08 Apr 2022 11:45:51 GMT
+X-Amz-Rid: GQP7CPNBQ3XTEWK19PZT
+Set-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; Version=1; Comment="Anonymous cookie for privacy regulations"; Domain=.aws.amazon.com; Max-Age=31536000; Expires=Sat, 08-Apr-2023 11:45:51 GMT; Path=/; Secure
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+X-Amz-Id-1: GQP7CPNBQ3XTEWK19PZT
+Last-Modified: Wed, 16 Mar 2022 16:41:54 GMT
+Content-Security-Policy-Report-Only: default-src *; connect-src *; font-src * data:; frame-src *; img-src * data:; media-src *; object-src *; script-src *; style-src 'unsafe-inline' *; report-uri https://prod-us-west-2.csp-report.marketing.aws.dev/submit
+Content-Encoding: gzip
+Vary: accept-encoding,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Permissions-Policy: interest-cohort=()
+X-Cache: Miss from cloudfront
+Via: 1.1 4bfeb1eae9544366893e37b97eee8e6e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P1
+X-Amz-Cf-Id: 2XSZ9yATCn9D6Pg8uhQrdh--xIijnQFhOVBReRZrmLtTZan2L2lldw==

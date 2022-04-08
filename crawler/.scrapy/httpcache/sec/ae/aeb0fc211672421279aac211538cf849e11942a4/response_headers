@@ -1,9 +1,8 @@
 Server: nginx
-Date: Fri, 08 Apr 2022 11:35:33 GMT
+Date: Fri, 08 Apr 2022 11:45:52 GMT
 Content-Type: text/html; charset=utf-8
 Vary: Accept-Encoding
 Cache-Control: no-store
-Set-Cookie: country_code=AU; Path=/
 X-Frame-Options: SAMEORIGIN
 Content-Encoding: gzip
 X-Ac: 1.syd _bur

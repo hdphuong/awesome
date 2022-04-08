@@ -1,0 +1,24 @@
+Date: Fri, 08 Apr 2022 11:45:37 GMT
+Content-Type: text/plain; charset=utf-8
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=7776000
+Expires: Thu, 07 Jul 2022 11:45:36 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: ALLOW-FROM securityscorecard.pathfactory.com
+Feature-Policy: geolocation 'none'; camera 'none';
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'self' securityscorecard.lookbookhq.com securityscorecard.pathfactory.com discover.securityscorecard.com instant.securityscorecard.com instant.securityscorecard.camp securityscorecard.qa securityscorecard.com securityscorecard.camp *.cookiebot.com; default-src *.crazyegg.com; object-src 'none'; img-src 'self' *.crazyegg.com blob: data: https:; media-src 'self' data: https: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.crazyegg.com blob: data: https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' securityscorecard.com securityscorecard.camp instant.securityscorecard.com instant.securityscorecard.camp data: https:; frame-src 'self' https:; connect-src 'self' securityscorecard.com securityscorecard.camp instant.securityscorecard.com *.crazyegg.com https:; base-uri 'self'; form-action 'self' https:
+Access-Control-Allow-Origin: https://instant.securityscorecard.camp
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Cache: MISS from securityscorecard.com
+X-Cache-Detail: "cache miss: attempting entity save" from securityscorecard.com
+Cf-Cache-Status: MISS
+Last-Modified: Fri, 08 Apr 2022 11:45:37 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f8ac1f85c76a81d-SYD

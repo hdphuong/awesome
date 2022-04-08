@@ -1,14 +1,13 @@
 Content-Length: 323
 Accept-Ranges: bytes
-Age: 0
-Cache-Control: max-age=172800, s-maxage=172800
+Age: 1729
 Content-Encoding: gzip
 Content-Type: text/plain;charset=utf-8
-Date: Fri, 08 Apr 2022 11:35:12 GMT
+Date: Fri, 08 Apr 2022 11:16:42 GMT
 Expires: Thu, 01 Jan 1970 00:00:00 GMT
 Server: Squarespace
-Set-Cookie: crumb=BVg3fpZz/B7hNzQyZTUzOTM4NDkyMTUwZmQ2MzI0OTAyNTY5ZTFk;Path=/
+Set-Cookie: crumb=Bc3hYN2USa2CZjRmZDNlZmE0NmU3ZTk5Y2VjMmNmNzljODhkOTcx;Path=/
 Strict-Transport-Security: max-age=0
 Vary: Accept-Encoding
 X-Content-Type-Options: nosniff
-X-Contextid: 8Zo7vuwm/ORjMAmfC
+X-Contextid: 6wl4SSpX/1LSX0ZAg

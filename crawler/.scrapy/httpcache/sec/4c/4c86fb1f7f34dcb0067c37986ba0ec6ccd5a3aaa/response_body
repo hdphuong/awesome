@@ -3,6 +3,6 @@
 <body>
 <center><h1>301 Moved Permanently</h1></center>
 <hr><center>nginx</center>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6f8ab2cb7c3d6a54","token":"7a7ada525cfc4c5cb0fb933997a11fa0","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6f8ac1ec9e516a51","token":"7a7ada525cfc4c5cb0fb933997a11fa0","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>

@@ -1,0 +1,14 @@
+Date: Fri, 08 Apr 2022 11:45:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Next.js
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Vary: Accept-Encoding
+X-Cache: MISS from securityscorecard.com
+X-Cache-Detail: "Cache-Control: no-store present" from securityscorecard.com
+Content-Language: sk
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server: cloudflare
+Cf-Ray: 6f8ac2109839a81d-SYD
+Content-Encoding: gzip

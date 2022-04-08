@@ -1,0 +1,17 @@
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 08 Apr 2022 11:45:51 GMT
+Expires: Fri, 08 Apr 2022 11:45:51 GMT
+Cache-Control: private, max-age=0
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-GnVs4fTlNrPyZ9/ycJQm' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http: 'report-sample';report-uri https://csp.withgoogle.com/csp/scfe
+Content-Security-Policy: frame-ancestors https://support.google.com
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: support-content-ui
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=511=HnQDF9Q8R0wxN_wOCxe19LVFwYFAIJWuT6_4JDoCttTBBvywLZe8fAUn4ucXDRikt2M1N_El1jkt2jnkYavrcBMHuH89lTNSQYE6AUlcdCqVqZpniFmTJH2sDXn6EThuvauFmtnuQDGxtvo44VEE6AegWEEKLkppBLVDySXrn-k; expires=Sat, 08-Oct-2022 11:45:51 GMT; path=/; domain=.google.com; HttpOnly
+Set-Cookie: NID=511=HnQDF9Q8R0wxN_wOCxe19LVFwYFAIJWuT6_4JDoCttTBBvywLZe8fAUn4ucXDRikt2M1N_El1jkt2jnkYavrcBMHuH89lTNSQYE6AUlcdCqVqZpniFmTJH2sDXn6EThuvauFmtnuQDGxtvo44VEE6AegWEEKLkppBLVDySXrn-k; expires=Sat, 08-Oct-2022 11:45:51 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

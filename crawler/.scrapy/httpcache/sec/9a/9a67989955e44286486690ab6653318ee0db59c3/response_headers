@@ -1,0 +1,10 @@
+Server: nginx
+Date: Fri, 08 Apr 2022 11:45:56 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Cache-Control: no-store
+Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'report-sample' 'unsafe-eval' stats.wp.com https://widgets.wp.com *.wordpress.com https://apis.google.com https://appleid.cdn-apple.com 'nonce-d69035ed371a1fa4ee2b8e4adc2f6c3f9d1bbfe52070a5985dca2d135813e303a230af2fceab03836e1aefa832b6141b' www.google-analytics.com 'sha256-3yiQswl88knA3EhjrG5tj5gmV6EUdLYFvn2dygc0xUQ=' 'sha256-ZKTuGaoyrLu2lwYpcyzib+xE4/2mCN8PKv31uXS3Eg4='; base-uri 'none'; style-src 'self' *.wp.com https://fonts.googleapis.com; form-action 'self'; object-src 'none'; img-src 'self' data *.wp.com *.files.wordpress.com *.gravatar.com https://www.google-analytics.com https://amplifypixel.outbrain.com https://img.youtube.com localhost:8888; frame-src 'self' https://public-api.wordpress.com https://accounts.google.com/ https://jetpack.com; font-src 'self' *.wp.com https://fonts.gstatic.com data:; media-src 'self'; connect-src 'self' https://*.wordpress.com/ https://*.wp.com https://wordpress.com; report-uri /cspreport
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+X-Ac: 1.syd _bur
+Strict-Transport-Security: max-age=15552000; preload

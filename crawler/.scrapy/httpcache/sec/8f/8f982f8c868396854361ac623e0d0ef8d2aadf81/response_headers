@@ -3,12 +3,13 @@ Content-Type: text/plain; charset=utf-8
 Etag: "624c0d8f-b22"
 Expires: Wed, 06 Apr 2022 10:04:00 GMT
 Last-Modified: Tue, 05 Apr 2022 09:36:15 GMT
+Fastly-Original-Body-Size: 2850
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:35:09 GMT
-Age: 22
-Set-Cookie: GU_mvt_id=967464; expires=Thu, 07 Jul 2022 11:35:09 GMT; path=/; domain=.theguardian.com; Secure
+Date: Fri, 08 Apr 2022 11:45:28 GMT
+Age: 4
+Set-Cookie: GU_mvt_id=625825; expires=Thu, 07 Jul 2022 11:45:28 GMT; path=/; domain=.theguardian.com; Secure
 Set-Cookie: GU_geo_country=AU; path=/; Secure
-X-Timer: S1649417709.044057,VS0,VE1
+X-Timer: S1649418329.631337,VS0,VE1
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 X-Frame-Options: SAMEORIGIN
 X-Xss-Protection: 1; mode=block

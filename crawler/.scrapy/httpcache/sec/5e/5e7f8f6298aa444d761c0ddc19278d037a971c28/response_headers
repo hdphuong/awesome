@@ -14,13 +14,12 @@ X-Download-Options: noopen
 X-Frame-Options: DENY
 X-Powered-By: Next.js
 X-Xss-Protection: 1; mode=block
-Fastly-Original-Body-Size: 4873
 Via: 1.1 varnish, 1.1 varnish
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:35:24 GMT
-Age: 0
-X-Served-By: cache-iad-kcgs7200146-IAD, cache-syd10145-SYD
-X-Cache: HIT, MISS
-X-Cache-Hits: 1, 0
-X-Timer: S1649417725.796139,VS0,VE194
+Date: Fri, 08 Apr 2022 11:45:50 GMT
+Age: 625
+X-Served-By: cache-iad-kcgs7200146-IAD, cache-syd10155-SYD
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+X-Timer: S1649418350.269294,VS0,VE1
 Vary: Accept-Encoding, Authorization, Accept-Encoding

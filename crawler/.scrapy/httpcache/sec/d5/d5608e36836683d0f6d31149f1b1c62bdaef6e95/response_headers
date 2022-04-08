@@ -1,14 +1,13 @@
-Date: Fri, 08 Apr 2022 11:35:08 GMT
+Date: Fri, 08 Apr 2022 11:45:29 GMT
 Content-Type: text/plain;charset=UTF-8
-Cf-Ray: 6f8ab2a8cd325503-SYD
+Cf-Ray: 6f8ac1c7c8c4a813-SYD
 Access-Control-Allow-Origin: *
-Age: 21
 Cache-Control: public, max-age=30
 Content-Encoding: gzip
-Expires: Fri, 08 Apr 2022 13:35:08 GMT
-Last-Modified: Fri, 08 Apr 2022 11:34:47 GMT
+Expires: Fri, 08 Apr 2022 13:45:29 GMT
+Last-Modified: Fri, 08 Apr 2022 11:32:54 GMT
 Vary: Accept-Encoding, Origin
-Cf-Cache-Status: HIT
+Cf-Cache-Status: EXPIRED
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 X-Proxy-By: https://www.darkreading.com
 Server: cloudflare

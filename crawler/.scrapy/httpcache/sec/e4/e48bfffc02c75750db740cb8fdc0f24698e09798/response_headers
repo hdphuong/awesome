@@ -1,9 +1,9 @@
-Date: Fri, 08 Apr 2022 11:35:13 GMT
+Date: Fri, 08 Apr 2022 11:45:32 GMT
 Cache-Control: max-age=3600
-Expires: Fri, 08 Apr 2022 12:35:13 GMT
+Expires: Fri, 08 Apr 2022 12:45:32 GMT
 Location: https://www.informatech.com/robots.txt
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-Set-Cookie: __cf_bm=m_mRQrFsQeVk2CrIVCWotzjIXos.c2n9cEtiqHtaZfU-1649417713-0-Ac0ukyo6YOZjl2IhwHTngCr9JmGVjzaNCFZQl/1VMImxT5ZnokOpbNo6+qX4eqcWUkH7114yUM21X2z1yJ49cG0=; path=/; expires=Fri, 08-Apr-22 12:05:13 GMT; domain=.informa.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cf_bm=bbmE9JeszLloenxs9XYnEwdrYReCYaa6LlGbgvz0TQI-1649418332-0-AQfQ8b/ekmz4sMm1sN+WDZ0Y4axVvboa5kU4lhFcLUTwLFq7UL+i7dQ1vMCdQuDU19nP0yaF6kKXyavf7nLYgqg=; path=/; expires=Fri, 08-Apr-22 12:15:32 GMT; domain=.informa.com; HttpOnly; Secure; SameSite=None
 Vary: Accept-Encoding
 Server: cloudflare
-Cf-Ray: 6f8ab2c7bd31a823-SYD
+Cf-Ray: 6f8ac1e3db8b5569-SYD

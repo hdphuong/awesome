@@ -1,9 +1,9 @@
-Date: Fri, 08 Apr 2022 11:33:29 GMT
+Date: Fri, 08 Apr 2022 11:45:40 GMT
 Content-Type: text/html; charset=UTF-8
-Cf-Ray: 6f8ab0397e1c55ab-SYD
-Age: 448
+Cf-Ray: 6f8ac211bf7da7ff-SYD
+Age: 214
 Cache-Control: public, s-maxage=604800, max-age=0
-Expires: Fri, 08 Apr 2022 11:26:00 GMT
+Expires: Fri, 08 Apr 2022 11:42:05 GMT
 Last-Modified: Fri, 08 Apr 2022 09:56:12 GMT
 Link: </css/roboto.css>; as=style; rel=preload
 Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
@@ -18,7 +18,7 @@ X-Forwarded-For: 118.208.237.135
 X-Frame-Options: DENY
 X-Powered-By: WordPress VIP
 X-Xss-Protection: 1; mode=block
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=96oDydDlcVMMq%2FYL9TMpQA4vQgqf1u5FwcTvtisP3mozoaxMsDNOe213vfxX2mkLqWfYxUAO3%2FCp2wGWjAo4z0DI8xH5YCUfxEe31K6XANlENn%2F5sxhgfpuI50%2B0L8x1S9kC"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZDLHktcuzHjDeiaOTLNbcLCs2KihZGluEqjLW9sus2yUMj%2F5jYFklztMBj%2BvsufypLk7tiFjA3A0G99ECsxoHPxlDLWmXXRmI8Df3D4TNPVe16qG5G4PTqn191hVcP9Tcf9y"}],"group":"cf-nel","max_age":604800}
 Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
 Content-Encoding: gzip

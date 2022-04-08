@@ -1,0 +1,21 @@
+Date: Fri, 08 Apr 2022 11:45:57 GMT
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Origin: *
+Etag: W/"6bee729d6e1751e67945950e53e58280"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: recently_viewed_sale_ids=%5B311470%5D; path=/; expires=Fri, 15 Apr 2022 11:45:57 GMT; secure
+Set-Cookie: current_usd_rate=cTRoY1BaeUtxN3pneEdYSExuZ3k3dz09LS1FVzNlU0JTNFFGMmF4QkR0aDhJRUF3PT0%3D--0d80f4ba8737f60a147af01ee6c3347a1b44a36b; path=/; expires=Fri, 15 Apr 2022 11:45:57 GMT; secure
+Set-Cookie: v5_stackshops_session_production=V3g0dExBUWQyZVNhZVpEbDE3eDB0OHF6U2dESWZLYlNFMWpoTzhxVkFhVTFRd0o2bGVvQ1BkcGcwbmZETVVrKzh0T3A2WDlmK25lUkh0T05ySlpGdXRSdUR3ZjdocjV1cHR6cnQvZHBtMVZHcEdna2M4aUdFY1ZQeUZyNmR4ZTZuR1BaZXRzeTMvZHZCdkZPTWphYkl5MXFYdFhhdnBQUEpmQWRxVUtuN3dMNHRLeFRtUGxNWlA5dVg0WFZ3RCtqZFl3V0thU2p0V2J6bVUwUFdEZ2UwVXpQM0NCSnBHREg0L2t3SzNnNkJmYzM4OTZxVzJvL1lSNVVwbCtBcjNTSXRQTUtOUUh4ZGdoejlBOWtoMHEzUFphKzNFT3A3SExlRkozWUNhWkRmbU9UYU16bUFrT3lFZitHc2ErTXAyOTgxYVJHaEhrcVZBUENUZVBqTWhPU1dsR3pabkE2NmZ3bWZSaVVQczFEMWRacGZYMk54clNKRW8yWXlRcHBYZVVrVGdhZFBrZE9sZFV5T1I4QkxxOGhxUT09LS1RREtMelRPWFNOazRNa0pDbnRKdmZRPT0%3D--cbbe9731aefca93bbb3c7449b8fb34171b838f1c; path=/; secure; HttpOnly
+X-Request-Id: ea80b635-cf89-4387-a42b-a5dd3a7318ed
+X-Runtime: 0.388252
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains

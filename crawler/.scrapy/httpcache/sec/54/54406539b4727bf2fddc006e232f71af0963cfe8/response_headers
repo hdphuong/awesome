@@ -12,13 +12,12 @@ X-Dns-Prefetch-Control: off
 X-Download-Options: noopen
 X-Frame-Options: DENY
 X-Xss-Protection: 1; mode=block
-Fastly-Original-Body-Size: 116
 Via: 1.1 varnish, 1.1 varnish
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:35:22 GMT
-Age: 108
-X-Served-By: cache-iad-kjyo7100107-IAD, cache-syd10145-SYD
+Date: Fri, 08 Apr 2022 11:45:48 GMT
+Age: 734
+X-Served-By: cache-iad-kjyo7100107-IAD, cache-syd10155-SYD
 X-Cache: MISS, HIT
 X-Cache-Hits: 0, 1
-X-Timer: S1649417723.849787,VS0,VE1
+X-Timer: S1649418349.910466,VS0,VE1
 Vary: Accept-Encoding, Authorization, Accept

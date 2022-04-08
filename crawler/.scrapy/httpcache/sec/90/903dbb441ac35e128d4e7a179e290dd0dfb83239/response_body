@@ -179,13 +179,13 @@ class ABTest {
 <link rel="preconnect" href="//aax.amazon-adsystem.com" crossorigin>
 <link rel="preconnect" href="https://mb.moatads.com" crossorigin>
 <script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
-<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649417696"></script>
+<script src="https://cdn.arstechnica.net/cns/prebid.min.js?v=1649418295"></script>
 <script src="https://js-sec.indexww.com/ht/p/183973-93942139695505.js" async></script>
 <script src="https://z.moatads.com/condenastprebidheader987326845656/moatheader.js" async></script>
 <script>
   window.cns.pageContext = {"contentType":"site-info","templateType":"article","channel":"misc","subChannel":"","slug":"affiliate-link-policy","server":"production","keywords":{"tags":[],"cm":[],"platform":["wordpress"],"copilotid":""}};
 </script>
-<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649417696"></script>
+<script src="https://cdn.arstechnica.net/cns/ars-technica.min.js?v=1649418295"></script>
 <script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-84a4ab0802.ads.us.js"></script>
 </head>
 <body class="page-template-default page page-id-1201433 mobile-view dark blog-us noskim">
