@@ -10,8 +10,13 @@ function Honeypot() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Honeypot</h1>
-            <span> This site is not empty</span>
-            <Link to="/sus">.</Link>
+            <br/>
+            <span> Bad spiders ain't good, </span>
+            <br/>
+            <span> Good spiders ain't fun<Link to="/sus">.</Link> </span>
+            <br/>
+            <br/>
+            <p style={{color:"white"}}> Flag {"{"}security_by_obscurity_at_its_finest{"}"} </p>
           </div>
         </div>
       </div>
