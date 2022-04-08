@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin-bottom: 200px;
 }
 
 code {
@@ -20,3 +21,5 @@ a:hover {
   color: black;
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+
