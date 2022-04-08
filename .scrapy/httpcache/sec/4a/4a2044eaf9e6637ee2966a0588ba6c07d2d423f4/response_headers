@@ -1,7 +1,0 @@
-Content-Length: 0
-Server: AkamaiGHost
-Location: https://www.secretservice.gov/sites/default/files/robots.txt
-Date: Fri, 01 Apr 2022 06:58:56 GMT
-Server-Timing: cdn-cache; desc=HIT
-Server-Timing: edge; dur=1
-Strict-Transport-Security: max-age=31536000 ; includeSubDomains

@@ -1,9 +1,0 @@
-Content-Length: 0
-Cache-Control: private
-Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly
-Strict-Transport-Security: max-age=31536000; includeSubDomains
-X-Content-Type-Options: nosniff
-P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"
-X-Ms-Request-Id: e81caf25-8894-4ca7-b006-fbbb3a368000
-X-Ms-Ests-Server: 2.1.12570.11 - AUELR2 ProdSlices
-Date: Fri, 01 Apr 2022 06:58:41 GMT

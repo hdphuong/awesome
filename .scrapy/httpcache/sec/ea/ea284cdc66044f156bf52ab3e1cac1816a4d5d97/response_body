@@ -1,7 +1,0 @@
-# Global
-User-agent: *
-Disallow: /Members/
-
-# Sitemaps
-Sitemap: https://www.iothub.com.au/sitemap.xml
-Sitemap: https://www.iothub.com.au/sitemap_news.xml

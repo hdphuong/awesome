@@ -1,5 +1,0 @@
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en
-User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
-Accept-Encoding: gzip, deflate
-Cookie: SelectedEdition=edition; countryCode=AU; stateCode=NSW; geoData=kellyville|NSW|2155|AU|OC|1100|broadband|-33.710|150.980; FastAB=0=9977,1=5908,2=5242,3=2798,4=6094,5=4503,6=9081,7=4748,8=7151,9=8310

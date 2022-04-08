@@ -1,8 +1,0 @@
-Content-Length: 0
-Retry-After: 0
-Location: https://www.zdnet.com/topic/a-winning-strategy-for-cybersecurity/
-Date: Fri, 01 Apr 2022 07:59:58 GMT
-Via: 1.1 varnish
-Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-Accept-Ranges: bytes
-Vary: Accept-Encoding, User-Agent

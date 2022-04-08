@@ -1,9 +1,0 @@
-Server: nginx
-Date: Fri, 01 Apr 2022 08:04:02 GMT
-Content-Type: text/html; charset=UTF-8
-X-Pingback: https://www.interactive.com.au/xmlrpc.php
-Link: <https://www.interactive.com.au/wp-json/>; rel="https://api.w.org/"
-Link: <https://www.interactive.com.au/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
-Link: <https://www.interactive.com.au/>; rel=shortlink
-X-Cache: HIT
-Content-Encoding: gzip
