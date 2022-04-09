@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 09 Apr 2022 04:09:27 GMT
+Set-Cookie: AWSALB=4i6ZXMavYXyfas2OACAGqD9dtfa/J8WSW4vtbEDxBlLfBvVkG8f4GoveKHfhuQK30uwcnthv4d0sw83rfBnyiunfp5X76lUSl/H69BN/GqZVVqsITlvA1mHQ55Vf; Expires=Sat, 16 Apr 2022 04:09:26 GMT; Path=/
+Set-Cookie: AWSALBCORS=4i6ZXMavYXyfas2OACAGqD9dtfa/J8WSW4vtbEDxBlLfBvVkG8f4GoveKHfhuQK30uwcnthv4d0sw83rfBnyiunfp5X76lUSl/H69BN/GqZVVqsITlvA1mHQ55Vf; Expires=Sat, 16 Apr 2022 04:09:26 GMT; Path=/; SameSite=None
+Set-Cookie: experimentalFeaturesActivated=false; expires=Mon, 09-May-2022 04:09:27 GMT; path=/
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Security-Policy: frame-ancestors 'self' https://efsa.maps.arcgis.com
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 8974fd4c24f406080d11bb1a49a65792.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C1
+X-Amz-Cf-Id: KaDY6jjKIzQnlvVFOuRM5Oi6nVCIpxZktcLDuThJ-t90bHBXsbIsbw==

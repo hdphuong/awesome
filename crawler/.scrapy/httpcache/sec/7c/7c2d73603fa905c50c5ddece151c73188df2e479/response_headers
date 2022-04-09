@@ -1,0 +1,7 @@
+Content-Length: 0
+Retry-After: 0
+Debug-Error-Response: Redirect to www.ft.com
+Location: https://www.ft.com/robots.txt
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:40 GMT
+Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,18 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 04:04:15 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Pingback: https://blog.malwarebytes.com/xmlrpc.php
+Link: <https://blog.malwarebytes.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://blog.malwarebytes.com/wp-json/wp/v2/posts/26767>; rel="alternate"; type="application/json"
+Link: <https://blog.malwarebytes.com/?p=26767>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors none;
+Content-Encoding: gzip

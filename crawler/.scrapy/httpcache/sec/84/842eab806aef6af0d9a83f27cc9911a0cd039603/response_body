@@ -1,0 +1,215 @@
+
+
+
+
+
+    
+        
+
+        
+            
+            
+        
+    
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <meta name="keywords" content="TRUSTe validation page" />
+    <meta name="description" content="TRUSTe validation page for Apple Inc." />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Apple Inc.'s policies for online privacy and online safety are certified by TRUSTe</title>
+    <link href="/ctv/v4/css/css-reset.css?v=6.12.0.1" type="text/css" rel="stylesheet" />
+    <link href="/ctv/v4/css/fontawesome.css?v=6.12.0.1"  type="text/css" rel="stylesheet" />
+    <link href="/ctv/v4/css/style.css?v=6.12.0.16"  type="text/css" rel="stylesheet" />
+    <link href="/ctv/v4/fonts/fonts.css?v=6.12.0.1"  type="text/css" rel="stylesheet" />
+
+    <!--[if !IE]> -->
+    <link rel="icon" type="image/png" href="/ctv/images/favicon.png" />
+    <!-- <![endif]-->
+
+    <!--[if IE]>
+    <link rel="shortcut icon" type="image/x-icon" href="/ctv/images/favicon.ico" />
+    <![endif]-->
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+    <div>
+        
+
+
+
+
+
+
+
+   
+   
+
+
+
+
+   <div class="header-container">
+      <div class="header">
+         <div class="truste-logo-text"><a href="https://www.truste.com/consumer-resources" target="_blank">TRUSTe</a></div>
+         <div class="trustarc-logo-text">
+            <a href="https://www.truste.com/consumer-resources" target="_blank">
+               <small-font>Powered by</small-font> TrustArc
+            </a>
+         </div>
+      </div>
+   </div>
+
+        
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    <div class="main-container">
+
+        <h1 class="client-name">
+            
+                
+                
+                    Apple Inc.
+                
+            
+        </h1>
+
+        <div class="client-placeholder">
+            <div class="seal-wrapper">
+                <img alt="TRUSTe seal" class="img-placeholder"
+                     src="/ctv/images/certified-seal/APECPRP/seal_APECPRP_en_m.svg"/>
+            </div>
+            <span class="content-placeholder">
+            
+                
+                
+                    This company is currently a participant in TRUSTe's APEC Privacy Recognition for Processors (PRP) Certification program.
+                
+            
+
+        </span>
+        </div>
+
+        <p class="client-verbiage">
+            
+                
+                
+                    The TRUSTe APEC Processor Certification applies to: Data collected via the Apple School Manager platform by:
+Apple, Inc. located at One Apple Park Way, Cupertino, California, 95014, United States, for all other users. Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users in Canada or its territories and possessions;
+iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo for users in Japan; Apple Pty Limited, located at Level 2, 20 Martin Place, Sydney NSW 2000, Australia, for users in Australia, New Zealand, including island possessions, territories, and affiliated jurisdictions; Apple Distribution International, located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, for users in the European Economic Area and Switzerland.
+                
+            
+        </p>
+
+        
+            <div class="client-verbiage-links">
+                <a href="https://www.trustarc.com/privacy-certification-standards/" class="links"
+                   target="_blank">Review Standards »</a>
+                <a href="https://www.trustarc.com/consumer-resources/dispute-resolution/"
+                   class="link-button util-pull-right" target="_blank">Submit Privacy Feedback</a>
+            </div>
+        
+
+        <div class="privacy-information">
+            <h2>
+                
+                    
+                    
+                    
+                        What the APEC Processor seal means:
+                    
+                
+
+            </h2>
+
+            <p>
+                Companies who display the <strong><cite>APEC Processor seal</cite></strong> have demonstrated that their activities as a Personal Information Processor meet the <a href="http://cbprs.org/wp-content/uploads/2021/05/PRIVACY-RECOGNTION-FOR-PROCESSORS-SYSTEM-PROGRAM-REQUIREMENTS-1.pdf" download>APEC Privacy Recognition for Processors Program Requirements</a>.
+            </p>
+
+            <p>
+                
+                    
+                    
+                        TRUSTe monitors ongoing compliance through annual recertifications and complaints received through the Privacy Feedback mechanism.
+                    
+                
+            </p>
+
+            <p>
+
+                
+                    
+                    
+                    
+                        All companies that display this seal are solely responsible for their own privacy practices and for promptly notifying TRUSTe of any changes that might affect their certification status.
+                    
+                
+
+            </p>
+            <p>
+                TRUSTe is responsible only for the privacy practices applicable to it as expressly described in the <a href="https://www.truste.com/privacy-policy/" target="_blank">privacy policy</a> for the TrustArc group of companies and is not responsible for the privacy practices of any other company.
+            </p>
+        </div>
+
+
+    </div>
+
+
+
+
+
+        
+
+
+
+
+
+    <div class="footer-container">
+        <div class="footer">
+            <a href="https://www.truste.com/privacy-policy/" target="_blank">Privacy Policy</a>
+            <a href="https://www.truste.com/terms-of-use/" target="_blank">Terms &amp; Condition</a>
+            <a href="https://preferences-mgr.truste.com/" target="_blank">AdChoices</a>
+        </div>
+    </div>
+
+
+    </div>
+
+<script src="/ctv/js/jquery-1.12.4.min.js?v=6.12.0.5" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        
+        
+        
+    });
+</script>
+</body>
+</html>
+
+

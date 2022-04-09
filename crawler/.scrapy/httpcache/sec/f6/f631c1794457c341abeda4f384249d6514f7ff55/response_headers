@@ -1,0 +1,14 @@
+Content-Length: 700
+Date: Sat, 09 Apr 2022 04:09:24 GMT
+Content-Type: text/plain
+Last-Modified: Tue, 04 May 2021 15:47:35 GMT
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: LiteSpeed
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.vimeo.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.vimeo.com *.vimeocdn.com *.newrelic.com *.nr-data.net; style-src 'self' 'unsafe-inline' data: *.vimeocdn.com; img-src 'self' data: secure.gravatar.com www.gravatar.com; connect-src 'self' *.vimeo.com; frame-src 'self' data: *.vimeo.com *.vimeocdn.com; child-src 'self' data: *.vimeo.com *.vimeocdn.com; upgrade-insecure-requests; disown-opener; block-all-mixed-content; report-uri https://trustarc.com?gdsih-csp-report;
+X-Xss-Protection: 1; mode=block; report=https://trustarc.com?gdsih-xxp-report;
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0

@@ -1,0 +1,14 @@
+Content-Length: 118
+Server: Cowboy
+X-Powered-By: Express
+Location: /company/our-standards/editorial-code
+Content-Type: text/html; charset=utf-8
+Via: 1.1 vegur, 1.1 varnish
+Accept-Ranges: bytes
+Fastly-Original-Body-Size: 0
+Date: Sat, 09 Apr 2022 04:08:42 GMT
+X-Served-By: cache-syd10177-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649477321.076292,VS0,VE951
+Vary: Accept

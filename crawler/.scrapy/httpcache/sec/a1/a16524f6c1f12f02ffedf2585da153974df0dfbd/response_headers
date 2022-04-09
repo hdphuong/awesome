@@ -1,12 +1,12 @@
-Content-Length: 30930
+Content-Length: 20247
 Cache-Control: private
 Content-Type: text/html; charset=utf-8
 Server: Microsoft-IIS/8.5
-Set-Cookie: MyMagsCart=90c947a2-6a4f-46c6-b777-69f75510493d; expires=Sun, 08-May-2022 11:33:30 GMT; path=/
-Set-Cookie: ASP.NET_SessionId=ceg5y4oxqpz2v0lp3rsq05aj; path=/; HttpOnly; SameSite=Lax
-Set-Cookie: pJ8cQBkWvpIWj10Z=90c947a2-6a4f-46c6-b777-69f75510493d; expires=Sun, 08-May-2022 11:33:30 GMT; path=/
-Set-Cookie: tjhz9YfcMSWBAzgu=90c947a2-6a4f-46c6-b777-69f75510493d; path=/
+Set-Cookie: MyMagsCart=37a06c9c-d7ba-4a6e-bccd-f46b204ae129; expires=Mon, 09-May-2022 04:13:47 GMT; path=/
+Set-Cookie: ASP.NET_SessionId=hx3cxffwpuedbc0mviz12uw0; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: pJ8cQBkWvpIWj10Z=37a06c9c-d7ba-4a6e-bccd-f46b204ae129; expires=Mon, 09-May-2022 04:13:48 GMT; path=/
+Set-Cookie: tjhz9YfcMSWBAzgu=37a06c9c-d7ba-4a6e-bccd-f46b204ae129; path=/
 X-Aspnet-Version: 4.0.30319
 X-Powered-By: ASP.NET
 X-Ua-Compatible: IE=edge
-Date: Fri, 08 Apr 2022 11:33:30 GMT
+Date: Sat, 09 Apr 2022 04:13:48 GMT

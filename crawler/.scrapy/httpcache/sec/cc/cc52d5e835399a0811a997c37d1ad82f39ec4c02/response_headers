@@ -1,0 +1,18 @@
+Content-Length: 31517
+Age: 114183
+Date: Sat, 09 Apr 2022 04:09:00 GMT
+Vary: Cookie,Accept,X-Twitter-Internal,X-Twitter-IP-Tags
+Server: tsa_l
+Expires: Sat, 09 Apr 2022 04:09:00 GMT
+Set-Cookie: ct0=a15244d09776c17e3bd9583af99fe791; Max-Age=21600; Expires=Sat, 09 Apr 2022 10:09:00 GMT; Path=/; Domain=.twitter.com; Secure
+Set-Cookie: cms-csp-nonce=f1aa5afc659027f31f74120db022353; Max-Age=15; Expires=Sat, 09 Apr 2022 04:09:15 GMT; Path=/; Secure
+Content-Type: text/html
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://*.tt.omtrdc.net https://www.google-analytics.com; font-src 'self' https://*.twimg.com https://*.twitter.com https://cdn.cms-twdigitalassets.com https://cdn.goglobalwithtwitter.com data:; frame-src 'self' https://twitter.com https://*.twitter.com; img-src 'self' https://*.twimg.com https://twitter.com https://*.twitter.com https://cdn.cms-twdigitalassets.com https://cdn.goglobalwithtwitter.com https://www.google-analytics.com https://ad.doubleclick.net https://*.g.doubleclick.net https://adservice.google.com https://www.google.com https://www.google-analytics.com data:; media-src 'self' https://*.twimg.com https://*.twitter.com https://cdn.cms-twdigitalassets.com https://cdn.goglobalwithtwitter.com; object-src 'self' ; script-src 'self' 'sha256-ppW1Vv+qSVcs+/pIj1ZXvMiCLoyHyCdRqtDMeK9fQ9w=' https://*.twimg.com https://*.twitter.com https://cdn.cms-twdigitalassets.com https://cdn.goglobalwithtwitter.com 'nonce-f1aa5afc659027f31f74120db022353'; style-src 'self' 'unsafe-inline' https://*.twimg.com https://*.twitter.com https://cdn.cms-twdigitalassets.com https://cdn.goglobalwithtwitter.com; report-uri https://twitter.com/i/csp_report; frame-ancestors 'self'
+Strict-Transport-Security: max-age=631138519
+Content-Encoding: gzip
+X-Response-Time: 292
+X-Connection-Hash: a87cda9a70acdb01a9d87f0d1da8a64cc8ed787f221c6bf442d9cd9898df9dc4

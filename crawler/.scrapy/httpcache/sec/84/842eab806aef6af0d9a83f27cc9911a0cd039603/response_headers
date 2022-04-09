@@ -1,0 +1,23 @@
+Content-Length: 6250
+Date: Sat, 09 Apr 2022 04:08:52 GMT
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: AWSALB=Q1Z7d7vN1RoFe1O110UofNnPwJAi9QEpizwWmcznKNp3Gwmi7B/fLJ7mzOmt/aIG9tx0VzaJ6rlLdwUtNx58/DUnFxxbcOIoJ2FKKSaaOYjFwh/8alxNvul2q+5g; Expires=Sat, 16 Apr 2022 04:08:52 GMT; Path=/
+Set-Cookie: AWSALBCORS=Q1Z7d7vN1RoFe1O110UofNnPwJAi9QEpizwWmcznKNp3Gwmi7B/fLJ7mzOmt/aIG9tx0VzaJ6rlLdwUtNx58/DUnFxxbcOIoJ2FKKSaaOYjFwh/8alxNvul2q+5g; Expires=Sat, 16 Apr 2022 04:08:52 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: JSESSIONID=46192795C8B3DB15380A3A0990CB1D5B; Path=/ctv; Secure; HttpOnly; SameSite=Strict
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS, HEAD
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; frame-ancestors https://*.trustarc.com https://*.truste.com ; upgrade-insecure-requests; block-all-mixed-content;
+Expect-Ct: enforce, max-age=60
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Opener-Policy: cross-origin
+Cross-Origin-Embedder-Policy: unsafe-none
+Permissions-Policy: autoplay=(self), document-domain=(self), encrypted-media=(self)
+Cache-Control: must-revalidate, no-cache, no-store
+X-Xss-Protection: 1; mode=block

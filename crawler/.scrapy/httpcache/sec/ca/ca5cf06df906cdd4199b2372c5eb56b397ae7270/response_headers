@@ -1,0 +1,20 @@
+Content-Length: 33142
+Server: daiquiri/3.0.0
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Apple-Jingle-Correlation-Key: EFRGDMAQJT4DKZPPYOCJV2KVIU
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Daiquiri-Instance: daiquiri:17691002:mr85p00it-hyhk03124801:7987:22RELEASE43:daiquiri-amp-store-shared-ext-003-mr
+Cache-Control: public, max-age=60
+Expires: Sat, 09 Apr 2022 04:09:18 GMT
+Date: Sat, 09 Apr 2022 04:08:18 GMT
+X-Cache: TCP_MISS from a203-213-73-220.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+X-True-Cache-Key: /L/podcasts.apple.com/au/podcast/risky-business-2/id344988701 vcd=2897 ci2=///
+Vary: Accept-Encoding
+Vary: X-Apple-Store-Front, Cookie
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a104-109-52-134.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+X-Apple-Partner: origin.0

@@ -16,10 +16,9 @@ X-Daiquiri-Instance: daiquiri:45887002:st44p00it-hyhk16064801:7987:21HOTFIX31:da
 X-Daiquiri-Instance: daiquiri:48493001:st44p00it-hyhk15034601:7987:21HOTFIX31:daiquiri-amp-all-shared-ext-001-st
 X-Daiquiri-Instance: daiquiri:42814001:st44p00it-hyhk15034801:7987:22RELEASE43:daiquiri-amp-store-shared-ext-005-st
 Etag: "56922a1f8c26c4ae4565a82f693e48e7"
-Cache-Control: no-transform, max-age=300
-Date: Fri, 08 Apr 2022 11:33:32 GMT
+Cache-Control: no-transform, max-age=293
+Date: Sat, 09 Apr 2022 04:08:14 GMT
 X-Cache: TCP_REFRESH_HIT from a203-213-73-220.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (S)
 X-True-Cache-Key: /L/podcasts.apple.com/robots.txt vcd=2897
-X-Cache-Remote: TCP_REFRESH_HIT from a104-109-52-116.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (S)
-Set-Cookie: geo=AU; path=/; domain=.apple.com
+X-Cache-Remote: TCP_REFRESH_HIT from a104-109-52-101.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (S)
 X-Apple-Partner: origin.0

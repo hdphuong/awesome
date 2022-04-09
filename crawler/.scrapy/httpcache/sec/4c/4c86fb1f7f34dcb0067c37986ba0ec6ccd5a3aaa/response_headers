@@ -1,4 +1,4 @@
-Date: Fri, 08 Apr 2022 11:45:34 GMT
+Date: Sat, 09 Apr 2022 04:13:45 GMT
 Content-Type: text/html
 Location: https://thenextweb.com/security
 Strict-Transport-Security: max-age=31536000;
@@ -6,9 +6,9 @@ X-Frame-Options: SAMEORIGIN
 X-Xss-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 Referrer-Policy: unsafe-url
-Cf-Cache-Status: EXPIRED
+Cf-Cache-Status: HIT
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Vary: Accept-Encoding
 Server: cloudflare
-Cf-Ray: 6f8ac1ec9e516a51-SYD
+Cf-Ray: 6f906977da39a829-SYD
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

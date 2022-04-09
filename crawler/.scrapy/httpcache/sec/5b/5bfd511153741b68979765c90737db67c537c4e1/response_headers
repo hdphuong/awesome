@@ -1,0 +1,22 @@
+Server: Apple
+Date: Sat, 09 Apr 2022 04:08:51 GMT
+Content-Type: text/html;charset=UTF-8
+X-Apple-I-Request-Id: e23bc3c7-c5c0-41e9-b1e2-8219530362c7
+Set-Cookie: idclient=web; Domain=appleid.apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: dslang=CA-FR; Domain=apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: site=CAN; Domain=apple.com; Path=/; Secure; HttpOnly
+X-Buildversion: R8_2
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://appleid.apple.com https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://*.icloud-content.com ; font-src 'self' https://www.apple.com https://appleid.cdn-apple.com ; frame-src 'self' https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn https://familyws.icloud.apple.com ; img-src 'self' https://www.apple.com https://appleid.cdn-apple.com data: https://*.mzstatic.com https://appleid.apple.com https://*.icloud.com ; media-src data: ; object-src 'none' ; script-src 'self' https://www.apple.com https://appleid.cdn-apple.com https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn ; style-src 'unsafe-inline' 'self' https://www.apple.com https://appleid.cdn-apple.com ;
+Referrer-Policy: origin
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Vary: accept-encoding
+Content-Encoding: gzip
+Content-Language: fr-CA-x-lvariant-CAN
+Host: appleid.apple.com

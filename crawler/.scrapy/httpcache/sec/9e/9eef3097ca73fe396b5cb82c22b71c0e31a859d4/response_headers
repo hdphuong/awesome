@@ -1,0 +1,16 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:13:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-syd10181-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649477638.121577,VS0,VE1
+X-Gu-Version: 1
+X-Gu-Client-Os-Name: Mac OS
+X-Gu-Client-Identified: 0
+X-Gu-Client-Platform-Mobile: 0
+X-Gu-Client-Platform-Tablet: 0
+Location: https://www.theguardian.com/info/2020/feb/10/the-guardian-puzzles-app?device=other

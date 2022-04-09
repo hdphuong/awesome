@@ -1,4 +1,4 @@
-Date: Fri, 08 Apr 2022 11:09:34 GMT
+Date: Sat, 09 Apr 2022 04:08:22 GMT
 Content-Type: text/plain; charset=UTF-8
 Zendesk-Api-Version: 2022-01-01
 P3P: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
@@ -15,10 +15,10 @@ X-Runtime: 0.088419
 X-Zendesk-Zorg: yes
 Content-Encoding: gzip
 X-Content-Type-Options: nosniff
-Cf-Cache-Status: MISS
+Cf-Cache-Status: REVALIDATED
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X4%2FxKfwWa6F1Wa9zgnFqR88OEq3W3mVaiI%2BVR2k4mISvw%2F2BuoRCFtspIn8GlT8qYOwjIefcsbyJBCFIcz7ENDAgaupH5kOar3qIY2quOIKWIgFY6S89A4rVIBWPeYUJXJ1z"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iV4MgU7FnGeRSdddJxHvhl8uYeopRPIpWaOF4MUKfEKEa8BxFwJ8lIrGXoGKgxLzRjGalAo3X4mCTV0hRyo4Wl37dldP8f%2FEIARbVh9wn9umiw3gpCmoKTer8oE1APZAFvgO"}],"group":"cf-nel","max_age":604800}
 Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
-Set-Cookie: __cfruid=c1439e0cf51d5d0191bc5c8e4c68193a88084c5f-1649416174; path=/; domain=.zdnet.zendesk.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=84fe24a610cd9af942bd050321c222c143bf1551-1649477302; path=/; domain=.zdnet.zendesk.com; HttpOnly; Secure; SameSite=None
 Server: cloudflare
-Cf-Ray: 6f8a8d296c3155ab-SYD
+Cf-Ray: 6f906190ad5f6a48-SYD

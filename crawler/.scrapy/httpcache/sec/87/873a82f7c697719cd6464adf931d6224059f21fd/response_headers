@@ -1,0 +1,14 @@
+Content-Length: 777
+Date: Sat, 09 Apr 2022 04:09:55 GMT
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Mon, 21 Mar 2022 18:59:33 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=1209600
+Expires: Sat, 23 Apr 2022 04:09:55 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/plain; charset=UTF-8
+Set-Cookie: visid_incap_394983=Z0IJSnX1RTOhxqVVCjSWrRIHUWIAAAAAQUIPAAAAAAAd1qav1o/8vJMyk8snmz6S; expires=Sat, 08 Apr 2023 13:34:51 GMT; HttpOnly; path=/; Domain=.www.notaires.fr
+Set-Cookie: incap_ses_1469_394983=CnxMek+PLHQkb9PA6u9iFBMHUWIAAAAANTpfSKcHfDe1DKQGWHAvlA==; path=/; Domain=.www.notaires.fr
+X-Cdn: Imperva
+X-Iinfo: 14-13704502-13704508 NNNN CT(292 596 0) RT(1649477394392 39) q(0 0 9 0) r(12 12) U12

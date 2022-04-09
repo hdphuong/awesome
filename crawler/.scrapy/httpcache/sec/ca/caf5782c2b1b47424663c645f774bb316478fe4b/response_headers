@@ -1,0 +1,16 @@
+Content-Length: 45
+Content-Type: text/plain; charset=utf-8
+X-Amz-Id-2: toC7lourKcDysHiPXAIEfWnVkO/9BFZSC6pZYFK1wMY6xvxtr+QDmZjzDPeUyWqdNwK/DdRriFY=
+X-Amz-Request-Id: 6YWKQGEE1D4S5BP3
+X-Amz-Replication-Status: COMPLETED
+Last-Modified: Thu, 15 Jun 2017 02:30:13 GMT
+X-Amz-Version-Id: 448SnyqDno8Z4aI94960hv8aGhlXujlY
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Sat, 09 Apr 2022 04:09:19 GMT
+Etag: "3ec00ffdc4510164693edbac5d178968"
+Permissions-Policy: interest-cohort=()
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 0e61cdf08a154ac7d647c2dc742467a6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: 4WpJ6XqAtV3JV5TLPJNHAvieUqsb_CauclVsB6sCBTbLHCOGWxeCMQ==

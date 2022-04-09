@@ -1,0 +1,23 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 04:04:16 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Link: <https://www.zimperium.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.zimperium.com/wp-json/wp/v2/pages/3669>; rel="alternate"; type="application/json"
+Link: <https://www.zimperium.com/?p=3669>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://www.zimperium.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://www.zimperium.com
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: upgrade-insecure-requests
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cdn: Imperva
+X-Iinfo: 3-4409542-4409544 sNNN RT(1649477049598 6651) q(0 0 0 -1) r(3 3) U12

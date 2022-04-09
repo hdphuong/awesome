@@ -1,0 +1,16 @@
+Content-Length: 0
+Server: nginx
+Date: Sat, 09 Apr 2022 04:04:13 GMT
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+X-Redirect-By: WordPress
+Location: https://www.zimperium.com/privacy-policy/
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cdn: Imperva
+X-Iinfo: 3-4409542-4409544 sNNN RT(1649477049598 3960) q(0 0 0 -1) r(3 3) U11

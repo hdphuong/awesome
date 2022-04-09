@@ -3,20 +3,19 @@ Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Fri, 08 Apr 2022 11:14:31 GMT
+Date: Sat, 09 Apr 2022 03:59:00 GMT
 P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
 Strict-Transport-Security: max-age=31536000
-Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayRobotsHttp/cspreport
-Content-Security-Policy: script-src 'report-sample' 'nonce-/Y51NwJbNdwSBMQGDYxNpw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/PlayRobotsHttp/cspreport;worker-src 'self'
-Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
-Cross-Origin-Resource-Policy: cross-origin
-Report-To: {"group":"PlayRobotsHttp","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/PlayRobotsHttp/external"}]}
-Cross-Origin-Opener-Policy: same-origin; report-to="PlayRobotsHttp"
 Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayRobotsHttp/cspreport
+Content-Security-Policy: script-src 'report-sample' 'nonce-Qs9r2t7H1wD20r/wpw4U4g' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/PlayRobotsHttp/cspreport;worker-src 'self'
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: cross-origin
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
 Content-Encoding: gzip
 Server: ESF
 X-Xss-Protection: 0
 X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
-Set-Cookie: NID=511=NdKoOQnAOYCPOCeF3Q6jZyR4fi949I_e-Ifoja1-iaAxNcLON44bDg4bwmJt53AcSmwxTMlhaBzF55uq3QZjknsvvMDP7UsgzxwrYLmUBq3Hni4pGtmb_Od3tD3cCeSqFwbFdreIzof3J-RV6xS-EzPeX-Z3gxc0LCaNqqtAOo8; expires=Sat, 08-Oct-2022 11:14:31 GMT; path=/; domain=.google.com; HttpOnly
+Set-Cookie: NID=511=ZmmLSJ-aEoWq8gYw2fwhOLtfjweRVA14zkh0QAXLBa74ZQvxS-eQXXKHUkNLsbi2y8iWGobYK9h-TsftDehNqLSFEyJ4lbpNA3rJm1JUtXyNLAWbSuIl2l81h289KljhdLqezDXKp16Z4e5vNUHQ4iRX8Gft5IxTqqIPONAv37E; expires=Sun, 09-Oct-2022 03:59:00 GMT; path=/; domain=.google.com; HttpOnly
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

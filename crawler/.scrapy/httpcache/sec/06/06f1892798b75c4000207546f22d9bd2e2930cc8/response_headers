@@ -1,0 +1,24 @@
+Content-Length: 152
+Content-Type: text/plain; charset=UTF-8
+Etag: "377f20861f418a1ea879f6137499526f950965ec"
+Cache-Control: public, max-age=3600
+Last-Modified: Fri, 01 Jan 2010 00:00:00 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+X-Frame-Options: DENY
+Content-Encoding: gzip
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' https://ccpa-pm.sp-prod.net https://cdn.privacy-mgmt.com https://gdpr-tcfv2.sp-prod.net https://ccpa-service.sp-prod.net https://ccpa-notice.sp-prod.net https://sourcepoint.theguardian.com https://ccpa.sp-prod.net https://services.postcodeanywhere.co.uk https://stripe-intent.support.guardianapis.com members-data-api.theguardian.com metric-push-api-prod.support.guardianapis.com www.paypalobjects.com www.paypal.com t.paypal.com www.sandbox.paypal.com js.stripe.com https://payments.amazon.com https://payments-sandbox.amazon.com https://coin.amazonpay.com https://api-cdn.amazon.com static-na.payments-amazon.com ophan.theguardian.com j.ophan.co.uk media.guim.co.uk uploads.guim.co.uk www.google-analytics.com www.googletagmanager.com tagmanager.google.com assets.guim.co.uk www.googleadservices.com googleads.g.doubleclick.net www.google.com www.google.co.uk static.ads-twitter.com bat.bing.com bid.g.doubleclick.net t.co analytics.twitter.com stats.g.doubleclick.net www.youtube-nocookie.com connect.facebook.net www.facebook.com checkout.stripe.com fonts.googleapis.com ssl.gstatic.com www.gstatic.com fonts.gstatic.com sentry.io *.quantummetric.com blob: data: wss: 'unsafe-inline' q.stripe.com payment.guardianapis.com https://interactive.guim.co.uk/ https://www.theguardian.com/ https://theguardian.com/ https://contribution-referrals.support.guardianapis.com/referral-code; frame-ancestors https://gnmtouchpoint--c.eu31.visual.force.com https://gnmtouchpoint.lightning.force.com https://www.theguardian.com; object-src 'none'; base-uri 'none'
+X-Permitted-Cross-Domain-Policies: master-only
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 03:59:06 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-syd10146-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649476745.388733,VS0,VE833
+Vary: Accept-Encoding,Origin
+Set-Cookie: GU_geo_country=AU; path=/;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31557600

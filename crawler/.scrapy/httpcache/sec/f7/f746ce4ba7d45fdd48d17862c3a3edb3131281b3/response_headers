@@ -1,0 +1,8 @@
+Date: Sat, 09 Apr 2022 04:00:08 GMT
+Cache-Control: max-age=3600
+Expires: Sat, 09 Apr 2022 05:00:08 GMT
+Location: https://www.npmjs.com/package/robots.txt
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f90558598a06a68-SYD

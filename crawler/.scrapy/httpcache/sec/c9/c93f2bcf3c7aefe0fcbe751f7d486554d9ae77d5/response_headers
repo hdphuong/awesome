@@ -1,0 +1,24 @@
+Content-Length: 190
+Cache-Control: private, no-store
+Content-Type: text/html; charset=utf-8
+Location: /en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none';prefetch-src 'self';connect-src 'self';font-src 'self' data: githubdocs.azureedge.net;img-src 'self' data: github.githubassets.com githubdocs.azureedge.net placehold.it *.githubusercontent.com github.com;object-src 'self';script-src 'self';frame-src https://graphql.github.com/ https://www.youtube-nocookie.com;style-src 'self' 'unsafe-inline';child-src 'self'
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 0
+X-Azure-Ref: 0vgRRYgAAAACSBiR6GYy6Sar5QcRLlSw1U1lEMDNFREdFMTIxOAA1OTZkNzhhMi1jYTVmLTQ3OWQtYmNkYy0wODM1ODMzMTc0YjI=
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 03:59:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-syd10126-SYD
+X-Cache: CONFIG_NOCACHE, MISS
+X-Cache-Hits: 0
+X-Timer: S1649476799.754244,VS0,VE417
+Vary: Accept
+Strict-Transport-Security: max-age=31557600

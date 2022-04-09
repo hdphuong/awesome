@@ -1,0 +1,13 @@
+Content-Length: 166
+Content-Type: text/html
+Server: openresty
+Location: /story/37787028/sources-city-of-atlanta-computer-systems-dealing-with-cyberattack/
+Cache-Control: private, max-age=120
+Expires: Sat, 09 Apr 2022 04:01:35 GMT
+Date: Sat, 09 Apr 2022 03:59:35 GMT
+Set-Cookie: AKA_A2=A; expires=Sat, 09-Apr-2022 04:59:35 GMT; path=/; domain=cbs46.com; secure; HttpOnly
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=765
+Server-Timing: origin; dur=4
+Link: <https://gray-wgcl-prod.cdn.arcpublishing.com>;rel="preconnect",<https://polyfill.io>;rel="preconnect",<https://static.chartbeat.com>;rel="preconnect",<https://cdnjs.cloudflare.com>;rel="preconnect",<https://www.googletagmanager.com>;rel="preconnect",<https://ads.pubmatic.com>;rel="preconnect",<https://code.jquery.com>;rel="preconnect",<https://static.adsafeprotected.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests

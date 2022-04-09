@@ -1,0 +1,10 @@
+Content-Length: 0
+Retry-After: 0
+Debug-Error-Response: Redirect to next on ssl
+Location: https://www.ft.com/editorialcode
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:36 GMT
+Set-Cookie: FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3; Expires=Sun, 09 Apr 2023 04:08:36 GMT; Domain=.ft.com; Path=/
+Set-Cookie: ft-access-decision-policy=(null); Domain=.ft.com; Path=/
+Set-Cookie: ft-privileged-referer-model=(null); Max-Age=60; Domain=.ft.com; Path=/
+Set-Cookie: ft-privileged-referer-phase=(null); Max-Age=60; Domain=.ft.com; Path=/

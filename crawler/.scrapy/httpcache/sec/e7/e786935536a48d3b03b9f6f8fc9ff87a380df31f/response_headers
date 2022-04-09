@@ -1,0 +1,13 @@
+Content-Length: 429
+Location: https://googleads.g.doubleclick.net/ads/preferences/checkcookie?sig=ACi0TCiw4ey-idTwqzP_9AxrJ_s_O8CfPaThM4JYL5GjMVNAtfZMciNZWFKxqkcPIhCzZbkt39NC&continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cz9obD1lbg==&hl=en
+Date: Sat, 09 Apr 2022 04:09:19 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: content-ads-prefmgr
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: pm_sess=ACi0TCgmq3FottDlLHCChCKDvP9TlXO9OBazioTdA4IGsDp7ilkcwJLlDNy0BSz_sUb7edUv-PeQ; expires=Sat, 09-Apr-2022 04:39:19 GMT; path=/ads/preferences; domain=.doubleclick.net; Secure
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

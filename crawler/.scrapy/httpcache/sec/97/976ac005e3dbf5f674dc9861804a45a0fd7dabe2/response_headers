@@ -1,0 +1,9 @@
+Content-Length: 0
+Cache-Control: private
+Date: Sat, 09 Apr 2022 04:08:32 GMT
+Location: https://markets.ft.com/data/currencies
+P3P: CP="NON PHY ONL UNI PUR FIN COM NAV INT DEM STA HEA CUR ADM DEV OUR IND", policyref="/w3c/p3p.xml"
+Server: 
+Set-Cookie: 1751%5F0=4E17825FB03D20B788AEE049481DFA36974FB0C559631BE3CF2123A1E57216A4; domain=ft.com; path=/; HttpOnly
+Set-Cookie: GZIP=1; expires=Thu, 08-Apr-2027 04:08:33 GMT; path=/
+X-Aspnet-Version: 

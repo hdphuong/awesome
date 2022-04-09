@@ -1,0 +1,20 @@
+Content-Length: 25
+Content-Type: text/plain; charset=utf-8
+Etag: W/"19-2NTlN/votVlrfMtAaltZ799LfR0"
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Fastly-Original-Body-Size: 25
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:55 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-syd10145-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+Geo: OC
+Ft-Served-By: 1ywN736mJnYXufPb7dtuR9--F_eu_prod
+Ft-Served-By-Host: m-login-eu-prod.memb.ft.com

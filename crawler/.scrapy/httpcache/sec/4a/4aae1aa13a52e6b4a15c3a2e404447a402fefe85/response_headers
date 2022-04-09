@@ -4,15 +4,14 @@ X-Ua-Compatible: IE=edge
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Fri, 08 Apr 2022 11:14:33 GMT
+Date: Sat, 09 Apr 2022 03:59:04 GMT
 Strict-Transport-Security: max-age=31536000
-Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
 Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
-Content-Security-Policy: script-src 'report-sample' 'nonce-NpTEGvVd2WzC6o9hsJ5LDw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
-Report-To: {"group":"PlayStoreUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/PlayStoreUi/external"}]}
+Content-Security-Policy: script-src 'report-sample' 'nonce-T4N/4A8StTs19PSOXReEUw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
 Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
 Cross-Origin-Resource-Policy: same-site
-Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to="PlayStoreUi"
 Content-Encoding: gzip
 Server: ESF
 X-Xss-Protection: 0

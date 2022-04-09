@@ -1,0 +1,18 @@
+Server: GitHub.com
+Date: Sat, 09 Apr 2022 04:00:18 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container
+Vary: Accept-Encoding, Accept, X-Requested-With
+Permissions-Policy: interest-cohort=()
+Cache-Control: no-store
+Etag: W/"214e9823dfc582528d594bdb43301bc1"
+Set-Cookie: _gh_sess=TYg3LVG0I35spYLaWbZ9budyHe09VZ8PQPRVpWSY0BxlAnFCO1Z3aYMIquZxE%2BI%2FM1KQh%2BKwzUw6LpiSs2pdZfyuqpzVwc%2FlZQfGqOZk%2F5cI5GPCpy32TyN5s8Or%2FGXfxl7PJMCgjbgE1%2BcVucqOdfaQQsvrbSQlwZ3JzTPLD78KrXOCfL4oSe3SU%2BzBUIrTqcixHgVDdfkIatrGX4BPdzVT0a51d0lJGb7aIH8amxrLxus7tkxn2iXvaRiJG9wwU6%2F6I8lVuc62zn%2FtNowYTg%3D%3D--QA0XhZe6S4hyCvVh--hysonq5UsC1D%2FBMeBT8ucw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Expect-Ct: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events translator.github.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src render.githubusercontent.com viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Content-Encoding: gzip
+X-Github-Request-Id: EE10:5E3B:64D3C2:9C6D79:625104D2

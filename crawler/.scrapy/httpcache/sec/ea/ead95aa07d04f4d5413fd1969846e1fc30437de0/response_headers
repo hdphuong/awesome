@@ -3,7 +3,7 @@ Content-Encoding: gzip
 Content-Type: text/plain
 Etag: W/"624f0ce5-3a4"
 Last-Modified: Thu, 07 Apr 2022 16:10:13 GMT
-Date: Fri, 08 Apr 2022 11:20:32 GMT
+Date: Sat, 09 Apr 2022 04:08:11 GMT
 Via: 1.1 varnish
 Set-Cookie: fly_geo={"countryCode": "au"}; max-age=604800; path=/; domain=.zdnet.com; Secure;
 Set-Cookie: fly_device=desktop; max-age=604800; path=/; domain=.zdnet.com; Secure;

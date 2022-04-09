@@ -1,0 +1,13 @@
+Date: Sat, 09 Apr 2022 03:59:48 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=1800
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Cf-Cache-Status: MISS
+Last-Modified: Sat, 09 Apr 2022 03:59:48 GMT
+Expires: Sat, 09 Apr 2022 04:29:48 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f905500d845557b-SYD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

@@ -1,16 +1,16 @@
-Date: Fri, 08 Apr 2022 11:45:45 GMT
+Date: Sat, 09 Apr 2022 04:14:01 GMT
 Content-Type: text/html
 Cache-Control: no-cache, no-store
 Expires: -1
 Location: https://informa.com/privacy-policy/
 Pragma: no-cache
-Set-Cookie: ASP.NET_SessionId=p4jv51hasmsniyi1te10xjby; path=/; HttpOnly; SameSite=Lax
-Set-Cookie: SC_ANALYTICS_GLOBAL_COOKIE=d37e8be30e104df0916c35a0403b8f8e|False; expires=Mon, 05-Apr-2032 11:45:15 GMT; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=b3iy4jyyvlrulk0tzyuy3cce; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: SC_ANALYTICS_GLOBAL_COOKIE=f13a6422ea304137913b7ffae63c9e22|False; expires=Tue, 06-Apr-2032 04:13:31 GMT; path=/; HttpOnly
 X-Content-Type-Options: nosniff
 Cf-Cache-Status: DYNAMIC
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iR3FvaEAdJfe%2FNxbmK4CBNreLj%2B9tQm%2Fn9lzX1ASzAM9tq8lGmmbtBWfV3PvSb3nl3Zf3f3nVFmrPPli9E0JJgrADn9nEhyQ3iouY4G%2BIqflkCVpHHDgnLPLM6P8cd85vjl8gxae"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6XbaKhpO9rwbv3iwwmH6uktbdL%2FLaY7F7qwf3yXTVxQat1%2FFXNiFGgz1KnRRGYZkJWVo0p6iril2VeVC%2BY1R6mTBRE6t%2FFNiF95KKKo9Kq2iBnJjxeL4Em3uZjOuK6MfmjxiJOqv"}],"group":"cf-nel","max_age":604800}
 Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-Cf-Ray: 6f8ac22e0aea5aa8-MEL
+Cf-Ray: 6f9069dba88c5aa0-MEL
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

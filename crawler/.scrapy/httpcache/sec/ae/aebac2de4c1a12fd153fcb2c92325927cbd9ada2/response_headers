@@ -1,0 +1,11 @@
+Content-Length: 313
+Location: https://support.google.com/accounts/answer/10071085?p=age-verify&visit_id=637850735794052679-2283198075&rd=1
+Date: Sat, 09 Apr 2022 03:59:39 GMT
+Expires: Sat, 09 Apr 2022 03:59:39 GMT
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

@@ -1,0 +1,11 @@
+Cache-Control: no-store, no-cache
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Ej-Cachedresponse: true
+Content-Type: text/html;charset=UTF-8
+Date: Sat, 09 Apr 2022 04:09:42 GMT
+Set-Cookie: ejustice-locale=en; Path=; HttpOnly; Secure
+Set-Cookie: ejustice-locale=sv; Path=; HttpOnly; Secure
+Set-Cookie: ejustice-locale=sv; Path=; HttpOnly; Secure
+Server: Europa
+Content-Encoding: gzip

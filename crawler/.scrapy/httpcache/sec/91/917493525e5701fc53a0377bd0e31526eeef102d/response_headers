@@ -3,7 +3,8 @@ Retry-After: 0
 Debug-Error-Response: FT.com Robots
 Content-Type: text/plain
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:33:28 GMT
+Date: Sat, 09 Apr 2022 04:08:44 GMT
+Set-Cookie: FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3; Expires=Sun, 09 Apr 2023 04:08:44 GMT; Domain=.ft.com; Path=/
 Set-Cookie: ft-access-decision-policy=(null); Domain=.ft.com; Path=/
 Set-Cookie: ft-privileged-referer-model=(null); Max-Age=60; Domain=.ft.com; Path=/
 Set-Cookie: ft-privileged-referer-phase=(null); Max-Age=60; Domain=.ft.com; Path=/

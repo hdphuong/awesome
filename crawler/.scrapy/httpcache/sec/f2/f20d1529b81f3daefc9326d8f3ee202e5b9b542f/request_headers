@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: awesome (+http://www.yourdomain.com)
+Accept-Encoding: gzip, deflate
+Cookie: AWSALB=1e/X/CxzDufQ/xP6dV3sCmf3K7lNU23HRgrOAzP7hVNy8BDoQEYgqZKjyfgRMuDaySfN9o41RXII7scF/Fgy3RsAniG2BcAJKRww6YWLbfG49UpAdk2V9vUS0imZ; AWSALBCORS=1e/X/CxzDufQ/xP6dV3sCmf3K7lNU23HRgrOAzP7hVNy8BDoQEYgqZKjyfgRMuDaySfN9o41RXII7scF/Fgy3RsAniG2BcAJKRww6YWLbfG49UpAdk2V9vUS0imZ; ELX_SESSIONID=_pwMgx_u--0ZmsubpXJjU9q1MfAZ31crjoK_zJZGl1YrhUhmU-3M!-895587811

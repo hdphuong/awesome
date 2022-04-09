@@ -1,0 +1,11 @@
+Content-Length: 225
+Location: https://www.youtube.com/ads/
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Sat, 09 Apr 2022 04:09:29 GMT
+Expires: Sat, 09 Apr 2022 04:39:29 GMT
+Cache-Control: public, max-age=1800
+Server: sffe
+X-Xss-Protection: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

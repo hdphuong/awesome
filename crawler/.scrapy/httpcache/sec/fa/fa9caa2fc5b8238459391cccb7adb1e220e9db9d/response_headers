@@ -1,0 +1,12 @@
+Date: Sat, 09 Apr 2022 04:13:47 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 6f90697c0b5ba829-SYD
+Access-Control-Allow-Origin: *
+Cache-Control: s-maxage=30, stale-while-revalidate
+Vary: Accept-Encoding, Origin
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Powered-By: Next.js
+X-Proxy-By: https://www.darkreading.com
+Server: cloudflare
+Content-Encoding: gzip

@@ -1,0 +1,14 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 03:59:51 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://resources.sift.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://resources.sift.com/?p=5000>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Encoding: gzip

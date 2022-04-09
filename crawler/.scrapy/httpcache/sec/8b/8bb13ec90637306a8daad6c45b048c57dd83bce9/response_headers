@@ -1,0 +1,14 @@
+Content-Length: 0
+Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.28
+Location: https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2017%2Fmay%2F12%2Fhospitals-across-england-hit-by-large-scale-cyber-attack&type=article&internalpagecode=society%2F2017%2Fmay%2F12%2Fhospitals-across-england-hit-by-large-scale-cyber-attack
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 03:59:51 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-syd10171-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649476789.660882,VS0,VE3165

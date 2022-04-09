@@ -1,13 +1,13 @@
 Content-Length: 600
-Date: Fri, 08 Apr 2022 11:45:52 UTC
+Date: Sat, 09 Apr 2022 04:13:46 UTC
 Server: tsa_l
-Set-Cookie: guest_id_marketing=v1%3A164941835269084613; Max-Age=63072000; Expires=Sun, 07 Apr 2024 11:45:52 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: guest_id_ads=v1%3A164941835269084613; Max-Age=63072000; Expires=Sun, 07 Apr 2024 11:45:52 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: personalization_id="v1_E7Wsnxk5PaO5QnrVBywwcA=="; Max-Age=63072000; Expires=Sun, 07 Apr 2024 11:45:52 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-Set-Cookie: guest_id=v1%3A164941835269084613; Max-Age=63072000; Expires=Sun, 07 Apr 2024 11:45:52 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+Set-Cookie: guest_id_marketing=v1%3A164947762697609721; Max-Age=63072000; Expires=Mon, 08 Apr 2024 04:13:46 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+Set-Cookie: guest_id_ads=v1%3A164947762697609721; Max-Age=63072000; Expires=Mon, 08 Apr 2024 04:13:46 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+Set-Cookie: personalization_id="v1_GiQBbWY38h0mympofV7A7g=="; Max-Age=63072000; Expires=Mon, 08 Apr 2024 04:13:46 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+Set-Cookie: guest_id=v1%3A164947762697609721; Max-Age=63072000; Expires=Mon, 08 Apr 2024 04:13:46 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
 Content-Type: text/plain;charset=utf-8
 Cache-Control: no-cache, no-store, max-age=0
 Strict-Transport-Security: max-age=631138519
 Content-Encoding: gzip
-X-Response-Time: 163
-X-Connection-Hash: 4a8a9b47d11dcbc711b61b259ce39a10e29da5c26d7ab01c7bc9b44ee1580e5d
+X-Response-Time: 143
+X-Connection-Hash: 497ce39a25f0d6255f7204bafb01fb84408666b01bbf4eb4e873ed8f1083b8e4

@@ -1,0 +1,20 @@
+Content-Type: text/html; charset=utf-8
+Date: Sat, 09 Apr 2022 04:09:38 GMT
+Server: Apache
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: private, no-cache, max-age=0
+Etag: "5b419-QSKgl1TNhf6wXh3oRCOFcjNuHWQ"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: kununu_country_ip=au; Max-Age=3600; Path=/; Expires=Sat, 09 Apr 2022 05:09:37 GMT; Secure
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: same-origin
+X-Cache: Miss from cloudfront
+Via: 1.1 3466f1977d0fde72d3b068733212f226.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C3
+X-Amz-Cf-Id: N6BYPX2aWkQAlRV63eU7hyTE9IivOlDu-6TIqPW9uIGUOXTItWijjg==

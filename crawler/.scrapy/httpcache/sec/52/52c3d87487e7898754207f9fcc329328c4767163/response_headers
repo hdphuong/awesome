@@ -1,0 +1,13 @@
+Content-Length: 0
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: https://www.linkedin.com/robots.txt
+Set-Cookie: bcookie="v=2&9c6be299-23bd-437d-82de-fafcef3138a9"; domain=.linkedin.com; Path=/; Secure; Expires=Mon, 08-Apr-2024 15:45:46 GMT; SameSite=None
+X-Li-Fabric: prod-lva1
+X-Li-Pop: afd-prod-lva1-x
+X-Li-Proto: http/1.1
+X-Li-Uuid: AAXcMNw7U0KrMhDABXlcwA==
+X-Cache: CONFIG_NOCACHE
+X-Msedge-Ref: Ref A: E73F0F23D07545B596EF06B3494B7473 Ref B: SYD03EDGE1420 Ref C: 2022-04-09T04:08:14Z
+Date: Sat, 09 Apr 2022 04:08:15 GMT

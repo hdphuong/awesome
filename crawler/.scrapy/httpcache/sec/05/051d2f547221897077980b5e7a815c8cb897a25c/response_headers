@@ -1,15 +1,14 @@
-Content-Length: 16066
+Content-Length: 15900
 X-Content-Type-Options: nosniff
 X-Download-Options: noopen
 X-Xss-Protection: 1; mode=block
 Cache-Control: max-age=0, no-cache, must-revalidate
 Content-Type: text/html; charset=utf-8
-Etag: W/"1642a-wY19dzOKZr9Ir0l8TWrmsYWgSvU"
+Etag: W/"16417-bAA57IgDjLz2yMlAWsFqteyX2do"
 Content-Encoding: gzip
-Fastly-Original-Body-Size: 91178
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:14:30 GMT
+Date: Sat, 09 Apr 2022 04:08:18 GMT
 Age: 0
 Vary: ft-flags, ft-anonymous-user, ft-edition, et-app, FT-Site, Accept-Encoding, FT-Site
-Set-Cookie: FTAllocation=d8334d47-efad-426b-b485-2f33ca09e673; Expires=Sat, 08 Apr 2023 11:14:30 GMT; Domain=.ft.com; Path=/
+Set-Cookie: FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3; Expires=Sun, 09 Apr 2023 04:08:18 GMT; Domain=.ft.com; Path=/
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

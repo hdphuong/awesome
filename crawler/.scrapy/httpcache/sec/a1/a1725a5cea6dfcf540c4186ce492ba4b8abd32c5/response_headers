@@ -1,0 +1,20 @@
+Date: Sat, 09 Apr 2022 04:09:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Logjam-Request-Id: profilesloggedoutfrontend-production-76421fed4f3a4555a3d81bfbca9bf2dc
+X-Logjam-Request-Action: profile::$page_name?#get
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: no-referrer
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+Set-Cookie: visitor_id=cef5c96b-dcd0-4cca-9444-a9676fb9b650; Max-Age=63072000; Domain=xing.com; Path=/; Expires=Mon, 08 Apr 2024 04:09:22 GMT; HttpOnly; Secure; SameSite=Lax
+Etag: W/"39df6-ezeTbi6vK0bCFYt7A8QlG6lzm4M"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Ua-Compatible: IE=edge
+Strict-Transport-Security: max-age=31556926

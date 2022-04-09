@@ -1,0 +1,18 @@
+Content-Length: 6664
+Server: Apple
+Content-Type: text/html;charset=UTF-8
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Headers: origin
+Access-Control-Max-Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Host: support.apple.com
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: public, no-transform, max-age=86400
+Cache-Control: no-siteapp
+Expires: Sun, 10 Apr 2022 04:14:05 GMT
+Date: Sat, 09 Apr 2022 04:14:05 GMT
+Set-Cookie: JSESSIONID=AC965FA1E65638A82F6185F5C1A15761.worker2777-3; Path=/kb; HttpOnly

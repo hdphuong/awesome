@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Apple
+Date: Sat, 09 Apr 2022 04:08:51 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: max-age=3600
+Set-Cookie: org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=en-US; Path=/; Secure; HttpOnly
+Content-Language: en-US
+Location: https://locate.apple.com/?apt_Flag=true
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block

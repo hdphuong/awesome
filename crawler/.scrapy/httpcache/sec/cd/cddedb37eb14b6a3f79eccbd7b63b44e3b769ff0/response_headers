@@ -1,0 +1,15 @@
+Date: Sat, 09 Apr 2022 04:14:02 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Ua-Compatible: IE=edge
+X-Pingback: https://www.smithjournal.com.au/xmlrpc.php
+Link: <https://www.smithjournal.com.au/wp-json/>; rel="https://api.w.org/", <https://www.smithjournal.com.au/wp-json/wp/v2/posts/598>; rel="alternate"; type="application/json", <https://www.smithjournal.com.au/?p=598>; rel=shortlink
+X-Wdfy-Cache-Status: EXPIRED
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6ropRgR4Efbsahyle1DK4QPgyxMQON1xTL26DQXAZVJ9qpIKxqqa%2FT%2FLq0hmKAuhfmzpxZfj0%2FVyeIgMY6U8%2FbyQZhTdDT6wizeYMHHbb9tDdq%2BAZ5%2Bwcn8TbWIed%2B3IGMpPgCSOmAChSQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 6f9069e1fa885ab4-MEL
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

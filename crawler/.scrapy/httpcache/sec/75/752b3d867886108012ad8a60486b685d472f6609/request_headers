@@ -1,6 +1,6 @@
-Referer: https://www.zdnet.com/article/chinese-hackers-deep-panda-return-with-log4shell-exploits-new-fire-chili-rootkit/
+Referer: https://www.zdnet.com/article/borat-rat-malware-a-unique-triple-threat-that-is-far-from-funny/
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
-User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+User-Agent: awesome (+http://www.yourdomain.com)
 Accept-Encoding: gzip, deflate
 Cookie: fly_geo={"countryCode": "au"}; fly_device=desktop; fly_preferred_edition=au; fly_default_edition=au; nemo_highlander=dapi:1:a

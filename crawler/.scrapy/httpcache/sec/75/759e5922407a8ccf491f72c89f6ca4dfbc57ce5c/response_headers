@@ -1,0 +1,6 @@
+Content-Length: 0
+Retry-After: 0
+Debug-Error-Response: Redirect to www.ft.com
+Location: https://ft.com/robots.txt
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:37 GMT

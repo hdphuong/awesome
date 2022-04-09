@@ -1,0 +1,23 @@
+Content-Length: 13463
+Date: Sat, 09 Apr 2022 04:08:29 GMT
+Content-Type: text/html; charset=utf-8
+Expires: Sat, 09 Apr 2022 04:08:29 GMT
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate, private
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Vary: Accept-Language, Cookie, Accept-Encoding
+Content-Language: en
+Content-Encoding: gzip
+Set-Cookie: django_language=en; expires=Sun, 09 Apr 2023 04:08:29 GMT; Max-Age=31536000; Path=/
+X-Divio-App: ft1235helpftcom-live-c45d5b895718407289f5080b4f36349c
+X-Divio-Router: ReUyaxhsiAeW1RbC0UD6-g
+X-Divio-Request-Id: 44a5a245a8c294da667aedf191ffd544
+X-Divio-Request-Time: 0.223
+X-Divio-Handler: MTAuMC4xLjEzNQ
+X-Divio-Request-Upstream-Time: 0.224
+Cf-Cache-Status: MISS
+Last-Modified: Sat, 09 Apr 2022 04:08:29 GMT
+Accept-Ranges: bytes
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f9061b86cd26a6f-SYD

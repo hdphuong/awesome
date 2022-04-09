@@ -1,0 +1,15 @@
+Content-Length: 203629
+Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.28
+Link: <https://syndication.theguardian.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://syndication.theguardian.com/>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 03:59:26 GMT
+Via: 1.1 varnish
+Age: 2
+X-Served-By: cache-syd10140-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649476762.069703,VS0,VE4004

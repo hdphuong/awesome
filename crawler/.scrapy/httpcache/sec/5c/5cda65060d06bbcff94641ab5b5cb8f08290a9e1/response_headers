@@ -1,0 +1,9 @@
+Content-Length: 0
+Retry-After: 0
+Debug-Error-Response: Redirect to accounts.ft.com/login
+Location: https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com%2Fcontent%2Fdf00fea0-73b4-4e18-b43b-2af0c5a58bbf
+Cache-Control: private, no-store
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:59 GMT
+Set-Cookie: FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3; Expires=Sun, 09 Apr 2023 04:08:59 GMT; Domain=.ft.com; Path=/
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

@@ -885,15 +885,15 @@
             <h3 class="section-header"><span>Most Read</span></h3>
             <ul>
     
+                <li><a href="/news/victoria-installing-zscaler-on-students-personal-devices-to-monitor-traffic-577947">Victoria installing Zscaler on students' personal devices to monitor traffic</a></li>
+    
                 <li><a href="/news/nbn-co-gets-250-orders-in-first-week-of-fttn-p-upgrades-being-offered-578161">NBN Co gets 250 orders in first week of FTTN-P upgrades being offered</a></li>
     
-                <li><a href="/news/victoria-installing-zscaler-on-students-personal-devices-to-monitor-traffic-577947">Victoria installing Zscaler on students' personal devices to monitor traffic</a></li>
+                <li><a href="/news/asd-to-create-cyber-security-hubs-in-three-states-578413">ASD to create cyber security hubs in three states</a></li>
     
                 <li><a href="/news/defence-cancels-skyguardian-drones-to-fund-redspice-cyber-plan-578192">Defence cancels SkyGuardian drones to fund REDSPICE cyber plan</a></li>
     
-                <li><a href="/news/victoria-police-hires-long-time-health-cio-578175">Victoria Police hires long-time health CIO</a></li>
-    
-                <li><a href="/news/asd-to-create-cyber-security-hubs-in-three-states-578413">ASD to create cyber security hubs in three states</a></li>
+                <li><a href="/news/victoria-to-replace-wireless-myki-readers-as-3g-shutdown-nears-578350">Victoria to replace wireless myki readers as 3G shutdown nears</a></li>
     
             </ul>
         </section>
@@ -904,6 +904,32 @@
             
         <section class="paid-content-box">
             <h3 class="section-header"><span><a href="/partner-content">Partner Content</a></span></h3>
+    
+        <a class="row collapse whitepapers-list" href="/feature/ransomware-attacks-drive-ztna-adoption-learning-from-those-who-learned-the-hard-way-578079">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f0_0_480_1_70__Features_2021120.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Ransomware attacks drive ZTNA adoption: learning from those who learned the hard way
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list" href="/feature/where-human-meets-digital-574642">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Where human meets digital" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220113040609_data_fast_person_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                
+                
+                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
+                
+                Where human meets digital
+            </div>
+        </a>
     
         <a class="row collapse whitepapers-list" href="/feature/how-barracuda-built-a-robust-barricade-for-school-it-security-575601">
             <div class="small-4 columns whitepapers-list-img  ">
@@ -931,55 +957,29 @@
             </div>
         </a>
     
-        <a class="row collapse whitepapers-list" href="/feature/how-la-trobe-university-re-platformed-for-a-data-driven-future-578024">
+        <a class="row collapse whitepapers-list" href="/feature/why-your-businesss-high-performance-computing-future-may-not-be-in-the-cloud-577069">
             <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="How La Trobe University re-platformed for a data-driven future" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f0_0_480_1_70__News_crn-14_la_trobe_university.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &nbsp; &#8594;</a>">Partner Content</span>
-                
-                
-                How La Trobe University re-platformed for a data-driven future
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/why-its-more-important-than-ever-to-ditch-outdated-cmss-576417">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Why it&#39;s more important than ever to ditch outdated CMSs" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fphone_customer_experience_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+                <img alt="Why your business&#39;s high-performance computing future may not be in the cloud" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220308012908_Server_room_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 
                 
                     <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
                 
-                Why it's more important than ever to ditch outdated CMSs
+                Why your business's high-performance computing future may not be in the cloud
             </div>
         </a>
     
-        <a class="row collapse whitepapers-list" href="/video/multicloud-it-is-mainstream-but-have-businesses-adapted-575687">
-            <div class="small-4 columns whitepapers-list-img  play-btn">
-                <img alt="Multicloud IT is mainstream but have businesses adapted?" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fmulticloud_1.JPG&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                
-                
-                    <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
-                
-                Multicloud IT is mainstream but have businesses adapted?
-            </div>
-        </a>
-    
-        <a class="row collapse whitepapers-list" href="/feature/where-human-meets-digital-574642">
+        <a class="row collapse whitepapers-list" href="/feature/3-ways-companies-are-getting-more-from-intelligent-automation-576772">
             <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Where human meets digital" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220113040609_data_fast_person_1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
+                <img alt="3 ways companies are getting more from intelligent automation" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f20220302114508_woman_it_v1.jpg&amp;h=183&amp;w=300&amp;c=1&amp;s=0" class="width-only-img" width="240" height="146">
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 
                 
                     <span class="sponsored" title="<a href='/page/commercial-content-on-itnews' target='_blank'>Learn more &#8594;</a>">Promoted Content</span>
                 
-                Where human meets digital
+                3 ways companies are getting more from intelligent automation
             </div>
         </a>
     
@@ -990,21 +990,21 @@
         <section>
             <h3 class="section-header"><span><a href="/digitalnation">Digital Nation</a></span></h3>
     
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/cover-story-from-cost-control-to-customer-fanatics-ai-is-transforming-the-contact-centre-575713">
-            <div class="small-4 columns whitepapers-list-img  play-btn">
-                <img alt="COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fiStock-1185135641.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
-            </div>
-            <div class="small-8 columns whitepapers-list-title">
-                COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre
-            </div>
-        </a>
-    
         <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/the-other-cto-the-emerging-role-of-the-chief-transformation-officer-575828">
             <div class="small-4 columns whitepapers-list-img  ">
                 <img alt="The other &amp;#8216;CTO&amp;#8217;: The emerging role of the chief transformation officer" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fiStock-1309701000.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
             </div>
             <div class="small-8 columns whitepapers-list-title">
                 The other &#8216;CTO&#8217;: The emerging role of the chief transformation officer
+            </div>
+        </a>
+    
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
+            <div class="small-4 columns whitepapers-list-img  ">
+                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+            </div>
+            <div class="small-8 columns whitepapers-list-title">
+                Metaverse hype will transition into new business models by mid decade: Gartner
             </div>
         </a>
     
@@ -1017,12 +1017,12 @@
             </div>
         </a>
     
-        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/news/metaverse-hype-will-transition-into-new-business-models-by-mid-decade-gartner-575734">
-            <div class="small-4 columns whitepapers-list-img  ">
-                <img alt="Metaverse hype will transition into new business models by mid decade: Gartner" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fActivison_blizzard_metaverse.png&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
+        <a class="row collapse whitepapers-list " href="https://www.itnews.com.au/digitalnation/video/cover-story-from-cost-control-to-customer-fanatics-ai-is-transforming-the-contact-centre-575713">
+            <div class="small-4 columns whitepapers-list-img  play-btn">
+                <img alt="COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre" src="https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fVideos%2fiStock-1185135641.jpg&amp;h=146&amp;w=240&amp;c=1&amp;s=0" class="width-only-img" width="140" height="170" />
             </div>
             <div class="small-8 columns whitepapers-list-title">
-                Metaverse hype will transition into new business models by mid decade: Gartner
+                COVER STORY: From cost control to customer fanatics, AI is transforming the contact centre
             </div>
         </a>
     

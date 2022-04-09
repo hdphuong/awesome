@@ -1,0 +1,6 @@
+Referer: https://www.ft.com/content/8a06ff96-04e1-11e7-ace0-1ce02ef0def9
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: awesome (+http://www.yourdomain.com)
+Accept-Encoding: gzip, deflate
+Cookie: ft-access-decision-policy=DENY_POLICY; ft-privileged-referer-model=(null); ft-privileged-referer-phase=(null); FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3

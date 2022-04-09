@@ -6,7 +6,7 @@ import { useState } from "react";
 function Login() {
   const clientId = "245615667287-nb0938ataneoq84jj6r1bmm9k6sqpngn.apps.googleusercontent.com";
 
-  const [isLoggedIn, setIsLoggedIn] = useState();
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const handleLogin = (response) => {
     setIsLoggedIn(true);
@@ -18,6 +18,7 @@ function Login() {
   }
 
   const onFailure = (response) => {
+    setIsLoggedIn(false);
     console.log(response);
   }
 
@@ -39,12 +40,10 @@ function Login() {
                 </div>)
             :
             (<GoogleLogin 
-              clientId = {clientId}
+              clientId={clientId}
               buttonText="Login"
               onSuccess={handleLogin}
               onFailure={onFailure}
-              cookiePolicy={'single_host_origin'}
-              isSignedIn={true}
             />)
             }
           </div>

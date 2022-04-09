@@ -1,0 +1,14 @@
+Content-Length: 130
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0, must-revalidate
+Content-Security-Policy: default-src 'self'; script-src 'self' www.googletagmanager.com www.google-analytics.com appds8093.blob.core.windows.net sb.scorecardresearch.com d33wubrfki0l68.cloudfront.net js-agent.newrelic.com bam.nr-data.net bam-cell.nr-data.net netlify-cdp-loader.netlify.app boards.greenhouse.io fast.wistia.net snap.licdn.com 'sha256-XCkYHI5IWiVDHYy0d2uyy8DUOfASE1YjVH+U6jxSauo=' 'sha256-f27ec7fr410M42XNn5iP+kbi33rgUhaR1n5y9XqnsL0=' 'sha256-KSeaxP+y9oNnNIeLN/o4WNSkv47DWhwgZN33s+fwE8g=' 'sha256-QtjDOsrVMhctd/+3Uk3ByFqExRW9eT0gQpumpT7fmdY=' 'sha256-OTreFMXzbXFHo+X5Zcof9Q4bEmr2mEFlQZlhesKdvZE=' 'sha256-z7QZuIorKGxH6cBa1tMXvwq/av4WHcJmfoe3j9fmO80=' 'sha256-vrmdtnD8acb3Wrd1/EpL9DF5GdTEIg2VtfsK5Ndu8XM='; connect-src 'self' netlify-cdp-loader.netlify.app boards-api.greenhouse.io www.google-analytics.com stats.g.doubleclick.net appds8093.blob.core.windows.net *.onetrust.com bam.nr-data.net bam-cell.nr-data.net fast.wistia.net px.ads.linkedin.com; img-src 'self' data: *.cloudfront.net sb.scorecardresearch.com www.google.com www.google-analytics.com *.googleusercontent.com live-arvy-admin.pantheonsite.io ladybosslaine.files.wordpress.com *.giphy.com images.squarespace-cdn.com; style-src 'self' 'unsafe-inline' d33wubrfki0l68.cloudfront.net *.onetrust.com; base-uri 'self'; form-action 'self'; font-src 'self' *.onetrust.com *.cloudfront.net; prefetch-src 'self' 'unsafe-inline'; frame-src 'self' www.youtube-nocookie.com www.youtube.com youtube.com app.netlify.com boards.greenhouse.io open.spotify.com castbox.fm fast.wistia.net; media-src 'self' corp-comm-videos-production-us-east-1.s3.amazonaws.com
+Content-Type: text/plain; charset=UTF-8
+Date: Sat, 09 Apr 2022 04:08:20 GMT
+Etag: "459e73797120c31f8cf3ff173f235de1-ssl"
+Strict-Transport-Security: max-age=31536000
+Server: Netlify
+X-Nf-Request-Id: 01G0684CEQW82P6NYK8QYSCVHH
+Age: 2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY

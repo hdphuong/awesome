@@ -1,0 +1,12 @@
+Content-Length: 350
+Location: https://adssettings.google.com/anonymous?hl=en&sig=ACi0TCj4eXWT380yQbE9527ufcqQEJ8-n4EBsDNVTHdqzpnLef2ZRk4ddRwmYkj7sV7vVp-y9RBQ3ndFJsTbJdUof1Ep_A9U5g
+Date: Sat, 09 Apr 2022 04:09:35 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: content-ads-prefmgr
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

@@ -1,0 +1,12 @@
+Content-Length: 215
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: DENY
+Content-Security-Policy: script-src 'nonce-FeRK+1pcx2qbycXGgFJwgQ' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+Location: https://policies.google.com/terms
+Date: Sat, 09 Apr 2022 03:59:41 GMT
+Expires: Sat, 09 Apr 2022 03:59:41 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

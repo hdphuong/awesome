@@ -1,0 +1,20 @@
+Content-Length: 56971
+Server: daiquiri/3.0.0
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Apple-Jingle-Correlation-Key: 44BFAN5VGBYJIRUWWMO2QR2IYA
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Daiquiri-Instance: daiquiri:47691001:st44p00it-hyhk16124001:7987:22RELEASE43:daiquiri-amp-store-shared-ext-003-st
+Cache-Control: public, max-age=55
+Expires: Sat, 09 Apr 2022 04:09:18 GMT
+Date: Sat, 09 Apr 2022 04:08:23 GMT
+X-Cache: TCP_MISS from a203-213-73-220.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+X-True-Cache-Key: /L/podcasts.apple.com/au/podcast/bret-weinstein-darkhorse-podcast/id1471581521 vcd=2897 ci2=///
+Vary: Accept-Encoding
+Vary: X-Apple-Store-Front, Cookie
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a104-109-52-101.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+X-Apple-Partner: origin.0

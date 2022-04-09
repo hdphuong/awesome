@@ -1,0 +1,14 @@
+Date: Sat, 09 Apr 2022 04:09:20 GMT
+Content-Type: text/html; charset=utf-8
+Status: 301 Moved Permanently
+Cache-Control: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: f1f981159f8d66c7c59b2692b613c6f6
+Location: https://privacy.xing.com/en/privacy-policy
+X-Logjam-Request-Action: Api::LegacyTermsController#terms_redirects
+X-Download-Options: noopen
+X-Logjam-Request-Id: legal-pages-production-64569cecdacc4a83812050676c10c904
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: IE=edge
+Strict-Transport-Security: max-age=31556926

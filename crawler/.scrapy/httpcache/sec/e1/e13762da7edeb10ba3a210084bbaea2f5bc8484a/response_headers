@@ -1,0 +1,28 @@
+Content-Length: 20
+Server: Apple
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none'
+Content-Security-Policy: frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Location: https://www.apple.com/mx/sitemap
+Etag: "d41d8cd98f00b204e9800998ecf8427e"
+Last-Modified: Sat, 09 Apr 2022 04:08:49 GMT
+Content-Encoding: gzip
+Content-Language: en
+X-Request-Id: 70bb7d0b-d4c6-4f26-992c-96270ac29f42
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Shred: 71b147c0800cfc97fedd58868465f4dd
+Cache-Control: private, max-age=120
+Expires: Sat, 09 Apr 2022 04:10:49 GMT
+Date: Sat, 09 Apr 2022 04:08:49 GMT
+X-Cache: TCP_MISS from a203-213-73-68.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+Vary: Accept-Encoding
+Set-Cookie: dssid2=00a324df-f30e-4a5f-a6c1-fa2b3f6e6f8c; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:49 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: dssf=1; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:49 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: as_xs=; Path=/; Domain=apple.com; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Secure; HttpOnly
+Set-Cookie: as_dc=ucp2; Domain=apple.com; Expires=Sat, 09-Apr-2022 04:38:49 GMT; Path=/; Secure
+Set-Cookie: as_sfa=MnxteHxteHx8ZXNfTVh8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE; Version=1; Domain=apple.com; Max-Age=15552000; Expires=Thu, 06-Oct-2022 04:08:49 GMT; Path=/; Secure

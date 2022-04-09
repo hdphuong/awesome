@@ -1,0 +1,18 @@
+Content-Length: 2774
+Cache-Control: max-age=3600
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Wed, 16 Feb 2022 07:55:24 GMT
+Accept-Ranges: bytes
+Etag: "c8ed1a8ea23d81:0"
+Server: 
+Set-Cookie: ClientRouteNewSupport=8f5559cd585c83d1086ffac3c528b8ac0a06f9302f54842d46c8372cb2db68d7;Path=/;Domain=support.kaspersky.com
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Kaspersky Labs
+X-Powered-By: Kaspersky Labs
+X-Server: hk1/HK2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Alt-Svc: h3=":443"; ma=86400
+Date: Sat, 09 Apr 2022 03:59:25 GMT

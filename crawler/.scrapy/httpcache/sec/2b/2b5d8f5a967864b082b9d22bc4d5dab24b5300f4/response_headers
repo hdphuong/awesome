@@ -1,0 +1,14 @@
+Content-Length: 238
+Server: Apple
+Content-Type: text/html; charset=iso-8859-1
+Location: https://www.apple.com/feedback/
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: embed.music.apple.com embed.podcasts.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com
+Cache-Control: max-age=600
+Expires: Sat, 09 Apr 2022 04:18:46 GMT
+Date: Sat, 09 Apr 2022 04:08:46 GMT
+X-Cache: TCP_REFRESH_MISS from a203-213-73-68.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (S)
+X-Cache-Remote: TCP_REFRESH_MISS from a104-109-52-87.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (S)

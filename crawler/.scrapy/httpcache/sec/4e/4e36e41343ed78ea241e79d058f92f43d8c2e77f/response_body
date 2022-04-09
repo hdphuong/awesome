@@ -1,0 +1,2157 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head id="head">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="google-site-verification" content="9cVfFZ4O7DRznvPpYydZsE0kwvyV_QrzB-0NUiEel7k" />
+            <meta name="robots" content="index,follow,all" />
+        
+                <script>
+            window.xingCookieConsentConfig = {
+                locale: 'en',
+                align: 'bottom',
+            };
+        </script>
+        <script defer src="https://static.xingcdn.com/userconsent/cookie-consent-min.js"></script>
+        <script>
+        !function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,i,s,l;for(var a in C)if(C.hasOwnProperty(a)){if(e=[],n=C[a],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(t=0;t<n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(o=r(n.fn,"function")?n.fn():n.fn,i=0;i<e.length;i++)s=e[i],l=s.split("."),1===l.length?Modernizr[l[0]]=o:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=o),_.push((o?"":"no-")+l.join("-"))}}function i(e){var n=x.className,t=Modernizr._config.classPrefix||"";if(b&&(n=n.baseVal),Modernizr._config.enableJSClass){var r=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(r,"$1"+t+"js$2")}Modernizr._config.enableClasses&&(n+=" "+t+e.join(" "+t),b?x.className.baseVal=n:x.className=n)}function s(e,n){if("object"==typeof e)for(var t in e)S(e,t)&&s(t,e[t]);else{e=e.toLowerCase();var r=e.split("."),o=Modernizr[r[0]];if(2==r.length&&(o=o[r[1]]),"undefined"!=typeof o)return Modernizr;n="function"==typeof n?n():n,1==r.length?Modernizr[r[0]]=n:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=n),i([(n&&0!=n?"":"no-")+r.join("-")]),Modernizr._trigger(e,n)}return Modernizr}function l(e){return e.replace(/([a-z])-([a-z])/g,function(e,n,t){return n+t.toUpperCase()}).replace(/^-/,"")}function a(e,n){return!!~(""+e).indexOf(n)}function f(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):b?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}function u(e,n){return function(){return e.apply(n,arguments)}}function c(e,n,t){var o;for(var i in e)if(e[i]in n)return t===!1?e[i]:(o=n[e[i]],r(o,"function")?u(o,t||n):o);return!1}function p(n,t,r){var o;if("getComputedStyle"in e){o=getComputedStyle.call(e,n,t);var i=e.console;if(null!==o)r&&(o=o.getPropertyValue(r));else if(i){var s=i.error?"error":"log";i[s].call(i,"getComputedStyle returning null, its possible modernizr test results are inaccurate")}}else o=!t&&n.currentStyle&&n.currentStyle[r];return o}function d(e){return e.replace(/([A-Z])/g,function(e,n){return"-"+n.toLowerCase()}).replace(/^ms-/,"-ms-")}function h(){var e=n.body;return e||(e=f(b?"svg":"body"),e.fake=!0),e}function m(e,t,r,o){var i,s,l,a,u="modernizr",c=f("div"),p=h();if(parseInt(r,10))for(;r--;)l=f("div"),l.id=o?o[r]:u+(r+1),c.appendChild(l);return i=f("style"),i.type="text/css",i.id="s"+u,(p.fake?p:c).appendChild(i),p.appendChild(c),i.styleSheet?i.styleSheet.cssText=e:i.appendChild(n.createTextNode(e)),c.id=u,p.fake&&(p.style.background="",p.style.overflow="hidden",a=x.style.overflow,x.style.overflow="hidden",x.appendChild(p)),s=t(c,e),p.fake?(p.parentNode.removeChild(p),x.style.overflow=a,x.offsetHeight):c.parentNode.removeChild(c),!!s}function v(n,r){var o=n.length;if("CSS"in e&&"supports"in e.CSS){for(;o--;)if(e.CSS.supports(d(n[o]),r))return!0;return!1}if("CSSSupportsRule"in e){for(var i=[];o--;)i.push("("+d(n[o])+":"+r+")");return i=i.join(" or "),m("@supports ("+i+") { #modernizr { position: absolute; } }",function(e){return"absolute"==p(e,null,"position")})}return t}function g(e,n,o,i){function s(){c&&(delete N.style,delete N.modElem)}if(i=r(i,"undefined")?!1:i,!r(o,"undefined")){var u=v(e,o);if(!r(u,"undefined"))return u}for(var c,p,d,h,m,g=["modernizr","tspan","samp"];!N.style&&g.length;)c=!0,N.modElem=f(g.shift()),N.style=N.modElem.style;for(d=e.length,p=0;d>p;p++)if(h=e[p],m=N.style[h],a(h,"-")&&(h=l(h)),N.style[h]!==t){if(i||r(o,"undefined"))return s(),"pfx"==n?h:!0;try{N.style[h]=o}catch(y){}if(N.style[h]!=m)return s(),"pfx"==n?h:!0}return s(),!1}function y(e,n,t,o,i){var s=e.charAt(0).toUpperCase()+e.slice(1),l=(e+" "+P.join(s+" ")+s).split(" ");return r(n,"string")||r(n,"undefined")?g(l,n,o,i):(l=(e+" "+T.join(s+" ")+s).split(" "),c(l,n,t))}var _=[],C=[],w={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){C.push({name:e,fn:n,options:t})},addAsyncTest:function(e){C.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=w,Modernizr=new Modernizr;var S,x=n.documentElement,b="svg"===x.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;S=r(e,"undefined")||r(e.call,"undefined")?function(e,n){return n in e&&r(e.constructor.prototype[n],"undefined")}:function(n,t){return e.call(n,t)}}(),w._l={},w.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},w._trigger=function(e,n){if(this._l[e]){var t=this._l[e];setTimeout(function(){var e,r;for(e=0;e<t.length;e++)(r=t[e])(n)},0),delete this._l[e]}},Modernizr._q.push(function(){w.addTest=s});var j="Moz O ms Webkit",P=w._config.usePrefixes?j.split(" "):[];w._cssomPrefixes=P;var E=function(n){var r,o=prefixes.length,i=e.CSSRule;if("undefined"==typeof i)return t;if(!n)return!1;if(n=n.replace(/^@/,""),r=n.replace(/-/g,"_").toUpperCase()+"_RULE",r in i)return"@"+n;for(var s=0;o>s;s++){var l=prefixes[s],a=l.toUpperCase()+"_"+r;if(a in i)return"@-"+l.toLowerCase()+"-"+n}return!1};w.atRule=E;var T=w._config.usePrefixes?j.toLowerCase().split(" "):[];w._domPrefixes=T;var z={elem:f("modernizr")};Modernizr._q.push(function(){delete z.elem});var N={style:z.elem.style};Modernizr._q.unshift(function(){delete N.style}),w.testAllProps=y;var L=w.prefixed=function(e,n,t){return 0===e.indexOf("@")?E(e):(-1!=e.indexOf("-")&&(e=l(e)),n?y(e,n,t):y(e,"pfx"))};Modernizr.addTest("objectfit",!!L("objectFit"),{aliases:["object-fit"]}),o(),i(_),delete w.addTest,delete w.addAsyncTest;for(var O=0;O<Modernizr._q.length;O++)Modernizr._q[O]();e.Modernizr=Modernizr}(window,document);
+    </script>
+    <script>
+        var modernizrTests = {
+            'csshover': !window.matchMedia('(pointer:coarse)').matches,
+            'ios': (/iPhone|iPad|iPod/i).test(navigator.userAgent || navigator.vendor),
+            //'iphone': (/iPhone|iPod/i).test(navigator.userAgent || navigator.vendor),
+            'android': (/(android)/i).test(navigator.userAgent || navigator.vendor),
+            'edge': (/(Edge)/i).test(navigator.userAgent), 
+            'ie11': document.documentMode===11,
+            //'safari': navigator.userAgent.match(/Version\/[\d\.]+.*Safari/)
+        };
+        Modernizr.addTest(modernizrTests);
+    </script>
+    <script src="https://cdn.polyfill.io/v2/polyfill.js?features=Element.prototype.closest,Element.prototype.prepend,Event,HTMLPictureElement,Object.assign,Promise"></script>
+                <title>Corporate Governance | NEW WORK SE | NEW WORK SE</title>
+    <meta property="og:title" content="Corporate Governance | NEW WORK SE" />
+<meta property="twitter:title" content="Corporate Governance | NEW WORK SE" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.new-work.se/en/investor-relations/corporate-governance" />
+<meta property="og:site_name" content="NEW WORK SE" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://www.new-work.se/NWSE/image-thumb__5246__sharing_image/New_Work_SE-share.png" />
+<meta property="twitter:image" content="https://www.new-work.se/NWSE/image-thumb__5246__sharing_image/New_Work_SE-share.png" />
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon/android-icon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" href="/assets/images/favicon/apple-icon.png">
+
+        <style>
+            /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden],template{display:none}*,:after,:before{box-sizing:border-box}figure{margin:0}a{color:inherit}::-moz-selection{background:#bfdcdc;text-shadow:none}::selection{background:#bfdcdc;text-shadow:none}audio,canvas,iframe,img,svg,video{vertical-align:middle}fieldset{border:0;margin:0;padding:0}textarea{resize:vertical}.browserupgrade{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}.hidden{display:none!important}.visuallyhidden{border:0;clip:rect(0 0 0 0);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;-webkit-clip-path:none;clip-path:none;height:auto;margin:0;overflow:visible;position:static;width:auto;white-space:inherit}.invisible{visibility:hidden}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}body{display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;min-height:100vh}body:before{content:"";display:block;background-color:#fff;position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:999;transition:opacity 1s cubic-bezier(.645,.045,.355,1),visibility 1s cubic-bezier(.645,.045,.355,1)}body>main{flex:1 0 auto;position:relative;z-index:1}body>footer,body>header{flex-shrink:0;position:relative}body>header{z-index:2}body>footer{z-index:0}.logo{display:block;width:62px;transition:width .25s ease-in-out}.logo span{display:block;padding-top:96.77419%;position:relative}.logo svg{position:absolute;top:0;left:0;width:100%;height:100%}@media only screen and (min-width:1024px){.logo{width:124px}}.anchor__item{display:block;text-indent:-1978em;outline:none;position:absolute;top:-136px;left:-1978em}.anchor{position:relative}@media only screen and (min-width:1024px){.anchor__item{top:-194px}}
+
+            
+                    </style>    
+</head>
+
+<body>
+<noscript id="deferred-styles">
+            <link href="/assets/app.css?v=43" media="screen" rel="stylesheet" type="text/css" />
+    </noscript>
+
+    
+    <header class="site-header" data-header="root">
+
+    <input type="checkbox" id="navigation" data-header="toggle" class="site-header__toggle" />
+
+    <div class="site-header__inner">
+
+        <div class="site-header__logo">
+            <a href="/en" class="logo">
+                <span>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 420.9 406" style="enable-background:new 0 0 420.9 406;" xml:space="preserve">
+                    <path fill="#007575" d="M271,0c104.5,0,149.8,35.3,149.8,100.1S364.3,406,259.1,406C163.4,406,0,225,0,131.9S193,0,271,0z"/>
+                    <path fill="#FFFFFF" d="M286.8,280.5l-2.9,3.1c-4.2-3.6-7.9-5.1-13-5.1c-6.8,0-11.6,3.6-11.6,9.5c0,5.7,3,8.3,13,11.3
+                        c10,3.1,16.1,6.7,16.1,16.6c0,9.5-7.3,16.1-18.5,16.1c-7.7,0-13.3-2.7-17.9-7l2.9-3.1c4.1,3.6,8.4,6,14.9,6
+                        c7.8,0,13.6-4.3,13.6-11.8c0-6.8-3.3-9.5-13.3-12.6c-11.1-3.4-15.9-7.3-15.9-15.3c0-7.9,6.6-13.7,16.4-13.7
+                        C278,274.3,282.4,276.6,286.8,280.5z M324.9,279.3H302v20.8h19.8v4.1H302V327h24.1v4.1h-28.9v-55.9h28.4L324.9,279.3z M100.5,168.8
+                        H80.4l-19.2-51.5c0.8,6,2,14.9,2,27.2v24.4h-14v-66.5h19.6l19.7,51.6c-0.9-5.4-2.1-14.1-2.1-24.8v-26.9h14.1V168.8z M152.1,113.5
+                        h-23.4v15.9h20.4v11h-20.4v17h25.1v11.3h-40.8v-66.5h40.8L152.1,113.5z M228.3,168.8h-20.4l-8.3-50.8l-8.7,50.8h-20l-10.9-66.5h15.7
+                        l6.6,54.6l9.2-54.6H208l8.6,54.6l7.8-54.6h15L228.3,168.8z M164.4,254.9h-20.4l-8.2-50.7l-8.7,50.7H107l-10.9-66.4h15.7l6.6,54.6
+                        l9.2-54.6h16.5l8.6,54.6l7.8-54.6h15L164.4,254.9z M239.5,221.7c0,21.8-11.2,34.9-30,34.9c-18.7,0-29.9-12.8-29.9-34.9
+                        c0-21.7,11.2-34.8,29.9-34.8C228.3,186.8,239.5,199.5,239.5,221.7z M196.1,221.7c0,16.9,4.8,23.4,13.4,23.4c9,0,13.5-6.5,13.5-23.4
+                        c0-16.8-4.6-23.3-13.5-23.3C200.7,198.4,196.1,204.9,196.1,221.7z M270.8,229.5h-6.1v25.4h-15.7v-66.4h21.8c18,0,27.3,6.4,27.3,20.2
+                        c0,8.7-4.1,13.9-12.8,17.9l16.9,28.3h-17.7L270.8,229.5z M264.7,218.7h6.6c6.9,0,10.5-3,10.5-10c0-6.4-3.7-9.2-11.5-9.2h-5.7V218.7z
+                        M325.8,254.9H310v-66.4h15.7V254.9z M342.7,218.3l22.9,36.6h-18.2l-21.2-35.5l21.1-31h16.6L342.7,218.3z"/>
+                    </svg>
+                </span>
+            </a>
+
+            
+        </div>
+        
+        <label for="navigation" class="site-header__handle"><i>Toggle navigation</i></label>
+
+        <div class="site-header__navigation" data-header="navigation">
+
+            <div data-header="scrollable">
+
+                
+    <nav class="mainnav">
+        <ul>                <li class="has--children" data-hover>
+                    <a href="/en/about-new-work-se" class="mainnav__item"><i>                            About NEW WORK SE
+                        </i></a>                        <input type="checkbox" id="subnav_toggle_149" class="subnav__toggle" data-header="sub-toggle" />
+                        <label for="subnav_toggle_149" class="mainnav__handle"><i>                                About NEW WORK SE
+                            </i>
+                        </label>
+
+                        <nav class="subnav">
+                            <div class="subnav__back">
+                                <label for="subnav_toggle_149" class="subnav__back-handle">back to overview</label>
+                            </div>
+                                                            <ul>
+                                    <li class="is--root">
+                                        <a href="/en/about-new-work-se" class="mainnav__item">
+                                            <i>                                                    About NEW WORK SE
+                                                </i>
+                                        </a>
+                                    </li>                                        <li>
+                                                                                        <a href="/en/about-new-work-se/facts-and-figures" class="subnav__item">
+                                                <i>                                                        Facts and figures
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                        <a href="/en/about-new-work-se/management" class="subnav__item">
+                                                <i>                                                        Management
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                        <a href="/en/Company-About-New-Work-SE/csr" class="subnav__item">
+                                                <i>                                                        Corporate Social Responsibility
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                        <a href="/en/about-new-work-se/business-solutions" class="subnav__item">
+                                                <i>                                                        Business solutions
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                    </ul>
+                                                    </nav>
+                    </li>
+                            <li class="has--children" data-hover>
+                    <a href="/en/career" class="mainnav__item"><i>                            Career
+                        </i></a>                        <input type="checkbox" id="subnav_toggle_287" class="subnav__toggle" data-header="sub-toggle" />
+                        <label for="subnav_toggle_287" class="mainnav__handle"><i>                                Career
+                            </i>
+                        </label>
+
+                        <nav class="subnav">
+                            <div class="subnav__back">
+                                <label for="subnav_toggle_287" class="subnav__back-handle">back to overview</label>
+                            </div>
+                                                            <div class="subnav__two-columns">
+                                    <div class="subnav__two-columns__link is--root">
+                                        <a href="/en/career" class="mainnav__item">
+                                            <i>                                                    Career
+                                                </i>
+                                        </a>
+                                    </div>
+
+                                                                                                            <div class="subnav__two-columns__column">
+                                                                            <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/career/vacancies" class="subnav__item">
+                                                <i>                                                        Jobs
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/career/Experienced%20Professionals" class="subnav__item">
+                                                <i>                                                        Experienced Professionals
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/career/young-professionals" class="subnav__item">
+                                                <i>                                                        Young Professionals
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                            </div>
+                                                                                                                                                <div class="subnav__two-columns__column">
+                                                                            <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/career/Employer" class="subnav__item">
+                                                <i>                                                        NEW WORK SE as an employer
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                            <input type="checkbox" id="thirdnav_toggle_2021" class="thirdnav__toggle-input" data-header="third-toggle" />
+                                                                                        <a href="/en/career/locations" class="subnav__item has--thirdnav">
+                                                <i>                                                        Locations
+                                                    </i>
+
+                                                                                                <label for="thirdnav_toggle_2021" class="thirdnav__toggle">
+                                                    <i>                                                            Locations
+                                                        </i>
+                                                </label>
+                                            </a>
+                                            <nav class="thirdnav">
+                                                <div class="thirdnav__back">
+                                                    <label for="thirdnav_toggle_2021" class="thirdnav__back-handle">back to Career</label>
+                                                </div>
+                                                <ul>
+                                                    <li class="is--root">
+                                                        <a href="/en/career/locations" class="mainnav__item">
+                                                            <i>                                                                    Locations
+                                                                </i>
+                                                        </a>
+                                                    </li>                                                        <li>
+                                                            <a href="/en/career/barcelona" class="thirdnav__item">                                                                    Barcelona
+                                                                </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/en/career/hamburg" class="thirdnav__item">                                                                    Hamburg
+                                                                </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/en/career/porto" class="thirdnav__item">                                                                    Porto
+                                                                </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/en/career/valencia" class="thirdnav__item">                                                                    Valencia
+                                                                </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="/en/career/vienna" class="thirdnav__item">                                                                    Vienna
+                                                                </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </nav>
+
+                                                                                                                                </div>
+
+                                                                            </div>
+                                                                                                    </div>
+                                                    </nav>
+                    </li>
+                            <li class="has--children" data-hover>
+                    <a href="/en/investor-relations" class="mainnav__item is--active"><i>                            Investor Relations
+                        </i></a>                        <input type="checkbox" id="subnav_toggle_202" class="subnav__toggle" data-header="sub-toggle" />
+                        <label for="subnav_toggle_202" class="mainnav__handle is--active"><i>                                Investor Relations
+                            </i>
+                        </label>
+
+                        <nav class="subnav">
+                            <div class="subnav__back">
+                                <label for="subnav_toggle_202" class="subnav__back-handle">back to overview</label>
+                            </div>
+                                                            <div class="subnav__two-columns">
+                                    <div class="subnav__two-columns__link is--root">
+                                        <a href="/en/investor-relations" class="mainnav__item">
+                                            <i>                                                    Investor Relations
+                                                </i>
+                                        </a>
+                                    </div>
+
+                                                                                                            <div class="subnav__two-columns__column">
+                                                                            <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/news" class="subnav__item">
+                                                <i>                                                        IR-News
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/new-work-se-share" class="subnav__item">
+                                                <i>                                                        NEW WORK SE share
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/reports" class="subnav__item">
+                                                <i>                                                        Reports
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/presentations" class="subnav__item">
+                                                <i>                                                        Presentations
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                            </div>
+                                                                                                                                                <div class="subnav__two-columns__column">
+                                                                            <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/annual-general-meetings" class="subnav__item">
+                                                <i>                                                        Annual General Meetings
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/corporate-governance" class="subnav__item is--active">
+                                                <i>                                                        Corporate Governance
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/financial-calendar-and-service" class="subnav__item">
+                                                <i>                                                        Financial Calendar and Service
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                                                                                                <div class="subnav__two-columns__link">
+                                                                                        <a href="/en/investor-relations/ir-distribution-list" class="subnav__item">
+                                                <i>                                                        IR distribution list
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </div>
+
+                                                                            </div>
+                                                                                                    </div>
+                                                    </nav>
+                    </li>
+                            <li class="has--children" data-hover>
+                    <a href="/en/newsroom" class="mainnav__item"><i>                            Newsroom
+                        </i></a>                        <input type="checkbox" id="subnav_toggle_203" class="subnav__toggle" data-header="sub-toggle" />
+                        <label for="subnav_toggle_203" class="mainnav__handle"><i>                                Newsroom
+                            </i>
+                        </label>
+
+                        <nav class="subnav">
+                            <div class="subnav__back">
+                                <label for="subnav_toggle_203" class="subnav__back-handle">back to overview</label>
+                            </div>
+                                                            <ul>
+                                    <li class="is--root">
+                                        <a href="/en/newsroom" class="mainnav__item">
+                                            <i>                                                    Newsroom
+                                                </i>
+                                        </a>
+                                    </li>                                        <li>
+                                                                                        <a href="/en/newsroom/press-releases" class="subnav__item">
+                                                <i>                                                        Press releases
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                        <a href="/en/newsroom/press-service" class="subnav__item">
+                                                <i>                                                        Press service
+                                                    </i>
+
+                                                                                                                                            </a>
+                                                                                    </li>
+                                    </ul>
+                                                    </nav>
+                    </li>
+                            <li>
+                    <a href="/en/new-work-pier" class="mainnav__item"><i>                            NEW WORK Pier
+                        </i></a></li>
+                            <li>
+                    <a href="https://nwx.new-work.se?sc_o=newwork_corp_topnavi_nwx_portal_click" target="_blank" class="mainnav__item is--external"><i>                            NWX Portal
+                        </i></a></li>
+            </ul>
+    </nav>
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</header>
+
+<main class="site-main">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+<header class="stage is--small" data-stage="root">
+
+    
+    <div class="stage__inner">
+
+        <div class="stage__header">
+
+                            <h1 class="stage__headline" >
+                                                                        Corporate Governance
+                                                            </h1>
+            
+                                        
+                    </div>
+
+            </div>
+</header>
+
+    
+        
+    
+    
+
+    
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+
+    <section class="rte has--theme-newwork">
+
+        <div class="rte__inner">
+
+            
+            
+            <div class="rte__content">
+
+                <div class="rte__copy">
+                                            <p>The objective of corporate governance is the management and supervision of the company with the aim of a responsible and sustained creation of value. It is crucial here that the Executive Board and Supervisory Board work closely and efficiently together, that shareholders’ interests are respected and that corporate communications are open and transparent.&nbsp;</p>
+
+                                    </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+
+    <section class="rte has--topline has--theme-newwork">
+
+        <div class="rte__inner">
+
+            
+            
+            <div class="rte__content">
+
+                <div class="rte__copy">
+                                            <h3>Corporate Governance Code</h3>
+
+<p>The current version of the German Corporate Governance Code is available here:</p>
+
+<p><a href="http://www.dcgk.de/de/" target="_self">German CG Code</a></p>
+
+<p>&nbsp;</p>
+
+<p>NEW WORK SE sets great store on the corporate governance regulations and is committed to ensuring the transparent, responsible management and supervision of the company. The joint Declarations of Conformity from the NEW WORK SE Management Board and Supervisory Board as laid down in Section 161 of the German Stock Corporation Act (AktG) regarding the German Corporate Governance Code (Deutscher Corporate Governance Kodex) are available below as a PDF file for download.</p>
+
+                                    </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+    
+
+    <section class="downloads has--theme-newwork">
+
+        <div class="downloads__inner">
+
+                            <header class="downloads__header">
+
+                    <h2 class="downloads__headline has--topline">
+                    
+                                                                                    <span>Download</span>
+                                                        Articles of Association of New Work SE
+                        
+                    </h2>
+
+                                            <div class="downloads__subline">
+                            <p>Download the Articles of Association of New Work SE now as a&nbsp;PDF.</p>
+
+                        </div>
+                    
+                </header>
+            
+            <div class="downloads__content">
+
+                <div class="downloads__list">
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Articles of Association of New Work SE (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/201201_Satzung_der_New Work_SE-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+    
+
+    <section class="downloads has--theme-newwork">
+
+        <div class="downloads__inner">
+
+                            <header class="downloads__header">
+
+                    <h2 class="downloads__headline has--topline">
+                    
+                                                                                    <span>Download</span>
+                                                        Code of Conduct 
+                        
+                    </h2>
+
+                                            <div class="downloads__subline">
+                            <p>Our Code of Conduct is our guideline in our daily work so we act with integrity and to safeguard our company.</p>
+
+                        </div>
+                    
+                </header>
+            
+            <div class="downloads__content">
+
+                <div class="downloads__list">
+
+                    
+                        
+                        
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Code of Conduct New Work SE (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Code_of_Conduct_@_New_Work_2019.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+    
+
+    <section class="timeline has--theme-newwork" data-motion="root">
+
+        <div class="timeline__inner" data-motion="copy">
+
+                            <header class="timeline__header">
+
+                    <h2 class="timeline__headline has--topline">
+
+                                                                                    <span>Downloads</span>
+                                                        Declarations of Conformity
+                        
+                    </h2>
+
+                                            <div class="timeline__subline">
+                            <p>Here you can download the Declarations of Conformity to date.</p>
+
+                        </div>
+                    
+                </header>
+            
+            <div class="timeline__content" data-timeline="root">
+
+                <div class="timeline__list" data-timeline="items">
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2019">
+                2019
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, March 2019 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/01 Entsprechenserklaerung_2019_en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2018">
+                2018
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, March 2018 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/02 180307_Entsprechenserklaerung_final-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2017">
+                2017
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, March 2017 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/03 170320_Entsprechenserklaerung-_en_final.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2016">
+                2016
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2016 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/04 Entsprechenserklaerung_2016-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2015">
+                2015
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2015 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/05 Entsprechenserklaerung_2015-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2014">
+                2014
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, June 2014 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/06 Entsprechenserklaerung_2014_neu-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2014 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/07 Entsprechenserklaerung_2014-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2013">
+                2013
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, June 2013 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/08 Entsprechenserklaerung_2013_neu-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2013 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/09 Entsprechenserklaerung_2013-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2012">
+                2012
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2012 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/10 Entsprechenserklaerung_2012-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2011">
+                2011
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2011 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/11 Entsprechenserklaerung_2011(1).pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                        
+
+
+
+
+    
+
+    
+    <div class="timeline__entry" data-timeline="item">
+
+        <div class="timeline-entry">
+
+            <div class="timeline-entry__year" data-timeline-value="2010">
+                2010
+            </div>
+
+            <div class="timeline-entry__content">
+
+                                    
+                    <div class="downloads__list">
+
+                        
+                            
+                            
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+    
+    <div class="download">
+
+        <div class="download__inner">
+
+            <div class="download__content">
+
+                <div class="download__content__item">
+                    
+                    <div class="download__content__text">
+                        <h3 class="download__title">Declaration of Conformity, February 2010 (PDF)</h3>
+                                            </div>
+                </div>
+
+                
+            </div>
+
+            <div class="download__footer">
+
+                                    <a href="/NWSE/Investor-Relations/Corporate-Governance/Entsprechenserklärungen_EN/12 Entsprechenserklaerung_2010-en.pdf" class="button has--icon icon-download" target="_blank" data-trackevent="PropDownloadLinkUrl"><i>
+                                                                    Download
+                                                            </i></a>
+                                            </div>
+
+        </div>
+
+    </div>
+
+
+                        
+                    </div>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+
+    <section class="rte has--topline has--theme-newwork">
+
+        <div class="rte__inner">
+
+            
+                            <header class="rte__header">
+
+                    <h2 class="rte__headline has--topline" >
+
+                                                                                    <span>CORPORATE GOVERNANCE DECLARATION</span>
+                                                        CORPORATE GOVERNANCE DECLARATION IN ACCORDANCE WITH SECTION 289f OF THE GERMAN COMMERCIAL CODE (HGB)
+                        
+                    </h2>
+
+                </header>
+            
+            <div class="rte__content">
+
+                <div class="rte__copy">
+                                            <p class="legal"><strong>DECLARATION BY THE EXECUTIVE BOARD AND SUPERVISORY BOARD OF NEW WORK SE ON THE RECOMMENDATIONS OF THE “COMMISSION OF THE GERMAN CORPORATE GOVERNANCE CODE” PURSUANT TO SECTION 161 OF THE GERMAN STOCK CORPORATION ACT (AKTG)</strong></p>
+
+<p class="legal">The Executive Board and Supervisory Board herewith declare that since the last declaration of compliance was submitted, NEW WORK SE has complied and will comply with the recommendations of the “German Corporate Governance Code” (“the Code”) in the version&nbsp;published in the Federal Gazette on 20 March 2020, with the following exceptions:&nbsp;</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>B.3 Appointment of the Executive Board – Initial appointment of Executive Board members</strong></p>
+
+<p class="legal">In derogation of the recommendation set out in point B.3 of the Code, Dr Peter Opdemom’s initial appointment as an Executive Board member is for 4 years, starting on 1 January 2022.</p>
+
+<p class="legal">The Supervisory Board deems this derogation from the recommendation to be appropriate in view of Dr Peter Opdemom’s qualifications and experience. In addition, the Company considers initial appointments of four years for strategically relevant B2C Executive Board members to be in the Company’s best interests as they enable the best-possible implementation of long-term strategic decisions and goals.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>C.1 Composition of the Supervisory Board – General requirements: specification of concrete objectives for the composition and preparation of a competence profile</strong></p>
+
+<p class="legal">The Supervisory Board has not specified any concrete objectives in terms of its composition, and has not prepared a competence profile for the entire Supervisory Board (C.1(1) of the Code). As a consequence, The Supervisory Board has also not specified any concrete objectives and has not prepared a competence profile accounting for diversity (C.1(2) of the Code). If objectives have not been specified, and if a competence profile has not been prepared as per C.1 of the Code, suggestions put forward by the Supervisory Board to the Annual General Meeting will not take this into consideration (C.1(3) of the Code) and the status of implementation will not be published in the Corporate Governance report (C.1(4) of the Code).</p>
+
+<p class="legal">In the past, the Supervisory Board has already taken expertise into consideration along with diversity within the meaning of C.1 of the Code, and intends to do so in future. Moreover, the nominations put forward at the Annual General Meeting and the publication of corresponding CVs together with an invitation to the Annual General Meeting constitute sufficient documentation of profile expectations, which is why the Supervisory Board has opted not to prepare a competence profile for the entire Supervisory Board.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>D.5 Supervisory Board working methods – Cooperation between the Supervisory Board and the Executive Board - Supervisory Board committees: formation of a nomination committee</strong></p>
+
+<p class="legal">In derogation to the recommendation in D.5 of the Code, the Supervisory Board did not form a permanent nomination committee as it considers such not to be of any benefit in terms of increasing the efficiency of the Supervisory Board’s work. The Supervisory Board therefore considers it more useful to form a nomination committee for the Company as and when necessary. In any case, the Supervisory Board prefers to involve the entire Supervisory Board in a timely manner when it comes to key decisions such as nominating and appointing Executive Board and Supervisory Board members.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>G.10 Remuneration of the Executive Board and Supervisory Board – Remuneration of the Executive Board: Accessibility of granted long-term variable remuneration components</strong></p>
+
+<p class="legal">A period of three years must pass before Executive Board members shall be granted access to long-term variable remuneration components. This period of time was agreed contractually between the Supervisory Board and the individual members of the Executive Board as per hitherto applicable legislation and provisions of the Code. The revision of the Code in terms of waiting period does not affect existing contractual relations. Furthermore, given the rapid pace of development in the Company’s field of business, the Supervisory Board considers a three-year waiting period to be sufficient for achieving the incentives put in place by the law and the Code which are designed to foster the Company’s long-term development.&nbsp;At the 2022 Annual General Meeting, the Supervisory Board will propose an updated remuneration system which would extend the period until which long-term variable remuneration components are paid out to Executive Board members from three to four years.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>G.17 Remuneration of the Executive Board and Supervisory Board – Remuneration of the Supervisory Board: remuneration of the Vice Chair</strong></p>
+
+<p class="legal">The Vice Chair of the Supervisory Board is not considered individually with regard to compensation of Supervisory Board members. As there has been little need for representation in the past, and since the received basic remuneration is commensurate, both the Executive Board and Supervisory Board consider separate remuneration to be unnecessary.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Cooperation between the Executive Board and the Supervisory Board</strong></p>
+
+<p class="legal">The Company holds the view that good and transparent corporate governance forms an integral part of its commercial success. The Executive Board and the Supervisory board place particular emphasis on a close, trusting and efficient working relationship with one another. Open communication and active and ongoing risk management are also fundamental requirements in this regard while orderly accounting and auditing are key aspects for corporate management aimed at ensuring sustained corporate success.</p>
+
+<p class="legal">New Work SE’s Executive Board and Supervisory Board conduct their activities according to applicable law, the Company’s Articles of Incorporation, and the Company’s internal rules of procedure. With a few disclosed exceptions, New Work SE and its bodies follow the recommendations of the German Corporate Governance Code. In accordance with the law on equal participation of men and women in executive positions that came into effect in Germany on 1 May 2015, the Supervisory Board decided in March 2020 to strive for 16.6% female participation in executive positions. This figure has already been met. In addition, the Supervisory Board has also stipulated female participation of 20% for the Executive Board. This figure has also already been met. The Executive Board agreed to strive for 30% female participation at upper management level. At present, this figure has been exceeded by a considerable margin.&nbsp;</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Executive Board</strong></p>
+
+<p class="legal">The New Work SE Executive Board is led by an internationally experienced management team, and is currently made up of five members.&nbsp;</p>
+
+<p class="legal">The Supervisory Board has imposed an age limit on the Executive Board, meaning that Executive Board contracts expire on the same month as reaching the state pension age at the latest. The Executive Board and Supervisory Board maintain a constant dialogue to plan long-term succession. This enables timely preparation for any necessary replacement or candidate requirements. In line with this requirement, the Supervisory Board screens for suitable candidates.</p>
+
+<p class="legal">The Executive Board is responsible for managing the Company, defining its strategic alignment, and pursuing the aim of increasing the Company’s value in the long term. Despite being responsible for individual areas of the business, each member of the Executive Board is fundamentally responsible for general management of the Company in accordance with the internal rules of procedure approved by the Supervisory Board. The members of the Executive Board inform one another with regard to all of the Company’s main dealings and activities.&nbsp;The Executive Board provides the Supervisory Board with regular, prompt and comprehensive reports, in writing and also orally, concerning the development of the Company, business activities, financing and investment plans, and personnel planning. The Executive Board has not formed any committees. It takes decisions in line with the internal rules of procedure, unanimously whenever possible, otherwise based on a simple majority of the votes cast. The Executive Board must first obtain prior consent from the Supervisory Board before performing a number of activities.&nbsp;</p>
+
+<p class="legal">The Executive Board is aware of the high degree of responsibility it bears vis-à-vis employees, members of the New Work platforms, and the general public, and undertakes its activities with great care.&nbsp;</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Supervisory Board</strong></p>
+
+<p class="legal">The Supervisory Board currently consists of six members elected at the Annual General Meeting and only consists of shareholder representatives. Given the Company’s ownership structure, the Supervisory Board considers three independent members of the Supervisory Board to be commensurate, and this stipulation is already met with Ms Weber, Dr Meier and Dr Lübcke as appointed Supervisory Board members.</p>
+
+<p class="legal">The Supervisory Board conducts its business and monitors the Executive Board’s work with great care and to the best of its knowledge and judgment. As well as general reporting duties and obligations to monitor and advise the Executive Board as prescribed by law and the Company’s Articles of Incorporation, the Supervisory Board is also heavily involved in New Work SE’s strategic and organisational decision-making processes. The Supervisory Board has approved internal rules of procedure which bindingly govern the work of the Executive Board and the Supervisory Board as well as their work with one another. The Supervisory Board’s internal rules of procedure stipulate that meetings are to be held once per quarter, but can be held more often as and when necessary. The Chair of the Supervisory Board also maintains regular contact with the CEO between meetings in order to discuss any fundamental or urgent business.</p>
+
+<p class="legal">The Supervisory Board has formed a three-person audit committee from among its members. Ms Weber is the Chair of the audit committee, which also comprises Dr Lübcke and Dr Rittstieg.&nbsp;</p>
+
+<p class="legal">The audit committee is responsible for issues related to financial reporting, risk management, the internal management system and compliance. It monitors the financial reporting process and discusses the quarterly reports with the Executive Board prior to their publication. The audit committee also performs mandatory auditor independence checks, appoints an auditor, defines the main aspects of the audit, and agrees a fee with the auditor. The audit committee puts forward a proposal to the Supervisory Board for the latter’s auditor appointment proposal to be put to the Annual General Meeting. It also prepares the Supervisory Board’s decision with regard to the approval of the annual financial statements, consolidated financial statements and profit appropriation.&nbsp;</p>
+
+<p class="legal">The Supervisory Board has also formed a three-person product and technology committee from among its members. Mr Schmetz is the Chair of the product and technology committee, which also comprises Mr Weiss and Dr Meier.&nbsp;</p>
+
+<p class="legal">The product and technology committee has an advisory role and handles general questions related to products and market conditions, technical organisation, cost structures and working methods within a technological environment, and also evaluates current software and hardware trends.</p>
+
+<p class="legal">The Supervisory Board currently has no other permanent committees. The Supervisory Board holds the view that it is more effective and makes more sense to form additional committees as and when necessary.&nbsp;</p>
+
+<p class="legal">The Supervisory Board and its committees are subject to annual self-appraisal to review performance of its duties. To this end, surveys are conducted systematically to question each Supervisory Board member individually about all of the key areas in the remit of the Supervisory Board and its committees. The results of the surveys are then collated and discussed in aggregate in the respective group. Suggestions to boost effectiveness are also discussed and put into practice where applicable. Where deemed necessary, external consultants may be commissioned to help with this.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Transparency and information</strong></p>
+
+<p class="legal">New Work SE maintains an Investor Relations website for all shareholders and interested parties, containing detailed information on the Company in English and German. Annual and interim reports are published here immediately after being released. The financial calendar for the Company can also be found here, as well as current and old Declarations of Compliance according to Section 161 of the German Stock Corporate Act (AktG), Information on Directors’ Dealings, and information related to the German Securities Trading Act (WpHG). Shareholders can also retrieve information on the price movement of the New Work SE share on the website. Besides the conventional communication channels, the Investor Relations department at New Work SE also set up a separate Twitter account (<a href="http://twitter.com/new_work_se_ir">NEW_WORK_SE_IR</a>)&nbsp;to communicate all investor-related information about New Work SE. It includes regular updates for shareholders about the current share price trend and key corporate information.</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Risk management</strong></p>
+
+<p class="legal">The Executive Board and Supervisory Board believe that good, long-term Corporate Governance also includes an active and continuous risk management policy. Permanent monitoring and management of risk is one of the key duties of every public company. For this purpose, New Work SE has implemented an early recognition system in line with legal requirements and continuously develops it within the context of current market and company developments. The Group auditors inspected the functionality and appropriateness of the system, and confirmed. A complete risk report for FY 2021 can be found in the Annual Report.&nbsp;</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal"><strong>Data protection and IT safety</strong></p>
+
+<p class="legal">Users of New Work services provide the Company with a great deal of personal data. In doing so, they trust that their data is processed and used for the intended purposes and in line with applicable law. As a result, New Work SE has high expectations of its own systems, particularly when it comes to meeting the data protection requirements of users, inspectors and data protection authorities.</p>
+
+<p class="legal">New Work SE is committed to upholding the strict German and European data protection regulations, and provides a series of security measures in its services for all customers to prevent various security risks. New Work SE commissions selected third parties to process data on its behalf. In addition, New Work SE has assembled a team of employees within the Company to monitor the Company’s adherence to data protection regulations. Changes to data protection regulations are identified immediately, measures for monitoring and adhering to these regulations are analysed and modified whenever necessary. The Company inspects new platform features before they are launched for possible privacy concerns. These features are only approved once all applicable data protection regulations can be definitively met.</p>
+
+<p class="legal">The Company strives to uphold these high standards, and submits to regular inspections from independent external institutes in order to cast a light into the various technical aspects of the platform.&nbsp;</p>
+
+<p class="legal">&nbsp;</p>
+
+<p class="legal">Hamburg, March 2022</p>
+
+<p class="legal">The Executive Board</p>
+
+                                    </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+
+
+    <section class="iframe has--theme-newwork">
+
+        <div class="iframe__inner">
+
+                            <header class="iframe__header">
+
+                    <h2 class="iframe__headline has--topline">
+
+                                                                                    <span>Aktuell</span>
+                                                        Directors' Dealings
+                        
+                    </h2>
+
+                </header>
+            
+            <div class="iframe__content">
+
+                
+                <div class="iframe__box" id="iframe_8" data-iframe="https://irpages2.equitystory.com/cgi-bin/show.ssp?companyName=meldeverlinkung&language=English&id=1&till=2015-12-31&activeTab=2015&from=2015-01-01&companyDirectoryName=openbc&type=dgap_dd"></div>
+
+            </div>
+
+            
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+    
+
+
+    <section class="contact-persons has--theme-newwork">
+
+        <div class="contact-persons__inner">
+
+            <header class="contact-persons__header">
+
+                <h2 class="contact-persons__headline has--topline">
+
+                                                                                                        <span>You've got questions?</span>
+                                                                                                        Feel free to contact me!
+                                            
+                </h2>
+
+            </header>
+
+            <div class="contact-persons__content">
+
+                <div class="contact-persons__contacts">
+
+                    
+                                                
+
+
+
+
+    <div class="contact-person" data-motion="copy">
+
+        
+                    <a href="https://www.xing.com/profile/Patrick_Moeller2" class="contact-person__link" target="_blank">
+        
+            <figure class="contact-person__image image is--fix">
+                <span><picture data-alt="" data-default-src="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller.jpg">
+	<source media="(max-width: 375px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--9e528c9f--query.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--9e528c9f--query@2x.webp 2x" type="image/webp" />
+	<source media="(max-width: 375px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--9e528c9f--query.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--9e528c9f--query@2x.jpg 2x" type="image/jpeg" />
+	<source media="(max-width: 768px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--cac93fe4--query.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--cac93fe4--query@2x.webp 2x" type="image/webp" />
+	<source media="(max-width: 768px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--cac93fe4--query.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--cac93fe4--query@2x.jpg 2x" type="image/jpeg" />
+	<source media="(max-width: 1023px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ec369c47--query.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ec369c47--query@2x.webp 2x" type="image/webp" />
+	<source media="(max-width: 1023px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ec369c47--query.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ec369c47--query@2x.jpg 2x" type="image/jpeg" />
+	<source media="(max-width: 1279px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--06a35258--query.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--06a35258--query@2x.webp 2x" type="image/webp" />
+	<source media="(max-width: 1279px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--06a35258--query.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--06a35258--query@2x.jpg 2x" type="image/jpeg" />
+	<source media="(max-width: 1440px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ea52841f--query.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ea52841f--query@2x.webp 2x" type="image/webp" />
+	<source media="(max-width: 1440px)" data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ea52841f--query.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller~-~media--ea52841f--query@2x.jpg 2x" type="image/jpeg" />
+	<source data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller.webp 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller@2x.webp 2x" type="image/webp" />
+	<source data-srcset="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller.jpg 1x, /NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller@2x.jpg 2x" type="image/jpeg" />
+	<img class="lazyload" alt="" title="" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIj4KCTxmaWx0ZXIgaWQ9ImJsdXIiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4KICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjIwIDIwIiBlZGdlTW9kZT0iZHVwbGljYXRlIiAvPgogICAgPGZlQ29tcG9uZW50VHJhbnNmZXI+CiAgICAgIDxmZUZ1bmNBIHR5cGU9ImRpc2NyZXRlIiB0YWJsZVZhbHVlcz0iMSAxIiAvPgogICAgPC9mZUNvbXBvbmVudFRyYW5zZmVyPgogIDwvZmlsdGVyPgogICAgPGltYWdlIGZpbHRlcj0idXJsKCNibHVyKSIgeD0iMCIgeT0iMCIgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSIgeGxpbms6aHJlZj0iZGF0YTppbWFnZS9qcGc7YmFzZTY0LC85ai80QUFRU2taSlJnQUJBUUFBQVFBQkFBRC8yd0JEQVAvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLzJ3QkRBZi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vd0FBUkNBR1FBWkFEQVNJQUFoRUJBeEVCLzhRQUZ3QUJBUUVCQUFBQUFBQUFBQUFBQUFBQUFBRUNBLy9FQUNRUUFRRUJBQUVEQlFFQkFBTUFBQUFBQUFBQkVTRUNNVkVTUVdGeGdhRWlNdEh3LzhRQUZnRUJBUUVBQUFBQUFBQUFBQUFBQUFBQUFBRUMvOFFBRmhFQkFRRUFBQUFBQUFBQUFBQUFBQUFBQUFFUi85b0FEQU1CQUFJUkF4RUFQd0RRQUFBQUFBQUFBQUFBQUFBQUpiZ0t6YWxySUxvTGdJTll1Q3NMaldHSU1EYVlxTXRTcGlkZ2RCbVZvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJ6VzFBUnFRa2JGU1JRUUFBQlVBUlFFRlFFczhNN1cwczFVV1ZYTnVVRkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVNxelFaV1Fha0JWQkZBQUFBQUFRVkFBQVFBRXMxbWNOSlZSc1psOW1nQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUdhMHlCSTFFVkZVQUFBQUFBQUJGQVFBQkZRQkZRR1p3Nk1WcWRsUlFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFVkFJMGlvb0FBQUFBQUFBQUNBQUlxQUlvRE5haUVWR2dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUZWRlJRQUFCVUFBQUVWRlJRUUFCRlFBQUVJRVZHZ0FBQUFBQUFCUUVGUUJVVUVBQUFBQUFBQUFBQUFBQktGWXUrd09rVnkycjZxRG9NVHF2S2VxM3NEb01mNjk3aWY2OGl0NmF4ejVUa0hRWTJ6MlgxUkJvTm5sTFFWTlp0VFFhMDFqbGVWR3hqbjRPUWFJenQ4TEtJMkFBQUFBQUNnQUFBQUFBZ0FBQUFBQUFBQUFBQUFFdXBWZ2lzNUtucDhWcUtEbjJsWHA0bXRkVTRTZG9xSVg1YXhVVnppdEFKRnMxUUhJYjZaN3JZcU9Zc1hBUW10WVlES3JnaXBuRi9VamZ0ZjFqcFZIUUFBQUFBQlVVQUFBQUFBRUFBQUFBQUFBQUFBQUFCVWdzUlVBQVRwN1o0YVpzc3V6OWdLSjZwOUxzOGdZQnM4Z0pmSGs5VTl1U1QzdmNHa1ZLRG4yclNXRXZsUm9OZ2dBbHNCYi93QWZ0bWR6djlUc3M3cU5BQ0FBQUFDZ0FBQUFBQUNBQUFBQUFBQUFBQUFBQUtBcFVWRUZBQVo5TThOQU0rbUo2WTFxQXNpZ0Fpb0NJcUFtR2ZheFFaeWZLNUdrQkNDeFJRQkFBQUFGQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUZRQlVTcWlxSW9DRE5CZTZpZ2wrRTUrMUFCTlRRTFVBQllnRFFJQXNGVkFBQUFBRkFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFFVktralZRRlZqMVo3THRCcEU1T1FYRXc1VGtEQkFGUk5XS0xCVVFhQVZBQUFBQlVVQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQVJRVkFMTkp3b0FJWUNvbFRQa0Y5bWJWd0JtUnFBQ2tScFVBQUFBQUFGQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFBQUFBQlVVUlFRQlJGQVJVQkVWQUFBQUFXS0NvQUFBQUFBb0FBQUFBQUFBQUlBQUFBQUFBQUFBQUFBQUFBQUNnSXFDb0FxQUtpZ0ltS0FtQ3BRUllqU29BQUFBQUFLaWdBQUFBQUFBQUFBZ0FBQUFBQUFBQUFBQUFFYVNLRE5uZ2FBUUFBQkZaVUFFMFFGMDFrQmRRVUNOSXFvQUFBQUFBb0FBQUFBQUFBQUFBSUtnQUFBQUFBQUFBQUFBS29BQUFBQWdxQWdxSW9pZ01pZ0lDZ2xXVktpbzJJb0FBQUtBQUFBQUFBQUFBQUFBQUNDb0FBQUFBQUFBQXNBRkFBQUFBQUFBVEZBWkZaN0NxSWFnQUF6UTZ2WWlvc2FSUUFBRkFBQUFBQUFBQUFBQUFBQUFBRUZRQUFBRkJGRkFBQkFBVVJRQUFBQUJMY1p0MEd0aWF5MWloaVlsNmxsMUFDZ3JGN3JFdnV2U0kxTHFwSmwrUC9BSENnekswa2FBQUFBQUFBQUFBQUFBQUFBQUFBQUJCUUFBQlVBVVJRQUFRRkFFUzBGM0diYUdBaXJncUNvSXJQcFdURlk2dDN2d0RWUkpTZ2g2YTEweHJaQVo2YmZ4YnlBQzZJRFF5dWdxSmI0WkUxcjFKNnFnQnQ4aUtxQzdVQWJsMVhOMFJZQUNnQUFBQUFBcUFBQUFBS2dDZ0FJcUFBQW1DZ0FBSUtBTTlVNCtsQWM1M1dzdGVBYW5aR3ZaQUlxS0FBQ0FnSk83V1Rmai9wbWQ0MUxPZnZqOUVUSm01VE9QMWQ0NzRTem5hQmsyZnY4WmFsNHZubitzZ0FLZzNPMFlkRVdBQW9BQUFBb0FJS0NBQUFBb2lnaWdBaW9BQUFBQUFBQUFpZ09mVk9mczZlOC9Xck5pZFBmOEJxb3RBQUFBQUVVQmlqVm1zaU5aTnY1L1V6aWZOWFp4K2Z3dDVtZXdIRnVaK21jZHQ1Tm03L0FCTjQrZEJjbTU4SlprK2IvRjJicWJzNTd6c0JPN2JQUzBFQUJRRkJGQUJGQVFWQVZCUVFBQUFGQUFBQkFBQUFBQUFBQUFRa3k2b0NVS0FBQUFBQUFKWjdxQXdOV2VHVlpBQUFYcG51RFU0VUVhQUFVQUFBQUFBUlFFVUJBQUFBRlFCUUFRVkFBQUFBQUFBQUFBU2dBQ29BQUFBQUFBbGlnTVlOZ21NeWEya1VVQUFBQlFBQUFBQUVWQVVRQlVVQkFBQUFVQUFBRUFBQUFBQVZGQkVWQUFBVUFFRkFRVUJCUUVGQVFBQlVVQUFBQUgvLzJRPT0iIC8+Cjwvc3ZnPg==" data-src="/NWSE/contact-persons/image-thumb__1585__contact-person_image/PatrickMoeller.jpg" />
+</picture>
+</span>
+            </figure>
+
+            <span class="contact-person__name">Patrick Möller</span>
+                            <span class="contact-person__position">VP Investor Relations</span>
+            
+                    </a>
+        
+    </div>
+
+
+
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+            
+    
+        
+                    
+
+
+    
+
+
+
+
+
+
+    <section class="rte has--theme-newwork">
+
+        <div class="rte__inner">
+
+            
+            
+            <div class="rte__content">
+
+                <div class="rte__copy">
+                                            <p class="small">Feel free to contact me at&nbsp;<a href="mailto:ir@new-work.se">ir@new-work.se</a>&nbsp;if you have any questions about our share or investor relations related topics.</p>
+
+                                    </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+        
+        
+            
+    
+
+
+
+
+
+</main>
+
+    
+
+
+
+
+<footer class="site-footer">
+
+    <div class="site-footer__inner">
+
+        <div class="site-footer__block">
+
+                            <nav class="footernav">
+                    <span class="footernav__title"><i>NEW WORK SE</i></span>
+                    <ul>
+                                                                                                                <li>
+                                    <a href="/en/about-new-work-se" class="footernav__item" type="internal">Company</a>
+                                </li>
+                                                                                                                                            <li>
+                                    <a href="/de/karriere" class="footernav__item" type="internal">Careers</a>
+                                </li>
+                                                                                                                                            <li>
+                                    <a href="https://corporate.xing.com/en/investor-relations/" class="footernav__item" type="internal">Investor Relations</a>
+                                </li>
+                                                                                                                                            <li>
+                                    <a href="https://corporate.xing.com/en/newsroom/" class="footernav__item" type="internal">Newsroom</a>
+                                </li>
+                                                                        </ul>
+                </nav>
+            
+                            <nav class="metanav">
+                    <ul>
+                                                                                                                <li>
+                                    <a href="/en/about-this-site" target="_blank" class="metanav__item" type="internal">About this site</a>
+                                </li>
+                                                                                                                                            <li>
+                                    <a href="/en/privacy-notice" target="_blank" class="metanav__item">Privacy Policy</a>
+                                </li>
+                                                                                                                                                        </ul>
+                </nav>
+            
+        </div>
+
+        <div class="site-footer__block is--dark">
+
+            <div class="site-footer__block-group">
+
+                                    <nav class="socialnetworks has--rows">
+                        <span class="socialnetworks__headline">Follow us</span>
+                        <ul>
+                                                                                                                                                                <li>
+                                                                                    <a href="https://www.xing.com" target="_blank" class="socialnetworks__item is--xing"><i>XING</i></a>
+                                                                            </li>
+                                                                                                                                                                                                <li>
+                                                                                    <a href="https://www.facebook.com/XING" target="_blank" class="socialnetworks__item is--facebook"><i>Facebook</i></a>
+                                                                            </li>
+                                                                                                                                                                                                <li>
+                                                                                    <a href="https://twitter.com/XING_de" target="_blank" class="socialnetworks__item is--twitter"><i>Twitter</i></a>
+                                                                            </li>
+                                                                                                                                                                                                <li>
+                                                                                    <a href="https://www.instagram.com/xing/" target="_blank" class="socialnetworks__item is--instagram"><i>Instagram</i></a>
+                                                                            </li>
+                                                                                                                                                                                                <li>
+                                                                                    <a href="https://www.youtube.com/user/XINGcom" target="_blank" class="socialnetworks__item is--youtube"><i>Youtube</i></a>
+                                                                            </li>
+                                                                                                                                                                                                <li>
+                                                                                    <a href="https://www.kununu.com/de/new-work" target="_blank" class="socialnetworks__item is--kununu"><i>kununu</i></a>
+                                                                            </li>
+                                                                                    </ul>
+                    </nav>
+                
+            </div>
+
+            <nav class="language-switch">
+                <div class="form__element">
+                    <label for="language" class="language-switch__label">Language</label>
+                    <div class="form__input">
+                        <select name="language" id="language" data-select data-language="root">
+                                                                                                <option value="/de/investor-relations/corporate-governance" >Deutsch</option>
+                                                                    <option value="/en/investor-relations/corporate-governance" selected >English</option>
+                                                                                    </select>
+                    </div>
+                </div>
+            </nav>
+
+            <p class="copyright">® New Work SE | All rights reserved</p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+    <!-- TETRIS -->
+    
+    <script>/*<![CDATA[*/!function(n){var e={};function t(r){if(e[r])return e[r].exports;var o=e[r]={i:r,l:!1,exports:{}};return n[r].call(o.exports,o,o.exports,t),o.l=!0,o.exports}t.m=n,t.c=e,t.d=function(n,e,r){t.o(n,e)||Object.defineProperty(n,e,{configurable:!1,enumerable:!0,get:r})},t.n=function(n){var e=n&&n.__esModule?function(){return n.default}:function(){return n};return t.d(e,"a",e),e},t.o=function(n,e){return Object.prototype.hasOwnProperty.call(n,e)},t.p="",t(t.s=3)}([function(n,e,t){"use strict";var r,o="debug",i="info",u="warn",a=function(){return u},c=function(n){u=n},f=t(4),s="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(n){return typeof n}:function(n){return n&&"function"==typeof Symbol&&n.constructor===Symbol&&n!==Symbol.prototype?"symbol":typeof n};function l(n,e,t){return e in n?Object.defineProperty(n,e,{value:t,enumerable:!0,configurable:!0,writable:!0}):n[e]=t,n}var d=(l(r={},o,0),l(r,i,1),l(r,"warn",2),l(r,"error",3),r),p=function(n){var e=a();return!(!e||d[n]<d[e])},v=function(n,e,t){for(var r=arguments.length,o=Array(r>3?r-3:0),i=3;i<r;i++)o[i-3]=arguments[i];if(p(e))if("error"===e)f.a[t].apply(f.a,o);else{var u=n+" "+o.map(function(n){return"object"===(void 0===n?"undefined":s(n))?JSON.stringify(n):n}).join(" ");f.a[t](u)}};var m=function(n){arguments.length>1&&void 0!==arguments[1]&&arguments[1];var e=n+":",t={};return Object.keys(f.b).forEach(function(n){var r=void 0!==d[n]?n:i;t[n]=v.bind(t,e,r,n)}),t.inspect=function(n,e,r){p(n)&&(t.group(e),Object.keys(r).filter(function(n){return"function"!=typeof r[n]}).sort().forEach(function(n){f.a.log(n+": "+JSON.stringify(r[n]))}),t.groupEnd())},t.prefix=e,t},h=function(n,e){for(e=n="";n++<36;e+=51*n&52?(15^n?8^Math.random()*(20^n?16:4):4).toString(16):"-");return e},y=("function"==typeof Symbol&&Symbol.iterator,Object.assign||function(n){for(var e=1;e<arguments.length;e++){var t=arguments[e];for(var r in t)Object.prototype.hasOwnProperty.call(t,r)&&(n[r]=t[r])}return n}),b=function(n){var e=h();return y({_key:"stm-v1",id:e},n)},g=function(n){if("string"!=typeof n||0!==n.indexOf("{"))return!1;try{return JSON.parse(n)}catch(n){return!1}},w=function(){return function(n,e){if(Array.isArray(n))return n;if(Symbol.iterator in Object(n))return function(n,e){var t=[],r=!0,o=!1,i=void 0;try{for(var u,a=n[Symbol.iterator]();!(r=(u=a.next()).done)&&(t.push(u.value),!e||t.length!==e);r=!0);}catch(n){o=!0,i=n}finally{try{!r&&a.return&&a.return()}finally{if(o)throw i}}return t}(n,e);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_=function(n){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"*";return function(t,r){var o=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},i=function(n){if("*"!==e&&n.origin!==e)return!1;var i=g(n.data);if(!i||i.action!==t)return!1;var u=o.fullResponse,a=i.id,c=new Promise(function(n,e){try{n(r(u?i:i.payload))}catch(n){e(n)}});return a&&n.source&&0!==t.indexOf("response:")&&c.then(function(n){return[null,n]}).catch(function(n){return[n&&n.message||"error",null]}).then(function(e){var r=w(e,2),o=r[0],i=r[1],u=b({id:a,action:"response:"+t+":"+a,error:o,payload:i});n.source.postMessage(JSON.stringify(u),"*")}),!0};return n.addEventListener("message",i,!1),function(){n.removeEventListener("message",i,!1)}}},O=function(n,e){arguments.length>2&&void 0!==arguments[2]&&arguments[2];return function(t,r){var o=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},i=o.id||h(),u=b({id:i,action:t,payload:r});e.postMessage(JSON.stringify(u),"*");var a=o.fireAndForget,c=void 0!==a&&a,f=o.timeout,s=void 0===f?1e4:f,l=o.fullResponse,d=void 0!==l&&l;return!0===c?Promise.resolve():new Promise(function(e,r){var o=_(n),u=setTimeout(function(){r(new Error("response for '"+t+"' has timed out"))},s),a=o("response:"+t+":"+i,function(n){if(a(),d)e(n);else{var t=n.error,o=n.payload;t?r(t):e(o)}return clearTimeout(u),!0},{fullResponse:!0})})}},j=t(2),T=function(){function n(n,e){for(var t=0;t<e.length;t++){var r=e[t];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(n,r.key,r)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();var P=function(){function n(){!function(n,e){if(!(n instanceof e))throw new TypeError("Cannot call a class as a function")}(this,n),this.reset()}return T(n,[{key:"reset",value:function(){var n=this;this.resolved=!1,this._promise=new j.a(function(e){n.resolve=function(t){e(t),n.resolved=!0}})}},{key:"resetAndResolve",value:function(n){this.resolved&&this.reset(),this.resolve(n)}},{key:"then",value:function(n){return this._promise.then(n)}}]),n}();var E=function(n){if(!n)return[];n=n.substr(n.indexOf("?"));for(var e=/[?&]([^=?&#]+)(?:=([^?&#]*))?/g,t=[],r=void 0;null!==(r=e.exec(n));){var o=r[1],i=r[2];t.push([decodeURIComponent(o),i&&decodeURIComponent(i)])}return t},x=function(){return function(n,e){if(Array.isArray(n))return n;if(Symbol.iterator in Object(n))return function(n,e){var t=[],r=!0,o=!1,i=void 0;try{for(var u,a=n[Symbol.iterator]();!(r=(u=a.next()).done)&&(t.push(u.value),!e||t.length!==e);r=!0);}catch(n){o=!0,i=n}finally{try{!r&&a.return&&a.return()}finally{if(o)throw i}}return t}(n,e);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}();var S=function(n){return"?"+n.map(function(n){var e=x(n,2);return[e[0],e[1]].filter(function(n){return void 0!==n}).map(function(n){return encodeURIComponent(n)}).join("=")}).join("&")},I=function(n,e){var t=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,r=arguments.length>3&&void 0!==arguments[3]?arguments[3]:{path:"/"};if("number"==typeof t){var o=new Date;o.setTime(o.getTime()+t),r.expires=o.toUTCString()}var i=Object.keys(r).map(function(n){return n+"="+r[n]}).join(";");document.cookie=encodeURIComponent(n)+"="+encodeURIComponent(e)+";"+i},k=function(n){for(var e=encodeURIComponent(n)+"=",t=document.cookie.split(";").map(function(n){return n.trim()}),r=0;r<t.length;r++){var o=t[r];if(0===o.indexOf(e))return decodeURIComponent(o.substring(e.length,o.length))}return null},A=function(){var n=document.location.hostname.match("[^.]+[.][^.]+$");return null!==n?n[0]:null},R=m("xhr"),C=function(n){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{};return new Promise(function(t,r){var i=e.method,u=void 0===i?"GET":i,a=e.params,c=void 0!==a;R.inspect(o,u+" "+n+" request",a||{});var f=new XMLHttpRequest;f.open(u,n,!0),f.withCredentials=!0,c&&f.setRequestHeader("Content-Type","application/json"),f.onerror=r,f.onload=function(){var e=JSON.parse(f.responseText);R.inspect(o,u+" "+n+" response",e||{}),t(e)},f.send(JSON.stringify(a))})};t.d(e,!1,function(){return m}),t.d(e,!1,function(){return a}),t.d(e,!1,function(){return c}),t.d(e,!1,function(){return o}),t.d(e,!1,function(){return i}),t.d(e,!1,function(){return"warn"}),t.d(e,!1,function(){return"error"}),t.d(e,"i",function(){return O}),t.d(e,"k",function(){return _}),t.d(e,"c",function(){return j.b}),t.d(e,"b",function(){return j.a}),t.d(e,"a",function(){return P}),t.d(e,"l",function(){return h}),t.d(e,"f",function(){return E}),t.d(e,"h",function(){return S}),t.d(e,"j",function(){return I}),t.d(e,"e",function(){return k}),t.d(e,"g",function(){return A}),t.d(e,"d",function(){return C})},function(n,e){var t;t=function(){return this}();try{t=t||Function("return this")()||(0,eval)("this")}catch(n){"object"==typeof window&&(t=window)}n.exports=t},function(n,e,t){"use strict";(function(n){t.d(e,"b",function(){return c}),t.d(e,"a",function(){return f});var r=t(5),o=t(6),i=t(7),u=n.Object.assign,a=n.Promise,c=Object(r.a)(u)?u:o.a,f=Object(r.a)(a)?a:i.a}).call(e,t(1))},function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r=t(0);var o=function(n){var e=n.performance||n.webkitPerformance||n.mozPerformance||n.msPerformance;if(!e||!e.timing)return{};var t=e.timing,o=(new Date).getTime(),i={network:t.responseEnd||o,pageLoad:t.domContentLoadedEventEnd||o,pageSetup:t.loadEventStart||o,loadEvent:o},u=t.navigationStart;return Object.keys(i).map(function(n){var e=i[n],t=e-u;return u=e,function(n,e,t){return e in n?Object.defineProperty(n,e,{value:t,enumerable:!0,configurable:!0,writable:!0}):n[e]=t,n}({},n,t)}).reduce(function(n,e){return Object(r.c)(n,e)},{})},i=function(n,e){return new r.b(function(t){var r=n.document,o=n.innerWidth||0,i=n.innerHeight||0,u=r.createElement("iframe");u.setAttribute("id","stm"),u.setAttribute("sandbox","allow-scripts allow-same-origin allow-forms"),u.setAttribute("style","top:-"+i+"px;left:-"+o+"px;width:"+o+"px;height:"+i+"px;border:0;position:absolute;visibility:hidden;opacity:0"),u.onload=function(){return t(u)},u.setAttribute("src",e);var a=function(){var n=r.body;n.insertBefore(u,n.childNodes[0])};r.body?a():r.addEventListener("DOMContentLoaded",a,!0)})},u=function(n){var e=new r.a,t=new r.a,o={load:function(o){return i(n,o).then(function(i){e.resolve(i);var u=o.match(/(https?:\/\/[^/&?]+)/,""),a=u?u[1]:"*",c={iframe:i,publish:Object(r.i)(n,i.contentWindow,a),subscribe:Object(r.k)(n,"*")};return t.resolve(c),i})},publish:function(){for(var n=arguments.length,e=Array(n),r=0;r<n;r++)e[r]=arguments[r];return t.then(function(n){return n.publish.apply(n,e)})},subscribe:function(){for(var n=arguments.length,e=Array(n),r=0;r<n;r++)e[r]=arguments[r];return t.then(function(n){return n.subscribe.apply(n,e)})},unload:function(t,r){return e&&e.then(function(t){n.document.body.removeChild(t),e=null})}};return o},a=function(){return function(n,e){if(Array.isArray(n))return n;if(Symbol.iterator in Object(n))return function(n,e){var t=[],r=!0,o=!1,i=void 0;try{for(var u,a=n[Symbol.iterator]();!(r=(u=a.next()).done)&&(t.push(u.value),!e||t.length!==e);r=!0);}catch(n){o=!0,i=n}finally{try{!r&&a.return&&a.return()}finally{if(o)throw i}}return t}(n,e);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),c=function(n){var e=window.location,t=e.href,o=e.origin,i=e.pathname,u=e.search,c=e.hash;if(!u)return t;var f=function(n,e){var t=Object(r.f)(n).filter(function(n){var t=a(n,2),r=t[0],o=t[1];return!1===e(r,o)});return Object(r.h)(t)}(u,n);if(f===u)return t;var s=f&&"?"!==f?""+o+i+f+c:""+o+i+c;return window.history.replaceState({},null,s),s},f="v0",s="0.0.0",l=/^sc_/,d=t(13),p=t.n(d),v=function(n){return Object(r.c)({},"production"===n?p.a.production:p.a.default)},m=t(14),h=function(n,e){var t=new XMLHttpRequest;return new r.b(function(r,o){t.onreadystatechange=function(){2===t.readyState&&(t.status>=200&&t.status<300?r():o(new Error(t.status+" "+t.statusText)))},t.open("POST",n,!0),t.withCredentials=!0,t.setRequestHeader("Content-Type","text/plain"),t.send(JSON.stringify(e))})},y=function(){return Date.now()},b=Object.assign||function(n){for(var e=1;e<arguments.length;e++){var t=arguments[e];for(var r in t)Object.prototype.hasOwnProperty.call(t,r)&&(n[r]=t[r])}return n};var g="/api/upgraded-umbrella",w=function(n){return"https://"+v(n).host+g},_=function(n){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:["PropDestinationUrl","PropReferringUrl","pageName"],t={};return Object.keys(n).filter(function(n){return-1===e.indexOf(n)}).forEach(function(e){Object(r.c)(t,function(n,e,t){return e in n?Object.defineProperty(n,e,{value:t,enumerable:!0,configurable:!0,writable:!0}):n[e]=t,n}({},e,n[e]))}),t},O={},j=new r.a,T=new r.a,P=!0,E=function(n,e,t){return new r.b(function(r){var o={clientTimestamp:y(),pageName:n.pageName,location:n.PropDestinationUrl,referrer:n.PropReferringUrl||void 0,properties:_(n),browserWidth:function(){var n=window.document;return window.innerWidth?window.innerWidth:n&&n.documentElement?n.documentElement.offsetWidth:""}(),browserHeight:function(){var n=window.document;return window.innerHeight?window.innerHeight:n&&n.documentElement?n.documentElement.offsetHeight:""}(),resolution:window.screen?window.screen.width+"x"+window.screen.height:"",type:"web",eventName:e};Object(m.b)()?r(Object(m.a)(t,o)):r(h(t,o))})};O.track=function(n,e,t){if(P){!function(n){Object(r.e)("c_visitor_id")||Object(r.j)("c_visitor_id",Object(r.l)(),5e3,{domain:n})}(Object(r.g)());var o=w(n)+"/r";if("xing.com"!==Object(r.g)()&&null!==Object(r.g)()){var i=w(n)+"/c";Object(r.d)(i).then(function(e){var t="https://"+("production"===n?"":"preview-")+"ants."+e.hostName+g+"?token="+encodeURIComponent(e.token)+"&ll="+encodeURIComponent(e.ll);T.resolve(t)})}else T.resolve(o);P=!1}T.then(function(n){"pageview"!==e&&t.PropPostponeAction?j.then(function(r){var o=b({},t);["pageName","PropChannel","PropApplication"].forEach(function(n){o[n]&&"undefined"!==o[n]||(o[n]=r[n])}),E(o,e,n)}):(j.resolve(t),E(t,e,n))})};var x=O,S=function(){return function(n,e){if(Array.isArray(n))return n;if(Symbol.iterator in Object(n))return function(n,e){var t=[],r=!0,o=!1,i=void 0;try{for(var u,a=n[Symbol.iterator]();!(r=(u=a.next()).done)&&(t.push(u.value),!e||t.length!==e);r=!0);}catch(n){o=!0,i=n}finally{try{!r&&a.return&&a.return()}finally{if(o)throw i}}return t}(n,e);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}();var I=function(n){return"function"==typeof n?n:!0===n?function(n){return l.test(n)}:function(n){return n instanceof RegExp}(n)?function(e){return n.test(e)}:function(n){return"string"==typeof n}(n)?function(e){return n===e}:null},k=function(n,e){var t=e.clearParams,r=e.host,o=e.sandboxFile,i=e.sandboxUrl,u=function(n,e){var t={};for(var r in n)e.indexOf(r)>=0||Object.prototype.hasOwnProperty.call(n,r)&&(t[r]=n[r]);return t}(e,["clearParams","host","sandboxFile","sandboxUrl"]);return[R(n,{clearParams:t,host:r,sandboxFile:o,sandboxUrl:i}),A(n,u)]},A=function(n,e){var t=(window.location||{}).search;return Object(r.c)({debug:/debug=true/.test(t)},e,{env:n})},R=function(n,e){var t=e.clearParams,r=e.host,o=void 0===r?"production"===n?"stan.xing.com":"preview-stan.xing.com":r,i=e.sandboxFile,u=void 0===i?"stm-"+f+".html":i,a=e.sandboxUrl;return{clearParams:t,sandboxUrl:void 0===a?"https://"+o+"/"+u:a}},C=function(n){var e={PropAppId:"ttt@"+s},t={version:s,baseData:{},_dl:{},_sandbox:u(n),_clearParamsFilter:void 0},i=function(){t._initCalled||function(){throw new Error("Please call ttt.init first")}()};return t.assign=r.c,t.init=function(n){var e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{};if(t._initCalled)return r.b.resolve();t._initCalled=!0,t._env=n;var o=k(n,e),i=S(o,2),u=i[0],a=i[1],c=u.clearParams,f=void 0===c||c,s=u.sandboxUrl;return t._sandbox.load(s),f&&(t._clearParamsFilter=I(f)),t._sandbox.publish("stm:init",a)},t.pageview=function(o,u,a,c){return i(),t.baseData=Object(r.c)({},a),t._dl=Object(r.c)({},a,{PropChannel:o,pageName:u,PropDestinationUrl:n.location.href,PropReferringUrl:t._dl&&t._dl.PropDestinationUrl||n.document.referrer},e),t._clearParamsFilter&&t._clearParams(t._clearParamsFilter),t._rawEvent("pageview",Object(r.c)({},t._dl,c))},t.event=function(n,e){i();var o=Object(r.c)({},t._dl,e);return t._rawEvent(n,o)},t.withPerformanceMetrics=function(e){return i(),new r.b(function(t){var r=function(){setTimeout(function(){var r=o(n),i={PropTechnicalPerformance:Object.keys(r).map(function(n){return n+"="+r[n]}).join(";")};e&&e(i),t(i)},0)};n.document&&"complete"===n.document.readyState||!n.addEventListener?r():n.addEventListener("load",function e(){r(),n.removeEventListener("load",e,!0)},!0)})},t.publish=function(n,e){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};return i(),t._sandbox.publish(n,e,r)},t.subscribe=function(n,e){return i(),t._sandbox.subscribe(n,e)},t._clearParams=function(n){return i(),c(n)},t._rawEvent=function(n,o){return i(),o=Object(r.c)({},o,e,{PropAbacusTriggered:1}),r.b.all([x.track(t._env,n,o),t._sandbox.publish("stm:track",{event:n,props:o})])},t._rawPageview=t._rawEvent.bind(null,"pageview"),t._unload=function(){return t._sandbox.unload()},t};!function(n){f=n.API_VERSION,s=n.TTT_VERSION}({API_VERSION:"v1",TTT_VERSION:"1.6.3"});var U=C(window);window.ttt&&console.warn("window.ttt was already defined"),window.ttt=U},function(n,e,t){"use strict";(function(n){t.d(e,"b",function(){return i});var r=n.console,o=Function.prototype.apply,i={},u=0;["log","debug","info","warn","error","group","groupCollapsed","groupEnd"].forEach(function(n){i[n]=function(){for(var e=arguments.length,t=Array(e),i=0;i<e;i++)t[i]=arguments[i];if(r){if(!r.group)if("group"===n)u+=1;else{if("groupEnd"===n)return void(u-=1);if(u>0)for(var a=0;a<u;a++)t.unshift("  ")}var c=r[n]||r.log;c&&o.call(c,r,t)}}}),e.a=r&&r.group?r:i}).call(e,t(1))},function(n,e,t){"use strict";e.a=function(n){return/^s*function \w*\(\)\s*\{\s*\[native code\]\s*\}s*$/.test(""+n)}},function(n,e,t){"use strict";e.a=function(n){if(void 0===n||null===n)throw new TypeError("Cannot convert undefined or null to object");for(var e=Object(n),t=1;t<arguments.length;t++){var r=arguments[t];if(void 0!==r&&null!==r)for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(e[o]=r[o])}return e}},function(n,e,t){"use strict";var r=t(8);e.a=r.a},function(n,e,t){"use strict";(function(n){var r=t(12),o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(n){return typeof n}:function(n){return n&&"function"==typeof Symbol&&n.constructor===Symbol&&n!==Symbol.prototype?"symbol":typeof n},i=setTimeout;function u(n){return Boolean(n&&void 0!==n.length)}function a(){}function c(n){if(!(this instanceof c))throw new TypeError("Promises must be constructed via new");if("function"!=typeof n)throw new TypeError("not a function");this._state=0,this._handled=!1,this._value=void 0,this._deferreds=[],p(n,this)}function f(n,e){for(;3===n._state;)n=n._value;0!==n._state?(n._handled=!0,c._immediateFn(function(){var t=1===n._state?e.onFulfilled:e.onRejected;if(null!==t){var r;try{r=t(n._value)}catch(n){return void l(e.promise,n)}s(e.promise,r)}else(1===n._state?s:l)(e.promise,n._value)})):n._deferreds.push(e)}function s(n,e){try{if(e===n)throw new TypeError("A promise cannot be resolved with itself.");if(e&&("object"===(void 0===e?"undefined":o(e))||"function"==typeof e)){var t=e.then;if(e instanceof c)return n._state=3,n._value=e,void d(n);if("function"==typeof t)return void p(function(n,e){return function(){n.apply(e,arguments)}}(t,e),n)}n._state=1,n._value=e,d(n)}catch(e){l(n,e)}}function l(n,e){n._state=2,n._value=e,d(n)}function d(n){2===n._state&&0===n._deferreds.length&&c._immediateFn(function(){n._handled||c._unhandledRejectionFn(n._value)});for(var e=0,t=n._deferreds.length;e<t;e++)f(n,n._deferreds[e]);n._deferreds=null}function p(n,e){var t=!1;try{n(function(n){t||(t=!0,s(e,n))},function(n){t||(t=!0,l(e,n))})}catch(n){if(t)return;t=!0,l(e,n)}}c.prototype.catch=function(n){return this.then(null,n)},c.prototype.then=function(n,e){var t=new this.constructor(a);return f(this,new function(n,e,t){this.onFulfilled="function"==typeof n?n:null,this.onRejected="function"==typeof e?e:null,this.promise=t}(n,e,t)),t},c.prototype.finally=r.a,c.all=function(n){return new c(function(e,t){if(!u(n))return t(new TypeError("Promise.all accepts an array"));var r=Array.prototype.slice.call(n);if(0===r.length)return e([]);var i=r.length;function a(n,u){try{if(u&&("object"===(void 0===u?"undefined":o(u))||"function"==typeof u)){var c=u.then;if("function"==typeof c)return void c.call(u,function(e){a(n,e)},t)}r[n]=u,0==--i&&e(r)}catch(n){t(n)}}for(var c=0;c<r.length;c++)a(c,r[c])})},c.resolve=function(n){return n&&"object"===(void 0===n?"undefined":o(n))&&n.constructor===c?n:new c(function(e){e(n)})},c.reject=function(n){return new c(function(e,t){t(n)})},c.race=function(n){return new c(function(e,t){if(!u(n))return t(new TypeError("Promise.race accepts an array"));for(var r=0,o=n.length;r<o;r++)c.resolve(n[r]).then(e,t)})},c._immediateFn="function"==typeof n&&function(e){n(e)}||function(n){i(n,0)},c._unhandledRejectionFn=function(n){"undefined"!=typeof console&&console&&console.warn("Possible Unhandled Promise Rejection:",n)},e.a=c}).call(e,t(9).setImmediate)},function(n,e,t){(function(n){var r=void 0!==n&&n||"undefined"!=typeof self&&self||window,o=Function.prototype.apply;function i(n,e){this._id=n,this._clearFn=e}e.setTimeout=function(){return new i(o.call(setTimeout,r,arguments),clearTimeout)},e.setInterval=function(){return new i(o.call(setInterval,r,arguments),clearInterval)},e.clearTimeout=e.clearInterval=function(n){n&&n.close()},i.prototype.unref=i.prototype.ref=function(){},i.prototype.close=function(){this._clearFn.call(r,this._id)},e.enroll=function(n,e){clearTimeout(n._idleTimeoutId),n._idleTimeout=e},e.unenroll=function(n){clearTimeout(n._idleTimeoutId),n._idleTimeout=-1},e._unrefActive=e.active=function(n){clearTimeout(n._idleTimeoutId);var e=n._idleTimeout;e>=0&&(n._idleTimeoutId=setTimeout(function(){n._onTimeout&&n._onTimeout()},e))},t(10),e.setImmediate="undefined"!=typeof self&&self.setImmediate||void 0!==n&&n.setImmediate||this&&this.setImmediate,e.clearImmediate="undefined"!=typeof self&&self.clearImmediate||void 0!==n&&n.clearImmediate||this&&this.clearImmediate}).call(e,t(1))},function(n,e,t){(function(n,e){!function(n,t){"use strict";if(!n.setImmediate){var r,o=1,i={},u=!1,a=n.document,c=Object.getPrototypeOf&&Object.getPrototypeOf(n);c=c&&c.setTimeout?c:n,"[object process]"==={}.toString.call(n.process)?r=function(n){e.nextTick(function(){s(n)})}:function(){if(n.postMessage&&!n.importScripts){var e=!0,t=n.onmessage;return n.onmessage=function(){e=!1},n.postMessage("","*"),n.onmessage=t,e}}()?function(){var e="setImmediate$"+Math.random()+"$",t=function(t){t.source===n&&"string"==typeof t.data&&0===t.data.indexOf(e)&&s(+t.data.slice(e.length))};n.addEventListener?n.addEventListener("message",t,!1):n.attachEvent("onmessage",t),r=function(t){n.postMessage(e+t,"*")}}():n.MessageChannel?function(){var n=new MessageChannel;n.port1.onmessage=function(n){s(n.data)},r=function(e){n.port2.postMessage(e)}}():a&&"onreadystatechange"in a.createElement("script")?function(){var n=a.documentElement;r=function(e){var t=a.createElement("script");t.onreadystatechange=function(){s(e),t.onreadystatechange=null,n.removeChild(t),t=null},n.appendChild(t)}}():r=function(n){setTimeout(s,0,n)},c.setImmediate=function(n){"function"!=typeof n&&(n=new Function(""+n));for(var e=new Array(arguments.length-1),t=0;t<e.length;t++)e[t]=arguments[t+1];var u={callback:n,args:e};return i[o]=u,r(o),o++},c.clearImmediate=f}function f(n){delete i[n]}function s(n){if(u)setTimeout(s,0,n);else{var e=i[n];if(e){u=!0;try{!function(n){var e=n.callback,r=n.args;switch(r.length){case 0:e();break;case 1:e(r[0]);break;case 2:e(r[0],r[1]);break;case 3:e(r[0],r[1],r[2]);break;default:e.apply(t,r)}}(e)}finally{f(n),u=!1}}}}}("undefined"==typeof self?void 0===n?this:n:self)}).call(e,t(1),t(11))},function(n,e){var t,r,o=n.exports={};function i(){throw new Error("setTimeout has not been defined")}function u(){throw new Error("clearTimeout has not been defined")}function a(n){if(t===setTimeout)return setTimeout(n,0);if((t===i||!t)&&setTimeout)return t=setTimeout,setTimeout(n,0);try{return t(n,0)}catch(e){try{return t.call(null,n,0)}catch(e){return t.call(this,n,0)}}}!function(){try{t="function"==typeof setTimeout?setTimeout:i}catch(n){t=i}try{r="function"==typeof clearTimeout?clearTimeout:u}catch(n){r=u}}();var c,f=[],s=!1,l=-1;function d(){s&&c&&(s=!1,c.length?f=c.concat(f):l=-1,f.length&&p())}function p(){if(!s){var n=a(d);s=!0;for(var e=f.length;e;){for(c=f,f=[];++l<e;)c&&c[l].run();l=-1,e=f.length}c=null,s=!1,function(n){if(r===clearTimeout)return clearTimeout(n);if((r===u||!r)&&clearTimeout)return r=clearTimeout,clearTimeout(n);try{r(n)}catch(e){try{return r.call(null,n)}catch(e){return r.call(this,n)}}}(n)}}function v(n,e){this.fun=n,this.array=e}function m(){}o.nextTick=function(n){var e=new Array(arguments.length-1);if(arguments.length>1)for(var t=1;t<arguments.length;t++)e[t-1]=arguments[t];f.push(new v(n,e)),1!==f.length||s||a(p)},v.prototype.run=function(){this.fun.apply(null,this.array)},o.title="browser",o.browser=!0,o.env={},o.argv=[],o.version="",o.versions={},o.on=m,o.addListener=m,o.once=m,o.off=m,o.removeListener=m,o.removeAllListeners=m,o.emit=m,o.prependListener=m,o.prependOnceListener=m,o.listeners=function(n){return[]},o.binding=function(n){throw new Error("process.binding is not supported")},o.cwd=function(){return"/"},o.chdir=function(n){throw new Error("process.chdir is not supported")},o.umask=function(){return 0}},function(n,e,t){"use strict";e.a=function(n){var e=this.constructor;return this.then(function(t){return e.resolve(n()).then(function(){return t})},function(t){return e.resolve(n()).then(function(){return e.reject(t)})})}},function(n,e){n.exports={default:{host:"preview.xing.com"},production:{host:"www.xing.com"}}},function(n,e,t){"use strict";(function(n){t.d(e,"b",function(){return i});var r=t(0),o=n.navigator&&"sendBeacon"in n.navigator,i=function(){return o};e.a=function(n,e){return new r.b(function(t,r){navigator.sendBeacon(n,JSON.stringify(e))?t():r(new Error("Wasn't able to queue data in Beacon API"))})}}).call(e,t(1))}]);/*]]>*/</script>
+    <script type="text/javascript">
+        var userTrackingData = null;
+        var contextData = {};
+        if (typeof(tetris_pageview_contextData_PropContextDimension1) !== 'undefined') {
+            contextData.PropContextDimension1 = tetris_pageview_contextData_PropContextDimension1;
+        }
+        contextData.PropApplicationLanguage = "en";
+        ttt.init('production', { host: 'stan.new-work.se', fetchTrackingData: true });
+        ttt.pageview('wbm/NewWork_Corp', 'wbm/NewWork_corp/investor_relations/corporate_governance', userTrackingData, contextData);
+
+        function ttt_event_proptracker(value, additional) {
+            var eventData = {PropTrackAction: value};
+            if (typeof(additional) !== 'undefined') {
+                eventData.PropContextDimension3 = additional;
+            }
+            ttt.event('PropTrackAction', eventData);
+        }
+
+        function ttt_event_proptracker_pdf(url) {
+            console.log('track pdf: ' +  url);
+            var eventData = {PropTrackAction: 'PropDownloadLinkUrl'};
+            eventData.PropDownloadLinkUrl = url;
+            ttt.event('PropTrackAction', eventData);
+        }
+
+    </script>
+
+
+    <script src="/assets/js/vendor.js?v=43"></script>
+<script src="/assets/app.js?v=43"></script>
+</body>
+</html>

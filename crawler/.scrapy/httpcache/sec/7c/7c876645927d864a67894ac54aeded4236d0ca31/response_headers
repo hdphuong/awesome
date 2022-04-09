@@ -1,0 +1,18 @@
+Content-Length: 362
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, private, must-revalidate, max-age=0, max-stale=0, proxy-revalidate, s-maxage=0
+Pragma: no-cache
+Expires: 0
+X-Robots-Tag: noindex
+Location: /buy/digital/41218b9e-c8ae-c934-43ad-71b13fcb4465/account?ft-content-uuid=1aa4d120-2a85-48f0-9829-2692447731b0&offerId=41218b9e-c8ae-c934-43ad-71b13fcb4465
+Content-Type: text/html; charset=utf-8
+Set-Cookie: session=eyJjc3JmU2VjcmV0IjoiYWpucnpKQ1R6bW5BNVVGb1BnT1RNZHdCIn0=; path=/; httponly
+Set-Cookie: session.sig=-03DMNrEamwmdzwbksXvqY_FzWU; path=/; httponly
+Set-Cookie: FTAllocation=6cb9103a-fd7a-4846-b343-07b414c4dce3; Expires=Sun, 09 Apr 2023 04:08:56 GMT; Domain=.ft.com; Path=/
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:56 GMT
+Age: 0
+Vary: ft-flags, ft-anonymous-user, ft-edition, accept, Accept-Encoding, et-app, FT-Site, FT-Site
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

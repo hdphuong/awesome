@@ -1,0 +1,23 @@
+Server: Apple
+Date: Sat, 09 Apr 2022 04:08:49 GMT
+Content-Type: text/html;charset=UTF-8
+X-Apple-I-Request-Id: 163167b6-e587-4d48-bff1-c618a10c778f
+Set-Cookie: idclient=web; Domain=appleid.apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: dslang=CA-FR; Domain=apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: site=CAN; Domain=apple.com; Path=/; Secure; HttpOnly
+X-Buildversion: R8_2
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://appleid.apple.com https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://*.icloud-content.com ; font-src 'self' https://www.apple.com https://appleid.cdn-apple.com ; frame-src 'self' https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn https://familyws.icloud.apple.com ; img-src 'self' https://www.apple.com https://appleid.cdn-apple.com data: https://*.mzstatic.com https://appleid.apple.com https://*.icloud.com ; media-src data: ; object-src 'none' ; script-src 'self' https://www.apple.com https://appleid.cdn-apple.com https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn ; style-src 'unsafe-inline' 'self' https://www.apple.com https://appleid.cdn-apple.com ;
+Referrer-Policy: origin
+Scnt: AAAA+jMxN0Y1MTBCODMzQ0I1M0NEQjlERUJFMkU0NDI5NDNEQ0YxOERERDBCQkExQkJDNDlDMDdBRDc0Q0U4MDI1Mzc4RjM3NjNCNzlFQzgxRkIyNDYwRDVBNzQyMjA5ODBBOUEyNTcxMUY4NTc3MTNBMEY4Q0I4QjI5NTRFREQ4QjI4OUY3REM1RDRENkY5MTc4NzM3MEVFRUM4MTI3NkM0MzQ4REFBRkYwNTgzQkU3RTRGRDlCNEU5QUQ2QjREMjQ5OTdCOUQ1QTA2RjhBNEVCRUFBQTg2QTE4QkY5MzNFM0YyOTc1RTZFNTMxQTc1MDc1QXwxAAABgAyQgsu4kHFjs/WYmc6DSCoHvNXkO/5Dq5O/DJgr8QtUoSoFHs0Zz/YSrVdqABAVPUTw09jLzV1bnFxlS1UGzI7QBdvApyQmxM1oU0yuoat4Kxwfsg==
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Vary: accept-encoding
+Content-Encoding: gzip
+Content-Language: fr-CA-x-lvariant-CAN
+Host: appleid.apple.com

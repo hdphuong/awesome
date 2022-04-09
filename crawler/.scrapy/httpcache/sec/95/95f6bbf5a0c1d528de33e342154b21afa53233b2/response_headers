@@ -1,0 +1,8 @@
+Date: Sat, 09 Apr 2022 04:08:33 GMT
+Cache-Control: max-age=3600
+Expires: Sat, 09 Apr 2022 05:08:33 GMT
+Location: https://www.stackcommerce.com/
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6f9061d9cb02559f-SYD

@@ -1,0 +1,12 @@
+Content-Length: 69
+X-Robots-Tag: noindex, follow
+Link: <https://www.siia.net/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://www.siia.net/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://www.siia.net
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Sat, 09 Apr 2022 04:08:53 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

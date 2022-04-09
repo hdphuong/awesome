@@ -1,0 +1,18 @@
+Content-Length: 0
+Location: http://recruiters.theguardian.com/digital-rate-card/?tag=essentials
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 03:59:10 GMT
+Age: 0
+Set-Cookie: GU_mvt_id=159498; expires=Fri, 08 Jul 2022 03:59:10 GMT; path=/; domain=.theguardian.com; Secure
+Set-Cookie: GU_geo_country=AU; path=/; Secure
+X-Timer: S1649476750.081348,VS0,VE312
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; child-src https: blob:; object-src 'none'; base-uri https://*.gracenote.com
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-Gu-Edition: au
+Cache-Control: , no-transform

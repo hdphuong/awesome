@@ -1,0 +1,15 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 04:08:18 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Permissions-Policy: interest-cohort=()
+X-Powered-By: Craft CMS
+X-Powered-By: SEOmatic
+X-Robots-Tag: all
+Link: <https://advertising.theguardian.com>; rel='canonical'
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: CRAFT_CSRF_TOKEN=799f0b0d3614726ebccdccf8238b658936f235b9dd74bd0e345fc5c3c8f5911da%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22kksSylYU-CUaeLNHBMTkDhw__HeXuUUn4Trl38PK%22%3B%7D; path=/; secure; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

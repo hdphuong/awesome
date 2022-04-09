@@ -1,0 +1,13 @@
+Content-Length: 69
+Date: Sat, 09 Apr 2022 04:13:54 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: Pagely-ARES/1.10.8
+X-Gateway-Request-Id: d493fbdb4c9552d7553b9ccf93c08896
+X-Robots-Tag: noindex, follow
+Link: <https://www.newscred.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Gateway-Cache-Key: 0|standard|https|www.newscred.com||/robots.txt
+X-Gateway-Cache-Status: BYPASS
+X-Gateway-Skip-Cache: 1

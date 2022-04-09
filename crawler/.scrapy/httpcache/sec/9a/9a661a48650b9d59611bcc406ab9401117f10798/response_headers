@@ -1,0 +1,15 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 04:08:05 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Sat, 09 Apr 2022 03:16:42 GMT
+Pragma: public
+Cache-Control: max-age=0, public
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: w3tc_referrer=https%3A%2F%2Fkrebsonsecurity.com%2F; path=/
+Set-Cookie: w3tc_referrer=https%3A%2F%2Fkrebsonsecurity.com%2F; path=/
+Last-Modified: Sat, 09 Apr 2022 03:11:41 GMT
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Status: MISS
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

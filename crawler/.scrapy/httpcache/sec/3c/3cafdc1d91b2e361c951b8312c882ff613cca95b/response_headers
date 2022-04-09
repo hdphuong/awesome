@@ -1,0 +1,27 @@
+Content-Length: 20
+Server: Apple
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none'
+Content-Security-Policy: frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Location: /mx/shop/browse/open/salespolicies
+Etag: "d41d8cd98f00b204e9800998ecf8427e"
+Last-Modified: Sat, 09 Apr 2022 04:08:44 GMT
+Content-Encoding: gzip
+Content-Language: en
+X-Request-Id: 08e4e707-51db-4c3c-a244-3d63aa714146
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Shred: b1cae52c830553cbbc61fb82e6e5f47f
+Cache-Control: private, max-age=120
+Expires: Sat, 09 Apr 2022 04:10:44 GMT
+Date: Sat, 09 Apr 2022 04:08:44 GMT
+X-Cache: TCP_MISS from a203-213-73-68.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+Vary: Accept-Encoding
+Set-Cookie: dssid2=00a324df-f30e-4a5f-a6c1-fa2b3f6e6f8c; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:44 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: dssf=1; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:44 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: as_xs=; Path=/; Domain=apple.com; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Secure; HttpOnly
+Set-Cookie: as_dc=ucp2; Domain=apple.com; Expires=Sat, 09-Apr-2022 04:38:44 GMT; Path=/; Secure

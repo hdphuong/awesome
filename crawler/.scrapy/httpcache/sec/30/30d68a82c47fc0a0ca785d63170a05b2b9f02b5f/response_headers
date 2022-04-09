@@ -1,0 +1,20 @@
+Content-Length: 0
+Date: Sat, 09 Apr 2022 04:10:08 GMT
+Server: Apache
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+X-Redirect-Id: 20542
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy-Report-Only: form-action 'self'; style-src 'self' 'unsafe-inline' ; script-src-elem 'self' 'unsafe-inline' 'unsafe-eval' data: *.cnil.fr *.educnum.fr; frame-ancestors 'self' www.dailymotion.com www.youtube-nocookie.com www.youtube.com; img-src 'self'; frame-src 'self' www.dailymotion.com www.youtube-nocookie.com www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://piwik.cnil.fr; object-src 'self'; font-src 'self'; base-uri 'self'; block-all-mixed-content; default-src 'self' data: blob:;
+Location: https://www.cnil.fr/fr/contacter-la-cnil-standard-et-permanences-telephoniques
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
+Content-Language: fr
+X-Varnish: 78523695
+Age: 0
+Via: 1.1 varnish-v4
+X-Cache: MISS
+X-Cache-Hits: 0

@@ -8,7 +8,7 @@ import requests
 import json
 import re
 
-SEARCH_WORD = "OAuth"
+SEARCH_WORD = "spy"
 
 class SecSpiders(CrawlSpider):
     name = "sec"
@@ -29,7 +29,7 @@ class SecSpiders(CrawlSpider):
                     "https://risky.biz/",
                     "https://www.thehackernews.com/"]
 
-    rules = (Rule(LinkExtractor(allow=(), deny_domains=(r".gov"), restrict_text=()), callback='parse', follow=True), )
+    rules = (Rule(LinkExtractor(allow=(start_urls), deny_domains=(r".gov", r"sift.com", r"google", r"add"), restrict_text=()), callback='parse', follow=True), )
 
     def parse(self, response):
         filename = f"{SEARCH_WORD}.json"
@@ -51,7 +51,7 @@ class SecSpiders(CrawlSpider):
 
 
 def get_keywords(content):
-    sec_keywords = [r'security', r'cyber', r'cyber attacks', r'data breach', r'data leaks', r'malware', r'virus', r'phish', r'scam', r'tech company', r'crypto']
+    sec_keywords = [r'security', r'cyber', r'attacks', r'data breach', r'data leaks', r'malware', r'virus', r'phish', r'scam', r'crypto']
     fins_keywords = [r'financ', r'bank', r'money']
     keywords = sec_keywords
     keywords.append(SEARCH_WORD)

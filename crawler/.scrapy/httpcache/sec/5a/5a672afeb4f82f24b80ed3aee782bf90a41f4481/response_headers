@@ -1,13 +1,13 @@
 Content-Length: 120
 Content-Type: text/plain
-Date: Fri, 08 Apr 2022 11:09:34 GMT
+Date: Sat, 09 Apr 2022 04:13:58 GMT
 Last-Modified: Fri, 23 Jul 2021 20:36:49 GMT
-Etag: "afe9985cd1852d32c425c6ac101015e4"
 X-Amz-Server-Side-Encryption: AES256
 Accept-Ranges: bytes
 Server: AmazonS3
 Cache-Control: public, max-age=0, s-maxage=2
-X-Cache: Miss from cloudfront
-Via: 1.1 212ddd6c8eb82cf3007eedad5f05dca8.cloudfront.net (CloudFront)
+Etag: "afe9985cd1852d32c425c6ac101015e4"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 2e05fb1b0c75f8ef4c701fadb0b27fd8.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: SYD62-P1
-X-Amz-Cf-Id: 6_39Qy0FDYvOptlOVFG9Nt_Usvdu7ITK4vtbVP3ac9OSB-MGtO8KJA==
+X-Amz-Cf-Id: tgX6K8rMTpUDqeHDv9AG2dlEn0l-GGnoAygEfu3tL-5xbeNWm4INxg==

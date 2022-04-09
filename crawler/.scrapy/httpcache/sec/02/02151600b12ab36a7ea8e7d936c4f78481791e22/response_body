@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>405 You have been blacklisted, KTHXBAI</title>
+  </head>
+  <body>
+    <h1>Error 405 You have been blacklisted, KTHXBAI</h1>
+    <p>You have been blacklisted, KTHXBAI</p>
+    <h3>Guru Meditation:</h3>
+    <p>XID: 703238</p>
+    <hr>
+    <p>Varnish cache server</p>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6f9053b28f9f552d","token":"7a7ada525cfc4c5cb0fb933997a11fa0","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

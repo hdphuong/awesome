@@ -1,0 +1,7 @@
+Content-Length: 0
+Strict-Transport-Security: max-age=63072004; includeSubDomains
+Content-Security-Policy: upgrade-insecure-requests
+Cache-Control: no-cache,must-revalidate,max-age=0,no-store,private
+Location: https://www.privacyshield.gov/welcome
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Date: Sat, 09 Apr 2022 04:09:31 GMT

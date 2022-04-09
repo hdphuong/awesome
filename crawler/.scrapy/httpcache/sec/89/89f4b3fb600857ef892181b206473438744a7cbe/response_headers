@@ -1,0 +1,22 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Sat, 09 Apr 2022 04:09:22 GMT
+X-Amz-Rid: ZFE86B84QNFR9Q97RVMR
+Set-Cookie: session-token=K5/MwioM9mcowfIzYe/0FMVfK+uwXG57mAlMA+kZYdw7cMA0JYvEcZcdOypGa9orrJVZKLJ6+ccISfDK0I5cgn/APRNQxxmuozciBlaQ9ILLhEv4iUtUFPJ1x+mHmzBdiFON8wjW744kweBPcYB1jLNqQsC2DTqwQ1nGXSDENWqkwCST2UeGO5oYB2du93uh; Domain=.amazon.com; Expires=Sun, 09-Apr-2023 04:09:22 GMT; Path=/; Secure
+Content-Encoding: gzip
+X-Xss-Protection: 1;
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Language: en-US
+Expires: -1
+Accept-Ch-Lifetime: 86400
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+X-Cache: Miss from cloudfront
+Via: 1.1 59304f445e251c540e46633ed3dd4f64.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P2
+X-Amz-Cf-Id: b_g37TsErAYfrT8JwtStq5pVAjquL5OT8dih6BHtQ9628ZW7qqGzgg==

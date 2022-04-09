@@ -1,14 +1,14 @@
 Content-Length: 317
-Date: Fri, 08 Apr 2022 11:45:28 GMT
+Date: Sat, 09 Apr 2022 04:13:40 GMT
 Content-Type: text/html; charset=iso-8859-1
 Location: https://www.theregister.com/robots.txt
 Cache-Control: public, max-age=14400
-Expires: Fri, 08 Apr 2022 15:45:28 GMT
-X-Reg-Bofh: pfy01us
+Expires: Sat, 09 Apr 2022 08:13:40 GMT
+X-Reg-Bofh: pfy03us
 X-Clacks-Overhead: GNU Terry Pratchett, Lester Haines
 X-Content-Type-Options: nosniff
 Cf-Cache-Status: MISS
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Vary: Accept-Encoding
 Server: cloudflare
-Cf-Ray: 6f8ac1c94bc2a813-SYD
+Cf-Ray: 6f906954291aa817-SYD

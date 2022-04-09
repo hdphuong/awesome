@@ -1,0 +1,13 @@
+Server: Apple
+Date: Sat, 09 Apr 2022 04:09:00 GMT
+Content-Type: text/html;charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: max-age=3600
+Set-Cookie: org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=en-BW; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=node0t3ci5xgprg8s1gvevl0nasoac798160.node0; Path=/; Secure
+Content-Language: en-BW
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip

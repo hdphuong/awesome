@@ -1,0 +1,18 @@
+Server: nginx
+Date: Sat, 09 Apr 2022 03:59:25 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: webserver_id=9410d23ac89bc0e8266022143c74c93b; expires=Sat, 09-Apr-22 04:59:25 GMT; max-age=3600; httponly; secure; path=/; SameSite=None
+X-Platform: siterenderer
+X-Server: HKTCMWEB3
+Cache-Control: max-age=600
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Sat, 09 Apr 2022 04:09:25 GMT
+X-Request-Id: 89194715ad9e1818d62bd287b6d2f7da
+X-Proxy: hk1
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Cached: EXPIRED

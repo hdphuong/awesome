@@ -9,18 +9,18 @@ X-Permitted-Cross-Domain-Policies: none
 Referrer-Policy: strict-origin-when-cross-origin
 Cache-Control: max-age=86400, public, must-revalidate
 Etag: W/"54ff0267ac41cb4845074d159ba6f2b2"
-X-Request-Id: badd80b6f7b87571d6fee0231f57d233b58af4a4
-X-Runtime: 0.031346
+X-Request-Id: 80ba70a6865c4ac32812acda7e51a827ba251e85
+X-Runtime: 0.023325
 Strict-Transport-Security: max-age=31556952; preload
 Content-Encoding: gzip
 Accept-Ranges: bytes
-Date: Fri, 08 Apr 2022 11:45:29 GMT
+Date: Sat, 09 Apr 2022 04:13:40 GMT
 Via: 1.1 varnish
-Age: 29201
-Set-Cookie: _chorus_geoip_continent=OC; expires=Sat, 09 Apr 2022 11:45:29 GMT; path=/;
-Set-Cookie: vmidv1=1683f826-4e7a-44de-bf53-14ad137fc9a5;Expires=Wed, 07 Apr 2027 11:45:29 GMT;Domain=www.theverge.com;Path=/;SameSite=Lax;Secure
-X-Served-By: cache-syd10174-SYD
+Age: 17553
+Set-Cookie: _chorus_geoip_continent=OC; expires=Sun, 10 Apr 2022 04:13:40 GMT; path=/;
+Set-Cookie: vmidv1=be62a647-65d7-41c8-a5fe-0030f5c03cff;Expires=Thu, 08 Apr 2027 04:13:40 GMT;Domain=www.theverge.com;Path=/;SameSite=Lax;Secure
+X-Served-By: cache-syd10143-SYD
 X-Cache: HIT
-X-Cache-Hits: 2
-X-Timer: S1649418329.023128,VS0,VE0
+X-Cache-Hits: 7
+X-Timer: S1649477620.355813,VS0,VE0
 Vary: Accept-Encoding, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region, Origin, X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region

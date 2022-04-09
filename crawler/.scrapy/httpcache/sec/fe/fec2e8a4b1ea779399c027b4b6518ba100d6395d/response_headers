@@ -1,0 +1,29 @@
+Content-Length: 20
+Server: Apple
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none'
+Content-Security-Policy: frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Location: https://www.apple.com/xf/shop/go/help/sales_refunds
+Etag: "d41d8cd98f00b204e9800998ecf8427e"
+Last-Modified: Sat, 09 Apr 2022 04:08:30 GMT
+Pragma: no-cache
+Content-Encoding: gzip
+Content-Language: en
+X-Request-Id: bb6c3fff-4a78-4538-8ccb-7eef8448cc17
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Shred: 1d2a8d414afcc62c177ce13636924a97
+Cache-Control: private, no-cache, no-store, must-revalidate, proxy-revalidate, post-check=0, pre-check=0
+Expires: Sat, 09 Apr 2022 04:08:30 GMT
+Date: Sat, 09 Apr 2022 04:08:30 GMT
+X-Cache: TCP_MISS from a203-213-73-68.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+Vary: Accept-Encoding
+Set-Cookie: dssid2=00a324df-f30e-4a5f-a6c1-fa2b3f6e6f8c; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:30 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: dssf=1; Path=/; Domain=apple.com; Expires=Sun, 09-Apr-2023 04:08:30 GMT; Max-Age=31536000; Secure; HttpOnly
+Set-Cookie: as_xs=; Path=/; Domain=apple.com; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Secure; HttpOnly
+Set-Cookie: as_pcts=UzAZfrk:n-6VCWk6LMOvZlMdLjeyCeXE-K6pdXX0+L-jqX4xoQxVS3StMswRQEDVHh+DEHr6CsAMPfV+gj4j90tKyJ:oUK4KilsbN+sIlFOu58w5ib:XEz15; Path=/; Domain=apple.com; Secure; HttpOnly
+Set-Cookie: as_dc=ucp2; Domain=apple.com; Expires=Sat, 09-Apr-2022 04:38:30 GMT; Path=/; Secure

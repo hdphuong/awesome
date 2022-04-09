@@ -1,0 +1,19 @@
+Date: Sat, 09 Apr 2022 04:00:14 GMT
+Content-Type: text/html
+Cf-Ray: 6f90559d187354f7-SYD
+Cache-Control: public, max-age=14400
+Content-Encoding: gzip
+Last-Modified: Sat, 09 Apr 2022 04:00:13 GMT
+Strict-Transport-Security: max-age=31536000
+Vary: x-requested-with, x-spiferack, Accept-Encoding
+Cf-Cache-Status: MISS
+Content-Security-Policy: connect-src 'self' checkout.stripe.com https://checkout.stripe.com https://billing.stripe.com/session sentry.io api.github.com www.npmjs.com;default-src 'none';img-src * data: https://*.stripe.com;script-src 'self' data: 'unsafe-inline' https://checkout.stripe.com/checkout.js https://checkout.stripe.com https://js.stripe.com/v3 https://platform.twitter.com/widgets.js https://static.npmjs.com/;style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://static.npmjs.com/;frame-src checkout.stripe.com https://checkout.stripe.com https://js.stripe.com/;font-src https://fonts.gstatic.com https://static.npmjs.com/ ;media-src https://player.vimeo.com https://fpdl.vimeocdn.com https://gcs-vimeo.akamaized.net https://vod-progressive.akamaized.net
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Npm-Cost: 1
+Npm-Remaining: 99
+X-Content-Security-Policy: connect-src 'self' checkout.stripe.com https://checkout.stripe.com https://billing.stripe.com/session sentry.io api.github.com www.npmjs.com;default-src 'none';img-src * data: https://*.stripe.com;script-src 'self' data: 'unsafe-inline' https://checkout.stripe.com/checkout.js https://checkout.stripe.com https://js.stripe.com/v3 https://platform.twitter.com/widgets.js https://static.npmjs.com/;style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://static.npmjs.com/;frame-src checkout.stripe.com https://checkout.stripe.com https://js.stripe.com/;font-src https://fonts.gstatic.com https://static.npmjs.com/ ;media-src https://player.vimeo.com https://fpdl.vimeocdn.com https://gcs-vimeo.akamaized.net https://vod-progressive.akamaized.net
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Set-Cookie: __cfruid=3f91cbfd0703aa3d09056a415a54ed6b7d21d4c5-1649476814; path=/; domain=.npmjs.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare

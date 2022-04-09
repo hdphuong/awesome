@@ -1,0 +1,15 @@
+Content-Length: 0
+Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.28
+Redirecttype: Quick Page Post Redirect - Quick
+Location: https://syndication.theguardian.com/nonsubscriptionsales/?url=https%3a%2f%2fwww.theguardian.com%2finfo%2fcookies&type=article&internalpagecode=info/cookies
+Content-Type: text/html; charset=UTF-8
+Accept-Ranges: bytes
+Date: Sat, 09 Apr 2022 04:08:21 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-syd10156-SYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1649477298.291290,VS0,VE3306

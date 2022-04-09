@@ -1,0 +1,12 @@
+Content-Length: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Date: Sat, 09 Apr 2022 04:14:13 GMT
+Expires: 0
+Location: ?c=2&lang=EN
+P3P: CP="NON DSP COR CUR ADMi DEV OUR BUS NAV"
+Pragma: no-cache
+Server: nginx/1.16.1
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Application-Context: application:daa_prod:8080
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block

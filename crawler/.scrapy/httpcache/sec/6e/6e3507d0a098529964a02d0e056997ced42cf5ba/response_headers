@@ -1,0 +1,20 @@
+Content-Length: 9667
+Server: Apple
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Headers: origin
+Access-Control-Max-Age: 1
+Last-Modified: Fri, 08 Apr 2022 13:40:45 GMT
+Etag: "ee9b-5dc24bdd7dff6"
+Accept-Ranges: bytes
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Host: support.apple.com
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: public, no-transform, max-age=1800
+Cache-Control: no-siteapp
+Expires: Sat, 09 Apr 2022 04:38:29 GMT
+Date: Sat, 09 Apr 2022 04:08:29 GMT

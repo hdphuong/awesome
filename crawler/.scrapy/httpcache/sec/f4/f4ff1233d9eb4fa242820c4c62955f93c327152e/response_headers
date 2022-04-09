@@ -1,0 +1,24 @@
+Server: Apple
+Date: Sat, 09 Apr 2022 04:08:47 GMT
+Content-Type: text/plain
+X-Apple-I-Request-Id: 67475949-7a17-4e80-95ea-555fa5e87ae9
+Set-Cookie: idclient=web; Domain=appleid.apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: dslang=US-EN; Domain=apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: site=USA; Domain=apple.com; Path=/; Secure; HttpOnly
+Set-Cookie: aidsp=317F510B833CB53CDB9DEBE2E442943DCF18DDD0BBA1BBC49C07AD74CE8025378F3763B79EC81FB2460D5A74220980A9A25711F857713A0F8CB8B2954EDD8B289F7DC5D4D6F91787370EEEC81276C4348DAAFF0583BE7E4FD9B4E9AD6B4D24997B9D5A06F8A4EBEAAA86A18BF933E3F2975E6E531A75075A; Domain=appleid.apple.com; Path=/; Secure; HttpOnly
+X-Buildversion: R8_2
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://appleid.apple.com https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://*.icloud-content.com ; font-src 'self' https://www.apple.com https://appleid.cdn-apple.com ; frame-src 'self' https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn https://familyws.icloud.apple.com ; img-src 'self' https://www.apple.com https://appleid.cdn-apple.com data: https://*.mzstatic.com https://appleid.apple.com https://*.icloud.com ; media-src data: ; object-src 'none' ; script-src 'self' https://www.apple.com https://appleid.cdn-apple.com https://idmsa.apple.com https://signin.apple.com https://gsa.apple.com https://idmsa.apple.com.cn ; style-src 'unsafe-inline' 'self' https://www.apple.com https://appleid.cdn-apple.com ;
+Referrer-Policy: origin
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Last-Modified: Thu, 10 Mar 2022 18:29:22 GMT
+Accept-Ranges: bytes
+Vary: accept-encoding
+Content-Encoding: gzip
+Host: appleid.apple.com

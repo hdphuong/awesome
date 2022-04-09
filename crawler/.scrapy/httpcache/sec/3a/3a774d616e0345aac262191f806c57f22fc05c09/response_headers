@@ -1,14 +1,12 @@
-Content-Length: 29797
+Content-Length: 29809
 Server: nginx
-Pragma: public
-Content-Encoding: gzip
-Vary: Accept-Encoding
-Referrer-Policy: no-referrer-when-downgrade
-X-Cache-Status: EXPIRED
-Via: 1.1 google
-Date: Fri, 08 Apr 2022 05:16:22 GMT
-Last-Modified: Fri, 08 Apr 2022 04:38:27 GMT
+Date: Sat, 09 Apr 2022 04:13:43 GMT
 Content-Type: text/html; charset=UTF-8
-Age: 23348
-Cache-Control: max-age=0,public,max-age=311,public
+Link: <https://krebsonsecurity.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Status: HIT
+Via: 1.1 google
+Cache-Control: max-age=311,public
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

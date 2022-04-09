@@ -1,0 +1,20 @@
+Date: Sat, 09 Apr 2022 04:08:24 GMT
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Origin: *
+Etag: W/"7b155c16c32e2c7c35cef960d0b76f51"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: current_usd_rate=Z2VWQ2Rma0JadEI2bnZqU1pzaVBlUT09LS1VcjcvTHZzSVFEdzdPNi9iRlc3dWRBPT0%3D--2d7da85d8eca5c42b5cbed7958f00cb10263a054; path=/; expires=Sat, 16 Apr 2022 04:08:24 GMT; secure
+Set-Cookie: v5_stackshops_session_production=N09pTHVrbDFYQ3Y1OENtOFlCckZLNjFQYzV6RXhiS3Iwd1k3R0Zaci8xV0Y5azB1d2ZPNEltMXRVYkpOQVVWVnpnbGFlSTgwODVnZjNHSVRiWFJiRElpNEJNbmhXSWJnMExDY0ZoVG4xakhWMWdEZzh4dFRIcWtRWFRsNzlkeWlDU20vOFp3M081Z0ZWZm5NUEp6Z3p6SFdxRGlmclBaN1lpNGRmZ2JtUzdzRHFZMDdYelBBaGk0d3lqM3FKVksrUEdIcFR4Mk9DNHFXUWR1YThhRlpFaU9NK0w2dWVWRjc2d3dhaG1rY3pFVT0tLWNRc3dEK3RRWnRXd0VPa0E2d1lHNUE9PQ%3D%3D--f7cf56a893039aa12a218675976a74bb083a891d; path=/; secure; HttpOnly
+X-Request-Id: e8d81168-0eea-4e90-b260-3b920df1f095
+X-Runtime: 0.047528
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains

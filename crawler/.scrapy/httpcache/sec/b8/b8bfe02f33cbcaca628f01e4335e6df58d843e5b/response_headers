@@ -1,0 +1,13 @@
+Content-Length: 241
+Server: Apple
+Content-Type: text/html; charset=iso-8859-1
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Headers: origin
+Access-Control-Max-Age: 1
+Location: https://support.apple.com/sitemap
+Host: support.apple.com
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Cache-Control: public, max-age=1800
+Cache-Control: no-siteapp
+Date: Sat, 09 Apr 2022 04:08:21 GMT

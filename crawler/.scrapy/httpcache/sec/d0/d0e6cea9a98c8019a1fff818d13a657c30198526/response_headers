@@ -1,0 +1,15 @@
+Content-Length: 344
+Content-Type: text/plain;charset=UTF-8
+Access-Control-Allow-Headers: Access-Control-Allow-Origin,charset
+Access-Control-Allow-Origin: http://admin.reuters.com
+Browser-Expires: Sat, 9 Apr 2022 04:14:12 GMT
+Content-Encoding: gzip
+Date: Sat, 09 Apr 2022 04:14:12 GMT
+Expires: Sat, 09 Apr 2022 04:19:12 GMT
+Server: nginx
+Set-Cookie: JSESSIONID=568BF4290D36ADFA8A7799A37E6FC9B9; Path=/rcom-betaus/; HttpOnly
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 00f0469d54a973389150a36c64065326.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD62-P1
+X-Amz-Cf-Id: JvwccjEuHY3CAoarNl5BLesdxnkPXgWHfa88dqCcDK2j6QCu_-QZAg==

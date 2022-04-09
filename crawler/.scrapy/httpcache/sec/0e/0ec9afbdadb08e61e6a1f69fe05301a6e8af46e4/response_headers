@@ -1,0 +1,13 @@
+Content-Length: 22097
+Server: nginx
+Link: <https://krebsonsecurity.com/wp-json/>; rel="https://api.w.org/", <https://krebsonsecurity.com/wp-json/wp/v2/posts/29560>; rel="alternate"; type="application/json", <https://krebsonsecurity.com/?p=29560>; rel=shortlink
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Status: HIT
+Via: 1.1 google
+Date: Sat, 09 Apr 2022 03:58:47 GMT
+Content-Type: text/html; charset=UTF-8
+Age: 559
+Cache-Control: max-age=301,public
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

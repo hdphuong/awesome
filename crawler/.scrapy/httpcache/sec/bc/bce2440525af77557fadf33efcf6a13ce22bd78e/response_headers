@@ -1,5 +1,5 @@
 Content-Type: text/plain; charset=utf-8
-Set-Cookie: _csrf=GxzSW0_feIwTGjja1t5sqPqs; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _csrf=hIufLod0DJ32iwHKzVvUEa6O; Path=/; HttpOnly; Secure; SameSite=Lax
 Access-Control-Allow-Origin: *
 Content-Security-Policy: default-src 'none';prefetch-src 'self';connect-src 'self';font-src 'self' data: githubdocs.azureedge.net;img-src 'self' data: github.githubassets.com githubdocs.azureedge.net placehold.it *.githubusercontent.com github.com;object-src 'self';script-src 'self';frame-src https://graphql.github.com/ https://www.youtube-nocookie.com;style-src 'self' 'unsafe-inline';child-src 'self'
 X-Dns-Prefetch-Control: off
@@ -10,14 +10,14 @@ X-Content-Type-Options: nosniff
 X-Permitted-Cross-Domain-Policies: none
 Referrer-Policy: strict-origin-when-cross-origin
 X-Xss-Protection: 0
-X-Azure-Ref: 0Kh5QYgAAAADO4DEABOKgRKnlLCWiVIjxU1lEMDNFREdFMTIxMgA1OTZkNzhhMi1jYTVmLTQ3OWQtYmNkYy0wODM1ODMzMTc0YjI=
+X-Azure-Ref: 0tARRYgAAAAAwGYLMqh0JSqD+TWKuvslwU1lEMDNFREdFMTIxNwA1OTZkNzhhMi1jYTVmLTQ3OWQtYmNkYy0wODM1ODMzMTc0YjI=
 Accept-Ranges: none
-Date: Fri, 08 Apr 2022 11:36:10 GMT
+Date: Sat, 09 Apr 2022 03:59:49 GMT
 Via: 1.1 varnish
-X-Served-By: cache-syd10155-SYD
+X-Served-By: cache-syd10179-SYD
 X-Cache: CONFIG_NOCACHE, MISS
 X-Cache-Hits: 0
-X-Timer: S1649417770.405165,VS0,VE426
+X-Timer: S1649476789.638032,VS0,VE425
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31557600
 Content-Encoding: gzip

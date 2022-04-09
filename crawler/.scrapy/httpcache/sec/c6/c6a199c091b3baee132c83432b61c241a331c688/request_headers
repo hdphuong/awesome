@@ -1,0 +1,6 @@
+Referer: https://support.theguardian.com/au/contribute?INTCMP=footer_support_contribute&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentType%22%3A%22ACQUISITIONS_FOOTER%22%2C%22componentId%22%3A%22footer_support_contribute%22%7D
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: GU_geo_country=AU; GU_support_csrf=6f91c9b631feddc98006be69289fa45b651983b5-1649476755933-cb740c0e7a45d78742375887; GU_mvt_id=159498

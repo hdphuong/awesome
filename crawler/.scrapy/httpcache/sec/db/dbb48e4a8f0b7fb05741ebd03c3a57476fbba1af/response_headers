@@ -1,0 +1,28 @@
+Content-Length: 184469
+Content-Type: text/html; charset=utf-8
+Server: Apache
+Application: news-web
+Branch: master-news-web
+Build: 145
+Environment: production
+Product: presentation-layer
+Transaction-Id: YlEH3tEJThum-j2yCPiRgAAAAMU
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: http://nucwed.aus.aunty.abc.net.au
+Etag: W/"134cde-DBa/wJbqEO+7MJCyG2lIS0alVzE-gzip"
+Content-Encoding: gzip
+Cache-Control: public, max-age=35
+Expires: Sat, 09 Apr 2022 04:14:18 GMT
+Date: Sat, 09 Apr 2022 04:13:43 GMT
+Vary: Accept-Encoding
+Vary: Origin
+Vary: Cookie
+Vary: User-Agent
+Set-Cookie: ABC_LD=nsw; path=/; domain=.abc.net.au
+Set-Cookie: ABC_FF=desktop; expires=Sat, 09-Apr-2022 06:13:43 GMT; path=/
+Content-Security-Policy: upgrade-insecure-requests;

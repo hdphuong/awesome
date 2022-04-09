@@ -1,0 +1,20 @@
+Date: Sat, 09 Apr 2022 04:09:06 GMT
+X-Logjam-Request-Id: companiesfrontend-production-fc885d6ce3e94409b089f176c23b1334
+X-Logjam-Request-Action: (.*)#get
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: no-referrer
+Set-Cookie: xing_csrf_token=jZz6BgAS8mo1QpcApG7iZul0NxEBXJaV; Path=/; Secure; SameSite=Lax
+Set-Cookie: xing_csrf_checksum=-UoTwqu3yK9w0UPj0pfaPHPV7KgXoXk9dzF0at2xbdM; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: visitor_id=cef5c96b-dcd0-4cca-9444-a9676fb9b650; Max-Age=63072000; Domain=xing.com; Path=/; Expires=Mon, 08 Apr 2024 04:09:06 GMT; HttpOnly; Secure; SameSite=Lax
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+Location: https://www.xing.com/pages/heavenhr
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+Strict-Transport-Security: max-age=31556926

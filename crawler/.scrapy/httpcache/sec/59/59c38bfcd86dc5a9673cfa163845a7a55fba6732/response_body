@@ -1,0 +1,1025 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>
+		dataLayer = [];
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer2','GTM-5K6KHSB');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Google Tag Manager -->
+	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WZ7LJ3');</script>
+	<!-- End Google Tag Manager -->
+
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0" />
+	<meta name="referrer" content="origin">
+	<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" integrity="sha384-/rJKQnzOkEo+daG0jMjU1IwwY9unxt1NBw3Ef2fmOJ3PW/TfAg2KXVoWwMZQZtw9" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@3/dark.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="/owl-carousel/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/owl-carousel/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="/dist/assets/css/app.css?ver=1648556678" />
+	<link rel="icon" type="image/png" href="/icon.png">
+
+	
+			<meta property="og:title" content="Kaspersky | Online Cyber Security Training" />
+
+			<title>Kaspersky | Online Cyber Security Training</title>
+
+			<script type="text/javascript" nonce="RxwaEPqIX4KLZ2hFuA0itsUsWLg=">
+				var kaspersky = {
+					isStaging: 0,
+					businessType: "b2b",
+					pageName: "Landing Pages > Online Yara Training",
+					pageType: "Landing Pages",
+					platformName: "Landing Pages",
+					siteLocale: "en-global"
+				}
+			</script>
+			
+</head>
+
+<body class="home">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K6KHSB"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZ7LJ3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div id="blackout"></div>
+	<div id="processing">
+		<div class="outer">
+			<div class="inner">
+				<i class="fas fa-sync fa-spin"></i>
+			</div>
+		</div>
+	</div>
+<!-- 	<div id="highlight">
+		<div class="close"><p>X</p></div>
+		<div id="highlight-image">
+			<img src="/dist/assets/images/highlight-image.png" />
+		</div>
+		<div id="highlight-content">
+			<div class="outer">
+				<div class="inner inner-left">
+					<div class="title"><p>Summer Sale</p></div>
+					<div class="sub-title"><p>Over <span>25%</span> off from 2nd Aug - 31st Aug!</p></div>
+					<p>Hunt APTs with Yara like a GReAT Ninja & Targeted Malware Reverse engineering</p>
+					<p><span class="strike">$1,400</span> <span class="green">$999</span> for a limited time.</p>
+				</div>
+			</div>
+		</div>
+	</div>  -->
+	<!--<div id="highlight">
+		<div class="close"><p>X</p></div>
+		<div id="highlight-image">
+			<img class="sales-image" src="/dist/assets/images/black-friday-sales-image.jpg" />
+		</div>
+		<div id="highlight-content">
+			<div class="outer">
+				<div class="inner inner-left">
+					<div class="sales-title"><p>Black Friday Sale</p></div>
+					<div class="sub-title"><p>Over <span>25%</span> off from 22nd - 29th Nov!</p></div>
+					<p>Hunt APTs with Yara like a GReAT Ninja & Targeted Malware Reverse engineering</p>
+					<p><span class="strike">$1,400</span> <span class="green">$999</span> for a limited time.</p>
+				</div>
+			</div>
+		</div>
+	</div>-->
+	<div class="modal registration">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<h3>Pre-registering for: <span></span></h3>
+			</div>
+		</div>
+		<form id="register" action="/mailchimp.php" method="post">
+			<div class="row">
+				<div class="column medium-expand small-12">
+					<input type="text" name="fname" value="" placeholder="First Name" data-aos="fade-up" data-aos-delay="200" />
+				</div>
+				<div class="column medium-expand small-12">
+					<input type="text" name="sname" value="" placeholder="Surname" data-aos="fade-up" data-aos-delay="400" />
+				</div>
+				<div class="column medium-expand small-12">
+					<input type="text" name="email" value="" placeholder="Email" data-aos="fade-up" data-aos-delay="600" />
+				</div>
+				<div class="column shrink small-12">
+					<input type="hidden" name="course" value="" />
+					<input id="register-button" type="submit" value="Register now" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column small-12">
+					<input type="checkbox" name="agree" value="yes" data-aos="fade-up" data-aos-delay="800" />
+					<p class="small-text" data-aos="fade-up" data-aos-delay="800">I agree to provide AO Kaspersky Lab, 39A/3 Leningradskoe Shosse Moscow, 125212 Russian Federation (“AO Kaspersky Lab”) with the following information about me (First Name, Last Name, email) order to allow AO Kaspersky Lab to contact me to participate in surveys and to send me information via email about Kaspersky Lab's products and services including personalized promotional offers and premium assets like white papers, webcasts, videos, events and other marketing materials. I confirm that I have been provided with this Privacy Policy for Web Sites. I understand that my consent is optional and I can withdraw this consent at any time via e-mail by clicking the “unsubscribe” link that I find at the bottom of any e-mail sent to me for the purposes mentioned above”. Web privacy policy <a href="https://www.kaspersky.com/web-privacy-policy">https://www.kaspersky.com/web-privacy-policy</a></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="modal registration-type-2">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<h3><span></span></h3>
+				<p class="sub-title"></p>
+				<p class="copy"></p>
+				<p class="copy-two"></p>
+			</div>
+		</div>
+		<form id="register-type-2" action="/mailchimp.php" method="post">
+			<div class="row">
+				<div class="column medium-expand small-12">
+					<input type="text" name="fname" value="" placeholder="First Name" data-aos="fade-up" data-aos-delay="200" />
+				</div>
+				<div class="column medium-expand small-12">
+					<input type="text" name="sname" value="" placeholder="Surname" data-aos="fade-up" data-aos-delay="400" />
+				</div>
+				<div class="column medium-expand small-12">
+					<input type="text" name="email" value="" placeholder="Email" data-aos="fade-up" data-aos-delay="600" />
+				</div>
+				<div class="column shrink small-12">
+					<input type="hidden" name="course" value="" />
+					<input id="register-button" type="submit" value="Register now" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column small-12">
+					<input type="checkbox" name="agree" value="yes" data-aos="fade-up" data-aos-delay="800" />
+					<p class="small-text" data-aos="fade-up" data-aos-delay="800">I agree to provide AO Kaspersky Lab, 39A/3 Leningradskoe Shosse Moscow, 125212 Russian Federation (“AO Kaspersky Lab”) with the following information about me (First Name, Last Name, email) order to allow AO Kaspersky Lab to contact me to participate in surveys and to send me information via email about Kaspersky Lab's products and services including personalized promotional offers and premium assets like white papers, webcasts, videos, events and other marketing materials. I confirm that I have been provided with this Privacy Policy for Web Sites. I understand that my consent is optional and I can withdraw this consent at any time via e-mail by clicking the “unsubscribe” link that I find at the bottom of any e-mail sent to me for the purposes mentioned above”. Web privacy policy <a href="https://www.kaspersky.com/web-privacy-policy">https://www.kaspersky.com/web-privacy-policy</a></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="modal request-demo">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<h3>Request Access</h3>
+			</div>
+		</div>
+		<form id="request-demo" action="/request-demo.php" method="post">
+			<div class="row">
+				<div class="column medium-4 small-12">
+					<input type="text" name="rd-fname" value="" placeholder="First Name" data-aos="fade-up" data-aos-delay="200" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="rd-sname" value="" placeholder="Surname" data-aos="fade-up" data-aos-delay="400" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="rd-email" value="" placeholder="Email" data-aos="fade-up" data-aos-delay="600" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column medium-8 small-12">
+					<input type="text" name="rd-company" value="" placeholder="Company Name" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="hidden" name="rd-course" value="" />
+					<input id="request-access-button" type="submit" value="Register Demo Access" data-aos="fade-up" data-aos-delay="1000" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column small-12">
+					<input type="checkbox" name="rd-agree" value="yes" />
+					<p class="small-text">I agree to provide AO Kaspersky Lab, 39A/3 Leningradskoe Shosse Moscow, 125212 Russian Federation (“AO Kaspersky Lab”) with the following information about me (First Name, Last Name, email) order to allow AO Kaspersky Lab to contact me to participate in surveys and to send me information via email about Kaspersky Lab's products and services including personalized promotional offers and premium assets like white papers, webcasts, videos, events and other marketing materials. I confirm that I have been provided with this Privacy Policy for Web Sites. I understand that my consent is optional and I can withdraw this consent at any time via e-mail by clicking the “unsubscribe” link that I find at the bottom of any e-mail sent to me for the purposes mentioned above”. Web privacy policy <a href="https://www.kaspersky.com/web-privacy-policy">https://www.kaspersky.com/web-privacy-policy</a></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="modal bootcamp-register">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<h3>Register for the Training</h3>
+			</div>
+		</div>
+		<form id="bootcamp-register" action="/bootcamp-register.php" method="post">
+			<div class="row">
+				<div class="column medium-4 small-12">
+					<input type="text" name="br-fname" value="" placeholder="First Name" data-aos="fade-up" data-aos-delay="200" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="br-sname" value="" placeholder="Surname" data-aos="fade-up" data-aos-delay="400" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="br-email" value="" placeholder="Email" data-aos="fade-up" data-aos-delay="600" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column medium-8 small-12">
+					<input type="text" name="br-company" value="" placeholder="Company Name" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="hidden" name="br-course" value="" />
+					<input id="bootcamp-register-button" type="submit" value="Register" data-aos="fade-up" data-aos-delay="1000" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column small-12">
+					<input type="checkbox" name="br-agree" value="yes" />
+					<p class="small-text">I agree to provide AO Kaspersky Lab, 39A/3 Leningradskoe Shosse Moscow, 125212 Russian Federation (“AO Kaspersky Lab”) with the following information about me (First Name, Last Name, email) order to allow AO Kaspersky Lab to contact me to participate in surveys and to send me information via email about Kaspersky Lab's products and services including personalized promotional offers and premium assets like white papers, webcasts, videos, events and other marketing materials. I confirm that I have been provided with this Privacy Policy for Web Sites. I understand that my consent is optional and I can withdraw this consent at any time via e-mail by clicking the “unsubscribe” link that I find at the bottom of any e-mail sent to me for the purposes mentioned above”. Web privacy policy <a href="https://www.kaspersky.com/web-privacy-policy">https://www.kaspersky.com/web-privacy-policy</a></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="modal enroll-team">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<h3>Enroll your team</h3>
+			</div>
+		</div>
+		<form id="enroll-team" action="/enroll-team.php" method="post">
+			<div class="row">
+				<div class="column medium-4 small-12">
+					<input type="text" name="et-fname" value="" placeholder="First Name" data-aos="fade-up" data-aos-delay="200" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="et-sname" value="" placeholder="Surname" data-aos="fade-up" data-aos-delay="400" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="et-email" value="" placeholder="Email" data-aos="fade-up" data-aos-delay="600" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column medium-4 small-12">
+					<input type="text" name="et-company" value="" placeholder="Company Name" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="text" name="et-country" value="" placeholder="Country" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="number" name="et-nos" value="" placeholder="Number of seats required" data-aos="fade-up" data-aos-delay="800" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="column medium-12 small-12">
+					<textarea type="text" name="et-txtarea" value="" placeholder="Any more information?" data-aos="fade-up" data-aos-delay="800"></textarea>
+				</div>
+				<div class="column medium-4 small-12">
+					<input type="hidden" name="et-course" value="" />
+					<input id="enroll-team-button" type="submit" value="Enroll team" data-aos="fade-up" data-aos-delay="1000" />
+				</div>	
+			</div>
+			<div class="row">
+				<div class="column small-12">
+					<input type="checkbox" name="et-agree" value="yes" />
+					<p class="small-text">I agree to provide AO Kaspersky Lab, 39A/3 Leningradskoe Shosse Moscow, 125212 Russian Federation (“AO Kaspersky Lab”) with the following information about me (First Name, Last Name, email) order to allow AO Kaspersky Lab to contact me to participate in surveys and to send me information via email about Kaspersky Lab's products and services including personalized promotional offers and premium assets like white papers, webcasts, videos, events and other marketing materials. I confirm that I have been provided with this Privacy Policy for Web Sites. I understand that my consent is optional and I can withdraw this consent at any time via e-mail by clicking the “unsubscribe” link that I find at the bottom of any e-mail sent to me for the purposes mentioned above”. Web privacy policy <a href="https://www.kaspersky.com/web-privacy-policy">https://www.kaspersky.com/web-privacy-policy</a></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="modal prerequisites">
+		<div class="close"><p>X</p></div>
+		<div class="row">
+			<div class="column small-12">
+				<div class="content"></div>
+			</div>
+		</div>
+	</div>
+	<div class="modal video">
+		<div class="close"><p>X</p></div>
+	</div>
+	<div id="cbanner">
+		<div class="row">
+			<div class="column large-9 medium-8 small-12">
+				<p>We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on <a href="https://www.kaspersky.com/web-privacy-policy" target="_blank" rel="noopener noreferrer">more information</a>.</p>
+			</div>
+			<div class="column large-3 medium-4 small-12 inner-right">
+				<div class="button">
+					<span>Accept and Close</span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="site-container">
+		<div id="questions" data-aos="fade-left">
+			<div class="tab">
+				<p>Contact us</p>
+			</div>
+			<h2>Ask a question?</h2>
+			<p>If you want to know anything about the course, we’re here to help.</p>
+			<form id="question-form" action="/sendmail.php" method="post">
+				<input type="text" name="qfname" placeholder="First Name" />
+				<input type="text" name="qsname" placeholder="Surname" />
+				<input type="text" name="qemail" placeholder="Email" />
+				<p class="label-title">Course</p>
+				<label><input type="radio" name="course" value="Yara Training" /> Hunt APTs with Yara like a GReAT ninja</label>
+				<label><input type="radio" name="course" value="Targeted Malware Reverse Engineering" /> Targeted Malware Reverse Engineering</label>
+				<label><input type="radio" name="course" value="AMAT" /> Advanced Malware Analysis Techniques</label>
+				<label><input type="radio" name="course" value="CCBP" /> Cyber Capacity Building Program</label>
+				<label><input type="radio" name="course" value="General" /> General</label>
+				<textarea name="qcomments" placeholder="Comments"></textarea>
+				<input type="submit" id="qsubmit" name="qsubmit" value="Submit">
+			</form>
+		</div>
+ 		<div id="top-bar-banner" data-aos="fade-down">
+			<div class="row">
+				<div class="column small-12">
+					<p>Our brand new course, Advanced Malware Analysis Techniques. <a href="/courses/advanced-malware-analysis-techniques">FIND OUT MORE HERE</a></p>
+					<!--<p>BLACK FRIDAY SALE! OVER  <span class="green">25% OFF</span> TWO OF OUR COURSES</p>-->
+
+					<!-- <p>Our new course launches in April. <a class="pre-reg-type-2 tmre-pre-reg" data-course="Targeted Malware Reverse Engineering" data-title="Register now" data-subtitle="and save $100 with our limited-time launch offer" data-copy="No commitment to buy. No credit card needed" data-copy-two="Coming soon: Our new course will educate you through 10 expertly-delivered, authentic case studies from our own Senior Security Researchers. Pre-register now to save $100.">Pre-register now for our exclusive limited time offer</a></p> -->
+					<!-- <p>WATCH OUR FREE WEBINAR: WHY MASTER YARA - <a href="https://www.brighttalk.com/webcast/15591/434931?utm_source=xtraining-website&utm_medium=partner&utm_campaign=gl_yara-training_kk0084&utm_content=link&utm_term=gl_xtraining-website_organic_sbuk84tydyo6pr9" id="top-bar-register" class="register" target="_blank">Click to find out more</a></p> -->
+
+ 				</div>
+			</div>
+		</div>
+		<div id="top-bar" data-aos="fade-down">
+			<div class="row">
+				<div class="column large-6 medium-6 small-12 logo-column">
+					<a href="/">
+						<img src="/dist/assets/images/kaspersky-expert-training-nonblurred.png" alt="Kaspersky Expert Training" title="Kaspersky Expert Training">					</a>
+				</div>
+				<div class="column large-6 medium-6 small-12">
+					<div class="outer">
+						<div class="inner inner-right">
+							<p><a class="anchor" href="/#online-training-courses">Online training courses</a><a href="/why-kaspersky">Why Kaspersky?</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+			<div id="body-image" style="background-image:url('/dist/assets/images/body-image.png')" data-aos="fade-left"></div>
+
+				
+		<div id="page-content">
+
+	<div class="row">
+		<div class="column large-6 medium-6 small-12">
+			<div id="intro">
+				<h1 data-aos="fade-up">Online Cybersecurity Training for Experts</h1>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column large-5 medium-6 small-12" data-aos="fade-up">
+			<p class="border">With a constantly evolving threat landscape it’s vital IT security specialists keep their skills up to date. With our online training, you can learn effective threat detection and mitigation strategies from the comfort of your home with highly practical hands-on courses. Our expert course authors understand how best to handle the threats posed by the 350,000+ malware samples we encounter every day, and how to share that knowledge with those doing battle with the evolving dangers of today’s cyber-reality.</p>
+			<p>The next generation of global experts taking these courses will gain the up-to-date knowledge needed to help defend against even the most sophisticated attacks. So whether you're an InfoSec professional aiming to advance your skills or a team manager looking to invest in your SOC & incident response team - we can help.</p>
+			<div class="accordion">
+				<div class="item">
+					<div class="title">
+						<p>Hands-on training</p>
+						<div class="accordion-arrow">
+							<i class="fas fa-angle-up"></i>
+						</div>
+					</div>
+					<div class="content">
+						<p>All our highly practical courses are based on Kaspersky’s exclusive research and unrivalled cybersecurity experience, delivered through a suite of active learning tools.</p>
+					</div>
+				</div>
+				<div class="item">
+					<div class="title">
+						<p>Become more efficient</p>
+						<div class="accordion-arrow">
+							<i class="fas fa-angle-up"></i>
+						</div>
+					</div>
+					<div class="content">
+						<p>Take your cybersecurity skills to the next level by learning how to identify threats quicker and with less effort.</p>
+					</div>
+				</div>
+				<div class="item">
+					<div class="title">
+						<p>Learn with the best</p>
+						<div class="accordion-arrow">
+							<i class="fas fa-angle-up"></i>
+						</div>
+					</div>
+					<div class="content">
+						<p>Kaspersky experts are cybersecurity pioneers. Now you can learn the skills needed to join the front line of the battle against cyber threats.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a id="online-training-courses"></a>
+	<div class="row available-courses">
+		<div class="column small-12 large-12">
+			<div class="row title-row">
+				<div class="column small-12">
+					<h2 data-aos="fade-up">Live on-demand courses</h2>
+					<p></p>
+					<p class="border" data-aos="fade-up"></p>
+				</div>
+			</div>
+			<div class="row align-center course-row">
+				<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3>Hunt APTs with Yara like a GReAT Ninja</h2>
+						<div class="row">
+							<div class="column large-8 medium-8 small-12">
+								<p class="mb">Take your threat hunting skills to the next level with our hands-on learning</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">YARA Training</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">All levels: Basic YARA knowledge needed</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$1,400 inc. tax per learner <!--&nbsp;&nbsp;<span class="sale">$999!</span>--></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 column large-6">
+							<a href="https://shop.xtraining.kaspersky.com/checkout/add?products=53f31d50-fa3a-42ef-8704-060d0a76e8a1">Enroll myself</a>
+						</div>
+						<div class="button type-4 enroll-team columns large-6" data-course="Yara training">
+							<span>Enroll my team</span>
+						</div>
+						<div class="button type-3 request-demo column large-6" data-course="Yara training">
+							<span>Request demo access</span>
+						</div>
+						<div class="button column large-6">
+							<a href="/courses/hunt-apts-with-yara-like-a-great-ninja">Find out more</a>
+						</div>
+					</div>
+				</div>
+				<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3>Targeted Malware Reverse Engineering</h2>
+						<div class="row">
+							<div class="column large-8 medium-8 small-12">
+								<p class="mb">Gain practical experience analyzing real-life targeted malware</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">Malware analysis</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Mid-level: Some programming skills required</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$1,400 inc. tax per learner <!--&nbsp;&nbsp;<span class="sale">$999!</span>--></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 column large-6">
+							<a href="https://shop.xtraining.kaspersky.com/checkout/add?products=284e822b-5a16-4645-a0a2-8eea27da5550">Enroll myself</a>
+						</div>
+						<div class="button type-4 enroll-team column large-6" data-course="REMA">
+							<span>Enroll my team</span>
+						</div>
+						<div class="button type-3 request-demo column large-6" data-course="REMA">
+							<span>Request demo access</span>
+						</div>
+						<div class="button column large-6">
+							<a href="/courses/targeted-malware-reverse-engineering">Find out more</a>
+						</div>
+					</div>
+				</div>
+				<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3>Advanced Malware Analysis Techniques</h2>
+						<div class="row">
+							<div class="column large-8 medium-8 small-12">
+								<p class="mb"></br>Strengthen your skills with
+								advanced static analysis techniques.</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">Advanced Malware Analysis</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Advanced-level: Assembler skills required.</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$2,700 inc. tax per learner <!--&nbsp;&nbsp;<span class="sale">$999!</span>--></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 column large-6"> <!-- data-course="AMAT Pre-Reg"-->
+							<a href="https://shop.xtraining.kaspersky.com/checkout/add?products=e9c54197-654b-4d42-bb8d-a9c0d8ff9034">Enroll myself</a>
+						</div>
+						<div class="button type-4 enroll-team columns large-6" data-course="Advanced Malware Analysis Techniques">
+							<span>Enroll my team</span>
+						</div>
+						<div class="button type-3 request-demo column large-6" data-course="AMAT">
+							<span>Request demo access</span>
+						</div> 
+						<div class="button column large-6">
+							<a href="/courses/advanced-malware-analysis-techniques">Find out more</a>
+						</div>
+					</div>
+				</div>
+<!-- newcode-->
+				<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3>Cyber Capacity Building Program</h2>
+						<div class="row">
+							<div class="column large-8 medium-8 small-12">
+								<p class="mb"></br>Training on ICT product security assessments to minimize supply chain risks.</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">Product security assessments</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="dist/assets/images/all-levels.jpg" class="image-resize"/>All levels: Basic knowledge of the software development lifecycle, and programming are required</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$1,400 inc. tax per learner <!--&nbsp;&nbsp;<span class="sale">$999!</span>--></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 column large-6"> <!-- data-course="AMAT Pre-Reg"-->
+							<a href="https://shop.xtraining.kaspersky.com/checkout/add?products=e9c54197-654b-4d42-bb8d-a9c0d8ff9034">Enroll myself</a>
+						</div>
+						<div class="button type-4 enroll-team columns large-6" data-course="CCBP">
+							<span>Enroll my team</span>
+						</div>
+						<div class="button type-3 request-demo column large-6" data-course="CCBP">
+							<span>Request demo access</span>
+						</div> 
+						<div class="button column large-6">
+							<a href="/courses/cyber-capacity-building-program">Find out more</a>
+						</div>
+					</div>
+				</div>
+
+			 	<!--<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3 class="light-green">2 day Bootcamp! 29th + 30th June</h2>
+						<div class="row">
+							<div class="column large-10 medium-10 small-12">
+								<p class="mb">Threat reconnaissance using scoutware for remote threat hunting and instant system analysis.</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">Remote analysis</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Mid-level to advanced</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$990 inc. tax per attendee (Only 10 places!)</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 bootcamp-register-trigger" data-bootcamp="Threat reconnaissance using remote scoutware">
+							<span>Register</span>
+						</div>
+						<div class="button">
+							<a href="/bootcamps/threat-reconaissance-using-remote-scoutware">Find out more</a>
+						</div>
+					</div>
+				</div> 				
+			</div>
+		</div>
+	</div> -->
+	<!--<div class="row available-courses">
+		<div class="column small-12 large-12">
+			<div class="row title-row">
+				<div class="column small-12">
+					<h2 data-aos="fade-up" id="new-courses">The SAS’21 exclusive online training</h2>
+					<p data-aos="fade-up" class="mb subtitle">Kaspersky Security Analyst Summit (SAS) is an annual event that attracts high-caliber anti-malware researchers, global law enforcement agencies and CERTs and senior executives from financial services, technology, healthcare, academia and government agencies.
+					In 2021, the SAS special program delivers online training by the GReAT experts*.
+
+					Full program of the conference is available at <a href="https://thesascon.com" target="_blank">https://thesascon.com.</a>
+					</p>
+				</div>
+			</div>
+			<div class="row align-center course-row">
+
+			 	
+				new bootcamp ends-->
+			<!--<div class="row align-center course-row">
+			 	<div class="column large-6 medium-6 small-12">
+					<div class="box main-box" data-aos="fade-up">
+						<h3 class="light-green">Threat Hunting</h2>
+						<div class="row">
+							<div class="column large-10 medium-10 small-12">
+								<p class="mb">2 day expert-led training! 21st & 22nd September.</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">20 seats only!</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Entry level to intermediate</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$750 inc. tax per attendee</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 bootcamp-register-trigger" data-bootcamp="Threat Hunting">
+							<span>Register</span>
+						</div>
+						<div class="button">
+							<a href="/bootcamps/sas-threat-hunting">Find out more</a>
+						</div>
+						<div class="footnote">
+							<p>*Training attendees are not required to participate in the main program of SAS.</p>
+						</div>
+					</div> 
+				</div>-->
+
+				<!--<div class="column large-6 medium-6 small-12">
+				<div class="column large-6 medium-6 small-12">
+
+					<div class="box main-box" data-aos="fade-up">
+						<h3 class="light-green">Remote Threat Reconnaissance</h3>
+						<div class="row">
+							<div class="column large-10 medium-10 small-12">
+								<p class="mb">2 day expert-led training! 23rd & 24th September.</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">20 seats only!</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Advanced level</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$750 inc. tax per attendee</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 bootcamp-register-trigger" data-bootcamp="Remote Threat Reconnaissance">
+							<span>Register</span>
+						</div>
+						<div class="button">
+							<a href="/bootcamps/remote-threat-reconnaissance">Find out more</a>
+						</div>
+						<div class="footnote">
+							<p>*Training attendees are not required to participate in the main program of SAS.</p>
+						</div>
+					</div>
+				</div> 	-->
+				<!--<div class="column large-6 medium-6 small-12">
+
+				</div>  -->	
+				<!--<div class="column large-6 medium-6 small-12">
+
+					<div class="box main-box" data-aos="fade-up">
+						<h3 class="light-green">Reverse engineering malware the hard way: decryptors, C++ classes,
+							Golang binaries</h3>
+						<div class="row">
+							<div class="column large-10 medium-10 small-12">
+								<p class="mb">2 day expert-led training! 30th September & 1st October</p>
+							</div>
+						</div>
+						<div class="row image-point-row">
+							<div class="column large-5 medium-12 small-12">
+								<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">20 seats only!</p>
+							</div>
+							<div class="column large-7 medium-12 small-12">
+								<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Intermediate level to advanced</p>
+							</div>
+							<div class="column large-12 medium-12 small-12">
+								<div class="row">
+									<div class="column shrink">
+										<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">									</div>
+									<div class="column">
+										<div class="outer">
+											<div class="inner inner-left">
+												<p>$750 inc. tax per attendee</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="button type-2 bootcamp-register-trigger" data-bootcamp="Reverse Engineering Malware Golang">
+							<span>Register</span>
+						</div>
+						<div class="button">
+							<a href="/bootcamps/reverse-engineering-malware-the-hard-way.php">Find out more</a>
+						</div>
+						<div class="footnote">
+							<p>*Training attendees are not required to participate in the main program of SAS.</p>
+						</div>
+					</div>
+				</div> -->					
+			</div> 
+		<!--</div>-->
+	<!--</div>-->
+	<div class="row available-courses">
+		<div class="column small-12 large-12">
+			<div class="row title-row2">
+				<div class="column small-12">
+					<h2 data-aos="fade-up">Latest Bootcamps</h2>
+					<p></p>
+					<p class="border"></p>
+				</div>
+			</div>
+			<div class="column large-6 medium-6 small-12 large-offset-3">
+						<div class="box main-box" data-aos="fade-up">
+							<h3>*Registration closed. Course is fully booked</h3>
+							<h3 class="light-green">Mobile Malware Reverse Engineering Bootcamp: Decryptors, Native binaries, Java tricks</h3>
+							<div class="row">
+								<div class="column large-10 medium-10 small-12">
+									<p class="mb">2 day online expert-led training. 14th April - 15th April 2022</p>
+								</div>
+							</div>
+							<div class="row image-point-row">
+								<div class="column large-5 medium-12 small-12">
+									<p><img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">30 seats only!</p>
+								</div>
+								<div class="column large-7 medium-12 small-12">
+									<p><img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">Intermediate level</p>
+								</div>
+								<div class="column large-12 medium-12 small-12">
+									<div class="row">
+										<div class="column shrink">
+											<img src="/dist/assets/images/cost.png" alt="Cost" title="Cost">										</div>
+										<div class="column">
+											<div class="outer">
+												<div class="inner inner-left">
+													<p>Free of Charge</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!--<div class="button type-2 bootcamp-register-trigger" data-bootcamp="Mobile Malware Reverse Engineering">
+								<span>Register</span>
+							</div>-->
+							<div class="button">
+								<a href="/bootcamps/mobile-malware-reverse-engineering">Find out more</a>
+							</div>
+							<!--<div class="footnote">
+								<p>*Training attendees are not required to participate in the main program of SAS.</p>
+							</div>-->
+						</div> 
+					</div>
+		</div>
+
+	</div>	
+	<div class="row more-courses-notification2">
+
+		<div class="column large-7 medium-10 small-12">
+			<h2 data-aos="fade-up">More courses & bootcamps coming soon</h2>
+			<p class="border" data-aos="fade-up">We'll soon be bringing even more of our proven real-world training courses into the digital world so that you can enhance your skills from home or the office.</p>
+		</div>
+	</div>
+	<div class="row more-courses">
+		<div class="column large-4 medium-6 small-12">
+			<div class="box" data-aos="fade-up">
+				<h5>Windows<br />Digital Forensics</h5>
+				<p class="description">Build your digital forensics expertise by learning from a simulated real-life cyber targeted attack incident. Practice reconstructing the incident, using time stamps, finding traces of intrusion in Windows OS components and also analyzing browser and email history.</p>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Digital forensics</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Mid-level: system administration skills required</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="button pre-reg" data-pre-reg="Windows Digital Forensics">
+					<span>Pre-register now</span>
+				</div>
+				<a href="https://www.kaspersky.com/enterprise-security/cyber-security-training" target="_blank" rel="noopener noreferrer" class="small-text">Or find out about offline courses</a>
+			</div>
+		</div>
+		<!--<div class="column large-3 medium-6 small-12">
+			<div class="box" data-aos="fade-up">
+				<h5>Advanced Malware Analysis<br />& Reverse Engineering</h5>
+				<p class="description">Learn how to analyze a modern APT toolkit, from receiving the initial sample, all the way to producing a deep technical description with IOCs.</p>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Advanced Malware Analysis</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Advanced-level: Assembler skills required</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="button pre-reg" data-pre-reg="Malware Analysis & Reverse Engineering">
+					<span>Pre-register now</span>
+				</div>
+				<a href="https://www.kaspersky.com/enterprise-security/cyber-security-training" target="_blank" rel="noopener noreferrer" class="small-text">Or find out about offline courses</a>
+			</div> 
+		</div> -->
+		<div class="column large-4 medium-6 small-12">
+			<div class="box" data-aos="fade-up">
+				<h5>Advanced Windows<br />Digital Forensics</h5>
+				<p class="description">Take your Windows digital forensics skills to the next level. Learn how to perform deep file system analysis to recover deleted files and analyze other sources of data, such as network traffic, and learn how to restore incident logic to reconstruct a complete incident timeline.</p>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Advanced Digital Forensics</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Advanced-level: system administration skills required</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="button pre-reg" data-pre-reg="Advanced YARA Ninja training">
+					<span>Pre-register now</span>
+				</div>
+				<a href="https://www.kaspersky.com/enterprise-security/cyber-security-training" target="_blank" rel="noopener noreferrer" class="small-text">Or find out about offline courses</a>
+			</div>
+		</div>
+		<div class="column large-4 medium-6 small-12">
+			<div class="box" data-aos="fade-up">
+				<h5>Windows<br />Incident Response</h5>
+				<p class="description">Understand all stages of the incident response process and gain the comprehensive knowledge needed for successful incident remediation.</p>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/yara-training.jpg" alt="Yara Training" title="Yara Training">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Incident Response</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column large-4 medium-3 small-3">
+						<img src="/dist/assets/images/all-levels.jpg" alt="All Levels" title="All Levels">					</div>
+					<div class="column large-8 medium-9 small-9">
+						<div class="outer">
+							<div class="inner inner-left">
+								<p>Mid-level: system administration skills required</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="button pre-reg" data-pre-reg="Windows Incident Response">
+					<span>Pre-register now</span>
+				</div>
+				<a href="https://www.kaspersky.com/enterprise-security/cyber-security-training" target="_blank" rel="noopener noreferrer" class="small-text">Or find out about offline courses</a>
+			</div>
+		</div>
+	</div>
+
+			<footer>
+				<div class="row">
+					<div class="column large-2 medium-3 small-12">
+						<div class="outer">
+							<div class="inner">
+								<a href="https://kaspersky.com/" target="_blank" rel="noopener noreferrer">
+									<img class="logo" src="/dist/assets/images/kaspersky-logo.png" alt="Kaspersky Logo" title="Kaspersky Logo">
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="column large-8 medium-6 small-12">
+						<div class="outer">
+							<div class="inner">
+								<p>&copy; 2022 AO Kaspersky. All Rights Reserved &nbsp;&bull;&nbsp; 
+									<a href="/terms" target="_blank" rel="noopener noreferrer">Terms of use</a> &nbsp;&bull;&nbsp; 
+									<a href="/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a> &nbsp;&bull;&nbsp; 
+									<a href="/system-requirements" target="_blank" rel="noopener noreferrer">System requirements</a> &nbsp;&bull;&nbsp; 
+									<a href="/marketing-statement" target="_blank" rel="noopener noreferrer">Marketing statement</a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="column large-2 medium-3 small-12">
+						<div class="outer">
+							<div class="inner inner-right">
+								<a href="https://www.facebook.com/Kaspersky/" target="_blank" rel="noopener noreferrer"><img class="social" src="/dist/assets/images/facebook.png" alt="Kaspersky Facebook" title="Kaspersky Facebook" /></a>
+								<a href="https://twitter.com/kaspersky" target="_blank" rel="noopener noreferrer"><img class="social" src="/dist/assets/images/twitter.png" alt="Kaspersky Twitter" title="Kaspersky Twitter" /></a>
+								<a href="https://www.linkedin.com/company/kaspersky/" target="_blank" rel="noopener noreferrer"><img class="social" src="/dist/assets/images/linked-in.png" alt="Kaspersky Linked In" title="Kaspersky Linked In" /></a>
+								<a href="https://www.youtube.com/user/Kaspersky" target="_blank" rel="noopener noreferrer"><img class="social" src="/dist/assets/images/youtube.png" alt="Kaspersky YouTube" title="Kaspersky YouTube" /></a>
+								<a href="https://www.instagram.com/kasperskylab/" target="_blank" rel="noopener noreferrer"><img class="social" src="/dist/assets/images/instagram.png" alt="Kaspersky Instagram" title="Kaspersky Instagram" /></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/356a8ed6e4.js" crossorigin="anonymous"></script>
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9/dist/sweetalert2.min.js" crossorigin="anonymous"></script>
+	<script src="https://www.google.com/recaptcha/api.js?render=6LfyzfcUAAAAABAWlxFu7Z6YxD_TSGLnyq0t8tla"></script>
+	<script src="/owl-carousel/js/owl.carousel.js"></script>
+	<script type="text/javascript" src="/dist/assets/js/app.js?ver=1648124985"></script>
+</body>
+</html>

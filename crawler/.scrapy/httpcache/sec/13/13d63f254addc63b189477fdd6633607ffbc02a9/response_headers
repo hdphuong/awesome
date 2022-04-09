@@ -1,0 +1,14 @@
+Content-Length: 123391
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: max-age=86400
+Content-Security-Policy: default-src 'self' ; connect-src 'self' https://api.twitter.com https://syndication.twitter.com https://www.google-analytics.com https://*.tt.omtrdc.net https://resources.digital-cloud-prem.medallia.com https://udc-neb.kampyle.com/ https://feedback.digital-cloud-prem.medallia.com; font-src 'self' https://*.twimg.com https://*.twitter.com data:; frame-src 'self' https://twitter.com https://*.twitter.com https://www.google.com; img-src 'self' https://*.twimg.com https://*.twitter.com https://www.google-analytics.com https://cdn.cms-twdigitalassets.com https://t.co https://s1259914507.t.eloqua.com https://px.ads.linkedin.com https://www.glassdoor.com/track/ https://pixel.clickiq.co.uk/api/pixel/ https://p.adsymptotic.com/d/px https://dc.ads.linkedin.com https://px4.ads.linkedin.com https://snap.licdn.com https://udc-neb.kampyle.com/ data:; media-src 'self' https://*.twimg.com https://*.twitter.com https://cdn.cms-twdigitalassets.com; object-src 'self' ; script-src 'self' 'sha256-ppW1Vv+qSVcs+/pIj1ZXvMiCLoyHyCdRqtDMeK9fQ9w=' 'sha256-4vjRgvPWP4vJR8o44Hly4wuWPbcPosEtObsy+q163L0=' https://cdn.syndication.twimg.com https://*.twitter.com https://static.ads-twitter.com 'nonce-c4086fb3787534723f3d55650a6352c'; style-src 'self' 'unsafe-inline' https://*.twimg.com https://*.twitter.com; report-uri https://twitter.com/i/csp_report; frame-ancestors 'self'
+Content-Type: application/pdf
+Date: Sat, 09 Apr 2022 04:09:03 GMT
+Expires: Sun, 10 Apr 2022 04:09:03 GMT
+Last-Modified: Sat, 09 Apr 2022 04:09:03 GMT
+Server: ECAcc (nwa/E7CC)
+Strict-Transport-Security: max-age=631138519
+X-Connection-Hash: 63fc4a548a66488aaff597a76df9cb44a0a448fe6ab1bbea5c59f108a99d1b0f
+X-Frame-Options: SAMEORIGIN
+X-Response-Time: 321

@@ -1,0 +1,13 @@
+Date: Sat, 09 Apr 2022 04:04:06 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Sat, 09 Oct 2021 16:11:15 GMT
+Etag: W/"6161bf23-b8"
+Cache-Control: public, max-age=300
+Content-Security-Policy: upgrade-insecure-requests
+Cf-Cache-Status: MISS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6f905b5588695533-SYD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

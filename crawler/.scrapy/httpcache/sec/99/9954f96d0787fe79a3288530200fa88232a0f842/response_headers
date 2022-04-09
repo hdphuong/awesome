@@ -1,13 +1,13 @@
-Date: Fri, 08 Apr 2022 11:45:31 GMT
+Date: Sat, 09 Apr 2022 04:13:42 GMT
 Location: https://thehackernews.com/robots.txt
-Cf-Ray: 6f8ac1d88ff7a826-SYD
+Cf-Ray: 6f9069646c37a814-SYD
 Cache-Control: max-age=3600
-Expires: Fri, 08 Apr 2022 12:45:31 GMT
+Expires: Sat, 09 Apr 2022 05:13:42 GMT
 Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
 Vary: Accept-Encoding
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 X-Content-Type-Options: nosniff
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aypfI9JHtp6g1CrUk5bHMgKKFCAwxKCMcMDBn%2FP8aKy3pmwCCTuEj9%2F7p49O3w9XfEaSwwEsFzPrluy2lXwnlm1gis3g5ki1xcPkMcsTZsznkV%2FyQJ7ke16yU3AmAgbrXteU9xeL3Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hiTw4tZi1GvKWCpjdP2HfcqvNCakXrNPGWcUJDqJG5S7LSAB%2F2aI39Gn4jmOPHsvXE5tWokb4pUlpLFjoJcROJwsytiBQKOglLzbiQAq1YsFoEGIS0796PdPu8ew%2BsSF4D6R%2FeDGEw%3D%3D"}],"group":"cf-nel","max_age":604800}
 Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

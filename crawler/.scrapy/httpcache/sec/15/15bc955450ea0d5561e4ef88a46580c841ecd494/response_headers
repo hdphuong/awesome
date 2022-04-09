@@ -1,0 +1,13 @@
+Content-Length: 0
+Date: Sat, 09 Apr 2022 03:59:33 GMT
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: vibrate 'none'; microphone 'none'; camera 'none'; payment 'none'; accelerometer 'none'; ambient-light-sensor 'none'; magnetometer 'none'; midi 'none'; usb 'none'; wake-lock 'none'; execution-while-out-of-viewport 'none'; sync-xhr 'self'; gyroscope 'none'; push 'self'; speaker *;  fullscreen *
+Vary: Origin
+Location: http://digital.nhs.uk/news/news-archive/2017-news-archive/statement-on-reported-nhs-cyber-attack
+X-Served-By: web-prod-4
+X-Time-Microsecs: D=26276
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
