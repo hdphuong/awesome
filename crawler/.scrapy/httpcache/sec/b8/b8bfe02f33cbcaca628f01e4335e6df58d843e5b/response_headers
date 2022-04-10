@@ -8,6 +8,6 @@ Location: https://support.apple.com/sitemap
 Host: support.apple.com
 X-Frame-Options: SAMEORIGIN
 Strict-Transport-Security: max-age=31536000; includeSubdomains
-Cache-Control: public, max-age=1800
+Cache-Control: public, max-age=1748
 Cache-Control: no-siteapp
-Date: Sat, 09 Apr 2022 04:08:21 GMT
+Date: Sat, 09 Apr 2022 16:09:37 GMT

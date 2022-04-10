@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>
+	<script nonce='z97L/H3KQqZ1Wy9MAZPYB4n/Avk='>
 		dataLayer = [];
 	</script>
 
 	<!-- Google Tag Manager -->
-	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	<script nonce='z97L/H3KQqZ1Wy9MAZPYB4n/Avk='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -16,7 +16,7 @@
 	<!-- End Google Tag Manager -->
 
 	<!-- Google Tag Manager -->
-	<script nonce='RxwaEPqIX4KLZ2hFuA0itsUsWLg='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	<script nonce='z97L/H3KQqZ1Wy9MAZPYB4n/Avk='>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -39,7 +39,7 @@
 
 			<title>Kaspersky | Online Cyber Security Training</title>
 
-			<script type="text/javascript" nonce="RxwaEPqIX4KLZ2hFuA0itsUsWLg=">
+			<script type="text/javascript" nonce="z97L/H3KQqZ1Wy9MAZPYB4n/Avk=">
 				var kaspersky = {
 					isStaging: 0,
 					businessType: "b2b",

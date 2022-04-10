@@ -1,18 +1,17 @@
 Content-Length: 1388
 Last-Modified: Fri, 01 Apr 2022 14:55:56 GMT
 Server: Apple
-Accept-Ranges: bytes
-X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=31536000; includeSubdomains
 X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block
 Content-Security-Policy: default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: embed.music.apple.com embed.podcasts.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com
+Accept-Ranges: bytes
 Content-Type: text/plain; charset=utf-8
 Ntcoent-Length: 7091
 Content-Encoding: gzip
-Cache-Control: max-age=244
-Expires: Sat, 09 Apr 2022 04:18:09 GMT
-Date: Sat, 09 Apr 2022 04:14:05 GMT
-X-Cache: TCP_MEM_HIT from a203-213-73-68.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
+Cache-Control: max-age=230
+Expires: Sat, 09 Apr 2022 16:13:36 GMT
+Date: Sat, 09 Apr 2022 16:09:46 GMT
+X-Cache: TCP_MEM_HIT from a203-213-73-204.deploy.akamaitechnologies.com (AkamaiGHost/10.7.4-40388856) (-)
 Vary: Accept-Encoding
-Set-Cookie: geo=AU; path=/; domain=.apple.com

@@ -2,12 +2,11 @@ Content-Length: 69012
 Accept-Ranges: bytes
 Vary: Accept-Encoding
 Content-Type: text/html
-Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/yt-ce-dev
 Cross-Origin-Resource-Policy: cross-origin
 Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="yt-ce-dev"
 Report-To: {"group":"yt-ce-dev","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/yt-ce-dev"}]}
-Date: Sat, 09 Apr 2022 04:09:33 GMT
-Expires: Sat, 09 Apr 2022 04:09:33 GMT
+Date: Sat, 09 Apr 2022 16:09:35 GMT
+Expires: Sat, 09 Apr 2022 16:09:35 GMT
 Cache-Control: private, max-age=0
 X-Content-Type-Options: nosniff
 Server: sffe

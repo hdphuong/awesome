@@ -1,13 +1,13 @@
-Content-Length: 37361
-Date: Sat, 09 Apr 2022 04:14:00 GMT
+Content-Length: 37360
+Date: Sat, 09 Apr 2022 16:02:33 GMT
 Content-Type: text/html; charset=UTF-8
 Vary: Accept-Encoding
 Vary: Accept-Encoding
 Server: Pagely-ARES/1.10.7
-X-Gateway-Request-Id: 93519d8b236a46130ddba914ecc2ade2
+X-Gateway-Request-Id: 9f5506749b9abd7d2bc920a7e35cbb49
 Link: <https://welcomesoftware.com/wp-json/>; rel="https://api.w.org/", <https://welcomesoftware.com/wp-json/wp/v2/pages/6027>; rel="alternate"; type="application/json", <https://welcomesoftware.com/?p=6027>; rel=shortlink
 Content-Encoding: gzip
 Referrer-Policy: no-referrer-when-downgrade
 X-Gateway-Cache-Key: 0|standard|https|welcomesoftware.com||/privacy-policy/
-X-Gateway-Cache-Status: HIT
+X-Gateway-Cache-Status: EXPIRED
 X-Gateway-Skip-Cache: 0

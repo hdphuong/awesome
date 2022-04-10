@@ -1,20 +1,20 @@
 Cache-Control: max-age=604800,private
 Content-Type: text/plain
 Content-Encoding: gzip
-Expires: Sat, 16 Apr 2022 04:14:03 GMT
-Last-Modified: Thu, 07 Apr 2022 19:16:17 GMT
-Etag: W/"624f3881-15b45"
-Set-Cookie: bcookie="v=2&b76a5175-d9ea-4ee3-8145-d5503fbee633"; domain=.linkedin.com; Path=/; Secure; Expires=Mon, 08-Apr-2024 15:51:35 GMT; SameSite=None
-Set-Cookie: bscookie="v=1&202204090414030545ec1c-997e-458a-88b5-bfbed249c5e2AQEOC-MpI3gnIGoRBi0HTkDrnaB77Shp"; domain=.www.linkedin.com; Path=/; Secure; Expires=Mon, 08-Apr-2024 15:51:35 GMT; HttpOnly; SameSite=None
+Expires: Sat, 16 Apr 2022 16:02:18 GMT
+Last-Modified: Thu, 07 Apr 2022 19:15:37 GMT
+Etag: W/"624f3859-15b45"
+Set-Cookie: bcookie="v=2&aa3eee6c-589b-427f-838e-a40d92979edb"; domain=.linkedin.com; Path=/; Secure; Expires=Tue, 09-Apr-2024 03:39:50 GMT; SameSite=None
+Set-Cookie: bscookie="v=1&2022040916021893308410-0819-47d3-85d9-66ac050911c3AQHxPwu2Im5PM0ri-pS-UKRWtPyGYX9P"; domain=.www.linkedin.com; Path=/; Secure; Expires=Tue, 09-Apr-2024 03:39:50 GMT; HttpOnly; SameSite=None
 Expect-Ct: max-age=86400, report-uri="https://www.linkedin.com/platform-telemetry/ct"
 Strict-Transport-Security: max-age=31536000
 X-Content-Type-Options: nosniff
-Content-Security-Policy: default-src *; connect-src 'self' https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com wss://*.linkedin.com dms.licdn.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ www.google-analytics.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com media.licdn.com media-exp1.licdn.com media-exp2.licdn.com media-exp3.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com https://snap.licdn.com/li.lms-analytics/ platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; report-uri /security/csp?e=p&f=l
+Content-Security-Policy: default-src *; connect-src 'self' https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com wss://*.linkedin.com dms.licdn.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ www.google-analytics.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com media.licdn.com media-exp1.licdn.com media-exp2.licdn.com media-exp3.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com https://snap.licdn.com/li.lms-analytics/ platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'
 X-Frame-Options: sameorigin
 X-Li-Fabric: prod-lva1
 X-Li-Pop: afd-prod-lva1-x
 X-Li-Proto: http/1.1
-X-Li-Uuid: AAXcMPD+KbvpizXXmlGsjA==
+X-Li-Uuid: AAXcOtXmxJ2KJ1+Xnrsaeg==
 X-Cache: CONFIG_NOCACHE
-X-Msedge-Ref: Ref A: 0EB55BD6004348E495C3CF0ACD88FC9F Ref B: SYD03EDGE1508 Ref C: 2022-04-09T04:14:03Z
-Date: Sat, 09 Apr 2022 04:14:03 GMT
+X-Msedge-Ref: Ref A: 5C7A7A0D7FF7402781930571A6649977 Ref B: SYD03EDGE1305 Ref C: 2022-04-09T16:02:18Z
+Date: Sat, 09 Apr 2022 16:02:17 GMT

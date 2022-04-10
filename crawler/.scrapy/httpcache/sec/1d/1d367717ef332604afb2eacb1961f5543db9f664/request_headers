@@ -1,6 +1,6 @@
 Referer: https://aws.amazon.com/privacy/?nc1=f_pr
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
-User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+User-Agent: awesome (+http://www.yourdomain.com)
 Accept-Encoding: gzip, deflate
-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws_lang=en
+Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws-csds-token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk1MjM3NDksInZpc2l0b3ItaWQiOiJkOGMwMDc4OC0wMjIyLTM0Y2UtMjhmZi04Mzg4Yzk3ZTEzNGIiLCJpcCI6IjExOC4yMDguMjM3LjEzNSJ9.LtmQX0lXtNKDQQt9XRntl9kQsiTQZ12TFb_3NJm_Vjs; aws_lang=en

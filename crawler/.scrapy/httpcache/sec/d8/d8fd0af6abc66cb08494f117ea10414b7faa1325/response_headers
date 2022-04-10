@@ -2,11 +2,11 @@ Content-Length: 107948
 Accept-Ranges: bytes
 Vary: Accept-Encoding
 Content-Type: text/html
-Content-Security-Policy-Report-Only: script-src 'nonce-8QTa7smDLGDVepf2yX174w' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri /cspreport/static; base-uri 'self'
+Content-Security-Policy-Report-Only: script-src 'nonce-iD6_jgSxbZFEqkgT7d3Jvw' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri /cspreport/static; base-uri 'self'
 Cross-Origin-Resource-Policy: cross-origin
 Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube-marketing"
 Report-To: {"group":"youtube-marketing","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube-marketing"}]}
-Date: Sat, 09 Apr 2022 03:59:30 GMT
+Date: Sat, 09 Apr 2022 16:09:36 GMT
 Pragma: no-cache
 Expires: Fri, 01 Jan 1990 00:00:00 GMT
 Cache-Control: no-cache, must-revalidate

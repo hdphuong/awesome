@@ -1,5 +1,5 @@
 Content-Length: 373
-Date: Sat, 09 Apr 2022 04:13:51 GMT
+Date: Sat, 09 Apr 2022 16:12:55 GMT
 Content-Type: text/plain; charset=utf-8
 Cache-Control: private
 Content-Encoding: gzip
@@ -9,8 +9,8 @@ Cf-Cache-Status: BYPASS
 Set-Cookie: tech#lang=en-US; path=/
 Accept-Ranges: bytes
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=E6%2F%2BY2Sevv4DioCzpdb8w9frXYUmrAzRWdR%2B43gpbEazJbCUlWFDtwOdNclt%2BrJEtqyjUQkFS7%2FQ13UQScaXY0zbBb7PcKJ8M3IKjLDpzkASZwephYSnetUed3Lj1fuzP%2BOr3y%2B4"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5IrNmA9gx%2BuqP43u9lrI4OqBhUowtFFJ8CjbcW8R8VDSF69U5YBLhBxyXAASZh9k%2BzXdNgM7EX%2Fg5p4OUEPVHlQ7KzoKSj8SEoJQYV7dPrULU8HOj87GsbbH7Z7LdeiNnv5CliCG"}],"group":"cf-nel","max_age":604800}
 Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-Cf-Ray: 6f906996e80d5aa0-MEL
+Cf-Ray: 6f9486e59e855abc-MEL
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

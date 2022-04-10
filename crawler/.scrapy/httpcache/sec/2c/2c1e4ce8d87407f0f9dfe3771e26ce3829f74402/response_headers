@@ -1,11 +1,12 @@
 Content-Length: 248
 Location: https://www.google.com/safetycenter/everyone/start/
 Cross-Origin-Resource-Policy: cross-origin
-Content-Type: text/html; charset=UTF-8
 X-Content-Type-Options: nosniff
-Date: Fri, 08 Apr 2022 11:36:22 GMT
-Expires: Fri, 08 Apr 2022 12:06:22 GMT
-Cache-Control: public, max-age=1800
 Server: sffe
 X-Xss-Protection: 0
+Date: Sat, 09 Apr 2022 16:10:01 GMT
+Expires: Sat, 09 Apr 2022 16:40:01 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 197
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

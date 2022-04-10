@@ -1,4 +1,4 @@
-Date: Sat, 09 Apr 2022 04:13:53 GMT
+Date: Sat, 09 Apr 2022 16:02:23 GMT
 Content-Type: text/html
 X-Content-Type-Options: nosniff
 X-Frame-Options: SAMEORIGIN
@@ -6,5 +6,5 @@ Location: https://account.theregister.com/login/?r=https://account.theregister.c
 Cf-Cache-Status: DYNAMIC
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Server: cloudflare
-Cf-Ray: 6f9069a8cb38a7f5-SYD
+Cf-Ray: 6f94777fccb25587-SYD
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

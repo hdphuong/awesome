@@ -1,6 +1,6 @@
 Content-Length: 20
 Server: nginx
-Date: Sat, 09 Apr 2022 04:03:34 GMT
+Date: Sat, 09 Apr 2022 20:15:13 GMT
 Content-Type: application/rss+xml; charset=UTF-8
 Last-Modified: Fri, 08 Apr 2022 16:08:03 GMT
 X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
@@ -12,6 +12,6 @@ X-Rq: syd2 0 2 9980
 Cache-Control: max-age=300, must-revalidate
 Etag: W/"e3d61dfc47990be56a7606f8e305b4e9"
 Content-Encoding: gzip
-Age: 1606
+Age: 957
 X-Cache: hit
 Strict-Transport-Security: max-age=31536000

@@ -1,6 +1,6 @@
 Referer: https://aws.amazon.com/ko/podcasts/
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
-User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+User-Agent: awesome (+http://www.yourdomain.com)
 Accept-Encoding: gzip, deflate
-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws_lang=en
+Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws-csds-token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk1MjM3NTEsInZpc2l0b3ItaWQiOiI3NGMwMDc4OC0wNjA4LTcyZTMtMTg5Ny1lMDRiY2Y5NmM4ZTgiLCJpcCI6IjExOC4yMDguMjM3LjEzNSJ9.CyQ6RzIgJfK2Ikf6L9OZHh3JOnyV_YjffVaBtoVfzG4; aws_lang=en

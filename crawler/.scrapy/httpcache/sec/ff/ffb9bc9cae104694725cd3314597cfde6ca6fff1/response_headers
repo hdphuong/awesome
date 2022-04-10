@@ -1,11 +1,11 @@
 Content-Length: 200
-Date: Sat, 09 Apr 2022 04:14:00 GMT
+Date: Sat, 09 Apr 2022 16:09:38 GMT
 Content-Type: text/html; charset=utf-8
 Server: nginx
 Cache-Control: private
 Location: https://www.bbb.org/us/ca/venice/profile/online-retailer/stackcommerce-1216-1013267
 Access-Control-Allow-Methods: GET
-Client-Date: Sat, 09 Apr 2022 04:14:00 GMT
+Client-Date: Sat, 09 Apr 2022 16:09:38 GMT
 Client-Peer: 172.20.18.13:80
 Client-Response-Num: 1
 Client-Warning: Redirect loop detected (max_redirect = 0)

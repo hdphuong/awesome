@@ -1,9 +1,9 @@
 Content-Length: 0
-Date: Fri, 08 Apr 2022 11:14:19 GMT
+Date: Sat, 09 Apr 2022 13:33:41 GMT
 Location: https://www.ycombinator.com/news
 Server: AmazonS3
 X-Cache: Hit from cloudfront
-Via: 1.1 701510d744831cda18c48da0cb099172.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: SYD62-P1
-X-Amz-Cf-Id: xjKa7Q_gMEecJRR_fhZjXG6EnaTYVfhc7OTpKh55wLmDSsfBgsUE4Q==
-Age: 61168
+Via: 1.1 cab8093de9e922f6aac9f66e51afc0cc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD1-C1
+X-Amz-Cf-Id: RPhuD14_auURmAJuvJc-c66vdmy4pY4Zz_6mHIGs6VVd8r8iTy5UNg==
+Age: 9551

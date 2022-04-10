@@ -1,33 +1,23 @@
-from imp import SEARCH_ERROR
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from lxml import html
 import os
-import requests
 import json
 import re
 
-SEARCH_WORD = "spy"
+SEARCH_WORD = "bank"
 
 class SecSpiders(CrawlSpider):
     name = "sec"
 
-    start_urls = ["https://security.didici.cc/news/", 
-                    "https://www.darkreading.com/",
+    start_urls = ["https://www.darkreading.com/",
                     "https://www.bleepingcomputer.com/news",
                     "https://threatpost.com/",
-                    "https://krebsonsecurity.com/", 
-                    "https://nakedsecurity.sophos.com/", 
                     "https://www.itnews.com.au/",
-                    "https://www.abc.net.au/news/",
-                    "https://ycombinator.com/news",
                     "https://www.theregister.co.uk/security/",
-                    "https://www.theguardian.com/technology/security",
-                    "https://www.theverge.com/security/",
-                    "https://www.thenextweb.com/security/",
-                    "https://risky.biz/",
-                    "https://www.thehackernews.com/"]
+                    "https://www.theguardian.com/technology/security/",
+                    "https://nakedsecurity.sophos.com/", 
+                    "https://www.zdnet.com/au/"]
 
     rules = (Rule(LinkExtractor(allow=(start_urls), deny_domains=(r".gov", r"sift.com", r"google", r"add"), restrict_text=()), callback='parse', follow=True), )
 
@@ -48,7 +38,15 @@ class SecSpiders(CrawlSpider):
         if next_page is not None and not response.url.startswith(next_page):
             yield response.follow(next_page, callback=self.parse)
     
+def check_and_make_dir(dir_name):
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
 
+def check_and_make_file(file_name):
+    if not os.path.exists(file_name):
+        f = open(file_name, 'w')
+        f.write("[" + "\n")
+        f.close()
 
 def get_keywords(content):
     sec_keywords = [r'security', r'cyber', r'attacks', r'data breach', r'data leaks', r'malware', r'virus', r'phish', r'scam', r'crypto']
@@ -61,13 +59,3 @@ def get_keywords(content):
         if re.search(keyword, content, flags=re.IGNORECASE):
             result.append(keyword)
     return result
-
-def check_and_make_dir(dir_name):
-    if not os.path.exists(dir_name):
-        os.makedirs(dir_name)
-
-def check_and_make_file(file_name):
-    if not os.path.exists(file_name):
-        f = open(file_name, 'w')
-        f.write("[" + "\n")
-        f.close()

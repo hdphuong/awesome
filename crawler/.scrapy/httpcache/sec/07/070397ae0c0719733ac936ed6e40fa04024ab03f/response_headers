@@ -1,7 +1,6 @@
 Server: nginx
-Date: Sat, 09 Apr 2022 04:13:56 GMT
+Date: Sat, 09 Apr 2022 20:04:53 GMT
 Content-Type: text/html; charset=UTF-8
-Access-Control-Allow-Origin: https://threatpost.com
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block

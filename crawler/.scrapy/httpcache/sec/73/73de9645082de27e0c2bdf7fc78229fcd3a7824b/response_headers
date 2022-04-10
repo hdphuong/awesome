@@ -1,20 +1,21 @@
 Content-Type: text/html;charset=UTF-8
 Server: Server
-Date: Fri, 08 Apr 2022 11:45:45 GMT
-X-Amz-Rid: XAYF6D2655MEQMDRHTAM
-Set-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; Version=1; Comment="Anonymous cookie for privacy regulations"; Domain=.aws.amazon.com; Max-Age=31536000; Expires=Sat, 08-Apr-2023 11:45:45 GMT; Path=/; Secure
+Date: Sat, 09 Apr 2022 16:02:31 GMT
+X-Amz-Rid: TQTGGXYGJNSMCBE5PFZ4
+Set-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; Version=1; Comment="Anonymous cookie for privacy regulations"; Domain=.aws.amazon.com; Max-Age=31536000; Expires=Sun, 09-Apr-2023 16:02:31 GMT; Path=/; Secure
+Set-Cookie: aws-csds-token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk1MjM3NTEsInZpc2l0b3ItaWQiOiJjZWMwMDc4OC0wNTYzLThmZjUtOTFiNS0zZTQwMjE1NjhkNDQiLCJpcCI6IjExOC4yMDguMjM3LjEzNSJ9.Jp3S6NafQ_S3jWv0m_8nK4Dk87WZBBP6dFqvBg6G3C4; Version=1; Comment="Anonymous metrics validation token"; Domain=.amazon.com; Max-Age=900; Expires=Sat, 09-Apr-2022 16:17:31 GMT; Path=/; Secure
 Set-Cookie: aws_lang_not_found=ko_KR; Domain=.amazon.com
 X-Frame-Options: SAMEORIGIN
 X-Xss-Protection: 1; mode=block
 Strict-Transport-Security: max-age=63072000
 X-Content-Type-Options: nosniff
-X-Amz-Id-1: XAYF6D2655MEQMDRHTAM
-Last-Modified: Sat, 19 Mar 2022 02:26:01 GMT
+X-Amz-Id-1: TQTGGXYGJNSMCBE5PFZ4
+Last-Modified: Fri, 08 Apr 2022 19:33:13 GMT
 Content-Security-Policy-Report-Only: default-src *; connect-src *; font-src * data:; frame-src *; img-src * data:; media-src *; object-src *; script-src *; style-src 'unsafe-inline' *; report-uri https://prod-us-west-2.csp-report.marketing.aws.dev/submit
 Content-Encoding: gzip
 Vary: accept-encoding,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
 Permissions-Policy: interest-cohort=()
 X-Cache: Miss from cloudfront
-Via: 1.1 2e05fb1b0c75f8ef4c701fadb0b27fd8.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: SYD62-P1
-X-Amz-Cf-Id: 3XVomNZBalftyJ1bk70iNKxvJznPSZz2jbcC4FXT_See9SXVn3R2QA==
+Via: 1.1 15e6f9c3ac6c2537f1ceab6be002a66c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD1-C1
+X-Amz-Cf-Id: B8ru3at-7gHZetECTinQpMkaiff3KDp1l1UyV01ZEBsQzATTle9uKQ==

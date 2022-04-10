@@ -1,13 +1,13 @@
 Content-Length: 321
-Date: Sat, 09 Apr 2022 04:13:56 GMT
+Date: Sat, 09 Apr 2022 16:02:25 GMT
 Content-Type: text/html; charset=iso-8859-1
 Location: https://www.theregister.com/Profile/privacy/
 Cache-Control: max-age=0
-Expires: Sat, 09 Apr 2022 04:13:56 GMT
-X-Reg-Bofh: pfy02us
+Expires: Sat, 09 Apr 2022 16:02:25 GMT
+X-Reg-Bofh: pfy03us
 X-Clacks-Overhead: GNU Terry Pratchett, Lester Haines
 X-Content-Type-Options: nosniff
 Cf-Cache-Status: DYNAMIC
 Server: cloudflare
-Cf-Ray: 6f9069bbfc59a811-SYD
+Cf-Ray: 6f94778a5d0fa80e-SYD
 Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

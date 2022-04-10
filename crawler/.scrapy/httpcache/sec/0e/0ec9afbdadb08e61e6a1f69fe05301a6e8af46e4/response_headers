@@ -1,13 +1,15 @@
-Content-Length: 22097
 Server: nginx
-Link: <https://krebsonsecurity.com/wp-json/>; rel="https://api.w.org/", <https://krebsonsecurity.com/wp-json/wp/v2/posts/29560>; rel="alternate"; type="application/json", <https://krebsonsecurity.com/?p=29560>; rel=shortlink
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Referrer-Policy: no-referrer-when-downgrade
-X-Cache-Status: HIT
-Via: 1.1 google
-Date: Sat, 09 Apr 2022 03:58:47 GMT
+Date: Sat, 09 Apr 2022 16:12:52 GMT
 Content-Type: text/html; charset=UTF-8
-Age: 559
-Cache-Control: max-age=301,public
+Expires: Sat, 09 Apr 2022 15:59:52 GMT
+Pragma: public
+Cache-Control: max-age=0, public
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: w3tc_referrer=https%3A%2F%2Fkrebsonsecurity.com%2F; path=/
+Set-Cookie: w3tc_referrer=https%3A%2F%2Fkrebsonsecurity.com%2F; path=/
+Last-Modified: Sat, 09 Apr 2022 15:54:51 GMT
+Referrer-Policy: no-referrer-when-downgrade
+X-Cache-Status: MISS
+Via: 1.1 google
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

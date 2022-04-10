@@ -1,9 +1,9 @@
 Content-Length: 0
-Date: Fri, 08 Apr 2022 05:35:27 GMT
+Date: Sat, 09 Apr 2022 10:36:39 GMT
 Location: https://www.ycombinator.com/robots.txt
 Server: AmazonS3
 X-Cache: Hit from cloudfront
-Via: 1.1 701510d744831cda18c48da0cb099172.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: SYD62-P1
-X-Amz-Cf-Id: WWY3ubgc0Sxi4If5T3WAjBXQiHXwytBYV0FxWzWiaqoDHWTQRov9tw==
-Age: 81493
+Via: 1.1 65c7d0c3355767ac8658c2122c8280b6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SYD1-C1
+X-Amz-Cf-Id: Jeh2NKoltRo_hTsW_tPtLyGSHnypMcELgklnjj1YxmFIS87N5JhK9w==
+Age: 20963

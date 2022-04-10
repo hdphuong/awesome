@@ -1,10 +1,10 @@
 Content-Length: 240
 Server: nginx
-Date: Sat, 09 Apr 2022 04:13:42 GMT
+Date: Sat, 09 Apr 2022 13:38:50 GMT
 Content-Type: text/html; charset=iso-8859-1
 Location: https://thenextweb.com/security/
 X-Cacheable: YES
-Age: 338
+Age: 310
 X-Cache: HIT
 Strict-Transport-Security: max-age=31536000;
 X-Frame-Options: SAMEORIGIN

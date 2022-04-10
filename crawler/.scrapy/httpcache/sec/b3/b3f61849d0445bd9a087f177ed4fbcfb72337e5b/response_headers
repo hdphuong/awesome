@@ -4,13 +4,13 @@ X-Ua-Compatible: IE=edge
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Sat, 09 Apr 2022 04:09:06 GMT
-Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/IdentityPoliciesUi/cspreport
-Content-Security-Policy: script-src 'report-sample' 'nonce-CxMQW4jkQwhu9aUgb1KpeQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityPoliciesUi/cspreport;worker-src 'self'
-Cross-Origin-Resource-Policy: same-site
+Date: Sat, 09 Apr 2022 16:09:38 GMT
 Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
-Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Resource-Policy: same-site
+Content-Security-Policy: script-src 'report-sample' 'nonce-UBt17tGW1PiiyG7sWZp6UA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityPoliciesUi/cspreport;worker-src 'self'
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/IdentityPoliciesUi/cspreport
 Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy: unsafe-none
 Content-Encoding: gzip
 Server: ESF
 X-Xss-Protection: 0

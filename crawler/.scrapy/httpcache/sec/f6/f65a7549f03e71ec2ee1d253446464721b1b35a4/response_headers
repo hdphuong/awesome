@@ -1,6 +1,6 @@
 Content-Length: 114
 Server: nginx
-Date: Sat, 09 Apr 2022 04:08:03 GMT
+Date: Sat, 09 Apr 2022 16:12:49 GMT
 Content-Type: text/plain; charset=utf-8
 X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
 X-Powered-By: WordPress VIP <https://wpvip.com>
@@ -10,7 +10,7 @@ Link: <https://wpvip.com/wp-json/>; rel="https://api.w.org/"
 X-Rq: syd1 0 4 9980
 Cache-Control: max-age=300, must-revalidate
 Content-Encoding: gzip
-Age: 269
+Age: 631
 X-Cache: hit
 Vary: Accept-Encoding
 Accept-Ranges: bytes

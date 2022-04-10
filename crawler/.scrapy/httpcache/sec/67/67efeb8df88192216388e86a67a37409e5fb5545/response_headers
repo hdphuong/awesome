@@ -1,10 +1,11 @@
 Content-Length: 267
 Location: https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
-Content-Type: text/html; charset=UTF-8
 X-Content-Type-Options: nosniff
-Date: Sat, 09 Apr 2022 03:59:29 GMT
-Expires: Sat, 09 Apr 2022 04:29:29 GMT
-Cache-Control: public, max-age=1800
 Server: sffe
 X-Xss-Protection: 0
+Date: Sat, 09 Apr 2022 15:53:51 GMT
+Expires: Sat, 09 Apr 2022 16:23:51 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 942
 Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"

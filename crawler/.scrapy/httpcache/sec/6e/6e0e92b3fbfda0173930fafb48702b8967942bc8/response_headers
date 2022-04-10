@@ -3,12 +3,12 @@ X-Content-Type-Options: nosniff
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Sat, 09 Apr 2022 04:13:51 GMT
-Strict-Transport-Security: max-age=31536000
+Date: Sat, 09 Apr 2022 16:12:58 GMT
 X-Frame-Options: SAMEORIGIN
-Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube_main"
-Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
+Strict-Transport-Security: max-age=31536000
 Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube_main"
 Content-Encoding: gzip
 Server: ESF
 X-Xss-Protection: 0

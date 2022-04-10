@@ -1,6 +1,6 @@
-Referer: https://aws.amazon.com/de/legal/aws-emea/
+Referer: https://aws.amazon.com/
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
 User-Agent: awesome (+http://www.yourdomain.com)
 Accept-Encoding: gzip, deflate
-Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws-csds-token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk0ODA5NDQsInZpc2l0b3ItaWQiOiIzZWMwMDY0MS02ZGZmLTFmZDAtNDBmNy1mY2FjMThhZGZlMjkiLCJpcCI6IjExOC4yMDguMjM3LjEzNSJ9.U73XgtJr2UVMpFTkigImpplQ36aei4V4Agj8EqMfFcM
+Cookie: aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; aws-csds-token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk1MjM3NDcsInZpc2l0b3ItaWQiOiJjZWMwMDc4Ny1mZTA2LWQ0Y2UtZmFiZS1lODE0MWExYTlkOTciLCJpcCI6IjExOC4yMDguMjM3LjEzNSJ9.t2FMNYIJZzvuvTWFrSzm7h04d4xtGUrPAvbMrdGF-kQ; aws_lang=en
